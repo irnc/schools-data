@@ -1,0 +1,46 @@
+{
+  "place": {
+    "name": "Минск",
+    "osm_id": "-59195",
+    "hierarchy": []
+  },
+  "geo": {
+    "lat": "53.88046836668138",
+    "lon": "27.685605549649498"
+  },
+  "group": [
+    {
+      "school_osm_id": "135423067",
+      "school_osm_type": "way",
+      "school_name": "СШ №141",
+      "place_osm_id": "-59209",
+      "place_admin_level": "9",
+      "place_place": "",
+      "place_name": "Заводской район",
+      "lon": "27.685605549649498",
+      "lat": "53.88046836668138"
+    },
+    {
+      "school_osm_id": "135423067",
+      "school_osm_type": "way",
+      "school_name": "СШ №141",
+      "place_osm_id": "-59195",
+      "place_admin_level": "4",
+      "place_place": "city",
+      "place_name": "Минск",
+      "lon": "27.685605549649498",
+      "lat": "53.88046836668138"
+    },
+    {
+      "school_osm_id": "135423067",
+      "school_osm_type": "way",
+      "school_name": "СШ №141",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.685605549649498",
+      "lat": "53.88046836668138"
+    }
+  ]
+}

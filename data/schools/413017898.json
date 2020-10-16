@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Мокрядка",
+    "osm_id": "-7589724",
+    "hierarchy": [
+      "Каменский сельский Совет",
+      "Чаусский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.95678331228544",
+    "lon": "30.925924231441325"
+  },
+  "group": [
+    {
+      "school_osm_id": "413017898",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8140439",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Каменский сельский Совет",
+      "lon": "30.925924231441325",
+      "lat": "53.95678331228544"
+    },
+    {
+      "school_osm_id": "413017898",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7589724",
+      "place_admin_level": "10",
+      "place_place": "hamlet",
+      "place_name": "Мокрядка",
+      "lon": "30.925924231441325",
+      "lat": "53.95678331228544"
+    },
+    {
+      "school_osm_id": "413017898",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70591",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Чаусский район",
+      "lon": "30.925924231441325",
+      "lat": "53.95678331228544"
+    },
+    {
+      "school_osm_id": "413017898",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "30.925924231441325",
+      "lat": "53.95678331228544"
+    },
+    {
+      "school_osm_id": "413017898",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.925924231441325",
+      "lat": "53.95678331228544"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Сутково",
+    "osm_id": "-7446526",
+    "hierarchy": [
+      "Страдубский сельский Совет",
+      "Лоевский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.02942216273765",
+    "lon": "30.725470007856572"
+  },
+  "group": [
+    {
+      "school_osm_id": "326051697",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8031202",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Страдубский сельский Совет",
+      "lon": "30.725470007856572",
+      "lat": "52.02942216273765"
+    },
+    {
+      "school_osm_id": "326051697",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7446526",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Сутково",
+      "lon": "30.725470007856572",
+      "lat": "52.02942216273765"
+    },
+    {
+      "school_osm_id": "326051697",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70799",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Лоевский район",
+      "lon": "30.725470007856572",
+      "lat": "52.02942216273765"
+    },
+    {
+      "school_osm_id": "326051697",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "30.725470007856572",
+      "lat": "52.02942216273765"
+    },
+    {
+      "school_osm_id": "326051697",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.725470007856572",
+      "lat": "52.02942216273765"
+    }
+  ]
+}

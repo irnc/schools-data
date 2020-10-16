@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Мормаль",
+    "osm_id": "-6761460",
+    "hierarchy": [
+      "Доброгощанский сельский Совет",
+      "Жлобинский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.770167399084166",
+    "lon": "29.8897139"
+  },
+  "group": [
+    {
+      "school_osm_id": "2099797990",
+      "school_osm_type": "node",
+      "school_name": "Мормальская средняя школа",
+      "place_osm_id": "-6761460",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Мормаль",
+      "lon": "29.8897139",
+      "lat": "52.770167399084166"
+    },
+    {
+      "school_osm_id": "2099797990",
+      "school_osm_type": "node",
+      "school_name": "Мормальская средняя школа",
+      "place_osm_id": "-6155126",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Доброгощанский сельский Совет",
+      "lon": "29.8897139",
+      "lat": "52.770167399084166"
+    },
+    {
+      "school_osm_id": "2099797990",
+      "school_osm_type": "node",
+      "school_name": "Мормальская средняя школа",
+      "place_osm_id": "-59167",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Жлобинский район",
+      "lon": "29.8897139",
+      "lat": "52.770167399084166"
+    },
+    {
+      "school_osm_id": "2099797990",
+      "school_osm_type": "node",
+      "school_name": "Мормальская средняя школа",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "29.8897139",
+      "lat": "52.770167399084166"
+    },
+    {
+      "school_osm_id": "2099797990",
+      "school_osm_type": "node",
+      "school_name": "Мормальская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.8897139",
+      "lat": "52.770167399084166"
+    }
+  ]
+}

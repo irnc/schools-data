@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "678346372",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7456712",
+    "place_admin_level": "10",
+    "place_place": "hamlet",
+    "place_name": "Свираны",
+    "lon": "25.719762084042475",
+    "lat": "53.18799352870847"
+  },
+  {
+    "school_osm_id": "678346381",
+    "school_osm_type": "way",
+    "school_name": "Базовая школа",
+    "place_osm_id": "-7456712",
+    "place_admin_level": "10",
+    "place_place": "hamlet",
+    "place_name": "Свираны",
+    "lon": "25.715027923366808",
+    "lat": "53.190034323718095"
+  }
+]

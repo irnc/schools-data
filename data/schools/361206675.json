@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Новая Заря",
+    "osm_id": "-7506142",
+    "hierarchy": [
+      "Новозарянский сельский Совет",
+      "Чашникский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.698035605452496",
+    "lon": "28.989456849912848"
+  },
+  "group": [
+    {
+      "school_osm_id": "361206675",
+      "school_osm_type": "way",
+      "school_name": "Кащинская средняя школа",
+      "place_osm_id": "-7506142",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Новая Заря",
+      "lon": "28.989456849912848",
+      "lat": "54.698035605452496"
+    },
+    {
+      "school_osm_id": "361206675",
+      "school_osm_type": "way",
+      "school_name": "Кащинская средняя школа",
+      "place_osm_id": "-4850387",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Новозарянский сельский Совет",
+      "lon": "28.989456849912848",
+      "lat": "54.698035605452496"
+    },
+    {
+      "school_osm_id": "361206675",
+      "school_osm_type": "way",
+      "school_name": "Кащинская средняя школа",
+      "place_osm_id": "-70746",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Чашникский район",
+      "lon": "28.989456849912848",
+      "lat": "54.698035605452496"
+    },
+    {
+      "school_osm_id": "361206675",
+      "school_osm_type": "way",
+      "school_name": "Кащинская средняя школа",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "28.989456849912848",
+      "lat": "54.698035605452496"
+    },
+    {
+      "school_osm_id": "361206675",
+      "school_osm_type": "way",
+      "school_name": "Кащинская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.989456849912848",
+      "lat": "54.698035605452496"
+    }
+  ]
+}

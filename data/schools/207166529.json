@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Михалёво 1",
+    "osm_id": "-7572735",
+    "hierarchy": [
+      "Бортниковский сельский Совет",
+      "Бобруйский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.118964512831944",
+    "lon": "29.537411213581617"
+  },
+  "group": [
+    {
+      "school_osm_id": "207166529",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8144224",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Бортниковский сельский Совет",
+      "lon": "29.537411213581617",
+      "lat": "53.118964512831944"
+    },
+    {
+      "school_osm_id": "207166529",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7572735",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Михалёво 1",
+      "lon": "29.537411213581617",
+      "lat": "53.118964512831944"
+    },
+    {
+      "school_osm_id": "207166529",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "29.537411213581617",
+      "lat": "53.118964512831944"
+    },
+    {
+      "school_osm_id": "207166529",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59148",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Бобруйский район",
+      "lon": "29.537411213581617",
+      "lat": "53.118964512831944"
+    },
+    {
+      "school_osm_id": "207166529",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.537411213581617",
+      "lat": "53.118964512831944"
+    }
+  ]
+}

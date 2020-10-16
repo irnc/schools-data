@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Богатырская",
+    "osm_id": "-7495964",
+    "hierarchy": [
+      "Солоникский сельский Совет",
+      "Полоцкий район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.50141619437287",
+    "lon": "28.853618546045986"
+  },
+  "group": [
+    {
+      "school_osm_id": "273840941",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8075968",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Солоникский сельский Совет",
+      "lon": "28.853618546045986",
+      "lat": "55.50141619437287"
+    },
+    {
+      "school_osm_id": "273840941",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7495964",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Богатырская",
+      "lon": "28.853618546045986",
+      "lat": "55.50141619437287"
+    },
+    {
+      "school_osm_id": "273840941",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70671",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Полоцкий район",
+      "lon": "28.853618546045986",
+      "lat": "55.50141619437287"
+    },
+    {
+      "school_osm_id": "273840941",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "28.853618546045986",
+      "lat": "55.50141619437287"
+    },
+    {
+      "school_osm_id": "273840941",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.853618546045986",
+      "lat": "55.50141619437287"
+    }
+  ]
+}

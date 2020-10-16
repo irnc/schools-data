@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Шклов",
+    "osm_id": "-4684730",
+    "hierarchy": [
+      "Шкловский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.2026863586589",
+    "lon": "30.300336628777185"
+  },
+  "group": [
+    {
+      "school_osm_id": "639466739",
+      "school_osm_type": "way",
+      "school_name": "Школа-интернат для детей с нарушениями зрения",
+      "place_osm_id": "-4684730",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Шклов",
+      "lon": "30.300336628777185",
+      "lat": "54.2026863586589"
+    },
+    {
+      "school_osm_id": "639466739",
+      "school_osm_type": "way",
+      "school_name": "Школа-интернат для детей с нарушениями зрения",
+      "place_osm_id": "-70626",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Шкловский район",
+      "lon": "30.300336628777185",
+      "lat": "54.2026863586589"
+    },
+    {
+      "school_osm_id": "639466739",
+      "school_osm_type": "way",
+      "school_name": "Школа-интернат для детей с нарушениями зрения",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "30.300336628777185",
+      "lat": "54.2026863586589"
+    },
+    {
+      "school_osm_id": "639466739",
+      "school_osm_type": "way",
+      "school_name": "Школа-интернат для детей с нарушениями зрения",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.300336628777185",
+      "lat": "54.2026863586589"
+    }
+  ]
+}

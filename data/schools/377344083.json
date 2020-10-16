@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Налибоки",
+    "osm_id": "-7567065",
+    "hierarchy": [
+      "Налибокский сельский Совет",
+      "Столбцовский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.763756096325395",
+    "lon": "26.473846206278736"
+  },
+  "group": [
+    {
+      "school_osm_id": "377344083",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8139744",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Налибокский сельский Совет",
+      "lon": "26.473846206278736",
+      "lat": "53.763756096325395"
+    },
+    {
+      "school_osm_id": "377344083",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7567065",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Налибоки",
+      "lon": "26.473846206278736",
+      "lat": "53.763756096325395"
+    },
+    {
+      "school_osm_id": "377344083",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70752",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Столбцовский район",
+      "lon": "26.473846206278736",
+      "lat": "53.763756096325395"
+    },
+    {
+      "school_osm_id": "377344083",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "26.473846206278736",
+      "lat": "53.763756096325395"
+    },
+    {
+      "school_osm_id": "377344083",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.473846206278736",
+      "lat": "53.763756096325395"
+    }
+  ]
+}

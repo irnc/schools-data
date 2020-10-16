@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Маревиль",
+    "osm_id": "-7459191",
+    "hierarchy": [
+      "Сигневичский сельский Совет",
+      "Берёзовский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.42543336821983",
+    "lon": "24.892738294622475"
+  },
+  "group": [
+    {
+      "school_osm_id": "518900353",
+      "school_osm_type": "way",
+      "school_name": "Сигневичская средняя школа",
+      "place_osm_id": "-8085939",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Сигневичский сельский Совет",
+      "lon": "24.892738294622475",
+      "lat": "52.42543336821983"
+    },
+    {
+      "school_osm_id": "518900353",
+      "school_osm_type": "way",
+      "school_name": "Сигневичская средняя школа",
+      "place_osm_id": "-7459191",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Маревиль",
+      "lon": "24.892738294622475",
+      "lat": "52.42543336821983"
+    },
+    {
+      "school_osm_id": "518900353",
+      "school_osm_type": "way",
+      "school_name": "Сигневичская средняя школа",
+      "place_osm_id": "-71107",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Берёзовский район",
+      "lon": "24.892738294622475",
+      "lat": "52.42543336821983"
+    },
+    {
+      "school_osm_id": "518900353",
+      "school_osm_type": "way",
+      "school_name": "Сигневичская средняя школа",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "24.892738294622475",
+      "lat": "52.42543336821983"
+    },
+    {
+      "school_osm_id": "518900353",
+      "school_osm_type": "way",
+      "school_name": "Сигневичская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "24.892738294622475",
+      "lat": "52.42543336821983"
+    }
+  ]
+}

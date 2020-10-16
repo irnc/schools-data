@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Конюхи",
+    "osm_id": "-7508961",
+    "hierarchy": [
+      "Подоросский сельский Совет",
+      "Волковысский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.99503939091401",
+    "lon": "24.65395259741687"
+  },
+  "group": [
+    {
+      "school_osm_id": "689493501",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8085951",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Подоросский сельский Совет",
+      "lon": "24.65395259741687",
+      "lat": "52.99503939091401"
+    },
+    {
+      "school_osm_id": "689493501",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7508961",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Конюхи",
+      "lon": "24.65395259741687",
+      "lat": "52.99503939091401"
+    },
+    {
+      "school_osm_id": "689493501",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70771",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Волковысский район",
+      "lon": "24.65395259741687",
+      "lat": "52.99503939091401"
+    },
+    {
+      "school_osm_id": "689493501",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "24.65395259741687",
+      "lat": "52.99503939091401"
+    },
+    {
+      "school_osm_id": "689493501",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "24.65395259741687",
+      "lat": "52.99503939091401"
+    }
+  ]
+}

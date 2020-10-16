@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Иваново",
+    "osm_id": "-5602706",
+    "hierarchy": [
+      "Ивановский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.14680169910601",
+    "lon": "25.5328044"
+  },
+  "group": [
+    {
+      "school_osm_id": "3212157334",
+      "school_osm_type": "node",
+      "school_name": "Хореографическая школа",
+      "place_osm_id": "-5602706",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Иваново",
+      "lon": "25.5328044",
+      "lat": "52.14680169910601"
+    },
+    {
+      "school_osm_id": "3212157334",
+      "school_osm_type": "node",
+      "school_name": "Хореографическая школа",
+      "place_osm_id": "-71118",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Ивановский район",
+      "lon": "25.5328044",
+      "lat": "52.14680169910601"
+    },
+    {
+      "school_osm_id": "3212157334",
+      "school_osm_type": "node",
+      "school_name": "Хореографическая школа",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "25.5328044",
+      "lat": "52.14680169910601"
+    },
+    {
+      "school_osm_id": "3212157334",
+      "school_osm_type": "node",
+      "school_name": "Хореографическая школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "25.5328044",
+      "lat": "52.14680169910601"
+    }
+  ]
+}

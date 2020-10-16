@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Иваново",
+    "osm_id": "-5602706",
+    "hierarchy": [
+      "Ивановский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.150440135503196",
+    "lon": "25.5442397291806"
+  },
+  "group": [
+    {
+      "school_osm_id": "241794187",
+      "school_osm_type": "way",
+      "school_name": "Школа № 3",
+      "place_osm_id": "-5602706",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Иваново",
+      "lon": "25.5442397291806",
+      "lat": "52.150440135503196"
+    },
+    {
+      "school_osm_id": "241794187",
+      "school_osm_type": "way",
+      "school_name": "Школа № 3",
+      "place_osm_id": "-71118",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Ивановский район",
+      "lon": "25.5442397291806",
+      "lat": "52.150440135503196"
+    },
+    {
+      "school_osm_id": "241794187",
+      "school_osm_type": "way",
+      "school_name": "Школа № 3",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "25.5442397291806",
+      "lat": "52.150440135503196"
+    },
+    {
+      "school_osm_id": "241794187",
+      "school_osm_type": "way",
+      "school_name": "Школа № 3",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "25.5442397291806",
+      "lat": "52.150440135503196"
+    }
+  ]
+}

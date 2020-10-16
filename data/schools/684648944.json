@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Луки",
+    "osm_id": "-7439895",
+    "hierarchy": [
+      "Лукский сельский Совет",
+      "Жлобинский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.954981598502954",
+    "lon": "29.97422642192024"
+  },
+  "group": [
+    {
+      "school_osm_id": "684648944",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7439895",
+      "place_admin_level": "10",
+      "place_place": "hamlet",
+      "place_name": "Луки",
+      "lon": "29.97422642192024",
+      "lat": "52.954981598502954"
+    },
+    {
+      "school_osm_id": "684648944",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-6152156",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Лукский сельский Совет",
+      "lon": "29.97422642192024",
+      "lat": "52.954981598502954"
+    },
+    {
+      "school_osm_id": "684648944",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59167",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Жлобинский район",
+      "lon": "29.97422642192024",
+      "lat": "52.954981598502954"
+    },
+    {
+      "school_osm_id": "684648944",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "29.97422642192024",
+      "lat": "52.954981598502954"
+    },
+    {
+      "school_osm_id": "684648944",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.97422642192024",
+      "lat": "52.954981598502954"
+    }
+  ]
+}

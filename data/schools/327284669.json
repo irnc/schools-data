@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Кочищи",
+    "osm_id": "-7443246",
+    "hierarchy": [
+      "Кочищанский сельский Совет",
+      "Ельский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "51.74192575364448",
+    "lon": "28.933070829315884"
+  },
+  "group": [
+    {
+      "school_osm_id": "327284669",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8030870",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Кочищанский сельский Совет",
+      "lon": "28.933070829315884",
+      "lat": "51.74192575364448"
+    },
+    {
+      "school_osm_id": "327284669",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7443246",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Кочищи",
+      "lon": "28.933070829315884",
+      "lat": "51.74192575364448"
+    },
+    {
+      "school_osm_id": "327284669",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70810",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Ельский район",
+      "lon": "28.933070829315884",
+      "lat": "51.74192575364448"
+    },
+    {
+      "school_osm_id": "327284669",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "28.933070829315884",
+      "lat": "51.74192575364448"
+    },
+    {
+      "school_osm_id": "327284669",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.933070829315884",
+      "lat": "51.74192575364448"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Дворное Село",
+    "osm_id": "-7491967",
+    "hierarchy": [
+      "Миорский сельский Совет",
+      "Миорский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.57237957457052",
+    "lon": "27.657727479870857"
+  },
+  "group": [
+    {
+      "school_osm_id": "369700788",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8075949",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Миорский сельский Совет",
+      "lon": "27.657727479870857",
+      "lat": "55.57237957457052"
+    },
+    {
+      "school_osm_id": "369700788",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7491967",
+      "place_admin_level": "10",
+      "place_place": "hamlet",
+      "place_name": "Дворное Село",
+      "lon": "27.657727479870857",
+      "lat": "55.57237957457052"
+    },
+    {
+      "school_osm_id": "369700788",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70690",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Миорский район",
+      "lon": "27.657727479870857",
+      "lat": "55.57237957457052"
+    },
+    {
+      "school_osm_id": "369700788",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "27.657727479870857",
+      "lat": "55.57237957457052"
+    },
+    {
+      "school_osm_id": "369700788",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.657727479870857",
+      "lat": "55.57237957457052"
+    }
+  ]
+}

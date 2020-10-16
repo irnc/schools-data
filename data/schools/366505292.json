@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Хизов",
+    "osm_id": "-7443699",
+    "hierarchy": [
+      "Староградский сельский Совет",
+      "Кормянский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.104641969023056",
+    "lon": "30.608414263570232"
+  },
+  "group": [
+    {
+      "school_osm_id": "366505292",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8107290",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Староградский сельский Совет",
+      "lon": "30.608414263570232",
+      "lat": "53.104641969023056"
+    },
+    {
+      "school_osm_id": "366505292",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7443699",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Хизов",
+      "lon": "30.608414263570232",
+      "lat": "53.104641969023056"
+    },
+    {
+      "school_osm_id": "366505292",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "30.608414263570232",
+      "lat": "53.104641969023056"
+    },
+    {
+      "school_osm_id": "366505292",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59149",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Кормянский район",
+      "lon": "30.608414263570232",
+      "lat": "53.104641969023056"
+    },
+    {
+      "school_osm_id": "366505292",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.608414263570232",
+      "lat": "53.104641969023056"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Ворновка",
+    "osm_id": "-7443682",
+    "hierarchy": [
+      "Ворновский сельский Совет",
+      "Кормянский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.018813466640765",
+    "lon": "30.859335512595152"
+  },
+  "group": [
+    {
+      "school_osm_id": "405364058",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8107295",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Ворновский сельский Совет",
+      "lon": "30.859335512595152",
+      "lat": "53.018813466640765"
+    },
+    {
+      "school_osm_id": "405364058",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7443682",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Ворновка",
+      "lon": "30.859335512595152",
+      "lat": "53.018813466640765"
+    },
+    {
+      "school_osm_id": "405364058",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "30.859335512595152",
+      "lat": "53.018813466640765"
+    },
+    {
+      "school_osm_id": "405364058",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59149",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Кормянский район",
+      "lon": "30.859335512595152",
+      "lat": "53.018813466640765"
+    },
+    {
+      "school_osm_id": "405364058",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.859335512595152",
+      "lat": "53.018813466640765"
+    }
+  ]
+}

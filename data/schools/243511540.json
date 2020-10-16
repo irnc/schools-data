@@ -1,0 +1,59 @@
+{
+  "place": {
+    "name": "Витебск",
+    "osm_id": "-6825777",
+    "hierarchy": [
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.179751348001695",
+    "lon": "30.212887836362555"
+  },
+  "group": [
+    {
+      "school_osm_id": "243511540",
+      "school_osm_type": "way",
+      "school_name": "Школа № 31",
+      "place_osm_id": "-6825777",
+      "place_admin_level": "6",
+      "place_place": "city",
+      "place_name": "Витебск",
+      "lon": "30.212887836362555",
+      "lat": "55.179751348001695"
+    },
+    {
+      "school_osm_id": "243511540",
+      "school_osm_type": "way",
+      "school_name": "Школа № 31",
+      "place_osm_id": "-68617",
+      "place_admin_level": "9",
+      "place_place": "",
+      "place_name": "Первомайский район",
+      "lon": "30.212887836362555",
+      "lat": "55.179751348001695"
+    },
+    {
+      "school_osm_id": "243511540",
+      "school_osm_type": "way",
+      "school_name": "Школа № 31",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "30.212887836362555",
+      "lat": "55.179751348001695"
+    },
+    {
+      "school_osm_id": "243511540",
+      "school_osm_type": "way",
+      "school_name": "Школа № 31",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.212887836362555",
+      "lat": "55.179751348001695"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Стайки",
+    "osm_id": "-7456541",
+    "hierarchy": [
+      "Столовичский сельский Совет",
+      "Барановичский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.252647602023316",
+    "lon": "26.17539955664637"
+  },
+  "group": [
+    {
+      "school_osm_id": "524972308",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8096117",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Столовичский сельский Совет",
+      "lon": "26.17539955664637",
+      "lat": "53.252647602023316"
+    },
+    {
+      "school_osm_id": "524972308",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7456541",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Стайки",
+      "lon": "26.17539955664637",
+      "lat": "53.252647602023316"
+    },
+    {
+      "school_osm_id": "524972308",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-71116",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Барановичский район",
+      "lon": "26.17539955664637",
+      "lat": "53.252647602023316"
+    },
+    {
+      "school_osm_id": "524972308",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "26.17539955664637",
+      "lat": "53.252647602023316"
+    },
+    {
+      "school_osm_id": "524972308",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.17539955664637",
+      "lat": "53.252647602023316"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Стаи",
+    "osm_id": "-7486258",
+    "hierarchy": [
+      "Стайский сельский Совет",
+      "Лепельский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.89029469222826",
+    "lon": "28.622713024748982"
+  },
+  "group": [
+    {
+      "school_osm_id": "242478371",
+      "school_osm_type": "way",
+      "school_name": "Музыкальная школа",
+      "place_osm_id": "-7486258",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Стаи",
+      "lon": "28.622713024748982",
+      "lat": "54.89029469222826"
+    },
+    {
+      "school_osm_id": "242478371",
+      "school_osm_type": "way",
+      "school_name": "Музыкальная школа",
+      "place_osm_id": "-6825878",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Стайский сельский Совет",
+      "lon": "28.622713024748982",
+      "lat": "54.89029469222826"
+    },
+    {
+      "school_osm_id": "242478371",
+      "school_osm_type": "way",
+      "school_name": "Музыкальная школа",
+      "place_osm_id": "-70679",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Лепельский район",
+      "lon": "28.622713024748982",
+      "lat": "54.89029469222826"
+    },
+    {
+      "school_osm_id": "242478371",
+      "school_osm_type": "way",
+      "school_name": "Музыкальная школа",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "28.622713024748982",
+      "lat": "54.89029469222826"
+    },
+    {
+      "school_osm_id": "242478371",
+      "school_osm_type": "way",
+      "school_name": "Музыкальная школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.622713024748982",
+      "lat": "54.89029469222826"
+    }
+  ]
+}

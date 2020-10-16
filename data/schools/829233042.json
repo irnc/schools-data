@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Ваверка",
+    "osm_id": "-7519628",
+    "hierarchy": [
+      "Ваверский сельский Совет",
+      "Лидский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.835227712288145",
+    "lon": "24.970230427798842"
+  },
+  "group": [
+    {
+      "school_osm_id": "829233042",
+      "school_osm_type": "way",
+      "school_name": "Ваверская средняя школа",
+      "place_osm_id": "-8083003",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Ваверский сельский Совет",
+      "lon": "24.970230427798842",
+      "lat": "53.835227712288145"
+    },
+    {
+      "school_osm_id": "829233042",
+      "school_osm_type": "way",
+      "school_name": "Ваверская средняя школа",
+      "place_osm_id": "-7519628",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Ваверка",
+      "lon": "24.970230427798842",
+      "lat": "53.835227712288145"
+    },
+    {
+      "school_osm_id": "829233042",
+      "school_osm_type": "way",
+      "school_name": "Ваверская средняя школа",
+      "place_osm_id": "-70747",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Лидский район",
+      "lon": "24.970230427798842",
+      "lat": "53.835227712288145"
+    },
+    {
+      "school_osm_id": "829233042",
+      "school_osm_type": "way",
+      "school_name": "Ваверская средняя школа",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "24.970230427798842",
+      "lat": "53.835227712288145"
+    },
+    {
+      "school_osm_id": "829233042",
+      "school_osm_type": "way",
+      "school_name": "Ваверская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "24.970230427798842",
+      "lat": "53.835227712288145"
+    }
+  ]
+}

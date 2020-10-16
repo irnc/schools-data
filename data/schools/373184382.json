@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Коровчино",
+    "osm_id": "-7578523",
+    "hierarchy": [
+      "Первомайский сельский Совет",
+      "Дрибинский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.049188112086384",
+    "lon": "30.83215766165253"
+  },
+  "group": [
+    {
+      "school_osm_id": "373184382",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8140451",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Первомайский сельский Совет",
+      "lon": "30.83215766165253",
+      "lat": "54.049188112086384"
+    },
+    {
+      "school_osm_id": "373184382",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7578523",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Коровчино",
+      "lon": "30.83215766165253",
+      "lat": "54.049188112086384"
+    },
+    {
+      "school_osm_id": "373184382",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70618",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Дрибинский район",
+      "lon": "30.83215766165253",
+      "lat": "54.049188112086384"
+    },
+    {
+      "school_osm_id": "373184382",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "30.83215766165253",
+      "lat": "54.049188112086384"
+    },
+    {
+      "school_osm_id": "373184382",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.83215766165253",
+      "lat": "54.049188112086384"
+    }
+  ]
+}

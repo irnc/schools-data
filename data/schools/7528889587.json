@@ -1,0 +1,46 @@
+{
+  "place": {
+    "name": "Минск",
+    "osm_id": "-59195",
+    "hierarchy": []
+  },
+  "geo": {
+    "lat": "53.90551479916997",
+    "lon": "27.5488667"
+  },
+  "group": [
+    {
+      "school_osm_id": "7528889587",
+      "school_osm_type": "node",
+      "school_name": "Робототехника",
+      "place_osm_id": "-59249",
+      "place_admin_level": "9",
+      "place_place": "",
+      "place_name": "Центральный район",
+      "lon": "27.5488667",
+      "lat": "53.90551479916997"
+    },
+    {
+      "school_osm_id": "7528889587",
+      "school_osm_type": "node",
+      "school_name": "Робототехника",
+      "place_osm_id": "-59195",
+      "place_admin_level": "4",
+      "place_place": "city",
+      "place_name": "Минск",
+      "lon": "27.5488667",
+      "lat": "53.90551479916997"
+    },
+    {
+      "school_osm_id": "7528889587",
+      "school_osm_type": "node",
+      "school_name": "Робототехника",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.5488667",
+      "lat": "53.90551479916997"
+    }
+  ]
+}

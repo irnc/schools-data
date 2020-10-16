@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Василевичи",
+    "osm_id": "-5598662",
+    "hierarchy": [
+      "Речицкий район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.24932070649517",
+    "lon": "29.826989174933527"
+  },
+  "group": [
+    {
+      "school_osm_id": "492769920",
+      "school_osm_type": "way",
+      "school_name": "Школа-интернат",
+      "place_osm_id": "-5598662",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Василевичи",
+      "lon": "29.826989174933527",
+      "lat": "52.24932070649517"
+    },
+    {
+      "school_osm_id": "492769920",
+      "school_osm_type": "way",
+      "school_name": "Школа-интернат",
+      "place_osm_id": "-70812",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Речицкий район",
+      "lon": "29.826989174933527",
+      "lat": "52.24932070649517"
+    },
+    {
+      "school_osm_id": "492769920",
+      "school_osm_type": "way",
+      "school_name": "Школа-интернат",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "29.826989174933527",
+      "lat": "52.24932070649517"
+    },
+    {
+      "school_osm_id": "492769920",
+      "school_osm_type": "way",
+      "school_name": "Школа-интернат",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.826989174933527",
+      "lat": "52.24932070649517"
+    }
+  ]
+}

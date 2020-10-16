@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Костюки",
+    "osm_id": "-7546930",
+    "hierarchy": [
+      "Тальский сельский Совет",
+      "Любанский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.801976299084295",
+    "lon": "27.934630399999996"
+  },
+  "group": [
+    {
+      "school_osm_id": "4476550599",
+      "school_osm_type": "node",
+      "school_name": "Костюковская базовая школа-сад",
+      "place_osm_id": "-8144208",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Тальский сельский Совет",
+      "lon": "27.934630399999996",
+      "lat": "52.801976299084295"
+    },
+    {
+      "school_osm_id": "4476550599",
+      "school_osm_type": "node",
+      "school_name": "Костюковская базовая школа-сад",
+      "place_osm_id": "-7546930",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Костюки",
+      "lon": "27.934630399999996",
+      "lat": "52.801976299084295"
+    },
+    {
+      "school_osm_id": "4476550599",
+      "school_osm_type": "node",
+      "school_name": "Костюковская базовая школа-сад",
+      "place_osm_id": "-71140",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Любанский район",
+      "lon": "27.934630399999996",
+      "lat": "52.801976299084295"
+    },
+    {
+      "school_osm_id": "4476550599",
+      "school_osm_type": "node",
+      "school_name": "Костюковская базовая школа-сад",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.934630399999996",
+      "lat": "52.801976299084295"
+    },
+    {
+      "school_osm_id": "4476550599",
+      "school_osm_type": "node",
+      "school_name": "Костюковская базовая школа-сад",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.934630399999996",
+      "lat": "52.801976299084295"
+    }
+  ]
+}

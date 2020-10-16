@@ -1,0 +1,68 @@
+[
+  {
+    "school_osm_id": "-7079698",
+    "school_osm_type": "relation",
+    "school_name": "Гимназия № 1",
+    "place_osm_id": "-6722644",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Горки",
+    "lon": "30.995519756263604",
+    "lat": "54.278885855992435"
+  },
+  {
+    "school_osm_id": "199789505",
+    "school_osm_type": "way",
+    "school_name": "СШ №3",
+    "place_osm_id": "-6722644",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Горки",
+    "lon": "30.991458051636542",
+    "lat": "54.27458537188783"
+  },
+  {
+    "school_osm_id": "203445547",
+    "school_osm_type": "way",
+    "school_name": "Вечерняя школа",
+    "place_osm_id": "-6722644",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Горки",
+    "lon": "30.981206165198493",
+    "lat": "54.293274578103464"
+  },
+  {
+    "school_osm_id": "373029137",
+    "school_osm_type": "way",
+    "school_name": "СШ №1",
+    "place_osm_id": "-6722644",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Горки",
+    "lon": "30.984071723677317",
+    "lat": "54.28627290268806"
+  },
+  {
+    "school_osm_id": "375902109",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-6722644",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Горки",
+    "lon": "30.977617191100496",
+    "lat": "54.29715776900305"
+  },
+  {
+    "school_osm_id": "480948238",
+    "school_osm_type": "way",
+    "school_name": "СШ №2",
+    "place_osm_id": "-6722644",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Горки",
+    "lon": "30.977794338318763",
+    "lat": "54.29014813369439"
+  }
+]

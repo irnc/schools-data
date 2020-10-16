@@ -1,0 +1,53 @@
+{
+  "place": "warning-school-without-place",
+  "geo": {
+    "lat": "51.64087369506356",
+    "lon": "23.95185371088359"
+  },
+  "group": [
+    {
+      "school_osm_id": "758198053",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8028572",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Ореховский сельский Совет",
+      "lon": "23.95185371088359",
+      "lat": "51.64087369506356"
+    },
+    {
+      "school_osm_id": "758198053",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-71100",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Малоритский район",
+      "lon": "23.95185371088359",
+      "lat": "51.64087369506356"
+    },
+    {
+      "school_osm_id": "758198053",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "23.95185371088359",
+      "lat": "51.64087369506356"
+    },
+    {
+      "school_osm_id": "758198053",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "23.95185371088359",
+      "lat": "51.64087369506356"
+    }
+  ]
+}

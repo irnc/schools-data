@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Чериков",
+    "osm_id": "-6722704",
+    "hierarchy": [
+      "Чериковский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.574301236520505",
+    "lon": "31.370622555554856"
+  },
+  "group": [
+    {
+      "school_osm_id": "464173493",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-6722704",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Чериков",
+      "lon": "31.370622555554856",
+      "lat": "53.574301236520505"
+    },
+    {
+      "school_osm_id": "464173493",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70595",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Чериковский район",
+      "lon": "31.370622555554856",
+      "lat": "53.574301236520505"
+    },
+    {
+      "school_osm_id": "464173493",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "31.370622555554856",
+      "lat": "53.574301236520505"
+    },
+    {
+      "school_osm_id": "464173493",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "31.370622555554856",
+      "lat": "53.574301236520505"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Скепня",
+    "osm_id": "-7439818",
+    "hierarchy": [
+      "Пиревичский сельский Совет",
+      "Жлобинский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.76034859908415",
+    "lon": "30.2234624"
+  },
+  "group": [
+    {
+      "school_osm_id": "2830926389",
+      "school_osm_type": "node",
+      "school_name": "Школа д.Скепня",
+      "place_osm_id": "-7439818",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Скепня",
+      "lon": "30.2234624",
+      "lat": "52.76034859908415"
+    },
+    {
+      "school_osm_id": "2830926389",
+      "school_osm_type": "node",
+      "school_name": "Школа д.Скепня",
+      "place_osm_id": "-6352455",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Пиревичский сельский Совет",
+      "lon": "30.2234624",
+      "lat": "52.76034859908415"
+    },
+    {
+      "school_osm_id": "2830926389",
+      "school_osm_type": "node",
+      "school_name": "Школа д.Скепня",
+      "place_osm_id": "-59167",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Жлобинский район",
+      "lon": "30.2234624",
+      "lat": "52.76034859908415"
+    },
+    {
+      "school_osm_id": "2830926389",
+      "school_osm_type": "node",
+      "school_name": "Школа д.Скепня",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "30.2234624",
+      "lat": "52.76034859908415"
+    },
+    {
+      "school_osm_id": "2830926389",
+      "school_osm_type": "node",
+      "school_name": "Школа д.Скепня",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.2234624",
+      "lat": "52.76034859908415"
+    }
+  ]
+}

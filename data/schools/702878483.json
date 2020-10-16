@@ -1,0 +1,53 @@
+{
+  "place": "warning-school-without-place",
+  "geo": {
+    "lat": "53.64493025861763",
+    "lon": "25.66975560553542"
+  },
+  "group": [
+    {
+      "school_osm_id": "702878483",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8100414",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Петревичский сельский Совет",
+      "lon": "25.66975560553542",
+      "lat": "53.64493025861763"
+    },
+    {
+      "school_osm_id": "702878483",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70749",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Новогрудский район",
+      "lon": "25.66975560553542",
+      "lat": "53.64493025861763"
+    },
+    {
+      "school_osm_id": "702878483",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "25.66975560553542",
+      "lat": "53.64493025861763"
+    },
+    {
+      "school_osm_id": "702878483",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "25.66975560553542",
+      "lat": "53.64493025861763"
+    }
+  ]
+}

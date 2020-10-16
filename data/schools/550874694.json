@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Телеханы",
+    "osm_id": "-7465295",
+    "hierarchy": [
+      "Телеханский сельский Совет",
+      "Ивацевичский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.51990264024046",
+    "lon": "25.848257790215058"
+  },
+  "group": [
+    {
+      "school_osm_id": "550874694",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8085919",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Телеханский сельский Совет",
+      "lon": "25.848257790215058",
+      "lat": "52.51990264024046"
+    },
+    {
+      "school_osm_id": "550874694",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7465295",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Телеханы",
+      "lon": "25.848257790215058",
+      "lat": "52.51990264024046"
+    },
+    {
+      "school_osm_id": "550874694",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-71112",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Ивацевичский район",
+      "lon": "25.848257790215058",
+      "lat": "52.51990264024046"
+    },
+    {
+      "school_osm_id": "550874694",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "25.848257790215058",
+      "lat": "52.51990264024046"
+    },
+    {
+      "school_osm_id": "550874694",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "25.848257790215058",
+      "lat": "52.51990264024046"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+[
+  {
+    "school_osm_id": "648524757",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-6722509",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Клецк",
+    "lon": "26.63289070966392",
+    "lat": "53.067950405268746"
+  },
+  {
+    "school_osm_id": "2341096948",
+    "school_osm_type": "node",
+    "school_name": "СШ №3",
+    "place_osm_id": "-6722509",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Клецк",
+    "lon": "26.642588899999996",
+    "lat": "53.05812389908984"
+  },
+  {
+    "school_osm_id": "4502649790",
+    "school_osm_type": "node",
+    "school_name": "Средняя школа 2",
+    "place_osm_id": "-6722509",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Клецк",
+    "lon": "26.629516",
+    "lat": "53.06683999909019"
+  }
+]

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Кошевичи",
+    "osm_id": "-7450171",
+    "hierarchy": [
+      "Лучицкий сельский Совет",
+      "Петриковский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.48892724553382",
+    "lon": "28.733543747956332"
+  },
+  "group": [
+    {
+      "school_osm_id": "321089575",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8087872",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Лучицкий сельский Совет",
+      "lon": "28.733543747956332",
+      "lat": "52.48892724553382"
+    },
+    {
+      "school_osm_id": "321089575",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7450171",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Кошевичи",
+      "lon": "28.733543747956332",
+      "lat": "52.48892724553382"
+    },
+    {
+      "school_osm_id": "321089575",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-71145",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Петриковский район",
+      "lon": "28.733543747956332",
+      "lat": "52.48892724553382"
+    },
+    {
+      "school_osm_id": "321089575",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "28.733543747956332",
+      "lat": "52.48892724553382"
+    },
+    {
+      "school_osm_id": "321089575",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.733543747956332",
+      "lat": "52.48892724553382"
+    }
+  ]
+}

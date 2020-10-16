@@ -1,0 +1,35 @@
+[
+  {
+    "school_osm_id": "688308817",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7531832",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Лошница",
+    "lon": "28.756314793762364",
+    "lat": "54.2773144475499"
+  },
+  {
+    "school_osm_id": "688355539",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7531832",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Лошница",
+    "lon": "28.766144165010694",
+    "lat": "54.280545898818694"
+  },
+  {
+    "school_osm_id": "688355545",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7531832",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Лошница",
+    "lon": "28.76665055804892",
+    "lat": "54.279356868809685"
+  }
+]

@@ -1,0 +1,53 @@
+{
+  "place": "warning-school-without-place",
+  "geo": {
+    "lat": "52.04962607498163",
+    "lon": "27.496832364338204"
+  },
+  "group": [
+    {
+      "school_osm_id": "651757908",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8028521",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Большемалешевский сельский Совет",
+      "lon": "27.496832364338204",
+      "lat": "52.04962607498163"
+    },
+    {
+      "school_osm_id": "651757908",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-71125",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Столинский район",
+      "lon": "27.496832364338204",
+      "lat": "52.04962607498163"
+    },
+    {
+      "school_osm_id": "651757908",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "27.496832364338204",
+      "lat": "52.04962607498163"
+    },
+    {
+      "school_osm_id": "651757908",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.496832364338204",
+      "lat": "52.04962607498163"
+    }
+  ]
+}

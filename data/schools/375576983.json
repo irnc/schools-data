@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Полочаны",
+    "osm_id": "-7549639",
+    "hierarchy": [
+      "Полочанский сельский Совет",
+      "Молодечненский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.22406543740945",
+    "lon": "26.711803583132383"
+  },
+  "group": [
+    {
+      "school_osm_id": "375576983",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8013920",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Полочанский сельский Совет",
+      "lon": "26.711803583132383",
+      "lat": "54.22406543740945"
+    },
+    {
+      "school_osm_id": "375576983",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7549639",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Полочаны",
+      "lon": "26.711803583132383",
+      "lat": "54.22406543740945"
+    },
+    {
+      "school_osm_id": "375576983",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70566",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Молодечненский район",
+      "lon": "26.711803583132383",
+      "lat": "54.22406543740945"
+    },
+    {
+      "school_osm_id": "375576983",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "26.711803583132383",
+      "lat": "54.22406543740945"
+    },
+    {
+      "school_osm_id": "375576983",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.711803583132383",
+      "lat": "54.22406543740945"
+    }
+  ]
+}

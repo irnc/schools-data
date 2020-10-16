@@ -1,0 +1,59 @@
+{
+  "place": {
+    "name": "Гродно",
+    "osm_id": "-130921",
+    "hierarchy": [
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.63676831084777",
+    "lon": "23.861930885784094"
+  },
+  "group": [
+    {
+      "school_osm_id": "467589047",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа № 40",
+      "place_osm_id": "-2888068",
+      "place_admin_level": "9",
+      "place_place": "",
+      "place_name": "Октябрьский район",
+      "lon": "23.861930885784094",
+      "lat": "53.63676831084777"
+    },
+    {
+      "school_osm_id": "467589047",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа № 40",
+      "place_osm_id": "-130921",
+      "place_admin_level": "6",
+      "place_place": "city",
+      "place_name": "Гродно",
+      "lon": "23.861930885784094",
+      "lat": "53.63676831084777"
+    },
+    {
+      "school_osm_id": "467589047",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа № 40",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "23.861930885784094",
+      "lat": "53.63676831084777"
+    },
+    {
+      "school_osm_id": "467589047",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа № 40",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "23.861930885784094",
+      "lat": "53.63676831084777"
+    }
+  ]
+}

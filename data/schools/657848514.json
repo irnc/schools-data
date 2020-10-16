@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Дятловичи",
+    "osm_id": "-4719244",
+    "hierarchy": [
+      "Дятловичский сельский Совет",
+      "Лунинецкий район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.33621808771041",
+    "lon": "26.82935972099039"
+  },
+  "group": [
+    {
+      "school_osm_id": "657848514",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8087846",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Дятловичский сельский Совет",
+      "lon": "26.82935972099039",
+      "lat": "52.33621808771041"
+    },
+    {
+      "school_osm_id": "657848514",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-4719244",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Дятловичи",
+      "lon": "26.82935972099039",
+      "lat": "52.33621808771041"
+    },
+    {
+      "school_osm_id": "657848514",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-71124",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Лунинецкий район",
+      "lon": "26.82935972099039",
+      "lat": "52.33621808771041"
+    },
+    {
+      "school_osm_id": "657848514",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "26.82935972099039",
+      "lat": "52.33621808771041"
+    },
+    {
+      "school_osm_id": "657848514",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.82935972099039",
+      "lat": "52.33621808771041"
+    }
+  ]
+}

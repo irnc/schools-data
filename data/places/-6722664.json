@@ -1,0 +1,46 @@
+[
+  {
+    "school_osm_id": "97720567",
+    "school_osm_type": "way",
+    "school_name": "СШ №2",
+    "place_osm_id": "-6722664",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Кличев",
+    "lon": "29.33374759327643",
+    "lat": "53.48958821518388"
+  },
+  {
+    "school_osm_id": "388483307",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-6722664",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Кличев",
+    "lon": "29.33310286493882",
+    "lat": "53.49010591154323"
+  },
+  {
+    "school_osm_id": "541947530",
+    "school_osm_type": "way",
+    "school_name": "Школа № 1",
+    "place_osm_id": "-6722664",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Кличев",
+    "lon": "29.34332428530861",
+    "lat": "53.48250035798406"
+  },
+  {
+    "school_osm_id": "3916568726",
+    "school_osm_type": "node",
+    "school_name": "Музыкальная Школа",
+    "place_osm_id": "-6722664",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Кличев",
+    "lon": "29.3482667",
+    "lat": "53.486305699118184"
+  }
+]

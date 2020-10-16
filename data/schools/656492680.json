@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Воля",
+    "osm_id": "-7465377",
+    "hierarchy": [
+      "Житлинский сельский Совет",
+      "Ивацевичский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.66021396234096",
+    "lon": "25.326561279673246"
+  },
+  "group": [
+    {
+      "school_osm_id": "656492680",
+      "school_osm_type": "way",
+      "school_name": "Воленская средняя школа",
+      "place_osm_id": "-8085931",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Житлинский сельский Совет",
+      "lon": "25.326561279673246",
+      "lat": "52.66021396234096"
+    },
+    {
+      "school_osm_id": "656492680",
+      "school_osm_type": "way",
+      "school_name": "Воленская средняя школа",
+      "place_osm_id": "-7465377",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Воля",
+      "lon": "25.326561279673246",
+      "lat": "52.66021396234096"
+    },
+    {
+      "school_osm_id": "656492680",
+      "school_osm_type": "way",
+      "school_name": "Воленская средняя школа",
+      "place_osm_id": "-71112",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Ивацевичский район",
+      "lon": "25.326561279673246",
+      "lat": "52.66021396234096"
+    },
+    {
+      "school_osm_id": "656492680",
+      "school_osm_type": "way",
+      "school_name": "Воленская средняя школа",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "25.326561279673246",
+      "lat": "52.66021396234096"
+    },
+    {
+      "school_osm_id": "656492680",
+      "school_osm_type": "way",
+      "school_name": "Воленская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "25.326561279673246",
+      "lat": "52.66021396234096"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Солигорск",
+    "osm_id": "-6722606",
+    "hierarchy": [
+      "Солигорский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.79026612246268",
+    "lon": "27.548656338236235"
+  },
+  "group": [
+    {
+      "school_osm_id": "42956978",
+      "school_osm_type": "way",
+      "school_name": "Школа №2",
+      "place_osm_id": "-6722606",
+      "place_admin_level": "8",
+      "place_place": "city",
+      "place_name": "Солигорск",
+      "lon": "27.548656338236235",
+      "lat": "52.79026612246268"
+    },
+    {
+      "school_osm_id": "42956978",
+      "school_osm_type": "way",
+      "school_name": "Школа №2",
+      "place_osm_id": "-71133",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Солигорский район",
+      "lon": "27.548656338236235",
+      "lat": "52.79026612246268"
+    },
+    {
+      "school_osm_id": "42956978",
+      "school_osm_type": "way",
+      "school_name": "Школа №2",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.548656338236235",
+      "lat": "52.79026612246268"
+    },
+    {
+      "school_osm_id": "42956978",
+      "school_osm_type": "way",
+      "school_name": "Школа №2",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.548656338236235",
+      "lat": "52.79026612246268"
+    }
+  ]
+}

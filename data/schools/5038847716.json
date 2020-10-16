@@ -1,0 +1,59 @@
+{
+  "place": {
+    "name": "Гродно",
+    "osm_id": "-130921",
+    "hierarchy": [
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.655305299136145",
+    "lon": "23.838900300000002"
+  },
+  "group": [
+    {
+      "school_osm_id": "5038847716",
+      "school_osm_type": "node",
+      "school_name": "Начальная школа Гимназии № 9",
+      "place_osm_id": "-2888068",
+      "place_admin_level": "9",
+      "place_place": "",
+      "place_name": "Октябрьский район",
+      "lon": "23.838900300000002",
+      "lat": "53.655305299136145"
+    },
+    {
+      "school_osm_id": "5038847716",
+      "school_osm_type": "node",
+      "school_name": "Начальная школа Гимназии № 9",
+      "place_osm_id": "-130921",
+      "place_admin_level": "6",
+      "place_place": "city",
+      "place_name": "Гродно",
+      "lon": "23.838900300000002",
+      "lat": "53.655305299136145"
+    },
+    {
+      "school_osm_id": "5038847716",
+      "school_osm_type": "node",
+      "school_name": "Начальная школа Гимназии № 9",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "23.838900300000002",
+      "lat": "53.655305299136145"
+    },
+    {
+      "school_osm_id": "5038847716",
+      "school_osm_type": "node",
+      "school_name": "Начальная школа Гимназии № 9",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "23.838900300000002",
+      "lat": "53.655305299136145"
+    }
+  ]
+}

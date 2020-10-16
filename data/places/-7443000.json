@@ -1,0 +1,35 @@
+[
+  {
+    "school_osm_id": "281824349",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7443000",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Васильевка",
+    "lon": "31.507998699565917",
+    "lat": "52.249856590848644"
+  },
+  {
+    "school_osm_id": "281824350",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7443000",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Васильевка",
+    "lon": "31.507518920427792",
+    "lat": "52.249992735590816"
+  },
+  {
+    "school_osm_id": "281824779",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7443000",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Васильевка",
+    "lon": "31.507779571899057",
+    "lat": "52.249851899117886"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "2552975127",
+    "school_osm_type": "node",
+    "school_name": "Новоселковская С/Ш",
+    "place_osm_id": "-7498346",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Новосёлки",
+    "lon": "27.0131518",
+    "lat": "55.14287219946541"
+  },
+  {
+    "school_osm_id": "2552975132",
+    "school_osm_type": "node",
+    "school_name": "Музыкальная школа",
+    "place_osm_id": "-7498346",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Новосёлки",
+    "lon": "27.012202899999995",
+    "lat": "55.14292499946543"
+  }
+]

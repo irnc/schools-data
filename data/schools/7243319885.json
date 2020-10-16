@@ -1,0 +1,46 @@
+{
+  "place": {
+    "name": "Минск",
+    "osm_id": "-59195",
+    "hierarchy": []
+  },
+  "geo": {
+    "lat": "53.941992099175614",
+    "lon": "27.4593037"
+  },
+  "group": [
+    {
+      "school_osm_id": "7243319885",
+      "school_osm_type": "node",
+      "school_name": "Перемена",
+      "place_osm_id": "-59249",
+      "place_admin_level": "9",
+      "place_place": "",
+      "place_name": "Центральный район",
+      "lon": "27.4593037",
+      "lat": "53.941992099175614"
+    },
+    {
+      "school_osm_id": "7243319885",
+      "school_osm_type": "node",
+      "school_name": "Перемена",
+      "place_osm_id": "-59195",
+      "place_admin_level": "4",
+      "place_place": "city",
+      "place_name": "Минск",
+      "lon": "27.4593037",
+      "lat": "53.941992099175614"
+    },
+    {
+      "school_osm_id": "7243319885",
+      "school_osm_type": "node",
+      "school_name": "Перемена",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.4593037",
+      "lat": "53.941992099175614"
+    }
+  ]
+}

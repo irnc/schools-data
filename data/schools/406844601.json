@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Мелешковичи",
+    "osm_id": "-7446863",
+    "hierarchy": [
+      "Каменский сельский Совет",
+      "Мозырский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "51.92337873008647",
+    "lon": "28.98805939734265"
+  },
+  "group": [
+    {
+      "school_osm_id": "406844601",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8087889",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Каменский сельский Совет",
+      "lon": "28.98805939734265",
+      "lat": "51.92337873008647"
+    },
+    {
+      "school_osm_id": "406844601",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7446863",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Мелешковичи",
+      "lon": "28.98805939734265",
+      "lat": "51.92337873008647"
+    },
+    {
+      "school_osm_id": "406844601",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70815",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Мозырский район",
+      "lon": "28.98805939734265",
+      "lat": "51.92337873008647"
+    },
+    {
+      "school_osm_id": "406844601",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "28.98805939734265",
+      "lat": "51.92337873008647"
+    },
+    {
+      "school_osm_id": "406844601",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.98805939734265",
+      "lat": "51.92337873008647"
+    }
+  ]
+}

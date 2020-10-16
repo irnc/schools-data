@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Рогинь",
+    "osm_id": "-7440307",
+    "hierarchy": [
+      "Рогинский сельский Совет",
+      "Буда-Кошелёвский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.88408278546892",
+    "lon": "30.626192036034396"
+  },
+  "group": [
+    {
+      "school_osm_id": "552150486",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8100452",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Рогинский сельский Совет",
+      "lon": "30.626192036034396",
+      "lat": "52.88408278546892"
+    },
+    {
+      "school_osm_id": "552150486",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7440307",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Рогинь",
+      "lon": "30.626192036034396",
+      "lat": "52.88408278546892"
+    },
+    {
+      "school_osm_id": "552150486",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59175",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Буда-Кошелёвский район",
+      "lon": "30.626192036034396",
+      "lat": "52.88408278546892"
+    },
+    {
+      "school_osm_id": "552150486",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "30.626192036034396",
+      "lat": "52.88408278546892"
+    },
+    {
+      "school_osm_id": "552150486",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.626192036034396",
+      "lat": "52.88408278546892"
+    }
+  ]
+}

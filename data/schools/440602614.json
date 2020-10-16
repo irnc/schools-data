@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Мижевичи",
+    "osm_id": "-7526615",
+    "hierarchy": [
+      "Мижевичский сельский Совет",
+      "Слонимский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.97197620105397",
+    "lon": "25.080673627754955"
+  },
+  "group": [
+    {
+      "school_osm_id": "440602614",
+      "school_osm_type": "way",
+      "school_name": "Мижевичская средняя школа",
+      "place_osm_id": "-8100399",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Мижевичский сельский Совет",
+      "lon": "25.080673627754955",
+      "lat": "52.97197620105397"
+    },
+    {
+      "school_osm_id": "440602614",
+      "school_osm_type": "way",
+      "school_name": "Мижевичская средняя школа",
+      "place_osm_id": "-7526615",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Мижевичи",
+      "lon": "25.080673627754955",
+      "lat": "52.97197620105397"
+    },
+    {
+      "school_osm_id": "440602614",
+      "school_osm_type": "way",
+      "school_name": "Мижевичская средняя школа",
+      "place_osm_id": "-71114",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Слонимский район",
+      "lon": "25.080673627754955",
+      "lat": "52.97197620105397"
+    },
+    {
+      "school_osm_id": "440602614",
+      "school_osm_type": "way",
+      "school_name": "Мижевичская средняя школа",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "25.080673627754955",
+      "lat": "52.97197620105397"
+    },
+    {
+      "school_osm_id": "440602614",
+      "school_osm_type": "way",
+      "school_name": "Мижевичская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "25.080673627754955",
+      "lat": "52.97197620105397"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Малюшичи",
+    "osm_id": "-6898650",
+    "hierarchy": [
+      "Малюшичский сельский Совет",
+      "Кореличский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.489152699118456",
+    "lon": "26.072498799999998"
+  },
+  "group": [
+    {
+      "school_osm_id": "4698517173",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-8100427",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Малюшичский сельский Совет",
+      "lon": "26.072498799999998",
+      "lat": "53.489152699118456"
+    },
+    {
+      "school_osm_id": "4698517173",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-6898650",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Малюшичи",
+      "lon": "26.072498799999998",
+      "lat": "53.489152699118456"
+    },
+    {
+      "school_osm_id": "4698517173",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-70751",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Кореличский район",
+      "lon": "26.072498799999998",
+      "lat": "53.489152699118456"
+    },
+    {
+      "school_osm_id": "4698517173",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "26.072498799999998",
+      "lat": "53.489152699118456"
+    },
+    {
+      "school_osm_id": "4698517173",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.072498799999998",
+      "lat": "53.489152699118456"
+    }
+  ]
+}

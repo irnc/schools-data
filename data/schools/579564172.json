@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Старый Дворец",
+    "osm_id": "-7507256",
+    "hierarchy": [
+      "Берестовицкий сельский Совет",
+      "Берестовицкий район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.25841645673064",
+    "lon": "24.102019786523897"
+  },
+  "group": [
+    {
+      "school_osm_id": "579564172",
+      "school_osm_type": "way",
+      "school_name": "Стародворецкий ясли-сад-базовая школа",
+      "place_osm_id": "-8025375",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Берестовицкий сельский Совет",
+      "lon": "24.102019786523897",
+      "lat": "53.25841645673064"
+    },
+    {
+      "school_osm_id": "579564172",
+      "school_osm_type": "way",
+      "school_name": "Стародворецкий ясли-сад-базовая школа",
+      "place_osm_id": "-7507256",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Старый Дворец",
+      "lon": "24.102019786523897",
+      "lat": "53.25841645673064"
+    },
+    {
+      "school_osm_id": "579564172",
+      "school_osm_type": "way",
+      "school_name": "Стародворецкий ясли-сад-базовая школа",
+      "place_osm_id": "-70790",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Берестовицкий район",
+      "lon": "24.102019786523897",
+      "lat": "53.25841645673064"
+    },
+    {
+      "school_osm_id": "579564172",
+      "school_osm_type": "way",
+      "school_name": "Стародворецкий ясли-сад-базовая школа",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "24.102019786523897",
+      "lat": "53.25841645673064"
+    },
+    {
+      "school_osm_id": "579564172",
+      "school_osm_type": "way",
+      "school_name": "Стародворецкий ясли-сад-базовая школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "24.102019786523897",
+      "lat": "53.25841645673064"
+    }
+  ]
+}

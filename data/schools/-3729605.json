@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Лоев",
+    "osm_id": "-5598630",
+    "hierarchy": [
+      "Лоевский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "51.93317577659763",
+    "lon": "30.789777050428135"
+  },
+  "group": [
+    {
+      "school_osm_id": "-3729605",
+      "school_osm_type": "relation",
+      "school_name": "Средняя школа №1",
+      "place_osm_id": "-5598630",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Лоев",
+      "lon": "30.789777050428135",
+      "lat": "51.93317577659763"
+    },
+    {
+      "school_osm_id": "-3729605",
+      "school_osm_type": "relation",
+      "school_name": "Средняя школа №1",
+      "place_osm_id": "-70799",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Лоевский район",
+      "lon": "30.789777050428135",
+      "lat": "51.93317577659763"
+    },
+    {
+      "school_osm_id": "-3729605",
+      "school_osm_type": "relation",
+      "school_name": "Средняя школа №1",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "30.789777050428135",
+      "lat": "51.93317577659763"
+    },
+    {
+      "school_osm_id": "-3729605",
+      "school_osm_type": "relation",
+      "school_name": "Средняя школа №1",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.789777050428135",
+      "lat": "51.93317577659763"
+    }
+  ]
+}

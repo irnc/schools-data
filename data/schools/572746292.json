@@ -1,0 +1,53 @@
+{
+  "place": "warning-school-without-place",
+  "geo": {
+    "lat": "51.973858238873355",
+    "lon": "25.461669020802475"
+  },
+  "group": [
+    {
+      "school_osm_id": "572746292",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8028551",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Одрижинский сельский Совет",
+      "lon": "25.461669020802475",
+      "lat": "51.973858238873355"
+    },
+    {
+      "school_osm_id": "572746292",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-71118",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Ивановский район",
+      "lon": "25.461669020802475",
+      "lat": "51.973858238873355"
+    },
+    {
+      "school_osm_id": "572746292",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "25.461669020802475",
+      "lat": "51.973858238873355"
+    },
+    {
+      "school_osm_id": "572746292",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "25.461669020802475",
+      "lat": "51.973858238873355"
+    }
+  ]
+}

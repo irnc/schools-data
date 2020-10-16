@@ -1,0 +1,53 @@
+{
+  "place": "warning-school-without-place",
+  "geo": {
+    "lat": "55.20336203483381",
+    "lon": "27.205405444396106"
+  },
+  "group": [
+    {
+      "school_osm_id": "699168552",
+      "school_osm_type": "way",
+      "school_name": "Гутская государственная общеобразовательная средняя школа",
+      "place_osm_id": "-8016492",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Воропаевский сельский Совет",
+      "lon": "27.205405444396106",
+      "lat": "55.20336203483381"
+    },
+    {
+      "school_osm_id": "699168552",
+      "school_osm_type": "way",
+      "school_name": "Гутская государственная общеобразовательная средняя школа",
+      "place_osm_id": "-70707",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Поставский район",
+      "lon": "27.205405444396106",
+      "lat": "55.20336203483381"
+    },
+    {
+      "school_osm_id": "699168552",
+      "school_osm_type": "way",
+      "school_name": "Гутская государственная общеобразовательная средняя школа",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "27.205405444396106",
+      "lat": "55.20336203483381"
+    },
+    {
+      "school_osm_id": "699168552",
+      "school_osm_type": "way",
+      "school_name": "Гутская государственная общеобразовательная средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.205405444396106",
+      "lat": "55.20336203483381"
+    }
+  ]
+}

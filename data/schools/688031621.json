@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Мстиж",
+    "osm_id": "-7532367",
+    "hierarchy": [
+      "Мстижский сельский Совет",
+      "Борисовский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.561602370146154",
+    "lon": "28.19632462042847"
+  },
+  "group": [
+    {
+      "school_osm_id": "688031621",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8016699",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Мстижский сельский Совет",
+      "lon": "28.19632462042847",
+      "lat": "54.561602370146154"
+    },
+    {
+      "school_osm_id": "688031621",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7532367",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Мстиж",
+      "lon": "28.19632462042847",
+      "lat": "54.561602370146154"
+    },
+    {
+      "school_osm_id": "688031621",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70569",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Борисовский район",
+      "lon": "28.19632462042847",
+      "lat": "54.561602370146154"
+    },
+    {
+      "school_osm_id": "688031621",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "28.19632462042847",
+      "lat": "54.561602370146154"
+    },
+    {
+      "school_osm_id": "688031621",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.19632462042847",
+      "lat": "54.561602370146154"
+    }
+  ]
+}

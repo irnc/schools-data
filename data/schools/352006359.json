@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Красное",
+    "osm_id": "-5498892",
+    "hierarchy": [
+      "Красненский сельский Совет",
+      "Молодечненский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.2510713799466",
+    "lon": "27.07983824400948"
+  },
+  "group": [
+    {
+      "school_osm_id": "352006359",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8013925",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Красненский сельский Совет",
+      "lon": "27.07983824400948",
+      "lat": "54.2510713799466"
+    },
+    {
+      "school_osm_id": "352006359",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-5498892",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Красное",
+      "lon": "27.07983824400948",
+      "lat": "54.2510713799466"
+    },
+    {
+      "school_osm_id": "352006359",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70566",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Молодечненский район",
+      "lon": "27.07983824400948",
+      "lat": "54.2510713799466"
+    },
+    {
+      "school_osm_id": "352006359",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.07983824400948",
+      "lat": "54.2510713799466"
+    },
+    {
+      "school_osm_id": "352006359",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.07983824400948",
+      "lat": "54.2510713799466"
+    }
+  ]
+}

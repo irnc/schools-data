@@ -1,0 +1,35 @@
+[
+  {
+    "school_osm_id": "627623649",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7556011",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Омговичи",
+    "lon": "27.804316730202803",
+    "lat": "53.102058523715705"
+  },
+  {
+    "school_osm_id": "5320617724",
+    "school_osm_type": "node",
+    "school_name": "Корпус школы 1",
+    "place_osm_id": "-7556011",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Омговичи",
+    "lon": "27.8050844",
+    "lat": "53.10204409909164"
+  },
+  {
+    "school_osm_id": "5320617725",
+    "school_osm_type": "node",
+    "school_name": "Корпус школы 2",
+    "place_osm_id": "-7556011",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Омговичи",
+    "lon": "27.803958999999995",
+    "lat": "53.101597799091635"
+  }
+]

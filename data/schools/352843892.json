@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Мироненки",
+    "osm_id": "-7443513",
+    "hierarchy": [
+      "Липовский сельский Совет",
+      "Калинковичский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.38848678975392",
+    "lon": "29.580575229618052"
+  },
+  "group": [
+    {
+      "school_osm_id": "352843892",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8087899",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Липовский сельский Совет",
+      "lon": "29.580575229618052",
+      "lat": "52.38848678975392"
+    },
+    {
+      "school_osm_id": "352843892",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7443513",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Мироненки",
+      "lon": "29.580575229618052",
+      "lat": "52.38848678975392"
+    },
+    {
+      "school_osm_id": "352843892",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70814",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Калинковичский район",
+      "lon": "29.580575229618052",
+      "lat": "52.38848678975392"
+    },
+    {
+      "school_osm_id": "352843892",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "29.580575229618052",
+      "lat": "52.38848678975392"
+    },
+    {
+      "school_osm_id": "352843892",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.580575229618052",
+      "lat": "52.38848678975392"
+    }
+  ]
+}

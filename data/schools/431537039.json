@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Глыбочка",
+    "osm_id": "-7502806",
+    "hierarchy": [
+      "Глыбоченский сельский Совет",
+      "Ушачский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.27270052151995",
+    "lon": "28.969117099494486"
+  },
+  "group": [
+    {
+      "school_osm_id": "431537039",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7976436",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Глыбоченский сельский Совет",
+      "lon": "28.969117099494486",
+      "lat": "55.27270052151995"
+    },
+    {
+      "school_osm_id": "431537039",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7502806",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Глыбочка",
+      "lon": "28.969117099494486",
+      "lat": "55.27270052151995"
+    },
+    {
+      "school_osm_id": "431537039",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70669",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Ушачский район",
+      "lon": "28.969117099494486",
+      "lat": "55.27270052151995"
+    },
+    {
+      "school_osm_id": "431537039",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "28.969117099494486",
+      "lat": "55.27270052151995"
+    },
+    {
+      "school_osm_id": "431537039",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.969117099494486",
+      "lat": "55.27270052151995"
+    }
+  ]
+}

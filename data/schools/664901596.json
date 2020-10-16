@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Оса",
+    "osm_id": "-7465908",
+    "hierarchy": [
+      "Дивинский сельский Совет",
+      "Кобринский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "51.91819158246832",
+    "lon": "24.489243414158675"
+  },
+  "group": [
+    {
+      "school_osm_id": "664901596",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8028566",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Дивинский сельский Совет",
+      "lon": "24.489243414158675",
+      "lat": "51.91819158246832"
+    },
+    {
+      "school_osm_id": "664901596",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7465908",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Оса",
+      "lon": "24.489243414158675",
+      "lat": "51.91819158246832"
+    },
+    {
+      "school_osm_id": "664901596",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-71101",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Кобринский район",
+      "lon": "24.489243414158675",
+      "lat": "51.91819158246832"
+    },
+    {
+      "school_osm_id": "664901596",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "24.489243414158675",
+      "lat": "51.91819158246832"
+    },
+    {
+      "school_osm_id": "664901596",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "24.489243414158675",
+      "lat": "51.91819158246832"
+    }
+  ]
+}

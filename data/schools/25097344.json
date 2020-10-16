@@ -1,0 +1,53 @@
+{
+  "place": "warning-school-without-place",
+  "geo": {
+    "lat": "55.83280350576466",
+    "lon": "29.927199396917736"
+  },
+  "group": [
+    {
+      "school_osm_id": "25097344",
+      "school_osm_type": "way",
+      "school_name": "Школа-интернат",
+      "place_osm_id": "-8018226",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Езерищенский сельский Совет",
+      "lon": "29.927199396917736",
+      "lat": "55.83280350576466"
+    },
+    {
+      "school_osm_id": "25097344",
+      "school_osm_type": "way",
+      "school_name": "Школа-интернат",
+      "place_osm_id": "-70676",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Городокский район",
+      "lon": "29.927199396917736",
+      "lat": "55.83280350576466"
+    },
+    {
+      "school_osm_id": "25097344",
+      "school_osm_type": "way",
+      "school_name": "Школа-интернат",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "29.927199396917736",
+      "lat": "55.83280350576466"
+    },
+    {
+      "school_osm_id": "25097344",
+      "school_osm_type": "way",
+      "school_name": "Школа-интернат",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.927199396917736",
+      "lat": "55.83280350576466"
+    }
+  ]
+}

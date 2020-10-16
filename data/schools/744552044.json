@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Крупово",
+    "osm_id": "-6742817",
+    "hierarchy": [
+      "Круповский сельский Совет",
+      "Лидский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.92634858174306",
+    "lon": "25.199415513621997"
+  },
+  "group": [
+    {
+      "school_osm_id": "744552044",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8082998",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Круповский сельский Совет",
+      "lon": "25.199415513621997",
+      "lat": "53.92634858174306"
+    },
+    {
+      "school_osm_id": "744552044",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-6742817",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Крупово",
+      "lon": "25.199415513621997",
+      "lat": "53.92634858174306"
+    },
+    {
+      "school_osm_id": "744552044",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70747",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Лидский район",
+      "lon": "25.199415513621997",
+      "lat": "53.92634858174306"
+    },
+    {
+      "school_osm_id": "744552044",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "25.199415513621997",
+      "lat": "53.92634858174306"
+    },
+    {
+      "school_osm_id": "744552044",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "25.199415513621997",
+      "lat": "53.92634858174306"
+    }
+  ]
+}

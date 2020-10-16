@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Дмитровичи",
+    "osm_id": "-7529537",
+    "hierarchy": [
+      "Дмитровичский сельский Совет",
+      "Березинский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.98402314381462",
+    "lon": "29.11772835718547"
+  },
+  "group": [
+    {
+      "school_osm_id": "848385700",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8144359",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Дмитровичский сельский Совет",
+      "lon": "29.11772835718547",
+      "lat": "53.98402314381462"
+    },
+    {
+      "school_osm_id": "848385700",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7529537",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Дмитровичи",
+      "lon": "29.11772835718547",
+      "lat": "53.98402314381462"
+    },
+    {
+      "school_osm_id": "848385700",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70575",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Березинский район",
+      "lon": "29.11772835718547",
+      "lat": "53.98402314381462"
+    },
+    {
+      "school_osm_id": "848385700",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "29.11772835718547",
+      "lat": "53.98402314381462"
+    },
+    {
+      "school_osm_id": "848385700",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.11772835718547",
+      "lat": "53.98402314381462"
+    }
+  ]
+}

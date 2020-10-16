@@ -1,0 +1,35 @@
+[
+  {
+    "school_osm_id": "303740348",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7450796",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Поболово",
+    "lon": "29.78089954417847",
+    "lat": "53.01414790629441"
+  },
+  {
+    "school_osm_id": "358060363",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7450796",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Поболово",
+    "lon": "29.780883418203608",
+    "lat": "53.01445163440659"
+  },
+  {
+    "school_osm_id": "3081415522",
+    "school_osm_type": "node",
+    "school_name": "",
+    "place_osm_id": "-7450796",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Поболово",
+    "lon": "29.7809065",
+    "lat": "53.014154899088304"
+  }
+]

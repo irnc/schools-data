@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "321956636",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7450507",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Бабичи",
+    "lon": "29.998354498562204",
+    "lat": "52.29904672347002"
+  },
+  {
+    "school_osm_id": "321956678",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7450507",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Бабичи",
+    "lon": "30.001764866913817",
+    "lat": "52.28480075442862"
+  }
+]

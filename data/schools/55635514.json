@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Каменец",
+    "osm_id": "-5603384",
+    "hierarchy": [
+      "Каменецкий район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.39475731049916",
+    "lon": "23.82304223208224"
+  },
+  "group": [
+    {
+      "school_osm_id": "55635514",
+      "school_osm_type": "way",
+      "school_name": "СШ №2",
+      "place_osm_id": "-5603384",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Каменец",
+      "lon": "23.82304223208224",
+      "lat": "52.39475731049916"
+    },
+    {
+      "school_osm_id": "55635514",
+      "school_osm_type": "way",
+      "school_name": "СШ №2",
+      "place_osm_id": "-71097",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Каменецкий район",
+      "lon": "23.82304223208224",
+      "lat": "52.39475731049916"
+    },
+    {
+      "school_osm_id": "55635514",
+      "school_osm_type": "way",
+      "school_name": "СШ №2",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "23.82304223208224",
+      "lat": "52.39475731049916"
+    },
+    {
+      "school_osm_id": "55635514",
+      "school_osm_type": "way",
+      "school_name": "СШ №2",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "23.82304223208224",
+      "lat": "52.39475731049916"
+    }
+  ]
+}

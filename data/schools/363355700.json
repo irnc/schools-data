@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Бацевичи",
+    "osm_id": "-7583330",
+    "hierarchy": [
+      "Бацевичский сельский Совет",
+      "Кличевский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.40130105168041",
+    "lon": "29.22972646062359"
+  },
+  "group": [
+    {
+      "school_osm_id": "363355700",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8144197",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Бацевичский сельский Совет",
+      "lon": "29.22972646062359",
+      "lat": "53.40130105168041"
+    },
+    {
+      "school_osm_id": "363355700",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7583330",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Бацевичи",
+      "lon": "29.22972646062359",
+      "lat": "53.40130105168041"
+    },
+    {
+      "school_osm_id": "363355700",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70577",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Кличевский район",
+      "lon": "29.22972646062359",
+      "lat": "53.40130105168041"
+    },
+    {
+      "school_osm_id": "363355700",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "29.22972646062359",
+      "lat": "53.40130105168041"
+    },
+    {
+      "school_osm_id": "363355700",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.22972646062359",
+      "lat": "53.40130105168041"
+    }
+  ]
+}

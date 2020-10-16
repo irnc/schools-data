@@ -1,0 +1,48 @@
+{
+  "place": {
+    "name": "Барановичи",
+    "osm_id": "-3629362",
+    "hierarchy": [
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.143511499093584",
+    "lon": "26.0421399"
+  },
+  "group": [
+    {
+      "school_osm_id": "4844160321",
+      "school_osm_type": "node",
+      "school_name": "Школа раннего развития New baby",
+      "place_osm_id": "-3629362",
+      "place_admin_level": "6",
+      "place_place": "city",
+      "place_name": "Барановичи",
+      "lon": "26.0421399",
+      "lat": "53.143511499093584"
+    },
+    {
+      "school_osm_id": "4844160321",
+      "school_osm_type": "node",
+      "school_name": "Школа раннего развития New baby",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "26.0421399",
+      "lat": "53.143511499093584"
+    },
+    {
+      "school_osm_id": "4844160321",
+      "school_osm_type": "node",
+      "school_name": "Школа раннего развития New baby",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.0421399",
+      "lat": "53.143511499093584"
+    }
+  ]
+}

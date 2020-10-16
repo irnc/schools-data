@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Рубеж",
+    "osm_id": "-7469390",
+    "hierarchy": [
+      "Верхнекривинский сельский Совет",
+      "Бешенковичский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.98619273412777",
+    "lon": "29.609026453342594"
+  },
+  "group": [
+    {
+      "school_osm_id": "746022653",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7973415",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Верхнекривинский сельский Совет",
+      "lon": "29.609026453342594",
+      "lat": "54.98619273412777"
+    },
+    {
+      "school_osm_id": "746022653",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7469390",
+      "place_admin_level": "10",
+      "place_place": "hamlet",
+      "place_name": "Рубеж",
+      "lon": "29.609026453342594",
+      "lat": "54.98619273412777"
+    },
+    {
+      "school_osm_id": "746022653",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70668",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Бешенковичский район",
+      "lon": "29.609026453342594",
+      "lat": "54.98619273412777"
+    },
+    {
+      "school_osm_id": "746022653",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "29.609026453342594",
+      "lat": "54.98619273412777"
+    },
+    {
+      "school_osm_id": "746022653",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.609026453342594",
+      "lat": "54.98619273412777"
+    }
+  ]
+}

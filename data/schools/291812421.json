@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Кореличи",
+    "osm_id": "-6722388",
+    "hierarchy": [
+      "Кореличский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.571918320912545",
+    "lon": "26.133674716437813"
+  },
+  "group": [
+    {
+      "school_osm_id": "291812421",
+      "school_osm_type": "way",
+      "school_name": "ГУ \"СШ №1\"",
+      "place_osm_id": "-6722388",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Кореличи",
+      "lon": "26.133674716437813",
+      "lat": "53.571918320912545"
+    },
+    {
+      "school_osm_id": "291812421",
+      "school_osm_type": "way",
+      "school_name": "ГУ \"СШ №1\"",
+      "place_osm_id": "-70751",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Кореличский район",
+      "lon": "26.133674716437813",
+      "lat": "53.571918320912545"
+    },
+    {
+      "school_osm_id": "291812421",
+      "school_osm_type": "way",
+      "school_name": "ГУ \"СШ №1\"",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "26.133674716437813",
+      "lat": "53.571918320912545"
+    },
+    {
+      "school_osm_id": "291812421",
+      "school_osm_type": "way",
+      "school_name": "ГУ \"СШ №1\"",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.133674716437813",
+      "lat": "53.571918320912545"
+    }
+  ]
+}

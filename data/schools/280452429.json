@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Ореховск",
+    "osm_id": "-6809905",
+    "hierarchy": [
+      "Оршанский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.694801868853446",
+    "lon": "30.49876927003442"
+  },
+  "group": [
+    {
+      "school_osm_id": "280452429",
+      "school_osm_type": "way",
+      "school_name": "Ореховская школа",
+      "place_osm_id": "-6809905",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Ореховск",
+      "lon": "30.49876927003442",
+      "lat": "54.694801868853446"
+    },
+    {
+      "school_osm_id": "280452429",
+      "school_osm_type": "way",
+      "school_name": "Ореховская школа",
+      "place_osm_id": "-70660",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Оршанский район",
+      "lon": "30.49876927003442",
+      "lat": "54.694801868853446"
+    },
+    {
+      "school_osm_id": "280452429",
+      "school_osm_type": "way",
+      "school_name": "Ореховская школа",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "30.49876927003442",
+      "lat": "54.694801868853446"
+    },
+    {
+      "school_osm_id": "280452429",
+      "school_osm_type": "way",
+      "school_name": "Ореховская школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.49876927003442",
+      "lat": "54.694801868853446"
+    }
+  ]
+}

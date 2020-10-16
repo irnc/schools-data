@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Шеломы",
+    "osm_id": "-7589489",
+    "hierarchy": [
+      "Васьковичский сельский Совет",
+      "Славгородский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.43505709194907",
+    "lon": "30.882234571963057"
+  },
+  "group": [
+    {
+      "school_osm_id": "250939060",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8140436",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Васьковичский сельский Совет",
+      "lon": "30.882234571963057",
+      "lat": "53.43505709194907"
+    },
+    {
+      "school_osm_id": "250939060",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7589489",
+      "place_admin_level": "10",
+      "place_place": "hamlet",
+      "place_name": "Шеломы",
+      "lon": "30.882234571963057",
+      "lat": "53.43505709194907"
+    },
+    {
+      "school_osm_id": "250939060",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70589",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Славгородский район",
+      "lon": "30.882234571963057",
+      "lat": "53.43505709194907"
+    },
+    {
+      "school_osm_id": "250939060",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "30.882234571963057",
+      "lat": "53.43505709194907"
+    },
+    {
+      "school_osm_id": "250939060",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.882234571963057",
+      "lat": "53.43505709194907"
+    }
+  ]
+}

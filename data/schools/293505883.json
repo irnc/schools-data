@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Танежицы",
+    "osm_id": "-7556208",
+    "hierarchy": [
+      "Рачковичский сельский Совет",
+      "Слуцкий район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.9167240294604",
+    "lon": "27.315281206588434"
+  },
+  "group": [
+    {
+      "school_osm_id": "293505883",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8144253",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Рачковичский сельский Совет",
+      "lon": "27.315281206588434",
+      "lat": "52.9167240294604"
+    },
+    {
+      "school_osm_id": "293505883",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7556208",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Танежицы",
+      "lon": "27.315281206588434",
+      "lat": "52.9167240294604"
+    },
+    {
+      "school_osm_id": "293505883",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-71134",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Слуцкий район",
+      "lon": "27.315281206588434",
+      "lat": "52.9167240294604"
+    },
+    {
+      "school_osm_id": "293505883",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.315281206588434",
+      "lat": "52.9167240294604"
+    },
+    {
+      "school_osm_id": "293505883",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.315281206588434",
+      "lat": "52.9167240294604"
+    }
+  ]
+}

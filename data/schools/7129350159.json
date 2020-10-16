@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Солигорск",
+    "osm_id": "-6722606",
+    "hierarchy": [
+      "Солигорский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.77898849908417",
+    "lon": "27.5474481"
+  },
+  "group": [
+    {
+      "school_osm_id": "7129350159",
+      "school_osm_type": "node",
+      "school_name": "Центр технического творчества",
+      "place_osm_id": "-6722606",
+      "place_admin_level": "8",
+      "place_place": "city",
+      "place_name": "Солигорск",
+      "lon": "27.5474481",
+      "lat": "52.77898849908417"
+    },
+    {
+      "school_osm_id": "7129350159",
+      "school_osm_type": "node",
+      "school_name": "Центр технического творчества",
+      "place_osm_id": "-71133",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Солигорский район",
+      "lon": "27.5474481",
+      "lat": "52.77898849908417"
+    },
+    {
+      "school_osm_id": "7129350159",
+      "school_osm_type": "node",
+      "school_name": "Центр технического творчества",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.5474481",
+      "lat": "52.77898849908417"
+    },
+    {
+      "school_osm_id": "7129350159",
+      "school_osm_type": "node",
+      "school_name": "Центр технического творчества",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.5474481",
+      "lat": "52.77898849908417"
+    }
+  ]
+}

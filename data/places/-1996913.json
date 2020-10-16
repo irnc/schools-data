@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "372316960",
+    "school_osm_type": "way",
+    "school_name": "СШ №2",
+    "place_osm_id": "-1996913",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Сенно",
+    "lon": "29.705119535604208",
+    "lat": "54.813975847664324"
+  },
+  {
+    "school_osm_id": "687984527",
+    "school_osm_type": "way",
+    "school_name": "СШ №1 им. З.И. Азгура",
+    "place_osm_id": "-1996913",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Сенно",
+    "lon": "29.690795642586856",
+    "lat": "54.810981969129195"
+  }
+]

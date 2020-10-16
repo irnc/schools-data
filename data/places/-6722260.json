@@ -1,0 +1,35 @@
+[
+  {
+    "school_osm_id": "378310639",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-6722260",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Ляховичи",
+    "lon": "26.267237095118407",
+    "lat": "53.042989918961524"
+  },
+  {
+    "school_osm_id": "378310910",
+    "school_osm_type": "way",
+    "school_name": "Гимназия №1",
+    "place_osm_id": "-6722260",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Ляховичи",
+    "lon": "26.251222879820876",
+    "lat": "53.04552630219689"
+  },
+  {
+    "school_osm_id": "1424194011",
+    "school_osm_type": "node",
+    "school_name": "Средняя школа №2",
+    "place_osm_id": "-6722260",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Ляховичи",
+    "lon": "26.269294099999996",
+    "lat": "53.034635199088974"
+  }
+]

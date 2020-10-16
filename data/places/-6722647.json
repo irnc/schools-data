@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "667333729",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-6722647",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Кировск",
+    "lon": "29.463337438170225",
+    "lat": "53.28007435039955"
+  },
+  {
+    "school_osm_id": "4423212589",
+    "school_osm_type": "node",
+    "school_name": "ГУО «Детская школа искусств г. Кировска»",
+    "place_osm_id": "-6722647",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Кировск",
+    "lon": "29.4762813",
+    "lat": "53.27005629910084"
+  }
+]

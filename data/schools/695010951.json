@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Большие Яковчицы",
+    "osm_id": "-6891375",
+    "hierarchy": [
+      "Жабинковский сельский Совет",
+      "Жабинковский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.2427163872948",
+    "lon": "24.12881112961304"
+  },
+  "group": [
+    {
+      "school_osm_id": "695010951",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8030890",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Жабинковский сельский Совет",
+      "lon": "24.12881112961304",
+      "lat": "52.2427163872948"
+    },
+    {
+      "school_osm_id": "695010951",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-6891375",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Большие Яковчицы",
+      "lon": "24.12881112961304",
+      "lat": "52.2427163872948"
+    },
+    {
+      "school_osm_id": "695010951",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-71099",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Жабинковский район",
+      "lon": "24.12881112961304",
+      "lat": "52.2427163872948"
+    },
+    {
+      "school_osm_id": "695010951",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "24.12881112961304",
+      "lat": "52.2427163872948"
+    },
+    {
+      "school_osm_id": "695010951",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "24.12881112961304",
+      "lat": "52.2427163872948"
+    }
+  ]
+}

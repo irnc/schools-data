@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Сватошицы",
+    "osm_id": "-7485765",
+    "hierarchy": [
+      "Добрынский сельский Совет",
+      "Дубровенский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.50278806457298",
+    "lon": "30.782986358925285"
+  },
+  "group": [
+    {
+      "school_osm_id": "473116164",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8075993",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Добрынский сельский Совет",
+      "lon": "30.782986358925285",
+      "lat": "54.50278806457298"
+    },
+    {
+      "school_osm_id": "473116164",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7485765",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Сватошицы",
+      "lon": "30.782986358925285",
+      "lat": "54.50278806457298"
+    },
+    {
+      "school_osm_id": "473116164",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70656",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Дубровенский район",
+      "lon": "30.782986358925285",
+      "lat": "54.50278806457298"
+    },
+    {
+      "school_osm_id": "473116164",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "30.782986358925285",
+      "lat": "54.50278806457298"
+    },
+    {
+      "school_osm_id": "473116164",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.782986358925285",
+      "lat": "54.50278806457298"
+    }
+  ]
+}

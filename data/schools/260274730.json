@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Микуличи",
+    "osm_id": "-7440996",
+    "hierarchy": [
+      "Бурковский сельский Совет",
+      "Брагинский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "51.848994900246126",
+    "lon": "30.169179549973467"
+  },
+  "group": [
+    {
+      "school_osm_id": "260274730",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8031211",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Бурковский сельский Совет",
+      "lon": "30.169179549973467",
+      "lat": "51.848994900246126"
+    },
+    {
+      "school_osm_id": "260274730",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7440996",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Микуличи",
+      "lon": "30.169179549973467",
+      "lat": "51.848994900246126"
+    },
+    {
+      "school_osm_id": "260274730",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70801",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Брагинский район",
+      "lon": "30.169179549973467",
+      "lat": "51.848994900246126"
+    },
+    {
+      "school_osm_id": "260274730",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "30.169179549973467",
+      "lat": "51.848994900246126"
+    },
+    {
+      "school_osm_id": "260274730",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.169179549973467",
+      "lat": "51.848994900246126"
+    }
+  ]
+}

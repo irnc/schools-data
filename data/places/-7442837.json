@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "749053334",
+    "school_osm_type": "way",
+    "school_name": "Урицкая средняя школа",
+    "place_osm_id": "-7442837",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Урицкое",
+    "lon": "30.815607968662857",
+    "lat": "52.468251760470324"
+  },
+  {
+    "school_osm_id": "919499702",
+    "school_osm_type": "node",
+    "school_name": "Школа искусств",
+    "place_osm_id": "-7442837",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Урицкое",
+    "lon": "30.8060537",
+    "lat": "52.46781109908917"
+  }
+]

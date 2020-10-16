@@ -1,0 +1,35 @@
+[
+  {
+    "school_osm_id": "353072893",
+    "school_osm_type": "way",
+    "school_name": "Верховичская средняя школа",
+    "place_osm_id": "-7465653",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Верховичи",
+    "lon": "23.506616311780544",
+    "lat": "52.4741190974968"
+  },
+  {
+    "school_osm_id": "353080138",
+    "school_osm_type": "way",
+    "school_name": "Старая школа",
+    "place_osm_id": "-7465653",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Верховичи",
+    "lon": "23.504874549963297",
+    "lat": "52.474189149189414"
+  },
+  {
+    "school_osm_id": "353597364",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7465653",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Верховичи",
+    "lon": "23.507354252718127",
+    "lat": "52.474391165766235"
+  }
+]

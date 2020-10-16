@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Шацк",
+    "osm_id": "-6894333",
+    "hierarchy": [
+      "Шацкий сельский Совет",
+      "Пуховичский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.435095948247216",
+    "lon": "27.688617425614726"
+  },
+  "group": [
+    {
+      "school_osm_id": "373866206",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8144260",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Шацкий сельский Совет",
+      "lon": "27.688617425614726",
+      "lat": "53.435095948247216"
+    },
+    {
+      "school_osm_id": "373866206",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-6894333",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Шацк",
+      "lon": "27.688617425614726",
+      "lat": "53.435095948247216"
+    },
+    {
+      "school_osm_id": "373866206",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70549",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Пуховичский район",
+      "lon": "27.688617425614726",
+      "lat": "53.435095948247216"
+    },
+    {
+      "school_osm_id": "373866206",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.688617425614726",
+      "lat": "53.435095948247216"
+    },
+    {
+      "school_osm_id": "373866206",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.688617425614726",
+      "lat": "53.435095948247216"
+    }
+  ]
+}

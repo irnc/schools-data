@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Сенно",
+    "osm_id": "-1996913",
+    "hierarchy": [
+      "Сенненский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.810981969129195",
+    "lon": "29.690795642586856"
+  },
+  "group": [
+    {
+      "school_osm_id": "687984527",
+      "school_osm_type": "way",
+      "school_name": "СШ №1 им. З.И. Азгура",
+      "place_osm_id": "-1996913",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Сенно",
+      "lon": "29.690795642586856",
+      "lat": "54.810981969129195"
+    },
+    {
+      "school_osm_id": "687984527",
+      "school_osm_type": "way",
+      "school_name": "СШ №1 им. З.И. Азгура",
+      "place_osm_id": "-70662",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Сенненский район",
+      "lon": "29.690795642586856",
+      "lat": "54.810981969129195"
+    },
+    {
+      "school_osm_id": "687984527",
+      "school_osm_type": "way",
+      "school_name": "СШ №1 им. З.И. Азгура",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "29.690795642586856",
+      "lat": "54.810981969129195"
+    },
+    {
+      "school_osm_id": "687984527",
+      "school_osm_type": "way",
+      "school_name": "СШ №1 им. З.И. Азгура",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.690795642586856",
+      "lat": "54.810981969129195"
+    }
+  ]
+}

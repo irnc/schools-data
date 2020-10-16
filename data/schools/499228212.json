@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Озерница",
+    "osm_id": "-7504792",
+    "hierarchy": [
+      "Озерницкий сельский Совет",
+      "Слонимский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.07100397605479",
+    "lon": "25.014134924179224"
+  },
+  "group": [
+    {
+      "school_osm_id": "499228212",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8100396",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Озерницкий сельский Совет",
+      "lon": "25.014134924179224",
+      "lat": "53.07100397605479"
+    },
+    {
+      "school_osm_id": "499228212",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7504792",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Озерница",
+      "lon": "25.014134924179224",
+      "lat": "53.07100397605479"
+    },
+    {
+      "school_osm_id": "499228212",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-71114",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Слонимский район",
+      "lon": "25.014134924179224",
+      "lat": "53.07100397605479"
+    },
+    {
+      "school_osm_id": "499228212",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "25.014134924179224",
+      "lat": "53.07100397605479"
+    },
+    {
+      "school_osm_id": "499228212",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "25.014134924179224",
+      "lat": "53.07100397605479"
+    }
+  ]
+}

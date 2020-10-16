@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Годылёво",
+    "osm_id": "-7573112",
+    "hierarchy": [
+      "Следюковский сельский Совет",
+      "Быховский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.60921451947923",
+    "lon": "30.363380527466955"
+  },
+  "group": [
+    {
+      "school_osm_id": "234533091",
+      "school_osm_type": "way",
+      "school_name": "Годылевская Средняя Школа",
+      "place_osm_id": "-8144244",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Следюковский сельский Совет",
+      "lon": "30.363380527466955",
+      "lat": "53.60921451947923"
+    },
+    {
+      "school_osm_id": "234533091",
+      "school_osm_type": "way",
+      "school_name": "Годылевская Средняя Школа",
+      "place_osm_id": "-7573112",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Годылёво",
+      "lon": "30.363380527466955",
+      "lat": "53.60921451947923"
+    },
+    {
+      "school_osm_id": "234533091",
+      "school_osm_type": "way",
+      "school_name": "Годылевская Средняя Школа",
+      "place_osm_id": "-70586",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Быховский район",
+      "lon": "30.363380527466955",
+      "lat": "53.60921451947923"
+    },
+    {
+      "school_osm_id": "234533091",
+      "school_osm_type": "way",
+      "school_name": "Годылевская Средняя Школа",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "30.363380527466955",
+      "lat": "53.60921451947923"
+    },
+    {
+      "school_osm_id": "234533091",
+      "school_osm_type": "way",
+      "school_name": "Годылевская Средняя Школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.363380527466955",
+      "lat": "53.60921451947923"
+    }
+  ]
+}

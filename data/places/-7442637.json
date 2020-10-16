@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "288022143",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7442637",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Бобовичи",
+    "lon": "30.92305014488009",
+    "lat": "52.33952940556044"
+  },
+  {
+    "school_osm_id": "7699924143",
+    "school_osm_type": "node",
+    "school_name": "ГУО \"Бобовичская средняя школа\"",
+    "place_osm_id": "-7442637",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Бобовичи",
+    "lon": "30.9237356",
+    "lat": "52.33978639909451"
+  }
+]

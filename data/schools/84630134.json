@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Заречье",
+    "osm_id": "-7555635",
+    "hierarchy": [
+      "Блонский сельский Совет",
+      "Пуховичский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.52346863468188",
+    "lon": "28.178921748618983"
+  },
+  "group": [
+    {
+      "school_osm_id": "84630134",
+      "school_osm_type": "way",
+      "school_name": "Блонская средняя школа",
+      "place_osm_id": "-8144264",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Блонский сельский Совет",
+      "lon": "28.178921748618983",
+      "lat": "53.52346863468188"
+    },
+    {
+      "school_osm_id": "84630134",
+      "school_osm_type": "way",
+      "school_name": "Блонская средняя школа",
+      "place_osm_id": "-7555635",
+      "place_admin_level": "10",
+      "place_place": "hamlet",
+      "place_name": "Заречье",
+      "lon": "28.178921748618983",
+      "lat": "53.52346863468188"
+    },
+    {
+      "school_osm_id": "84630134",
+      "school_osm_type": "way",
+      "school_name": "Блонская средняя школа",
+      "place_osm_id": "-70549",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Пуховичский район",
+      "lon": "28.178921748618983",
+      "lat": "53.52346863468188"
+    },
+    {
+      "school_osm_id": "84630134",
+      "school_osm_type": "way",
+      "school_name": "Блонская средняя школа",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "28.178921748618983",
+      "lat": "53.52346863468188"
+    },
+    {
+      "school_osm_id": "84630134",
+      "school_osm_type": "way",
+      "school_name": "Блонская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.178921748618983",
+      "lat": "53.52346863468188"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "place": {
+    "name": "Минск",
+    "osm_id": "-59195",
+    "hierarchy": []
+  },
+  "geo": {
+    "lat": "53.87017029916468",
+    "lon": "27.6577395"
+  },
+  "group": [
+    {
+      "school_osm_id": "2620202456",
+      "school_osm_type": "node",
+      "school_name": "Йога",
+      "place_osm_id": "-59209",
+      "place_admin_level": "9",
+      "place_place": "",
+      "place_name": "Заводской район",
+      "lon": "27.6577395",
+      "lat": "53.87017029916468"
+    },
+    {
+      "school_osm_id": "2620202456",
+      "school_osm_type": "node",
+      "school_name": "Йога",
+      "place_osm_id": "-59195",
+      "place_admin_level": "4",
+      "place_place": "city",
+      "place_name": "Минск",
+      "lon": "27.6577395",
+      "lat": "53.87017029916468"
+    },
+    {
+      "school_osm_id": "2620202456",
+      "school_osm_type": "node",
+      "school_name": "Йога",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.6577395",
+      "lat": "53.87017029916468"
+    }
+  ]
+}

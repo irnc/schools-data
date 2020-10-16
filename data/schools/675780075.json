@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Верхняя Олба",
+    "osm_id": "-7439821",
+    "hierarchy": [
+      "Верхнеолбянский сельский Совет",
+      "Жлобинский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.64545992682304",
+    "lon": "30.197039184611047"
+  },
+  "group": [
+    {
+      "school_osm_id": "675780075",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7439821",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Верхняя Олба",
+      "lon": "30.197039184611047",
+      "lat": "52.64545992682304"
+    },
+    {
+      "school_osm_id": "675780075",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-6185427",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Верхнеолбянский сельский Совет",
+      "lon": "30.197039184611047",
+      "lat": "52.64545992682304"
+    },
+    {
+      "school_osm_id": "675780075",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59167",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Жлобинский район",
+      "lon": "30.197039184611047",
+      "lat": "52.64545992682304"
+    },
+    {
+      "school_osm_id": "675780075",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "30.197039184611047",
+      "lat": "52.64545992682304"
+    },
+    {
+      "school_osm_id": "675780075",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.197039184611047",
+      "lat": "52.64545992682304"
+    }
+  ]
+}

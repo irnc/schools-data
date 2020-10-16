@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Юратишки",
+    "osm_id": "-7515182",
+    "hierarchy": [
+      "Юратишковский сельский Совет",
+      "Ивьевский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.03644160253059",
+    "lon": "25.929012728184155"
+  },
+  "group": [
+    {
+      "school_osm_id": "408901435",
+      "school_osm_type": "way",
+      "school_name": "Юратишковский ясли-сад - средняя школа",
+      "place_osm_id": "-8021169",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Юратишковский сельский Совет",
+      "lon": "25.929012728184155",
+      "lat": "54.03644160253059"
+    },
+    {
+      "school_osm_id": "408901435",
+      "school_osm_type": "way",
+      "school_name": "Юратишковский ясли-сад - средняя школа",
+      "place_osm_id": "-7515182",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Юратишки",
+      "lon": "25.929012728184155",
+      "lat": "54.03644160253059"
+    },
+    {
+      "school_osm_id": "408901435",
+      "school_osm_type": "way",
+      "school_name": "Юратишковский ясли-сад - средняя школа",
+      "place_osm_id": "-70732",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Ивьевский район",
+      "lon": "25.929012728184155",
+      "lat": "54.03644160253059"
+    },
+    {
+      "school_osm_id": "408901435",
+      "school_osm_type": "way",
+      "school_name": "Юратишковский ясли-сад - средняя школа",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "25.929012728184155",
+      "lat": "54.03644160253059"
+    },
+    {
+      "school_osm_id": "408901435",
+      "school_osm_type": "way",
+      "school_name": "Юратишковский ясли-сад - средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "25.929012728184155",
+      "lat": "54.03644160253059"
+    }
+  ]
+}

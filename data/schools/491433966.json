@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Грицевичи",
+    "osm_id": "-7536815",
+    "hierarchy": [
+      "Грицевичский сельский Совет",
+      "Клецкий район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.97776204063041",
+    "lon": "26.712631235749313"
+  },
+  "group": [
+    {
+      "school_osm_id": "491433966",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8139731",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Грицевичский сельский Совет",
+      "lon": "26.712631235749313",
+      "lat": "52.97776204063041"
+    },
+    {
+      "school_osm_id": "491433966",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7536815",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Грицевичи",
+      "lon": "26.712631235749313",
+      "lat": "52.97776204063041"
+    },
+    {
+      "school_osm_id": "491433966",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-71130",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Клецкий район",
+      "lon": "26.712631235749313",
+      "lat": "52.97776204063041"
+    },
+    {
+      "school_osm_id": "491433966",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "26.712631235749313",
+      "lat": "52.97776204063041"
+    },
+    {
+      "school_osm_id": "491433966",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.712631235749313",
+      "lat": "52.97776204063041"
+    }
+  ]
+}

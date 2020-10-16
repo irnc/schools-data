@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Новогрудок",
+    "osm_id": "-6722420",
+    "hierarchy": [
+      "Новогрудский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.59551456289562",
+    "lon": "25.81892824856138"
+  },
+  "group": [
+    {
+      "school_osm_id": "809178781",
+      "school_osm_type": "way",
+      "school_name": "Школа № 4",
+      "place_osm_id": "-6722420",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Новогрудок",
+      "lon": "25.81892824856138",
+      "lat": "53.59551456289562"
+    },
+    {
+      "school_osm_id": "809178781",
+      "school_osm_type": "way",
+      "school_name": "Школа № 4",
+      "place_osm_id": "-70749",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Новогрудский район",
+      "lon": "25.81892824856138",
+      "lat": "53.59551456289562"
+    },
+    {
+      "school_osm_id": "809178781",
+      "school_osm_type": "way",
+      "school_name": "Школа № 4",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "25.81892824856138",
+      "lat": "53.59551456289562"
+    },
+    {
+      "school_osm_id": "809178781",
+      "school_osm_type": "way",
+      "school_name": "Школа № 4",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "25.81892824856138",
+      "lat": "53.59551456289562"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Большая Берестовица",
+    "osm_id": "-6722367",
+    "hierarchy": [
+      "Берестовицкий район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.19719092716553",
+    "lon": "24.01298650141491"
+  },
+  "group": [
+    {
+      "school_osm_id": "184467574",
+      "school_osm_type": "way",
+      "school_name": "Школа им. Притыцкого",
+      "place_osm_id": "-6722367",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Большая Берестовица",
+      "lon": "24.01298650141491",
+      "lat": "53.19719092716553"
+    },
+    {
+      "school_osm_id": "184467574",
+      "school_osm_type": "way",
+      "school_name": "Школа им. Притыцкого",
+      "place_osm_id": "-70790",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Берестовицкий район",
+      "lon": "24.01298650141491",
+      "lat": "53.19719092716553"
+    },
+    {
+      "school_osm_id": "184467574",
+      "school_osm_type": "way",
+      "school_name": "Школа им. Притыцкого",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "24.01298650141491",
+      "lat": "53.19719092716553"
+    },
+    {
+      "school_osm_id": "184467574",
+      "school_osm_type": "way",
+      "school_name": "Школа им. Притыцкого",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "24.01298650141491",
+      "lat": "53.19719092716553"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Новый Двор",
+    "osm_id": "-7529431",
+    "hierarchy": [
+      "Остринский сельский Совет",
+      "Щучинский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.81226196184025",
+    "lon": "24.559791825046652"
+  },
+  "group": [
+    {
+      "school_osm_id": "616872130",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8021149",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Остринский сельский Совет",
+      "lon": "24.559791825046652",
+      "lat": "53.81226196184025"
+    },
+    {
+      "school_osm_id": "616872130",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7529431",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Новый Двор",
+      "lon": "24.559791825046652",
+      "lat": "53.81226196184025"
+    },
+    {
+      "school_osm_id": "616872130",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70748",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Щучинский район",
+      "lon": "24.559791825046652",
+      "lat": "53.81226196184025"
+    },
+    {
+      "school_osm_id": "616872130",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "24.559791825046652",
+      "lat": "53.81226196184025"
+    },
+    {
+      "school_osm_id": "616872130",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "24.559791825046652",
+      "lat": "53.81226196184025"
+    }
+  ]
+}

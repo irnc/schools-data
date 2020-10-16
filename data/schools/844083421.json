@@ -1,0 +1,53 @@
+{
+  "place": "warning-school-without-place",
+  "geo": {
+    "lat": "53.17285875603055",
+    "lon": "28.490930331500305"
+  },
+  "group": [
+    {
+      "school_osm_id": "844083421",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8144321",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Дарагановский сельский Совет",
+      "lon": "28.490930331500305",
+      "lat": "53.17285875603055"
+    },
+    {
+      "school_osm_id": "844083421",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59753",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Осиповичский район",
+      "lon": "28.490930331500305",
+      "lat": "53.17285875603055"
+    },
+    {
+      "school_osm_id": "844083421",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "28.490930331500305",
+      "lat": "53.17285875603055"
+    },
+    {
+      "school_osm_id": "844083421",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.490930331500305",
+      "lat": "53.17285875603055"
+    }
+  ]
+}

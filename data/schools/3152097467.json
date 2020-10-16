@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Майское",
+    "osm_id": "-7439801",
+    "hierarchy": [
+      "Майский сельский Совет",
+      "Жлобинский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.96564669908691",
+    "lon": "30.1991667"
+  },
+  "group": [
+    {
+      "school_osm_id": "3152097467",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-7439801",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Майское",
+      "lon": "30.1991667",
+      "lat": "52.96564669908691"
+    },
+    {
+      "school_osm_id": "3152097467",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-6316894",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Майский сельский Совет",
+      "lon": "30.1991667",
+      "lat": "52.96564669908691"
+    },
+    {
+      "school_osm_id": "3152097467",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-59167",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Жлобинский район",
+      "lon": "30.1991667",
+      "lat": "52.96564669908691"
+    },
+    {
+      "school_osm_id": "3152097467",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "30.1991667",
+      "lat": "52.96564669908691"
+    },
+    {
+      "school_osm_id": "3152097467",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.1991667",
+      "lat": "52.96564669908691"
+    }
+  ]
+}

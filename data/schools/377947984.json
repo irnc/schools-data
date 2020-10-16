@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Гудевичи",
+    "osm_id": "-7522130",
+    "hierarchy": [
+      "Гудевичский сельский Совет",
+      "Мостовский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.372182471506974",
+    "lon": "24.1743124442737"
+  },
+  "group": [
+    {
+      "school_osm_id": "377947984",
+      "school_osm_type": "way",
+      "school_name": "Гудевичская средняя школа",
+      "place_osm_id": "-8085963",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Гудевичский сельский Совет",
+      "lon": "24.1743124442737",
+      "lat": "53.372182471506974"
+    },
+    {
+      "school_osm_id": "377947984",
+      "school_osm_type": "way",
+      "school_name": "Гудевичская средняя школа",
+      "place_osm_id": "-7522130",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Гудевичи",
+      "lon": "24.1743124442737",
+      "lat": "53.372182471506974"
+    },
+    {
+      "school_osm_id": "377947984",
+      "school_osm_type": "way",
+      "school_name": "Гудевичская средняя школа",
+      "place_osm_id": "-70754",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Мостовский район",
+      "lon": "24.1743124442737",
+      "lat": "53.372182471506974"
+    },
+    {
+      "school_osm_id": "377947984",
+      "school_osm_type": "way",
+      "school_name": "Гудевичская средняя школа",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "24.1743124442737",
+      "lat": "53.372182471506974"
+    },
+    {
+      "school_osm_id": "377947984",
+      "school_osm_type": "way",
+      "school_name": "Гудевичская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "24.1743124442737",
+      "lat": "53.372182471506974"
+    }
+  ]
+}

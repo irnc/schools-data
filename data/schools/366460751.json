@@ -1,0 +1,53 @@
+{
+  "place": "warning-school-without-place",
+  "geo": {
+    "lat": "51.865212875981186",
+    "lon": "30.05458412813364"
+  },
+  "group": [
+    {
+      "school_osm_id": "366460751",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8031214",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Поселичский сельский Совет",
+      "lon": "30.05458412813364",
+      "lat": "51.865212875981186"
+    },
+    {
+      "school_osm_id": "366460751",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70802",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Хойникский район",
+      "lon": "30.05458412813364",
+      "lat": "51.865212875981186"
+    },
+    {
+      "school_osm_id": "366460751",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "30.05458412813364",
+      "lat": "51.865212875981186"
+    },
+    {
+      "school_osm_id": "366460751",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.05458412813364",
+      "lat": "51.865212875981186"
+    }
+  ]
+}

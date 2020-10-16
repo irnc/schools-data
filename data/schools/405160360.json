@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Селец",
+    "osm_id": "-7578306",
+    "hierarchy": [
+      "Овсянковский сельский Совет",
+      "Горецкий район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.278709464947084",
+    "lon": "30.674797684228942"
+  },
+  "group": [
+    {
+      "school_osm_id": "405160360",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8075999",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Овсянковский сельский Совет",
+      "lon": "30.674797684228942",
+      "lat": "54.278709464947084"
+    },
+    {
+      "school_osm_id": "405160360",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7578306",
+      "place_admin_level": "10",
+      "place_place": "hamlet",
+      "place_name": "Селец",
+      "lon": "30.674797684228942",
+      "lat": "54.278709464947084"
+    },
+    {
+      "school_osm_id": "405160360",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70620",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Горецкий район",
+      "lon": "30.674797684228942",
+      "lat": "54.278709464947084"
+    },
+    {
+      "school_osm_id": "405160360",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "30.674797684228942",
+      "lat": "54.278709464947084"
+    },
+    {
+      "school_osm_id": "405160360",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.674797684228942",
+      "lat": "54.278709464947084"
+    }
+  ]
+}

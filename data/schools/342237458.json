@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Верхнедвинск",
+    "osm_id": "-1180580",
+    "hierarchy": [
+      "Верхнедвинский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.78398375855067",
+    "lon": "27.93907021744094"
+  },
+  "group": [
+    {
+      "school_osm_id": "342237458",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа № 2",
+      "place_osm_id": "-1180580",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Верхнедвинск",
+      "lon": "27.93907021744094",
+      "lat": "55.78398375855067"
+    },
+    {
+      "school_osm_id": "342237458",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа № 2",
+      "place_osm_id": "-70684",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Верхнедвинский район",
+      "lon": "27.93907021744094",
+      "lat": "55.78398375855067"
+    },
+    {
+      "school_osm_id": "342237458",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа № 2",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "27.93907021744094",
+      "lat": "55.78398375855067"
+    },
+    {
+      "school_osm_id": "342237458",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа № 2",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.93907021744094",
+      "lat": "55.78398375855067"
+    }
+  ]
+}

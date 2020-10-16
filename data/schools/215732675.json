@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Следюки",
+    "osm_id": "-7573185",
+    "hierarchy": [
+      "Следюковский сельский Совет",
+      "Быховский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.5739281968608",
+    "lon": "30.343530687665478"
+  },
+  "group": [
+    {
+      "school_osm_id": "215732675",
+      "school_osm_type": "way",
+      "school_name": "Спортивная школа",
+      "place_osm_id": "-8144244",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Следюковский сельский Совет",
+      "lon": "30.343530687665478",
+      "lat": "53.5739281968608"
+    },
+    {
+      "school_osm_id": "215732675",
+      "school_osm_type": "way",
+      "school_name": "Спортивная школа",
+      "place_osm_id": "-7573185",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Следюки",
+      "lon": "30.343530687665478",
+      "lat": "53.5739281968608"
+    },
+    {
+      "school_osm_id": "215732675",
+      "school_osm_type": "way",
+      "school_name": "Спортивная школа",
+      "place_osm_id": "-70586",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Быховский район",
+      "lon": "30.343530687665478",
+      "lat": "53.5739281968608"
+    },
+    {
+      "school_osm_id": "215732675",
+      "school_osm_type": "way",
+      "school_name": "Спортивная школа",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "30.343530687665478",
+      "lat": "53.5739281968608"
+    },
+    {
+      "school_osm_id": "215732675",
+      "school_osm_type": "way",
+      "school_name": "Спортивная школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.343530687665478",
+      "lat": "53.5739281968608"
+    }
+  ]
+}

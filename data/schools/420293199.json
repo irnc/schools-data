@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Старое Село",
+    "osm_id": "-7479850",
+    "hierarchy": [
+      "Летчанский сельский Совет",
+      "Витебский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.22618646010173",
+    "lon": "29.8771891994773"
+  },
+  "group": [
+    {
+      "school_osm_id": "420293199",
+      "school_osm_type": "way",
+      "school_name": "Старосельская средняя школа",
+      "place_osm_id": "-7924018",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Летчанский сельский Совет",
+      "lon": "29.8771891994773",
+      "lat": "55.22618646010173"
+    },
+    {
+      "school_osm_id": "420293199",
+      "school_osm_type": "way",
+      "school_name": "Старосельская средняя школа",
+      "place_osm_id": "-7479850",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Старое Село",
+      "lon": "29.8771891994773",
+      "lat": "55.22618646010173"
+    },
+    {
+      "school_osm_id": "420293199",
+      "school_osm_type": "way",
+      "school_name": "Старосельская средняя школа",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "29.8771891994773",
+      "lat": "55.22618646010173"
+    },
+    {
+      "school_osm_id": "420293199",
+      "school_osm_type": "way",
+      "school_name": "Старосельская средняя школа",
+      "place_osm_id": "-59504",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Витебский район",
+      "lon": "29.8771891994773",
+      "lat": "55.22618646010173"
+    },
+    {
+      "school_osm_id": "420293199",
+      "school_osm_type": "way",
+      "school_name": "Старосельская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.8771891994773",
+      "lat": "55.22618646010173"
+    }
+  ]
+}

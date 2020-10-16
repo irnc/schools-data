@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "157063562",
+    "school_osm_type": "way",
+    "school_name": "Музыкальная школа",
+    "place_osm_id": "-1180578",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Ушачи",
+    "lon": "28.611900528593285",
+    "lat": "55.1804715199077"
+  },
+  {
+    "school_osm_id": "354628586",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-1180578",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Ушачи",
+    "lon": "28.616650764569968",
+    "lat": "55.17818929138395"
+  }
+]

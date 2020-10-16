@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "751565484",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7547079",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Михановичи",
+    "lon": "27.695103667830395",
+    "lat": "53.740174689296786"
+  },
+  {
+    "school_osm_id": "7528915385",
+    "school_osm_type": "node",
+    "school_name": "",
+    "place_osm_id": "-7547079",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Михановичи",
+    "lon": "27.6946207",
+    "lat": "53.739936999146614"
+  }
+]

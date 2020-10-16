@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Неглюбка",
+    "osm_id": "-7441286",
+    "hierarchy": [
+      "Неглюбский сельский Совет",
+      "Ветковский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.765251020208765",
+    "lon": "31.521923427067353"
+  },
+  "group": [
+    {
+      "school_osm_id": "371463750",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8031182",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Неглюбский сельский Совет",
+      "lon": "31.521923427067353",
+      "lat": "52.765251020208765"
+    },
+    {
+      "school_osm_id": "371463750",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7441286",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Неглюбка",
+      "lon": "31.521923427067353",
+      "lat": "52.765251020208765"
+    },
+    {
+      "school_osm_id": "371463750",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70795",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Ветковский район",
+      "lon": "31.521923427067353",
+      "lat": "52.765251020208765"
+    },
+    {
+      "school_osm_id": "371463750",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "31.521923427067353",
+      "lat": "52.765251020208765"
+    },
+    {
+      "school_osm_id": "371463750",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "31.521923427067353",
+      "lat": "52.765251020208765"
+    }
+  ]
+}

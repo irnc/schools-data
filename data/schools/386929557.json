@@ -1,0 +1,48 @@
+{
+  "place": {
+    "name": "Жодино",
+    "osm_id": "-79911",
+    "hierarchy": [
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.0906295232891",
+    "lon": "28.30347347689099"
+  },
+  "group": [
+    {
+      "school_osm_id": "386929557",
+      "school_osm_type": "way",
+      "school_name": "СШ №6",
+      "place_osm_id": "-79911",
+      "place_admin_level": "6",
+      "place_place": "town",
+      "place_name": "Жодино",
+      "lon": "28.30347347689099",
+      "lat": "54.0906295232891"
+    },
+    {
+      "school_osm_id": "386929557",
+      "school_osm_type": "way",
+      "school_name": "СШ №6",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "28.30347347689099",
+      "lat": "54.0906295232891"
+    },
+    {
+      "school_osm_id": "386929557",
+      "school_osm_type": "way",
+      "school_name": "СШ №6",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.30347347689099",
+      "lat": "54.0906295232891"
+    }
+  ]
+}

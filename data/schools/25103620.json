@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Мощёны",
+    "osm_id": "-7502036",
+    "hierarchy": [
+      "Ходцевский сельский Совет",
+      "Сенненский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.9235155977351",
+    "lon": "29.746201983166078"
+  },
+  "group": [
+    {
+      "school_osm_id": "25103620",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7923833",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Ходцевский сельский Совет",
+      "lon": "29.746201983166078",
+      "lat": "54.9235155977351"
+    },
+    {
+      "school_osm_id": "25103620",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7502036",
+      "place_admin_level": "10",
+      "place_place": "hamlet",
+      "place_name": "Мощёны",
+      "lon": "29.746201983166078",
+      "lat": "54.9235155977351"
+    },
+    {
+      "school_osm_id": "25103620",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70662",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Сенненский район",
+      "lon": "29.746201983166078",
+      "lat": "54.9235155977351"
+    },
+    {
+      "school_osm_id": "25103620",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "29.746201983166078",
+      "lat": "54.9235155977351"
+    },
+    {
+      "school_osm_id": "25103620",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.746201983166078",
+      "lat": "54.9235155977351"
+    }
+  ]
+}

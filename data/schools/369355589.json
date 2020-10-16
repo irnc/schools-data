@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Волколата",
+    "osm_id": "-5627713",
+    "hierarchy": [
+      "Волколатский сельский Совет",
+      "Докшицкий район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.932631642249106",
+    "lon": "27.36903233925907"
+  },
+  "group": [
+    {
+      "school_osm_id": "369355589",
+      "school_osm_type": "way",
+      "school_name": "Волколатская средняя школа",
+      "place_osm_id": "-8016721",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Волколатский сельский Совет",
+      "lon": "27.36903233925907",
+      "lat": "54.932631642249106"
+    },
+    {
+      "school_osm_id": "369355589",
+      "school_osm_type": "way",
+      "school_name": "Волколатская средняя школа",
+      "place_osm_id": "-5627713",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Волколата",
+      "lon": "27.36903233925907",
+      "lat": "54.932631642249106"
+    },
+    {
+      "school_osm_id": "369355589",
+      "school_osm_type": "way",
+      "school_name": "Волколатская средняя школа",
+      "place_osm_id": "-70716",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Докшицкий район",
+      "lon": "27.36903233925907",
+      "lat": "54.932631642249106"
+    },
+    {
+      "school_osm_id": "369355589",
+      "school_osm_type": "way",
+      "school_name": "Волколатская средняя школа",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "27.36903233925907",
+      "lat": "54.932631642249106"
+    },
+    {
+      "school_osm_id": "369355589",
+      "school_osm_type": "way",
+      "school_name": "Волколатская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.36903233925907",
+      "lat": "54.932631642249106"
+    }
+  ]
+}

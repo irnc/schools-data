@@ -1,0 +1,53 @@
+{
+  "place": "warning-school-without-place",
+  "geo": {
+    "lat": "52.07224888532334",
+    "lon": "29.020153916626835"
+  },
+  "group": [
+    {
+      "school_osm_id": "835143201",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8087881",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Слободской сельский Совет",
+      "lon": "29.020153916626835",
+      "lat": "52.07224888532334"
+    },
+    {
+      "school_osm_id": "835143201",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70815",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Мозырский район",
+      "lon": "29.020153916626835",
+      "lat": "52.07224888532334"
+    },
+    {
+      "school_osm_id": "835143201",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "29.020153916626835",
+      "lat": "52.07224888532334"
+    },
+    {
+      "school_osm_id": "835143201",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.020153916626835",
+      "lat": "52.07224888532334"
+    }
+  ]
+}

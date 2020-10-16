@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Прудок",
+    "osm_id": "-7443535",
+    "hierarchy": [
+      "Юровичский сельский Совет",
+      "Калинковичский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.01279964929902",
+    "lon": "29.520589900025687"
+  },
+  "group": [
+    {
+      "school_osm_id": "242118404",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8087892",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Юровичский сельский Совет",
+      "lon": "29.520589900025687",
+      "lat": "52.01279964929902"
+    },
+    {
+      "school_osm_id": "242118404",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7443535",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Прудок",
+      "lon": "29.520589900025687",
+      "lat": "52.01279964929902"
+    },
+    {
+      "school_osm_id": "242118404",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70814",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Калинковичский район",
+      "lon": "29.520589900025687",
+      "lat": "52.01279964929902"
+    },
+    {
+      "school_osm_id": "242118404",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "29.520589900025687",
+      "lat": "52.01279964929902"
+    },
+    {
+      "school_osm_id": "242118404",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.520589900025687",
+      "lat": "52.01279964929902"
+    }
+  ]
+}

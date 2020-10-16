@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Новое Село",
+    "osm_id": "-7487419",
+    "hierarchy": [
+      "Крынковский сельский Совет",
+      "Лиозненский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.02523624165188",
+    "lon": "30.582266864385602"
+  },
+  "group": [
+    {
+      "school_osm_id": "168173118",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8075984",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Крынковский сельский Совет",
+      "lon": "30.582266864385602",
+      "lat": "55.02523624165188"
+    },
+    {
+      "school_osm_id": "168173118",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7487419",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Новое Село",
+      "lon": "30.582266864385602",
+      "lat": "55.02523624165188"
+    },
+    {
+      "school_osm_id": "168173118",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70665",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Лиозненский район",
+      "lon": "30.582266864385602",
+      "lat": "55.02523624165188"
+    },
+    {
+      "school_osm_id": "168173118",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "30.582266864385602",
+      "lat": "55.02523624165188"
+    },
+    {
+      "school_osm_id": "168173118",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.582266864385602",
+      "lat": "55.02523624165188"
+    }
+  ]
+}

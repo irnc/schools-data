@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Малеч",
+    "osm_id": "-7459242",
+    "hierarchy": [
+      "Малечский сельский Совет",
+      "Берёзовский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.48627671963603",
+    "lon": "24.69866265068026"
+  },
+  "group": [
+    {
+      "school_osm_id": "526430400",
+      "school_osm_type": "way",
+      "school_name": "Малечская санаторная школа-интернат",
+      "place_osm_id": "-8085944",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Малечский сельский Совет",
+      "lon": "24.69866265068026",
+      "lat": "52.48627671963603"
+    },
+    {
+      "school_osm_id": "526430400",
+      "school_osm_type": "way",
+      "school_name": "Малечская санаторная школа-интернат",
+      "place_osm_id": "-7459242",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Малеч",
+      "lon": "24.69866265068026",
+      "lat": "52.48627671963603"
+    },
+    {
+      "school_osm_id": "526430400",
+      "school_osm_type": "way",
+      "school_name": "Малечская санаторная школа-интернат",
+      "place_osm_id": "-71107",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Берёзовский район",
+      "lon": "24.69866265068026",
+      "lat": "52.48627671963603"
+    },
+    {
+      "school_osm_id": "526430400",
+      "school_osm_type": "way",
+      "school_name": "Малечская санаторная школа-интернат",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "24.69866265068026",
+      "lat": "52.48627671963603"
+    },
+    {
+      "school_osm_id": "526430400",
+      "school_osm_type": "way",
+      "school_name": "Малечская санаторная школа-интернат",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "24.69866265068026",
+      "lat": "52.48627671963603"
+    }
+  ]
+}

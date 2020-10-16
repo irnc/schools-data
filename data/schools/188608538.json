@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Чашники",
+    "osm_id": "-1180571",
+    "hierarchy": [
+      "Чашникский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.84184211316719",
+    "lon": "29.195906788890444"
+  },
+  "group": [
+    {
+      "school_osm_id": "188608538",
+      "school_osm_type": "way",
+      "school_name": "Базовая школа",
+      "place_osm_id": "-1180571",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Чашники",
+      "lon": "29.195906788890444",
+      "lat": "54.84184211316719"
+    },
+    {
+      "school_osm_id": "188608538",
+      "school_osm_type": "way",
+      "school_name": "Базовая школа",
+      "place_osm_id": "-70746",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Чашникский район",
+      "lon": "29.195906788890444",
+      "lat": "54.84184211316719"
+    },
+    {
+      "school_osm_id": "188608538",
+      "school_osm_type": "way",
+      "school_name": "Базовая школа",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "29.195906788890444",
+      "lat": "54.84184211316719"
+    },
+    {
+      "school_osm_id": "188608538",
+      "school_osm_type": "way",
+      "school_name": "Базовая школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.195906788890444",
+      "lat": "54.84184211316719"
+    }
+  ]
+}

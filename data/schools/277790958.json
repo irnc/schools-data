@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Красная Слобода",
+    "osm_id": "-6722833",
+    "hierarchy": [
+      "Солигорский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.840429164141675",
+    "lon": "27.17279594885681"
+  },
+  "group": [
+    {
+      "school_osm_id": "277790958",
+      "school_osm_type": "way",
+      "school_name": "школа-интернат",
+      "place_osm_id": "-6722833",
+      "place_admin_level": "8",
+      "place_place": "village",
+      "place_name": "Красная Слобода",
+      "lon": "27.17279594885681",
+      "lat": "52.840429164141675"
+    },
+    {
+      "school_osm_id": "277790958",
+      "school_osm_type": "way",
+      "school_name": "школа-интернат",
+      "place_osm_id": "-71133",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Солигорский район",
+      "lon": "27.17279594885681",
+      "lat": "52.840429164141675"
+    },
+    {
+      "school_osm_id": "277790958",
+      "school_osm_type": "way",
+      "school_name": "школа-интернат",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.17279594885681",
+      "lat": "52.840429164141675"
+    },
+    {
+      "school_osm_id": "277790958",
+      "school_osm_type": "way",
+      "school_name": "школа-интернат",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.17279594885681",
+      "lat": "52.840429164141675"
+    }
+  ]
+}

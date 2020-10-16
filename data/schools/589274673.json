@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Мошканы",
+    "osm_id": "-7501734",
+    "hierarchy": [
+      "Мошканский сельский Совет",
+      "Сенненский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.957907871407045",
+    "lon": "30.045077061651007"
+  },
+  "group": [
+    {
+      "school_osm_id": "589274673",
+      "school_osm_type": "way",
+      "school_name": "Мошканская детский сад - средняя школа",
+      "place_osm_id": "-7923829",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Мошканский сельский Совет",
+      "lon": "30.045077061651007",
+      "lat": "54.957907871407045"
+    },
+    {
+      "school_osm_id": "589274673",
+      "school_osm_type": "way",
+      "school_name": "Мошканская детский сад - средняя школа",
+      "place_osm_id": "-7501734",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Мошканы",
+      "lon": "30.045077061651007",
+      "lat": "54.957907871407045"
+    },
+    {
+      "school_osm_id": "589274673",
+      "school_osm_type": "way",
+      "school_name": "Мошканская детский сад - средняя школа",
+      "place_osm_id": "-70662",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Сенненский район",
+      "lon": "30.045077061651007",
+      "lat": "54.957907871407045"
+    },
+    {
+      "school_osm_id": "589274673",
+      "school_osm_type": "way",
+      "school_name": "Мошканская детский сад - средняя школа",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "30.045077061651007",
+      "lat": "54.957907871407045"
+    },
+    {
+      "school_osm_id": "589274673",
+      "school_osm_type": "way",
+      "school_name": "Мошканская детский сад - средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.045077061651007",
+      "lat": "54.957907871407045"
+    }
+  ]
+}

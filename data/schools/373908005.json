@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Першаи",
+    "osm_id": "-7535368",
+    "hierarchy": [
+      "Першайский сельский Совет",
+      "Воложинский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.03655139821398",
+    "lon": "26.680238704673204"
+  },
+  "group": [
+    {
+      "school_osm_id": "373908005",
+      "school_osm_type": "way",
+      "school_name": "Першайский УПК детский сад - средняя школа",
+      "place_osm_id": "-8014020",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Першайский сельский Совет",
+      "lon": "26.680238704673204",
+      "lat": "54.03655139821398"
+    },
+    {
+      "school_osm_id": "373908005",
+      "school_osm_type": "way",
+      "school_name": "Першайский УПК детский сад - средняя школа",
+      "place_osm_id": "-7535368",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Першаи",
+      "lon": "26.680238704673204",
+      "lat": "54.03655139821398"
+    },
+    {
+      "school_osm_id": "373908005",
+      "school_osm_type": "way",
+      "school_name": "Першайский УПК детский сад - средняя школа",
+      "place_osm_id": "-70565",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Воложинский район",
+      "lon": "26.680238704673204",
+      "lat": "54.03655139821398"
+    },
+    {
+      "school_osm_id": "373908005",
+      "school_osm_type": "way",
+      "school_name": "Першайский УПК детский сад - средняя школа",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "26.680238704673204",
+      "lat": "54.03655139821398"
+    },
+    {
+      "school_osm_id": "373908005",
+      "school_osm_type": "way",
+      "school_name": "Першайский УПК детский сад - средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.680238704673204",
+      "lat": "54.03655139821398"
+    }
+  ]
+}

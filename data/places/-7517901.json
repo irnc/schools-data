@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "377275141",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа г.п.Мир",
+    "place_osm_id": "-7517901",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Мир",
+    "lon": "26.46527907901943",
+    "lat": "53.46002285146415"
+  },
+  {
+    "school_osm_id": "3014280838",
+    "school_osm_type": "node",
+    "school_name": "Музыкальная школа",
+    "place_osm_id": "-7517901",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Мир",
+    "lon": "26.458215200000005",
+    "lat": "53.45606479911539"
+  }
+]

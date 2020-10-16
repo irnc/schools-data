@@ -1,0 +1,53 @@
+{
+  "place": "warning-school-without-place",
+  "geo": {
+    "lat": "52.28866938832544",
+    "lon": "29.370854364373475"
+  },
+  "group": [
+    {
+      "school_osm_id": "357668318",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8087906",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Горочичский сельский Совет",
+      "lon": "29.370854364373475",
+      "lat": "52.28866938832544"
+    },
+    {
+      "school_osm_id": "357668318",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70814",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Калинковичский район",
+      "lon": "29.370854364373475",
+      "lat": "52.28866938832544"
+    },
+    {
+      "school_osm_id": "357668318",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "29.370854364373475",
+      "lat": "52.28866938832544"
+    },
+    {
+      "school_osm_id": "357668318",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.370854364373475",
+      "lat": "52.28866938832544"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Новосёлки",
+    "osm_id": "-7525324",
+    "hierarchy": [
+      "Новосёлковский сельский Совет",
+      "Ошмянский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.404228194516136",
+    "lon": "26.081995745900713"
+  },
+  "group": [
+    {
+      "school_osm_id": "816339729",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8021177",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Новосёлковский сельский Совет",
+      "lon": "26.081995745900713",
+      "lat": "54.404228194516136"
+    },
+    {
+      "school_osm_id": "816339729",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7525324",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Новосёлки",
+      "lon": "26.081995745900713",
+      "lat": "54.404228194516136"
+    },
+    {
+      "school_osm_id": "816339729",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70728",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Ошмянский район",
+      "lon": "26.081995745900713",
+      "lat": "54.404228194516136"
+    },
+    {
+      "school_osm_id": "816339729",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "26.081995745900713",
+      "lat": "54.404228194516136"
+    },
+    {
+      "school_osm_id": "816339729",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.081995745900713",
+      "lat": "54.404228194516136"
+    }
+  ]
+}

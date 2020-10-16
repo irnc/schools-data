@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Косино",
+    "osm_id": "-7543311",
+    "hierarchy": [
+      "Логойский сельский Совет",
+      "Логойский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.12098403174099",
+    "lon": "27.950954883333708"
+  },
+  "group": [
+    {
+      "school_osm_id": "468002725",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8014103",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Логойский сельский Совет",
+      "lon": "27.950954883333708",
+      "lat": "54.12098403174099"
+    },
+    {
+      "school_osm_id": "468002725",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7543311",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Косино",
+      "lon": "27.950954883333708",
+      "lat": "54.12098403174099"
+    },
+    {
+      "school_osm_id": "468002725",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70542",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Логойский район",
+      "lon": "27.950954883333708",
+      "lat": "54.12098403174099"
+    },
+    {
+      "school_osm_id": "468002725",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.950954883333708",
+      "lat": "54.12098403174099"
+    },
+    {
+      "school_osm_id": "468002725",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.950954883333708",
+      "lat": "54.12098403174099"
+    }
+  ]
+}

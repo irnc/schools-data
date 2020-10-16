@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Крупейки",
+    "osm_id": "-7446522",
+    "hierarchy": [
+      "Колпенский сельский Совет",
+      "Лоевский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "51.91775529912484",
+    "lon": "30.7291163"
+  },
+  "group": [
+    {
+      "school_osm_id": "7684472811",
+      "school_osm_type": "node",
+      "school_name": "Крупейская базовая школа",
+      "place_osm_id": "-8031200",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Колпенский сельский Совет",
+      "lon": "30.7291163",
+      "lat": "51.91775529912484"
+    },
+    {
+      "school_osm_id": "7684472811",
+      "school_osm_type": "node",
+      "school_name": "Крупейская базовая школа",
+      "place_osm_id": "-7446522",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Крупейки",
+      "lon": "30.7291163",
+      "lat": "51.91775529912484"
+    },
+    {
+      "school_osm_id": "7684472811",
+      "school_osm_type": "node",
+      "school_name": "Крупейская базовая школа",
+      "place_osm_id": "-70799",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Лоевский район",
+      "lon": "30.7291163",
+      "lat": "51.91775529912484"
+    },
+    {
+      "school_osm_id": "7684472811",
+      "school_osm_type": "node",
+      "school_name": "Крупейская базовая школа",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "30.7291163",
+      "lat": "51.91775529912484"
+    },
+    {
+      "school_osm_id": "7684472811",
+      "school_osm_type": "node",
+      "school_name": "Крупейская базовая школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.7291163",
+      "lat": "51.91775529912484"
+    }
+  ]
+}

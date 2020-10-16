@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Клетное",
+    "osm_id": "-7573529",
+    "hierarchy": [
+      "Славковичский сельский Совет",
+      "Глусский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.817948401156954",
+    "lon": "28.63439376948883"
+  },
+  "group": [
+    {
+      "school_osm_id": "218879030",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8144278",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Славковичский сельский Совет",
+      "lon": "28.63439376948883",
+      "lat": "52.817948401156954"
+    },
+    {
+      "school_osm_id": "218879030",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7573529",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Клетное",
+      "lon": "28.63439376948883",
+      "lat": "52.817948401156954"
+    },
+    {
+      "school_osm_id": "218879030",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-71138",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Глусский район",
+      "lon": "28.63439376948883",
+      "lat": "52.817948401156954"
+    },
+    {
+      "school_osm_id": "218879030",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "28.63439376948883",
+      "lat": "52.817948401156954"
+    },
+    {
+      "school_osm_id": "218879030",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.63439376948883",
+      "lat": "52.817948401156954"
+    }
+  ]
+}

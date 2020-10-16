@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "326048630",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7446526",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Сутково",
+    "lon": "30.730125372219113",
+    "lat": "52.03012944972834"
+  },
+  {
+    "school_osm_id": "326051697",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7446526",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Сутково",
+    "lon": "30.725470007856572",
+    "lat": "52.02942216273765"
+  }
+]

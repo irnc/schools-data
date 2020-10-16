@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Озаричи",
+    "osm_id": "-7443602",
+    "hierarchy": [
+      "Озаричский сельский Совет",
+      "Калинковичский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.46415322865214",
+    "lon": "29.2619202892638"
+  },
+  "group": [
+    {
+      "school_osm_id": "731776056",
+      "school_osm_type": "way",
+      "school_name": "Озаричская Средняя школа",
+      "place_osm_id": "-8087908",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Озаричский сельский Совет",
+      "lon": "29.2619202892638",
+      "lat": "52.46415322865214"
+    },
+    {
+      "school_osm_id": "731776056",
+      "school_osm_type": "way",
+      "school_name": "Озаричская Средняя школа",
+      "place_osm_id": "-7443602",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Озаричи",
+      "lon": "29.2619202892638",
+      "lat": "52.46415322865214"
+    },
+    {
+      "school_osm_id": "731776056",
+      "school_osm_type": "way",
+      "school_name": "Озаричская Средняя школа",
+      "place_osm_id": "-70814",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Калинковичский район",
+      "lon": "29.2619202892638",
+      "lat": "52.46415322865214"
+    },
+    {
+      "school_osm_id": "731776056",
+      "school_osm_type": "way",
+      "school_name": "Озаричская Средняя школа",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "29.2619202892638",
+      "lat": "52.46415322865214"
+    },
+    {
+      "school_osm_id": "731776056",
+      "school_osm_type": "way",
+      "school_name": "Озаричская Средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.2619202892638",
+      "lat": "52.46415322865214"
+    }
+  ]
+}

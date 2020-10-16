@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Ивольск",
+    "osm_id": "-7440425",
+    "hierarchy": [
+      "Кривский сельский Совет",
+      "Буда-Кошелёвский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.542061399086926",
+    "lon": "30.5386261"
+  },
+  "group": [
+    {
+      "school_osm_id": "2099985743",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-8100455",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Кривский сельский Совет",
+      "lon": "30.5386261",
+      "lat": "52.542061399086926"
+    },
+    {
+      "school_osm_id": "2099985743",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-7440425",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Ивольск",
+      "lon": "30.5386261",
+      "lat": "52.542061399086926"
+    },
+    {
+      "school_osm_id": "2099985743",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-59175",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Буда-Кошелёвский район",
+      "lon": "30.5386261",
+      "lat": "52.542061399086926"
+    },
+    {
+      "school_osm_id": "2099985743",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "30.5386261",
+      "lat": "52.542061399086926"
+    },
+    {
+      "school_osm_id": "2099985743",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.5386261",
+      "lat": "52.542061399086926"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+[
+  {
+    "school_osm_id": "106106318",
+    "school_osm_type": "way",
+    "school_name": "Центр детского творчества",
+    "place_osm_id": "-6722367",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Большая Берестовица",
+    "lon": "24.012960898581277",
+    "lat": "53.18767049745553"
+  },
+  {
+    "school_osm_id": "184467574",
+    "school_osm_type": "way",
+    "school_name": "Школа им. Притыцкого",
+    "place_osm_id": "-6722367",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Большая Берестовица",
+    "lon": "24.01298650141491",
+    "lat": "53.19719092716553"
+  },
+  {
+    "school_osm_id": "546659451",
+    "school_osm_type": "way",
+    "school_name": "Сельскохозяйственный профессиональный лицей",
+    "place_osm_id": "-6722367",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Большая Берестовица",
+    "lon": "24.01361569915561",
+    "lat": "53.20087026644876"
+  },
+  {
+    "school_osm_id": "795460046",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-6722367",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Большая Берестовица",
+    "lon": "24.012855386765835",
+    "lat": "53.18769051724936"
+  }
+]

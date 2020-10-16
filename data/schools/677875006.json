@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Полонка",
+    "osm_id": "-7456726",
+    "hierarchy": [
+      "Полонковский сельский Совет",
+      "Барановичский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.145028313467364",
+    "lon": "25.71569914755058"
+  },
+  "group": [
+    {
+      "school_osm_id": "677875006",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8096119",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Полонковский сельский Совет",
+      "lon": "25.71569914755058",
+      "lat": "53.145028313467364"
+    },
+    {
+      "school_osm_id": "677875006",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7456726",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Полонка",
+      "lon": "25.71569914755058",
+      "lat": "53.145028313467364"
+    },
+    {
+      "school_osm_id": "677875006",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-71116",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Барановичский район",
+      "lon": "25.71569914755058",
+      "lat": "53.145028313467364"
+    },
+    {
+      "school_osm_id": "677875006",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "25.71569914755058",
+      "lat": "53.145028313467364"
+    },
+    {
+      "school_osm_id": "677875006",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "25.71569914755058",
+      "lat": "53.145028313467364"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Гольшаны",
+    "osm_id": "-7525495",
+    "hierarchy": [
+      "Гольшанский сельский Совет",
+      "Ошмянский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.257884650902426",
+    "lon": "26.016199569170507"
+  },
+  "group": [
+    {
+      "school_osm_id": "374063554",
+      "school_osm_type": "way",
+      "school_name": "Гольшанская средняя школа",
+      "place_osm_id": "-8021185",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Гольшанский сельский Совет",
+      "lon": "26.016199569170507",
+      "lat": "54.257884650902426"
+    },
+    {
+      "school_osm_id": "374063554",
+      "school_osm_type": "way",
+      "school_name": "Гольшанская средняя школа",
+      "place_osm_id": "-7525495",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Гольшаны",
+      "lon": "26.016199569170507",
+      "lat": "54.257884650902426"
+    },
+    {
+      "school_osm_id": "374063554",
+      "school_osm_type": "way",
+      "school_name": "Гольшанская средняя школа",
+      "place_osm_id": "-70728",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Ошмянский район",
+      "lon": "26.016199569170507",
+      "lat": "54.257884650902426"
+    },
+    {
+      "school_osm_id": "374063554",
+      "school_osm_type": "way",
+      "school_name": "Гольшанская средняя школа",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "26.016199569170507",
+      "lat": "54.257884650902426"
+    },
+    {
+      "school_osm_id": "374063554",
+      "school_osm_type": "way",
+      "school_name": "Гольшанская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.016199569170507",
+      "lat": "54.257884650902426"
+    }
+  ]
+}

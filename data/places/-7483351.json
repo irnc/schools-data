@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "369371668",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7483351",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Гнездилово",
+    "lon": "27.75245815993608",
+    "lat": "54.81998806954566"
+  },
+  {
+    "school_osm_id": "4872695721",
+    "school_osm_type": "node",
+    "school_name": "Гнездиловский Детский Сад\" - \"Базовая Школа\"",
+    "place_osm_id": "-7483351",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Гнездилово",
+    "lon": "27.752545599999998",
+    "lat": "54.81949269936783"
+  }
+]

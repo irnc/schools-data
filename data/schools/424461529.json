@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Ухвала",
+    "osm_id": "-7543059",
+    "hierarchy": [
+      "Ухвальский сельский Совет",
+      "Крупский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.10365259403218",
+    "lon": "29.21183115722987"
+  },
+  "group": [
+    {
+      "school_osm_id": "424461529",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8016694",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Ухвальский сельский Совет",
+      "lon": "29.21183115722987",
+      "lat": "54.10365259403218"
+    },
+    {
+      "school_osm_id": "424461529",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7543059",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Ухвала",
+      "lon": "29.21183115722987",
+      "lat": "54.10365259403218"
+    },
+    {
+      "school_osm_id": "424461529",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70639",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Крупский район",
+      "lon": "29.21183115722987",
+      "lat": "54.10365259403218"
+    },
+    {
+      "school_osm_id": "424461529",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "29.21183115722987",
+      "lat": "54.10365259403218"
+    },
+    {
+      "school_osm_id": "424461529",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.21183115722987",
+      "lat": "54.10365259403218"
+    }
+  ]
+}

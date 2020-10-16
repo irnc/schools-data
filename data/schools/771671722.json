@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Будча",
+    "osm_id": "-7463748",
+    "hierarchy": [
+      "Чудинский сельский Совет",
+      "Ганцевичский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.76025334375939",
+    "lon": "26.843285780918205"
+  },
+  "group": [
+    {
+      "school_osm_id": "771671722",
+      "school_osm_type": "way",
+      "school_name": "Будчанский ясли-сад - средняя школа",
+      "place_osm_id": "-8096139",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Чудинский сельский Совет",
+      "lon": "26.843285780918205",
+      "lat": "52.76025334375939"
+    },
+    {
+      "school_osm_id": "771671722",
+      "school_osm_type": "way",
+      "school_name": "Будчанский ясли-сад - средняя школа",
+      "place_osm_id": "-7463748",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Будча",
+      "lon": "26.843285780918205",
+      "lat": "52.76025334375939"
+    },
+    {
+      "school_osm_id": "771671722",
+      "school_osm_type": "way",
+      "school_name": "Будчанский ясли-сад - средняя школа",
+      "place_osm_id": "-71121",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Ганцевичский район",
+      "lon": "26.843285780918205",
+      "lat": "52.76025334375939"
+    },
+    {
+      "school_osm_id": "771671722",
+      "school_osm_type": "way",
+      "school_name": "Будчанский ясли-сад - средняя школа",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "26.843285780918205",
+      "lat": "52.76025334375939"
+    },
+    {
+      "school_osm_id": "771671722",
+      "school_osm_type": "way",
+      "school_name": "Будчанский ясли-сад - средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.843285780918205",
+      "lat": "52.76025334375939"
+    }
+  ]
+}

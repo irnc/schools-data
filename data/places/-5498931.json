@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "244005020",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-5498931",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Кривичи",
+    "lon": "27.28880223394717",
+    "lat": "54.7170516088121"
+  },
+  {
+    "school_osm_id": "244005092",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-5498931",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Кривичи",
+    "lon": "27.289442041863648",
+    "lat": "54.718970251066295"
+  }
+]

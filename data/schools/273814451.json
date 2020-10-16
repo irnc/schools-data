@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Бешенковичи",
+    "osm_id": "-6722290",
+    "hierarchy": [
+      "Бешенковичский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.045920875253074",
+    "lon": "29.463634118369995"
+  },
+  "group": [
+    {
+      "school_osm_id": "273814451",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа № 2",
+      "place_osm_id": "-6722290",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Бешенковичи",
+      "lon": "29.463634118369995",
+      "lat": "55.045920875253074"
+    },
+    {
+      "school_osm_id": "273814451",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа № 2",
+      "place_osm_id": "-70668",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Бешенковичский район",
+      "lon": "29.463634118369995",
+      "lat": "55.045920875253074"
+    },
+    {
+      "school_osm_id": "273814451",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа № 2",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "29.463634118369995",
+      "lat": "55.045920875253074"
+    },
+    {
+      "school_osm_id": "273814451",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа № 2",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.463634118369995",
+      "lat": "55.045920875253074"
+    }
+  ]
+}

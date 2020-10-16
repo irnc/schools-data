@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "373908005",
+    "school_osm_type": "way",
+    "school_name": "Першайский УПК детский сад - средняя школа",
+    "place_osm_id": "-7535368",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Першаи",
+    "lon": "26.680238704673204",
+    "lat": "54.03655139821398"
+  },
+  {
+    "school_osm_id": "7287762154",
+    "school_osm_type": "node",
+    "school_name": "Музыкальная школа",
+    "place_osm_id": "-7535368",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Першаи",
+    "lon": "26.679916599999995",
+    "lat": "54.03567019919098"
+  }
+]

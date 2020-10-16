@@ -1,0 +1,57 @@
+[
+  {
+    "school_osm_id": "32682724",
+    "school_osm_type": "way",
+    "school_name": "Гимназия",
+    "place_osm_id": "-6722549",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Логойск",
+    "lon": "27.85421046083906",
+    "lat": "54.21138414444483"
+  },
+  {
+    "school_osm_id": "32682866",
+    "school_osm_type": "way",
+    "school_name": "Школа искусств",
+    "place_osm_id": "-6722549",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Логойск",
+    "lon": "27.84721755454161",
+    "lat": "54.200928137674744"
+  },
+  {
+    "school_osm_id": "344166454",
+    "school_osm_type": "way",
+    "school_name": "Логойская средняя школа № 1",
+    "place_osm_id": "-6722549",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Логойск",
+    "lon": "27.838403540306988",
+    "lat": "54.20433869709966"
+  },
+  {
+    "school_osm_id": "344166455",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №3",
+    "place_osm_id": "-6722549",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Логойск",
+    "lon": "27.845718899645526",
+    "lat": "54.202181371783766"
+  },
+  {
+    "school_osm_id": "672616166",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-6722549",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Логойск",
+    "lon": "27.854929953823348",
+    "lat": "54.21127990319467"
+  }
+]

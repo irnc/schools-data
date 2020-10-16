@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Кричев",
+    "osm_id": "-6722694",
+    "hierarchy": [
+      "Кричевский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.69258658199495",
+    "lon": "31.71372439473935"
+  },
+  "group": [
+    {
+      "school_osm_id": "340059220",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа №1",
+      "place_osm_id": "-6722694",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Кричев",
+      "lon": "31.71372439473935",
+      "lat": "53.69258658199495"
+    },
+    {
+      "school_osm_id": "340059220",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа №1",
+      "place_osm_id": "-70614",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Кричевский район",
+      "lon": "31.71372439473935",
+      "lat": "53.69258658199495"
+    },
+    {
+      "school_osm_id": "340059220",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа №1",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "31.71372439473935",
+      "lat": "53.69258658199495"
+    },
+    {
+      "school_osm_id": "340059220",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа №1",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "31.71372439473935",
+      "lat": "53.69258658199495"
+    }
+  ]
+}

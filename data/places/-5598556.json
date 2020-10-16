@@ -1,0 +1,68 @@
+[
+  {
+    "school_osm_id": "-2901530",
+    "school_osm_type": "relation",
+    "school_name": "СШ №2",
+    "place_osm_id": "-5598556",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Добруш",
+    "lon": "31.330998523046606",
+    "lat": "52.383961400724644"
+  },
+  {
+    "school_osm_id": "176072281",
+    "school_osm_type": "way",
+    "school_name": "Гимназия",
+    "place_osm_id": "-5598556",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Добруш",
+    "lon": "31.306992691009786",
+    "lat": "52.42429756461217"
+  },
+  {
+    "school_osm_id": "219366464",
+    "school_osm_type": "way",
+    "school_name": "СШ №1",
+    "place_osm_id": "-5598556",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Добруш",
+    "lon": "31.315915664759874",
+    "lat": "52.422303964398345"
+  },
+  {
+    "school_osm_id": "219366468",
+    "school_osm_type": "way",
+    "school_name": "СШ №5",
+    "place_osm_id": "-5598556",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Добруш",
+    "lon": "31.308827020936228",
+    "lat": "52.43410595992309"
+  },
+  {
+    "school_osm_id": "712931205",
+    "school_osm_type": "way",
+    "school_name": "ЦДТ",
+    "place_osm_id": "-5598556",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Добруш",
+    "lon": "31.322707318616846",
+    "lat": "52.41171050791528"
+  },
+  {
+    "school_osm_id": "712931207",
+    "school_osm_type": "way",
+    "school_name": "СШ №3",
+    "place_osm_id": "-5598556",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Добруш",
+    "lon": "31.32390372422496",
+    "lat": "52.41177106286316"
+  }
+]

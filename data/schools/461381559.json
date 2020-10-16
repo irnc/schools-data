@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Калинковичи",
+    "osm_id": "-5598615",
+    "hierarchy": [
+      "Калинковичский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.12892566842712",
+    "lon": "29.335247059031463"
+  },
+  "group": [
+    {
+      "school_osm_id": "461381559",
+      "school_osm_type": "way",
+      "school_name": "ГУО СРЕДНЯЯ ШКОЛА N 1",
+      "place_osm_id": "-5598615",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Калинковичи",
+      "lon": "29.335247059031463",
+      "lat": "52.12892566842712"
+    },
+    {
+      "school_osm_id": "461381559",
+      "school_osm_type": "way",
+      "school_name": "ГУО СРЕДНЯЯ ШКОЛА N 1",
+      "place_osm_id": "-70814",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Калинковичский район",
+      "lon": "29.335247059031463",
+      "lat": "52.12892566842712"
+    },
+    {
+      "school_osm_id": "461381559",
+      "school_osm_type": "way",
+      "school_name": "ГУО СРЕДНЯЯ ШКОЛА N 1",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "29.335247059031463",
+      "lat": "52.12892566842712"
+    },
+    {
+      "school_osm_id": "461381559",
+      "school_osm_type": "way",
+      "school_name": "ГУО СРЕДНЯЯ ШКОЛА N 1",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.335247059031463",
+      "lat": "52.12892566842712"
+    }
+  ]
+}

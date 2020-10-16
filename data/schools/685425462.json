@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Октябрь",
+    "osm_id": "-6879995",
+    "hierarchy": [
+      "Городецкий сельский Совет",
+      "Кобринский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.24416151679025",
+    "lon": "24.6026667016682"
+  },
+  "group": [
+    {
+      "school_osm_id": "685425462",
+      "school_osm_type": "way",
+      "school_name": "Октябрьский детский сад – средняя школа",
+      "place_osm_id": "-8028567",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Городецкий сельский Совет",
+      "lon": "24.6026667016682",
+      "lat": "52.24416151679025"
+    },
+    {
+      "school_osm_id": "685425462",
+      "school_osm_type": "way",
+      "school_name": "Октябрьский детский сад – средняя школа",
+      "place_osm_id": "-6879995",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Октябрь",
+      "lon": "24.6026667016682",
+      "lat": "52.24416151679025"
+    },
+    {
+      "school_osm_id": "685425462",
+      "school_osm_type": "way",
+      "school_name": "Октябрьский детский сад – средняя школа",
+      "place_osm_id": "-71101",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Кобринский район",
+      "lon": "24.6026667016682",
+      "lat": "52.24416151679025"
+    },
+    {
+      "school_osm_id": "685425462",
+      "school_osm_type": "way",
+      "school_name": "Октябрьский детский сад – средняя школа",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "24.6026667016682",
+      "lat": "52.24416151679025"
+    },
+    {
+      "school_osm_id": "685425462",
+      "school_osm_type": "way",
+      "school_name": "Октябрьский детский сад – средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "24.6026667016682",
+      "lat": "52.24416151679025"
+    }
+  ]
+}

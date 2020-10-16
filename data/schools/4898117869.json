@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Узда",
+    "osm_id": "-6722622",
+    "hierarchy": [
+      "Узденский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.45966059911569",
+    "lon": "27.219887499999995"
+  },
+  "group": [
+    {
+      "school_osm_id": "4898117869",
+      "school_osm_type": "node",
+      "school_name": "Школа №1 им. А.С.Пушкина",
+      "place_osm_id": "-6722622",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Узда",
+      "lon": "27.219887499999995",
+      "lat": "53.45966059911569"
+    },
+    {
+      "school_osm_id": "4898117869",
+      "school_osm_type": "node",
+      "school_name": "Школа №1 им. А.С.Пушкина",
+      "place_osm_id": "-70561",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Узденский район",
+      "lon": "27.219887499999995",
+      "lat": "53.45966059911569"
+    },
+    {
+      "school_osm_id": "4898117869",
+      "school_osm_type": "node",
+      "school_name": "Школа №1 им. А.С.Пушкина",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.219887499999995",
+      "lat": "53.45966059911569"
+    },
+    {
+      "school_osm_id": "4898117869",
+      "school_osm_type": "node",
+      "school_name": "Школа №1 им. А.С.Пушкина",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.219887499999995",
+      "lat": "53.45966059911569"
+    }
+  ]
+}

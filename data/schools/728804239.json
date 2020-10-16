@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Быхов",
+    "osm_id": "-6722642",
+    "hierarchy": [
+      "Быховский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.52372178678028",
+    "lon": "30.228041258911958"
+  },
+  "group": [
+    {
+      "school_osm_id": "728804239",
+      "school_osm_type": "way",
+      "school_name": "Гимназия г. Быхова",
+      "place_osm_id": "-6722642",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Быхов",
+      "lon": "30.228041258911958",
+      "lat": "53.52372178678028"
+    },
+    {
+      "school_osm_id": "728804239",
+      "school_osm_type": "way",
+      "school_name": "Гимназия г. Быхова",
+      "place_osm_id": "-70586",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Быховский район",
+      "lon": "30.228041258911958",
+      "lat": "53.52372178678028"
+    },
+    {
+      "school_osm_id": "728804239",
+      "school_osm_type": "way",
+      "school_name": "Гимназия г. Быхова",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "30.228041258911958",
+      "lat": "53.52372178678028"
+    },
+    {
+      "school_osm_id": "728804239",
+      "school_osm_type": "way",
+      "school_name": "Гимназия г. Быхова",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.228041258911958",
+      "lat": "53.52372178678028"
+    }
+  ]
+}

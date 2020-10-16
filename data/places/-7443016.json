@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "181081908",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7443016",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Иговка",
+    "lon": "31.430476904228644",
+    "lat": "52.35179203323663"
+  },
+  {
+    "school_osm_id": "181081909",
+    "school_osm_type": "way",
+    "school_name": "Иговская СШ",
+    "place_osm_id": "-7443016",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Иговка",
+    "lon": "31.430655691003754",
+    "lat": "52.3517994966759"
+  }
+]

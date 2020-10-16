@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "-5332012",
+    "school_osm_type": "relation",
+    "school_name": "Бобровичская средняя общеобразовательная школа",
+    "place_osm_id": "-4768448",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Бобровичи",
+    "lon": "29.370889798375504",
+    "lat": "52.2884858662327"
+  },
+  {
+    "school_osm_id": "609693093",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-4768448",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Бобровичи",
+    "lon": "29.37520369609119",
+    "lat": "52.2737307231832"
+  }
+]

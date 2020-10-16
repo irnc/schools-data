@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Журавичи",
+    "osm_id": "-7450815",
+    "hierarchy": [
+      "Журавичский сельский Совет",
+      "Рогачёвский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.247804258891215",
+    "lon": "30.543731154886153"
+  },
+  "group": [
+    {
+      "school_osm_id": "253144211",
+      "school_osm_type": "way",
+      "school_name": "Журавичский Ясли-сад",
+      "place_osm_id": "-8107308",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Журавичский сельский Совет",
+      "lon": "30.543731154886153",
+      "lat": "53.247804258891215"
+    },
+    {
+      "school_osm_id": "253144211",
+      "school_osm_type": "way",
+      "school_name": "Журавичский Ясли-сад",
+      "place_osm_id": "-7450815",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Журавичи",
+      "lon": "30.543731154886153",
+      "lat": "53.247804258891215"
+    },
+    {
+      "school_osm_id": "253144211",
+      "school_osm_type": "way",
+      "school_name": "Журавичский Ясли-сад",
+      "place_osm_id": "-59174",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Рогачёвский район",
+      "lon": "30.543731154886153",
+      "lat": "53.247804258891215"
+    },
+    {
+      "school_osm_id": "253144211",
+      "school_osm_type": "way",
+      "school_name": "Журавичский Ясли-сад",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "30.543731154886153",
+      "lat": "53.247804258891215"
+    },
+    {
+      "school_osm_id": "253144211",
+      "school_osm_type": "way",
+      "school_name": "Журавичский Ясли-сад",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.543731154886153",
+      "lat": "53.247804258891215"
+    }
+  ]
+}

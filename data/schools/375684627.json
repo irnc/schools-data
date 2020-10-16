@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Холхлово",
+    "osm_id": "-7549604",
+    "hierarchy": [
+      "Хожовский сельский Совет",
+      "Молодечненский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.16459459937779",
+    "lon": "26.76381197899602"
+  },
+  "group": [
+    {
+      "school_osm_id": "375684627",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8013922",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Хожовский сельский Совет",
+      "lon": "26.76381197899602",
+      "lat": "54.16459459937779"
+    },
+    {
+      "school_osm_id": "375684627",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7549604",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Холхлово",
+      "lon": "26.76381197899602",
+      "lat": "54.16459459937779"
+    },
+    {
+      "school_osm_id": "375684627",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70566",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Молодечненский район",
+      "lon": "26.76381197899602",
+      "lat": "54.16459459937779"
+    },
+    {
+      "school_osm_id": "375684627",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "26.76381197899602",
+      "lat": "54.16459459937779"
+    },
+    {
+      "school_osm_id": "375684627",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.76381197899602",
+      "lat": "54.16459459937779"
+    }
+  ]
+}

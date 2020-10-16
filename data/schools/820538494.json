@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Костюковичи",
+    "osm_id": "-6722678",
+    "hierarchy": [
+      "Костюковичский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.35678891498137",
+    "lon": "32.05759879227743"
+  },
+  "group": [
+    {
+      "school_osm_id": "820538494",
+      "school_osm_type": "way",
+      "school_name": "СШ №2",
+      "place_osm_id": "-6722678",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Костюковичи",
+      "lon": "32.05759879227743",
+      "lat": "53.35678891498137"
+    },
+    {
+      "school_osm_id": "820538494",
+      "school_osm_type": "way",
+      "school_name": "СШ №2",
+      "place_osm_id": "-70604",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Костюковичский район",
+      "lon": "32.05759879227743",
+      "lat": "53.35678891498137"
+    },
+    {
+      "school_osm_id": "820538494",
+      "school_osm_type": "way",
+      "school_name": "СШ №2",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "32.05759879227743",
+      "lat": "53.35678891498137"
+    },
+    {
+      "school_osm_id": "820538494",
+      "school_osm_type": "way",
+      "school_name": "СШ №2",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "32.05759879227743",
+      "lat": "53.35678891498137"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Рязанцы",
+    "osm_id": "-5155595",
+    "hierarchy": [
+      "Сапрыновичский сельский Совет",
+      "Мстиславский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.038371534398536",
+    "lon": "31.83297940673484"
+  },
+  "group": [
+    {
+      "school_osm_id": "392180675",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8076005",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Сапрыновичский сельский Совет",
+      "lon": "31.83297940673484",
+      "lat": "54.038371534398536"
+    },
+    {
+      "school_osm_id": "392180675",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-5155595",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Рязанцы",
+      "lon": "31.83297940673484",
+      "lat": "54.038371534398536"
+    },
+    {
+      "school_osm_id": "392180675",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70616",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Мстиславский район",
+      "lon": "31.83297940673484",
+      "lat": "54.038371534398536"
+    },
+    {
+      "school_osm_id": "392180675",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "31.83297940673484",
+      "lat": "54.038371534398536"
+    },
+    {
+      "school_osm_id": "392180675",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "31.83297940673484",
+      "lat": "54.038371534398536"
+    }
+  ]
+}

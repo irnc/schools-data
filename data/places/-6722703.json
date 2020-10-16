@@ -1,0 +1,46 @@
+[
+  {
+    "school_osm_id": "372848676",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-6722703",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Хотимск",
+    "lon": "32.58363534858985",
+    "lat": "53.41054293314016"
+  },
+  {
+    "school_osm_id": "3710919425",
+    "school_osm_type": "node",
+    "school_name": "ГУДО \"Районный центр творчества детей и молодежи \"Ветразь надзей\" г.п.Хотимска\"",
+    "place_osm_id": "-6722703",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Хотимск",
+    "lon": "32.577771",
+    "lat": "53.406194799111034"
+  },
+  {
+    "school_osm_id": "3710919478",
+    "school_osm_type": "node",
+    "school_name": "Дом ремесел",
+    "place_osm_id": "-6722703",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Хотимск",
+    "lon": "32.5862703",
+    "lat": "53.41202359911151"
+  },
+  {
+    "school_osm_id": "3710919479",
+    "school_osm_type": "node",
+    "school_name": "Школа искусств",
+    "place_osm_id": "-6722703",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Хотимск",
+    "lon": "32.5861748",
+    "lat": "53.412003399111505"
+  }
+]

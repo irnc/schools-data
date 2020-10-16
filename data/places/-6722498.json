@@ -1,0 +1,101 @@
+[
+  {
+    "school_osm_id": "308065629",
+    "school_osm_type": "way",
+    "school_name": "Школа №2",
+    "place_osm_id": "-6722498",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Дзержинск",
+    "lon": "27.12427033270534",
+    "lat": "53.68222491617423"
+  },
+  {
+    "school_osm_id": "352007907",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-6722498",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Дзержинск",
+    "lon": "27.1166782860901",
+    "lat": "53.69115005723217"
+  },
+  {
+    "school_osm_id": "455535108",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-6722498",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Дзержинск",
+    "lon": "27.13944617720317",
+    "lat": "53.687895361651236"
+  },
+  {
+    "school_osm_id": "2185553962",
+    "school_osm_type": "node",
+    "school_name": "Дзержинский профессиональный лицей",
+    "place_osm_id": "-6722498",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Дзержинск",
+    "lon": "27.1304803",
+    "lat": "53.674172399138406"
+  },
+  {
+    "school_osm_id": "2185560220",
+    "school_osm_type": "node",
+    "school_name": "Гимназия",
+    "place_osm_id": "-6722498",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Дзержинск",
+    "lon": "27.1396025",
+    "lat": "53.687332599139985"
+  },
+  {
+    "school_osm_id": "2186771077",
+    "school_osm_type": "node",
+    "school_name": "Детская школа искусств",
+    "place_osm_id": "-6722498",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Дзержинск",
+    "lon": "27.1279404",
+    "lat": "53.68566749913979"
+  },
+  {
+    "school_osm_id": "2186925313",
+    "school_osm_type": "node",
+    "school_name": "Средняя школа №2",
+    "place_osm_id": "-6722498",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Дзержинск",
+    "lon": "27.125150400000003",
+    "lat": "53.68256319913941"
+  },
+  {
+    "school_osm_id": "2186969657",
+    "school_osm_type": "node",
+    "school_name": "Гимназия №1",
+    "place_osm_id": "-6722498",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Дзержинск",
+    "lon": "27.135185199999995",
+    "lat": "53.684869299139685"
+  },
+  {
+    "school_osm_id": "2187013273",
+    "school_osm_type": "node",
+    "school_name": "ДЮСШ",
+    "place_osm_id": "-6722498",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Дзержинск",
+    "lon": "27.138263299999995",
+    "lat": "53.68444959913963"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "458335127",
+    "school_osm_type": "way",
+    "school_name": "СШ №1",
+    "place_osm_id": "-1180582",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Шарковщина",
+    "lon": "27.458739425395503",
+    "lat": "55.36404358861599"
+  },
+  {
+    "school_osm_id": "727149580",
+    "school_osm_type": "way",
+    "school_name": "СШ №2",
+    "place_osm_id": "-1180582",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Шарковщина",
+    "lon": "27.479519999040264",
+    "lat": "55.359948914989275"
+  }
+]

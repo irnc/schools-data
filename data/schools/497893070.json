@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Литвиновичи",
+    "osm_id": "-6906942",
+    "hierarchy": [
+      "Литвиновичский сельский Совет",
+      "Кормянский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.190724223889895",
+    "lon": "30.871921944489383"
+  },
+  "group": [
+    {
+      "school_osm_id": "497893070",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8107292",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Литвиновичский сельский Совет",
+      "lon": "30.871921944489383",
+      "lat": "53.190724223889895"
+    },
+    {
+      "school_osm_id": "497893070",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-6906942",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Литвиновичи",
+      "lon": "30.871921944489383",
+      "lat": "53.190724223889895"
+    },
+    {
+      "school_osm_id": "497893070",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "30.871921944489383",
+      "lat": "53.190724223889895"
+    },
+    {
+      "school_osm_id": "497893070",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59149",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Кормянский район",
+      "lon": "30.871921944489383",
+      "lat": "53.190724223889895"
+    },
+    {
+      "school_osm_id": "497893070",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.871921944489383",
+      "lat": "53.190724223889895"
+    }
+  ]
+}

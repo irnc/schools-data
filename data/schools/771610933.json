@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Нача",
+    "osm_id": "-7496220",
+    "hierarchy": [
+      "Ветринский сельский Совет",
+      "Полоцкий район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.39412076784212",
+    "lon": "28.343748788466918"
+  },
+  "group": [
+    {
+      "school_osm_id": "771610933",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8075977",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Ветринский сельский Совет",
+      "lon": "28.343748788466918",
+      "lat": "55.39412076784212"
+    },
+    {
+      "school_osm_id": "771610933",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7496220",
+      "place_admin_level": "10",
+      "place_place": "hamlet",
+      "place_name": "Нача",
+      "lon": "28.343748788466918",
+      "lat": "55.39412076784212"
+    },
+    {
+      "school_osm_id": "771610933",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70671",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Полоцкий район",
+      "lon": "28.343748788466918",
+      "lat": "55.39412076784212"
+    },
+    {
+      "school_osm_id": "771610933",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "28.343748788466918",
+      "lat": "55.39412076784212"
+    },
+    {
+      "school_osm_id": "771610933",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.343748788466918",
+      "lat": "55.39412076784212"
+    }
+  ]
+}

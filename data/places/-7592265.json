@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "846753188",
+    "school_osm_type": "way",
+    "school_name": "Детско-юношеская спортивная школа \"Прибужье\"",
+    "place_osm_id": "-7592265",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Тельмы 1",
+    "lon": "23.836066427774895",
+    "lat": "52.11459496971627"
+  },
+  {
+    "school_osm_id": "1307710231",
+    "school_osm_type": "node",
+    "school_name": "Средняя школа д.Тельмы-1",
+    "place_osm_id": "-7592265",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Тельмы 1",
+    "lon": "23.8266704",
+    "lat": "52.11486399910831"
+  }
+]

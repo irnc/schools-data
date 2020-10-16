@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Околово",
+    "osm_id": "-7543273",
+    "hierarchy": [
+      "Околовский сельский Совет",
+      "Логойский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.4891123871987",
+    "lon": "27.870370972561663"
+  },
+  "group": [
+    {
+      "school_osm_id": "369135201",
+      "school_osm_type": "way",
+      "school_name": "Околовская средняя школа",
+      "place_osm_id": "-8014106",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Околовский сельский Совет",
+      "lon": "27.870370972561663",
+      "lat": "54.4891123871987"
+    },
+    {
+      "school_osm_id": "369135201",
+      "school_osm_type": "way",
+      "school_name": "Околовская средняя школа",
+      "place_osm_id": "-7543273",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Околово",
+      "lon": "27.870370972561663",
+      "lat": "54.4891123871987"
+    },
+    {
+      "school_osm_id": "369135201",
+      "school_osm_type": "way",
+      "school_name": "Околовская средняя школа",
+      "place_osm_id": "-70542",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Логойский район",
+      "lon": "27.870370972561663",
+      "lat": "54.4891123871987"
+    },
+    {
+      "school_osm_id": "369135201",
+      "school_osm_type": "way",
+      "school_name": "Околовская средняя школа",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.870370972561663",
+      "lat": "54.4891123871987"
+    },
+    {
+      "school_osm_id": "369135201",
+      "school_osm_type": "way",
+      "school_name": "Околовская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.870370972561663",
+      "lat": "54.4891123871987"
+    }
+  ]
+}

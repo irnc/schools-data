@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Полудетки",
+    "osm_id": "-7476974",
+    "hierarchy": [
+      "Бабиничский сельский Совет",
+      "Витебский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.31856808188037",
+    "lon": "30.43443192687954"
+  },
+  "group": [
+    {
+      "school_osm_id": "797490478",
+      "school_osm_type": "way",
+      "school_name": "Школа",
+      "place_osm_id": "-7924025",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Бабиничский сельский Совет",
+      "lon": "30.43443192687954",
+      "lat": "55.31856808188037"
+    },
+    {
+      "school_osm_id": "797490478",
+      "school_osm_type": "way",
+      "school_name": "Школа",
+      "place_osm_id": "-7476974",
+      "place_admin_level": "10",
+      "place_place": "hamlet",
+      "place_name": "Полудетки",
+      "lon": "30.43443192687954",
+      "lat": "55.31856808188037"
+    },
+    {
+      "school_osm_id": "797490478",
+      "school_osm_type": "way",
+      "school_name": "Школа",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "30.43443192687954",
+      "lat": "55.31856808188037"
+    },
+    {
+      "school_osm_id": "797490478",
+      "school_osm_type": "way",
+      "school_name": "Школа",
+      "place_osm_id": "-59504",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Витебский район",
+      "lon": "30.43443192687954",
+      "lat": "55.31856808188037"
+    },
+    {
+      "school_osm_id": "797490478",
+      "school_osm_type": "way",
+      "school_name": "Школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.43443192687954",
+      "lat": "55.31856808188037"
+    }
+  ]
+}

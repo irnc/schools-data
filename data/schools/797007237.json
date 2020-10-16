@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Лазовичи",
+    "osm_id": "-7536793",
+    "hierarchy": [
+      "Морочский сельский Совет",
+      "Клецкий район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.960594538413815",
+    "lon": "26.879477298786504"
+  },
+  "group": [
+    {
+      "school_osm_id": "797007237",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8139726",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Морочский сельский Совет",
+      "lon": "26.879477298786504",
+      "lat": "52.960594538413815"
+    },
+    {
+      "school_osm_id": "797007237",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7536793",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Лазовичи",
+      "lon": "26.879477298786504",
+      "lat": "52.960594538413815"
+    },
+    {
+      "school_osm_id": "797007237",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-71130",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Клецкий район",
+      "lon": "26.879477298786504",
+      "lat": "52.960594538413815"
+    },
+    {
+      "school_osm_id": "797007237",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "26.879477298786504",
+      "lat": "52.960594538413815"
+    },
+    {
+      "school_osm_id": "797007237",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.879477298786504",
+      "lat": "52.960594538413815"
+    }
+  ]
+}

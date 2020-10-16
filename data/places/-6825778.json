@@ -1,0 +1,233 @@
+[
+  {
+    "school_osm_id": "-8022794",
+    "school_osm_type": "relation",
+    "school_name": "СШ № 15",
+    "place_osm_id": "-6825778",
+    "place_admin_level": "6",
+    "place_place": "city",
+    "place_name": "Новополоцк",
+    "lon": "28.59794097916958",
+    "lat": "55.58764447659949"
+  },
+  {
+    "school_osm_id": "-301549",
+    "school_osm_type": "relation",
+    "school_name": "Новополоцкий городской лицей",
+    "place_osm_id": "-6825778",
+    "place_admin_level": "6",
+    "place_place": "city",
+    "place_name": "Новополоцк",
+    "lon": "28.65715328491365",
+    "lat": "55.536112106134446"
+  },
+  {
+    "school_osm_id": "38076021",
+    "school_osm_type": "way",
+    "school_name": "Школа искусств № 1",
+    "place_osm_id": "-6825778",
+    "place_admin_level": "6",
+    "place_place": "city",
+    "place_name": "Новополоцк",
+    "lon": "28.668387910810903",
+    "lat": "55.52713297460277"
+  },
+  {
+    "school_osm_id": "38076025",
+    "school_osm_type": "way",
+    "school_name": "Центр допризывной подготовки",
+    "place_osm_id": "-6825778",
+    "place_admin_level": "6",
+    "place_place": "city",
+    "place_name": "Новополоцк",
+    "lon": "28.6648108070788",
+    "lat": "55.52724731696654"
+  },
+  {
+    "school_osm_id": "130133423",
+    "school_osm_type": "way",
+    "school_name": "СШ № 1",
+    "place_osm_id": "-6825778",
+    "place_admin_level": "6",
+    "place_place": "city",
+    "place_name": "Новополоцк",
+    "lon": "28.631586223667092",
+    "lat": "55.54187941433848"
+  },
+  {
+    "school_osm_id": "146460808",
+    "school_osm_type": "way",
+    "school_name": "СШ № 11",
+    "place_osm_id": "-6825778",
+    "place_admin_level": "6",
+    "place_place": "city",
+    "place_name": "Новополоцк",
+    "lon": "28.67837407589233",
+    "lat": "55.52497630535304"
+  },
+  {
+    "school_osm_id": "146460810",
+    "school_osm_type": "way",
+    "school_name": "СШ № 7",
+    "place_osm_id": "-6825778",
+    "place_admin_level": "6",
+    "place_place": "city",
+    "place_name": "Новополоцк",
+    "lon": "28.667416160335684",
+    "lat": "55.523476830039655"
+  },
+  {
+    "school_osm_id": "146464042",
+    "school_osm_type": "way",
+    "school_name": "Детская художественная школа им. И.Ф. Хруцкого",
+    "place_osm_id": "-6825778",
+    "place_admin_level": "6",
+    "place_place": "city",
+    "place_name": "Новополоцк",
+    "lon": "28.65726604803813",
+    "lat": "55.534603921893684"
+  },
+  {
+    "school_osm_id": "146582874",
+    "school_osm_type": "way",
+    "school_name": "СШ № 8",
+    "place_osm_id": "-6825778",
+    "place_admin_level": "6",
+    "place_place": "city",
+    "place_name": "Новополоцк",
+    "lon": "28.673073332973573",
+    "lat": "55.528311212332454"
+  },
+  {
+    "school_osm_id": "224877283",
+    "school_osm_type": "way",
+    "school_name": "СШ № 14",
+    "place_osm_id": "-6825778",
+    "place_admin_level": "6",
+    "place_place": "city",
+    "place_name": "Новополоцк",
+    "lon": "28.694675229467723",
+    "lat": "55.51636139479203"
+  },
+  {
+    "school_osm_id": "243113252",
+    "school_osm_type": "way",
+    "school_name": "СШ № 2",
+    "place_osm_id": "-6825778",
+    "place_admin_level": "6",
+    "place_place": "city",
+    "place_name": "Новополоцк",
+    "lon": "28.63788858029186",
+    "lat": "55.536567856108455"
+  },
+  {
+    "school_osm_id": "243119562",
+    "school_osm_type": "way",
+    "school_name": "Гимназия № 2",
+    "place_osm_id": "-6825778",
+    "place_admin_level": "6",
+    "place_place": "city",
+    "place_name": "Новополоцк",
+    "lon": "28.668853560904306",
+    "lat": "55.52259157714563"
+  },
+  {
+    "school_osm_id": "243120926",
+    "school_osm_type": "way",
+    "school_name": "СШ № 4",
+    "place_osm_id": "-6825778",
+    "place_admin_level": "6",
+    "place_place": "city",
+    "place_name": "Новополоцк",
+    "lon": "28.66611375486401",
+    "lat": "55.52742717980509"
+  },
+  {
+    "school_osm_id": "243495967",
+    "school_osm_type": "way",
+    "school_name": "Гимназия № 1",
+    "place_osm_id": "-6825778",
+    "place_admin_level": "6",
+    "place_place": "city",
+    "place_name": "Новополоцк",
+    "lon": "28.66652591815487",
+    "lat": "55.53228558232637"
+  },
+  {
+    "school_osm_id": "244902084",
+    "school_osm_type": "way",
+    "school_name": "СШ № 5",
+    "place_osm_id": "-6825778",
+    "place_admin_level": "6",
+    "place_place": "city",
+    "place_name": "Новополоцк",
+    "lon": "28.628370503541046",
+    "lat": "55.538484463988674"
+  },
+  {
+    "school_osm_id": "245539660",
+    "school_osm_type": "way",
+    "school_name": "СШ № 12",
+    "place_osm_id": "-6825778",
+    "place_admin_level": "6",
+    "place_place": "city",
+    "place_name": "Новополоцк",
+    "lon": "28.69068484073545",
+    "lat": "55.51907782556248"
+  },
+  {
+    "school_osm_id": "245960841",
+    "school_osm_type": "way",
+    "school_name": "СШ № 3",
+    "place_osm_id": "-6825778",
+    "place_admin_level": "6",
+    "place_place": "city",
+    "place_name": "Новополоцк",
+    "lon": "28.650441120086974",
+    "lat": "55.53041875928949"
+  },
+  {
+    "school_osm_id": "254266498",
+    "school_osm_type": "way",
+    "school_name": "ГУО \"Боровухский ясли-сад №37 г. Новополоцка\"",
+    "place_osm_id": "-6825778",
+    "place_admin_level": "6",
+    "place_place": "city",
+    "place_name": "Новополоцк",
+    "lon": "28.596743153724834",
+    "lat": "55.5921839881821"
+  },
+  {
+    "school_osm_id": "337434399",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-6825778",
+    "place_admin_level": "6",
+    "place_place": "city",
+    "place_name": "Новополоцк",
+    "lon": "28.69425839596595",
+    "lat": "55.507534754033095"
+  },
+  {
+    "school_osm_id": "707955755",
+    "school_osm_type": "way",
+    "school_name": "Школа Искуств №2",
+    "place_osm_id": "-6825778",
+    "place_admin_level": "6",
+    "place_place": "city",
+    "place_name": "Новополоцк",
+    "lon": "28.597746838412533",
+    "lat": "55.59354297901458"
+  },
+  {
+    "school_osm_id": "2324087332",
+    "school_osm_type": "node",
+    "school_name": "",
+    "place_osm_id": "-6825778",
+    "place_admin_level": "6",
+    "place_place": "city",
+    "place_name": "Новополоцк",
+    "lon": "28.595995999999996",
+    "lat": "55.592673199623775"
+  }
+]

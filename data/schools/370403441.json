@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Ореховно",
+    "osm_id": "-7503568",
+    "hierarchy": [
+      "Сорочинский сельский Совет",
+      "Ушачский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.202162229281825",
+    "lon": "28.669862794414904"
+  },
+  "group": [
+    {
+      "school_osm_id": "370403441",
+      "school_osm_type": "way",
+      "school_name": "Ореховская СШ",
+      "place_osm_id": "-7976433",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Сорочинский сельский Совет",
+      "lon": "28.669862794414904",
+      "lat": "55.202162229281825"
+    },
+    {
+      "school_osm_id": "370403441",
+      "school_osm_type": "way",
+      "school_name": "Ореховская СШ",
+      "place_osm_id": "-7503568",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Ореховно",
+      "lon": "28.669862794414904",
+      "lat": "55.202162229281825"
+    },
+    {
+      "school_osm_id": "370403441",
+      "school_osm_type": "way",
+      "school_name": "Ореховская СШ",
+      "place_osm_id": "-70669",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Ушачский район",
+      "lon": "28.669862794414904",
+      "lat": "55.202162229281825"
+    },
+    {
+      "school_osm_id": "370403441",
+      "school_osm_type": "way",
+      "school_name": "Ореховская СШ",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "28.669862794414904",
+      "lat": "55.202162229281825"
+    },
+    {
+      "school_osm_id": "370403441",
+      "school_osm_type": "way",
+      "school_name": "Ореховская СШ",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.669862794414904",
+      "lat": "55.202162229281825"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "place": {
+    "name": "Барановичи",
+    "osm_id": "-3629362",
+    "hierarchy": [
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.13252799909304",
+    "lon": "26.006688799999996"
+  },
+  "group": [
+    {
+      "school_osm_id": "4226581300",
+      "school_osm_type": "node",
+      "school_name": "Детская музыкальная школа №1",
+      "place_osm_id": "-3629362",
+      "place_admin_level": "6",
+      "place_place": "city",
+      "place_name": "Барановичи",
+      "lon": "26.006688799999996",
+      "lat": "53.13252799909304"
+    },
+    {
+      "school_osm_id": "4226581300",
+      "school_osm_type": "node",
+      "school_name": "Детская музыкальная школа №1",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "26.006688799999996",
+      "lat": "53.13252799909304"
+    },
+    {
+      "school_osm_id": "4226581300",
+      "school_osm_type": "node",
+      "school_name": "Детская музыкальная школа №1",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.006688799999996",
+      "lat": "53.13252799909304"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Быхов",
+    "osm_id": "-6722642",
+    "hierarchy": [
+      "Быховский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.51701585511996",
+    "lon": "30.24327579852061"
+  },
+  "group": [
+    {
+      "school_osm_id": "556309504",
+      "school_osm_type": "way",
+      "school_name": "Школа № 1",
+      "place_osm_id": "-6722642",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Быхов",
+      "lon": "30.24327579852061",
+      "lat": "53.51701585511996"
+    },
+    {
+      "school_osm_id": "556309504",
+      "school_osm_type": "way",
+      "school_name": "Школа № 1",
+      "place_osm_id": "-70586",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Быховский район",
+      "lon": "30.24327579852061",
+      "lat": "53.51701585511996"
+    },
+    {
+      "school_osm_id": "556309504",
+      "school_osm_type": "way",
+      "school_name": "Школа № 1",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "30.24327579852061",
+      "lat": "53.51701585511996"
+    },
+    {
+      "school_osm_id": "556309504",
+      "school_osm_type": "way",
+      "school_name": "Школа № 1",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.24327579852061",
+      "lat": "53.51701585511996"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Антополье",
+    "osm_id": "-6911126",
+    "hierarchy": [
+      "Круглицкий сельский Совет",
+      "Чашникский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.662189687656664",
+    "lon": "29.381740278683097"
+  },
+  "group": [
+    {
+      "school_osm_id": "373502272",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-6911126",
+      "place_admin_level": "10",
+      "place_place": "hamlet",
+      "place_name": "Антополье",
+      "lon": "29.381740278683097",
+      "lat": "54.662189687656664"
+    },
+    {
+      "school_osm_id": "373502272",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-4850386",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Круглицкий сельский Совет",
+      "lon": "29.381740278683097",
+      "lat": "54.662189687656664"
+    },
+    {
+      "school_osm_id": "373502272",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70746",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Чашникский район",
+      "lon": "29.381740278683097",
+      "lat": "54.662189687656664"
+    },
+    {
+      "school_osm_id": "373502272",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "29.381740278683097",
+      "lat": "54.662189687656664"
+    },
+    {
+      "school_osm_id": "373502272",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.381740278683097",
+      "lat": "54.662189687656664"
+    }
+  ]
+}

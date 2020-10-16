@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Томашовка",
+    "osm_id": "-7461871",
+    "hierarchy": [
+      "Томашовский сельский Совет",
+      "Брестский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "51.561989961901354",
+    "lon": "23.602592754417984"
+  },
+  "group": [
+    {
+      "school_osm_id": "699420969",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8026000",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Томашовский сельский Совет",
+      "lon": "23.602592754417984",
+      "lat": "51.561989961901354"
+    },
+    {
+      "school_osm_id": "699420969",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7461871",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Томашовка",
+      "lon": "23.602592754417984",
+      "lat": "51.561989961901354"
+    },
+    {
+      "school_osm_id": "699420969",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "23.602592754417984",
+      "lat": "51.561989961901354"
+    },
+    {
+      "school_osm_id": "699420969",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59188",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Брестский район",
+      "lon": "23.602592754417984",
+      "lat": "51.561989961901354"
+    },
+    {
+      "school_osm_id": "699420969",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "23.602592754417984",
+      "lat": "51.561989961901354"
+    }
+  ]
+}

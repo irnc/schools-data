@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Пограничный",
+    "osm_id": "-7507326",
+    "hierarchy": [
+      "Пограничный сельский Совет",
+      "Берестовицкий район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.11787605955976",
+    "lon": "23.968662543081447"
+  },
+  "group": [
+    {
+      "school_osm_id": "570329994",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа аг. Пограничный",
+      "place_osm_id": "-8025371",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Пограничный сельский Совет",
+      "lon": "23.968662543081447",
+      "lat": "53.11787605955976"
+    },
+    {
+      "school_osm_id": "570329994",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа аг. Пограничный",
+      "place_osm_id": "-7507326",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Пограничный",
+      "lon": "23.968662543081447",
+      "lat": "53.11787605955976"
+    },
+    {
+      "school_osm_id": "570329994",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа аг. Пограничный",
+      "place_osm_id": "-70790",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Берестовицкий район",
+      "lon": "23.968662543081447",
+      "lat": "53.11787605955976"
+    },
+    {
+      "school_osm_id": "570329994",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа аг. Пограничный",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "23.968662543081447",
+      "lat": "53.11787605955976"
+    },
+    {
+      "school_osm_id": "570329994",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа аг. Пограничный",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "23.968662543081447",
+      "lat": "53.11787605955976"
+    }
+  ]
+}

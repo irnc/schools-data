@@ -1,0 +1,59 @@
+{
+  "place": {
+    "name": "Витебск",
+    "osm_id": "-6825777",
+    "hierarchy": [
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.192441175484774",
+    "lon": "30.19389139231537"
+  },
+  "group": [
+    {
+      "school_osm_id": "300883504",
+      "school_osm_type": "way",
+      "school_name": "Гимназия № 2",
+      "place_osm_id": "-6825777",
+      "place_admin_level": "6",
+      "place_place": "city",
+      "place_name": "Витебск",
+      "lon": "30.19389139231537",
+      "lat": "55.192441175484774"
+    },
+    {
+      "school_osm_id": "300883504",
+      "school_osm_type": "way",
+      "school_name": "Гимназия № 2",
+      "place_osm_id": "-68619",
+      "place_admin_level": "9",
+      "place_place": "",
+      "place_name": "Железнодорожный район",
+      "lon": "30.19389139231537",
+      "lat": "55.192441175484774"
+    },
+    {
+      "school_osm_id": "300883504",
+      "school_osm_type": "way",
+      "school_name": "Гимназия № 2",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "30.19389139231537",
+      "lat": "55.192441175484774"
+    },
+    {
+      "school_osm_id": "300883504",
+      "school_osm_type": "way",
+      "school_name": "Гимназия № 2",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.19389139231537",
+      "lat": "55.192441175484774"
+    }
+  ]
+}

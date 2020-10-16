@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Двор Плино",
+    "osm_id": "-6801986",
+    "hierarchy": [
+      "Ушачский сельский Совет",
+      "Ушачский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.207569613043894",
+    "lon": "28.53189891417206"
+  },
+  "group": [
+    {
+      "school_osm_id": "370416428",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7976432",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Ушачский сельский Совет",
+      "lon": "28.53189891417206",
+      "lat": "55.207569613043894"
+    },
+    {
+      "school_osm_id": "370416428",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-6801986",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Двор Плино",
+      "lon": "28.53189891417206",
+      "lat": "55.207569613043894"
+    },
+    {
+      "school_osm_id": "370416428",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70669",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Ушачский район",
+      "lon": "28.53189891417206",
+      "lat": "55.207569613043894"
+    },
+    {
+      "school_osm_id": "370416428",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "28.53189891417206",
+      "lat": "55.207569613043894"
+    },
+    {
+      "school_osm_id": "370416428",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.53189891417206",
+      "lat": "55.207569613043894"
+    }
+  ]
+}

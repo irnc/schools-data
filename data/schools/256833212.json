@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Стреличево",
+    "osm_id": "-7453589",
+    "hierarchy": [
+      "Стреличевский сельский Совет",
+      "Хойникский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "51.837123300310765",
+    "lon": "29.980057000561235"
+  },
+  "group": [
+    {
+      "school_osm_id": "256833212",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8031212",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Стреличевский сельский Совет",
+      "lon": "29.980057000561235",
+      "lat": "51.837123300310765"
+    },
+    {
+      "school_osm_id": "256833212",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7453589",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Стреличево",
+      "lon": "29.980057000561235",
+      "lat": "51.837123300310765"
+    },
+    {
+      "school_osm_id": "256833212",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70802",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Хойникский район",
+      "lon": "29.980057000561235",
+      "lat": "51.837123300310765"
+    },
+    {
+      "school_osm_id": "256833212",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "29.980057000561235",
+      "lat": "51.837123300310765"
+    },
+    {
+      "school_osm_id": "256833212",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.980057000561235",
+      "lat": "51.837123300310765"
+    }
+  ]
+}

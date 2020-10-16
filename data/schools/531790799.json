@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Чернавчицы",
+    "osm_id": "-7461798",
+    "hierarchy": [
+      "Чернавчицкий сельский Совет",
+      "Брестский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.2105924193259",
+    "lon": "23.743366529932143"
+  },
+  "group": [
+    {
+      "school_osm_id": "531790799",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8025991",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Чернавчицкий сельский Совет",
+      "lon": "23.743366529932143",
+      "lat": "52.2105924193259"
+    },
+    {
+      "school_osm_id": "531790799",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7461798",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Чернавчицы",
+      "lon": "23.743366529932143",
+      "lat": "52.2105924193259"
+    },
+    {
+      "school_osm_id": "531790799",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "23.743366529932143",
+      "lat": "52.2105924193259"
+    },
+    {
+      "school_osm_id": "531790799",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59188",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Брестский район",
+      "lon": "23.743366529932143",
+      "lat": "52.2105924193259"
+    },
+    {
+      "school_osm_id": "531790799",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "23.743366529932143",
+      "lat": "52.2105924193259"
+    }
+  ]
+}

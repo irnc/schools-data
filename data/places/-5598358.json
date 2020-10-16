@@ -1,0 +1,145 @@
+[
+  {
+    "school_osm_id": "93735840",
+    "school_osm_type": "way",
+    "school_name": "Школа №11",
+    "place_osm_id": "-5598358",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Жлобин",
+    "lon": "30.04723260808625",
+    "lat": "52.90547983697213"
+  },
+  {
+    "school_osm_id": "93735842",
+    "school_osm_type": "way",
+    "school_name": "Школа №12",
+    "place_osm_id": "-5598358",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Жлобин",
+    "lon": "30.04852183611515",
+    "lat": "52.904686543114444"
+  },
+  {
+    "school_osm_id": "109424857",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №5",
+    "place_osm_id": "-5598358",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Жлобин",
+    "lon": "30.05505902580585",
+    "lat": "52.89522779933514"
+  },
+  {
+    "school_osm_id": "166076449",
+    "school_osm_type": "way",
+    "school_name": "Школа №9",
+    "place_osm_id": "-5598358",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Жлобин",
+    "lon": "30.049315577961302",
+    "lat": "52.89836869544781"
+  },
+  {
+    "school_osm_id": "264851558",
+    "school_osm_type": "way",
+    "school_name": "Школа №13",
+    "place_osm_id": "-5598358",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Жлобин",
+    "lon": "30.03846103107735",
+    "lat": "52.90814918389935"
+  },
+  {
+    "school_osm_id": "264986104",
+    "school_osm_type": "way",
+    "school_name": "Школа №1",
+    "place_osm_id": "-5598358",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Жлобин",
+    "lon": "30.039373049508256",
+    "lat": "52.89522545156933"
+  },
+  {
+    "school_osm_id": "290870190",
+    "school_osm_type": "way",
+    "school_name": "Начальная школа №2",
+    "place_osm_id": "-5598358",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Жлобин",
+    "lon": "30.03515511351635",
+    "lat": "52.88805957483121"
+  },
+  {
+    "school_osm_id": "290876461",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа № 2",
+    "place_osm_id": "-5598358",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Жлобин",
+    "lon": "30.03368347264062",
+    "lat": "52.88346391101203"
+  },
+  {
+    "school_osm_id": "290895352",
+    "school_osm_type": "way",
+    "school_name": "Гимназия № 8",
+    "place_osm_id": "-5598358",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Жлобин",
+    "lon": "30.045998924918077",
+    "lat": "52.8815313409958"
+  },
+  {
+    "school_osm_id": "486238225",
+    "school_osm_type": "way",
+    "school_name": "Школа №10",
+    "place_osm_id": "-5598358",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Жлобин",
+    "lon": "30.041993662763268",
+    "lat": "52.903414630178546"
+  },
+  {
+    "school_osm_id": "4486673311",
+    "school_osm_type": "node",
+    "school_name": "Жлобинская ДЮСШ",
+    "place_osm_id": "-5598358",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Жлобин",
+    "lon": "30.058712000000003",
+    "lat": "52.89444299908535"
+  },
+  {
+    "school_osm_id": "5022861880",
+    "school_osm_type": "node",
+    "school_name": "Средняя школа № 7",
+    "place_osm_id": "-5598358",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Жлобин",
+    "lon": "30.014674",
+    "lat": "52.90183639908549"
+  },
+  {
+    "school_osm_id": "5039751400",
+    "school_osm_type": "node",
+    "school_name": "Средняя школа №6",
+    "place_osm_id": "-5598358",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Жлобин",
+    "lon": "30.001264600000003",
+    "lat": "52.88458479908518"
+  }
+]

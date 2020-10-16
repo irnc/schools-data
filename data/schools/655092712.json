@@ -1,0 +1,53 @@
+{
+  "place": "warning-school-without-place",
+  "geo": {
+    "lat": "52.258010254708466",
+    "lon": "27.05710099888328"
+  },
+  "group": [
+    {
+      "school_osm_id": "655092712",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8087847",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Дворецкий сельский Совет",
+      "lon": "27.05710099888328",
+      "lat": "52.258010254708466"
+    },
+    {
+      "school_osm_id": "655092712",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-71124",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Лунинецкий район",
+      "lon": "27.05710099888328",
+      "lat": "52.258010254708466"
+    },
+    {
+      "school_osm_id": "655092712",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "27.05710099888328",
+      "lat": "52.258010254708466"
+    },
+    {
+      "school_osm_id": "655092712",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.05710099888328",
+      "lat": "52.258010254708466"
+    }
+  ]
+}

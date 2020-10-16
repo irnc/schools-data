@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Солигорск",
+    "osm_id": "-6722606",
+    "hierarchy": [
+      "Солигорский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.79289059908424",
+    "lon": "27.5354275"
+  },
+  "group": [
+    {
+      "school_osm_id": "4143362089",
+      "school_osm_type": "node",
+      "school_name": "Воскресная школа церкви \"Христос для всех\"",
+      "place_osm_id": "-6722606",
+      "place_admin_level": "8",
+      "place_place": "city",
+      "place_name": "Солигорск",
+      "lon": "27.5354275",
+      "lat": "52.79289059908424"
+    },
+    {
+      "school_osm_id": "4143362089",
+      "school_osm_type": "node",
+      "school_name": "Воскресная школа церкви \"Христос для всех\"",
+      "place_osm_id": "-71133",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Солигорский район",
+      "lon": "27.5354275",
+      "lat": "52.79289059908424"
+    },
+    {
+      "school_osm_id": "4143362089",
+      "school_osm_type": "node",
+      "school_name": "Воскресная школа церкви \"Христос для всех\"",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.5354275",
+      "lat": "52.79289059908424"
+    },
+    {
+      "school_osm_id": "4143362089",
+      "school_osm_type": "node",
+      "school_name": "Воскресная школа церкви \"Христос для всех\"",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.5354275",
+      "lat": "52.79289059908424"
+    }
+  ]
+}

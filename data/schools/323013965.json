@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Глыбов",
+    "osm_id": "-7450429",
+    "hierarchy": [
+      "Глыбовский сельский Совет",
+      "Речицкий район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.484336678406166",
+    "lon": "30.27715847838933"
+  },
+  "group": [
+    {
+      "school_osm_id": "323013965",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8083020",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Глыбовский сельский Совет",
+      "lon": "30.27715847838933",
+      "lat": "52.484336678406166"
+    },
+    {
+      "school_osm_id": "323013965",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7450429",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Глыбов",
+      "lon": "30.27715847838933",
+      "lat": "52.484336678406166"
+    },
+    {
+      "school_osm_id": "323013965",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70812",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Речицкий район",
+      "lon": "30.27715847838933",
+      "lat": "52.484336678406166"
+    },
+    {
+      "school_osm_id": "323013965",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "30.27715847838933",
+      "lat": "52.484336678406166"
+    },
+    {
+      "school_osm_id": "323013965",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.27715847838933",
+      "lat": "52.484336678406166"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Дрибин",
+    "osm_id": "-6722646",
+    "hierarchy": [
+      "Дрибинский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.11626459566082",
+    "lon": "31.087678767020986"
+  },
+  "group": [
+    {
+      "school_osm_id": "373037776",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-6722646",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Дрибин",
+      "lon": "31.087678767020986",
+      "lat": "54.11626459566082"
+    },
+    {
+      "school_osm_id": "373037776",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70618",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Дрибинский район",
+      "lon": "31.087678767020986",
+      "lat": "54.11626459566082"
+    },
+    {
+      "school_osm_id": "373037776",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "31.087678767020986",
+      "lat": "54.11626459566082"
+    },
+    {
+      "school_osm_id": "373037776",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "31.087678767020986",
+      "lat": "54.11626459566082"
+    }
+  ]
+}

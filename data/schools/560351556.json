@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Богушевичи",
+    "osm_id": "-7529816",
+    "hierarchy": [
+      "Богушевичский сельский Совет",
+      "Березинский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.70011009098379",
+    "lon": "28.83006140591338"
+  },
+  "group": [
+    {
+      "school_osm_id": "560351556",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8144257",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Богушевичский сельский Совет",
+      "lon": "28.83006140591338",
+      "lat": "53.70011009098379"
+    },
+    {
+      "school_osm_id": "560351556",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7529816",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Богушевичи",
+      "lon": "28.83006140591338",
+      "lat": "53.70011009098379"
+    },
+    {
+      "school_osm_id": "560351556",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70575",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Березинский район",
+      "lon": "28.83006140591338",
+      "lat": "53.70011009098379"
+    },
+    {
+      "school_osm_id": "560351556",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "28.83006140591338",
+      "lat": "53.70011009098379"
+    },
+    {
+      "school_osm_id": "560351556",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.83006140591338",
+      "lat": "53.70011009098379"
+    }
+  ]
+}

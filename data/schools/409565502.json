@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Латыголичи",
+    "osm_id": "-6415802",
+    "hierarchy": [
+      "Краснолукский сельский Совет",
+      "Чашникский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.61646046181964",
+    "lon": "28.70912969265338"
+  },
+  "group": [
+    {
+      "school_osm_id": "409565502",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-6415802",
+      "place_admin_level": "10",
+      "place_place": "hamlet",
+      "place_name": "Латыголичи",
+      "lon": "28.70912969265338",
+      "lat": "54.61646046181964"
+    },
+    {
+      "school_osm_id": "409565502",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-4850385",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Краснолукский сельский Совет",
+      "lon": "28.70912969265338",
+      "lat": "54.61646046181964"
+    },
+    {
+      "school_osm_id": "409565502",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70746",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Чашникский район",
+      "lon": "28.70912969265338",
+      "lat": "54.61646046181964"
+    },
+    {
+      "school_osm_id": "409565502",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "28.70912969265338",
+      "lat": "54.61646046181964"
+    },
+    {
+      "school_osm_id": "409565502",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.70912969265338",
+      "lat": "54.61646046181964"
+    }
+  ]
+}

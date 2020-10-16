@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Лясковичи",
+    "osm_id": "-7450332",
+    "hierarchy": [
+      "Лясковичский сельский Совет",
+      "Петриковский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.11558734750421",
+    "lon": "28.15168354397199"
+  },
+  "group": [
+    {
+      "school_osm_id": "362097895",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8087871",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Лясковичский сельский Совет",
+      "lon": "28.15168354397199",
+      "lat": "52.11558734750421"
+    },
+    {
+      "school_osm_id": "362097895",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7450332",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Лясковичи",
+      "lon": "28.15168354397199",
+      "lat": "52.11558734750421"
+    },
+    {
+      "school_osm_id": "362097895",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-71145",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Петриковский район",
+      "lon": "28.15168354397199",
+      "lat": "52.11558734750421"
+    },
+    {
+      "school_osm_id": "362097895",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "28.15168354397199",
+      "lat": "52.11558734750421"
+    },
+    {
+      "school_osm_id": "362097895",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.15168354397199",
+      "lat": "52.11558734750421"
+    }
+  ]
+}

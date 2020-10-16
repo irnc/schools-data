@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Смолица",
+    "osm_id": "-6878843",
+    "hierarchy": [
+      "Смолицкий сельский Совет",
+      "Быховский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.525142414178404",
+    "lon": "30.53453510177473"
+  },
+  "group": [
+    {
+      "school_osm_id": "492210369",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8144212",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Смолицкий сельский Совет",
+      "lon": "30.53453510177473",
+      "lat": "53.525142414178404"
+    },
+    {
+      "school_osm_id": "492210369",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-6878843",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Смолица",
+      "lon": "30.53453510177473",
+      "lat": "53.525142414178404"
+    },
+    {
+      "school_osm_id": "492210369",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70586",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Быховский район",
+      "lon": "30.53453510177473",
+      "lat": "53.525142414178404"
+    },
+    {
+      "school_osm_id": "492210369",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "30.53453510177473",
+      "lat": "53.525142414178404"
+    },
+    {
+      "school_osm_id": "492210369",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.53453510177473",
+      "lat": "53.525142414178404"
+    }
+  ]
+}

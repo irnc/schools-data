@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Яя",
+    "osm_id": "-7470662",
+    "hierarchy": [
+      "Друевский сельский Совет",
+      "Браславский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.75629019968752",
+    "lon": "27.368432499999997"
+  },
+  "group": [
+    {
+      "school_osm_id": "4308536697",
+      "school_osm_type": "node",
+      "school_name": "бывшая школа",
+      "place_osm_id": "-7976856",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Друевский сельский Совет",
+      "lon": "27.368432499999997",
+      "lat": "55.75629019968752"
+    },
+    {
+      "school_osm_id": "4308536697",
+      "school_osm_type": "node",
+      "school_name": "бывшая школа",
+      "place_osm_id": "-7470662",
+      "place_admin_level": "10",
+      "place_place": "hamlet",
+      "place_name": "Яя",
+      "lon": "27.368432499999997",
+      "lat": "55.75629019968752"
+    },
+    {
+      "school_osm_id": "4308536697",
+      "school_osm_type": "node",
+      "school_name": "бывшая школа",
+      "place_osm_id": "-70691",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Браславский район",
+      "lon": "27.368432499999997",
+      "lat": "55.75629019968752"
+    },
+    {
+      "school_osm_id": "4308536697",
+      "school_osm_type": "node",
+      "school_name": "бывшая школа",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "27.368432499999997",
+      "lat": "55.75629019968752"
+    },
+    {
+      "school_osm_id": "4308536697",
+      "school_osm_type": "node",
+      "school_name": "бывшая школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.368432499999997",
+      "lat": "55.75629019968752"
+    }
+  ]
+}

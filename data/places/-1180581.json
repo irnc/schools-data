@@ -1,0 +1,79 @@
+[
+  {
+    "school_osm_id": "155762390",
+    "school_osm_type": "way",
+    "school_name": "Детская школа искусств",
+    "place_osm_id": "-1180581",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Браслав",
+    "lon": "27.0333770625427",
+    "lat": "55.63860698737413"
+  },
+  {
+    "school_osm_id": "156291967",
+    "school_osm_type": "way",
+    "school_name": "Браславская гимназия",
+    "place_osm_id": "-1180581",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Браслав",
+    "lon": "27.034108791026128",
+    "lat": "55.63703466076862"
+  },
+  {
+    "school_osm_id": "156323558",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-1180581",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Браслав",
+    "lon": "27.049916180458624",
+    "lat": "55.63296370646715"
+  },
+  {
+    "school_osm_id": "159309266",
+    "school_osm_type": "way",
+    "school_name": "Спортшкола",
+    "place_osm_id": "-1180581",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Браслав",
+    "lon": "27.03572710941025",
+    "lat": "55.644204209522506"
+  },
+  {
+    "school_osm_id": "511294437",
+    "school_osm_type": "way",
+    "school_name": "СШ №2",
+    "place_osm_id": "-1180581",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Браслав",
+    "lon": "27.032670497322204",
+    "lat": "55.64081352250702"
+  },
+  {
+    "school_osm_id": "717136114",
+    "school_osm_type": "way",
+    "school_name": "Ясли-сад №4 г. Браслава",
+    "place_osm_id": "-1180581",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Браслав",
+    "lon": "27.06948775370797",
+    "lat": "55.62774419527322"
+  },
+  {
+    "school_osm_id": "717715844",
+    "school_osm_type": "way",
+    "school_name": "СШ №1",
+    "place_osm_id": "-1180581",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Браслав",
+    "lon": "27.035656602142648",
+    "lat": "55.643362127251486"
+  }
+]

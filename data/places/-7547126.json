@@ -1,0 +1,46 @@
+[
+  {
+    "school_osm_id": "480855722",
+    "school_osm_type": "way",
+    "school_name": "Сеницкая средняя школа им. Янки Купалы",
+    "place_osm_id": "-7547126",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Сеница",
+    "lon": "27.524648961603017",
+    "lat": "53.8236985733337"
+  },
+  {
+    "school_osm_id": "620128333",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7547126",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Сеница",
+    "lon": "27.521547887413973",
+    "lat": "53.82825106032861"
+  },
+  {
+    "school_osm_id": "772845395",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7547126",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Сеница",
+    "lon": "27.53546619009647",
+    "lat": "53.8255618875294"
+  },
+  {
+    "school_osm_id": "4948141821",
+    "school_osm_type": "node",
+    "school_name": "ГУО \"Сеницкая детская школа искусств\"",
+    "place_osm_id": "-7547126",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Сеница",
+    "lon": "27.5215902",
+    "lat": "53.82817569915859"
+  }
+]

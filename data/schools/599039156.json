@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Скидель",
+    "osm_id": "-4784300",
+    "hierarchy": [
+      "Гродненский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.570657847388595",
+    "lon": "24.197256190207657"
+  },
+  "group": [
+    {
+      "school_osm_id": "599039156",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа №2 г.Скиделя",
+      "place_osm_id": "-4784300",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Скидель",
+      "lon": "24.197256190207657",
+      "lat": "53.570657847388595"
+    },
+    {
+      "school_osm_id": "599039156",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа №2 г.Скиделя",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "24.197256190207657",
+      "lat": "53.570657847388595"
+    },
+    {
+      "school_osm_id": "599039156",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа №2 г.Скиделя",
+      "place_osm_id": "-59273",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Гродненский район",
+      "lon": "24.197256190207657",
+      "lat": "53.570657847388595"
+    },
+    {
+      "school_osm_id": "599039156",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа №2 г.Скиделя",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "24.197256190207657",
+      "lat": "53.570657847388595"
+    }
+  ]
+}

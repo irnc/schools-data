@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Нарочь",
+    "osm_id": "-7534215",
+    "hierarchy": [
+      "Нарочанский сельский Совет",
+      "Вилейский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.561288784731225",
+    "lon": "26.72573437050039"
+  },
+  "group": [
+    {
+      "school_osm_id": "375220700",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8013863",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Нарочанский сельский Совет",
+      "lon": "26.72573437050039",
+      "lat": "54.561288784731225"
+    },
+    {
+      "school_osm_id": "375220700",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7534215",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Нарочь",
+      "lon": "26.72573437050039",
+      "lat": "54.561288784731225"
+    },
+    {
+      "school_osm_id": "375220700",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70568",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Вилейский район",
+      "lon": "26.72573437050039",
+      "lat": "54.561288784731225"
+    },
+    {
+      "school_osm_id": "375220700",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "26.72573437050039",
+      "lat": "54.561288784731225"
+    },
+    {
+      "school_osm_id": "375220700",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.72573437050039",
+      "lat": "54.561288784731225"
+    }
+  ]
+}

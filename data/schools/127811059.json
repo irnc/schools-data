@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Фаниполь",
+    "osm_id": "-6722508",
+    "hierarchy": [
+      "Дзержинский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.741212641157375",
+    "lon": "27.315488946482816"
+  },
+  "group": [
+    {
+      "school_osm_id": "127811059",
+      "school_osm_type": "way",
+      "school_name": "Гимназия",
+      "place_osm_id": "-6722508",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Фаниполь",
+      "lon": "27.315488946482816",
+      "lat": "53.741212641157375"
+    },
+    {
+      "school_osm_id": "127811059",
+      "school_osm_type": "way",
+      "school_name": "Гимназия",
+      "place_osm_id": "-70563",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Дзержинский район",
+      "lon": "27.315488946482816",
+      "lat": "53.741212641157375"
+    },
+    {
+      "school_osm_id": "127811059",
+      "school_osm_type": "way",
+      "school_name": "Гимназия",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.315488946482816",
+      "lat": "53.741212641157375"
+    },
+    {
+      "school_osm_id": "127811059",
+      "school_osm_type": "way",
+      "school_name": "Гимназия",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.315488946482816",
+      "lat": "53.741212641157375"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Узречье",
+    "osm_id": "-7482217",
+    "hierarchy": [
+      "Узречский сельский Совет",
+      "Глубокский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.252328835579846",
+    "lon": "27.58381352536311"
+  },
+  "group": [
+    {
+      "school_osm_id": "375040508",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7980397",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Узречский сельский Совет",
+      "lon": "27.58381352536311",
+      "lat": "55.252328835579846"
+    },
+    {
+      "school_osm_id": "375040508",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7482217",
+      "place_admin_level": "10",
+      "place_place": "hamlet",
+      "place_name": "Узречье",
+      "lon": "27.58381352536311",
+      "lat": "55.252328835579846"
+    },
+    {
+      "school_osm_id": "375040508",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70703",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Глубокский район",
+      "lon": "27.58381352536311",
+      "lat": "55.252328835579846"
+    },
+    {
+      "school_osm_id": "375040508",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "27.58381352536311",
+      "lat": "55.252328835579846"
+    },
+    {
+      "school_osm_id": "375040508",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.58381352536311",
+      "lat": "55.252328835579846"
+    }
+  ]
+}

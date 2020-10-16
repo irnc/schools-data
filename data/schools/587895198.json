@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Старобин",
+    "osm_id": "-6722720",
+    "hierarchy": [
+      "Солигорский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.724005396970824",
+    "lon": "27.457593151235873"
+  },
+  "group": [
+    {
+      "school_osm_id": "587895198",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-6722720",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Старобин",
+      "lon": "27.457593151235873",
+      "lat": "52.724005396970824"
+    },
+    {
+      "school_osm_id": "587895198",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-71133",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Солигорский район",
+      "lon": "27.457593151235873",
+      "lat": "52.724005396970824"
+    },
+    {
+      "school_osm_id": "587895198",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.457593151235873",
+      "lat": "52.724005396970824"
+    },
+    {
+      "school_osm_id": "587895198",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.457593151235873",
+      "lat": "52.724005396970824"
+    }
+  ]
+}

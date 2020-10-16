@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Глуск",
+    "osm_id": "-6722643",
+    "hierarchy": [
+      "Глусский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.891786554309476",
+    "lon": "28.68034125482637"
+  },
+  "group": [
+    {
+      "school_osm_id": "794323361",
+      "school_osm_type": "way",
+      "school_name": "Гимназия Глуска",
+      "place_osm_id": "-6722643",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Глуск",
+      "lon": "28.68034125482637",
+      "lat": "52.891786554309476"
+    },
+    {
+      "school_osm_id": "794323361",
+      "school_osm_type": "way",
+      "school_name": "Гимназия Глуска",
+      "place_osm_id": "-71138",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Глусский район",
+      "lon": "28.68034125482637",
+      "lat": "52.891786554309476"
+    },
+    {
+      "school_osm_id": "794323361",
+      "school_osm_type": "way",
+      "school_name": "Гимназия Глуска",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "28.68034125482637",
+      "lat": "52.891786554309476"
+    },
+    {
+      "school_osm_id": "794323361",
+      "school_osm_type": "way",
+      "school_name": "Гимназия Глуска",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.68034125482637",
+      "lat": "52.891786554309476"
+    }
+  ]
+}

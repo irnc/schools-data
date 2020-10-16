@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Поляниновичи",
+    "osm_id": "-7573122",
+    "hierarchy": [
+      "Обидовичский сельский Совет",
+      "Быховский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.378703339834644",
+    "lon": "30.51581809408535"
+  },
+  "group": [
+    {
+      "school_osm_id": "546140195",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8144316",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Обидовичский сельский Совет",
+      "lon": "30.51581809408535",
+      "lat": "53.378703339834644"
+    },
+    {
+      "school_osm_id": "546140195",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7573122",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Поляниновичи",
+      "lon": "30.51581809408535",
+      "lat": "53.378703339834644"
+    },
+    {
+      "school_osm_id": "546140195",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70586",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Быховский район",
+      "lon": "30.51581809408535",
+      "lat": "53.378703339834644"
+    },
+    {
+      "school_osm_id": "546140195",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "30.51581809408535",
+      "lat": "53.378703339834644"
+    },
+    {
+      "school_osm_id": "546140195",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.51581809408535",
+      "lat": "53.378703339834644"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "549917677",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7512323",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Крутиловичи",
+    "lon": "25.66076590114456",
+    "lat": "53.45855121252232"
+  },
+  {
+    "school_osm_id": "6099267785",
+    "school_osm_type": "node",
+    "school_name": "Крутиловичская школа-сад",
+    "place_osm_id": "-7512323",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Крутиловичи",
+    "lon": "25.660321599999996",
+    "lat": "53.458432799115585"
+  }
+]

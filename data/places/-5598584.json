@@ -1,0 +1,35 @@
+[
+  {
+    "school_osm_id": "379073825",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-5598584",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Туров",
+    "lon": "27.73033223052331",
+    "lat": "52.067268711080885"
+  },
+  {
+    "school_osm_id": "401945619",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-5598584",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Туров",
+    "lon": "27.75311069071145",
+    "lat": "52.06578344275148"
+  },
+  {
+    "school_osm_id": "4330648430",
+    "school_osm_type": "node",
+    "school_name": "Дом детского творчества",
+    "place_osm_id": "-5598584",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Туров",
+    "lon": "27.728215199999998",
+    "lat": "52.06979079911173"
+  }
+]

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Лужки",
+    "osm_id": "-7506350",
+    "hierarchy": [
+      "Лужковский сельский Совет",
+      "Шарковщинский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.345873963237416",
+    "lon": "27.88227172400807"
+  },
+  "group": [
+    {
+      "school_osm_id": "553788276",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8083045",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Лужковский сельский Совет",
+      "lon": "27.88227172400807",
+      "lat": "55.345873963237416"
+    },
+    {
+      "school_osm_id": "553788276",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7506350",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Лужки",
+      "lon": "27.88227172400807",
+      "lat": "55.345873963237416"
+    },
+    {
+      "school_osm_id": "553788276",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70701",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Шарковщинский район",
+      "lon": "27.88227172400807",
+      "lat": "55.345873963237416"
+    },
+    {
+      "school_osm_id": "553788276",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "27.88227172400807",
+      "lat": "55.345873963237416"
+    },
+    {
+      "school_osm_id": "553788276",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.88227172400807",
+      "lat": "55.345873963237416"
+    }
+  ]
+}

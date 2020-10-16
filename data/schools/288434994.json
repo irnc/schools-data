@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Красное",
+    "osm_id": "-7518390",
+    "hierarchy": [
+      "Красненский сельский Совет",
+      "Кореличский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.588222808621786",
+    "lon": "26.174063927192545"
+  },
+  "group": [
+    {
+      "school_osm_id": "288434994",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8100423",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Красненский сельский Совет",
+      "lon": "26.174063927192545",
+      "lat": "53.588222808621786"
+    },
+    {
+      "school_osm_id": "288434994",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7518390",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Красное",
+      "lon": "26.174063927192545",
+      "lat": "53.588222808621786"
+    },
+    {
+      "school_osm_id": "288434994",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70751",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Кореличский район",
+      "lon": "26.174063927192545",
+      "lat": "53.588222808621786"
+    },
+    {
+      "school_osm_id": "288434994",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "26.174063927192545",
+      "lat": "53.588222808621786"
+    },
+    {
+      "school_osm_id": "288434994",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.174063927192545",
+      "lat": "53.588222808621786"
+    }
+  ]
+}

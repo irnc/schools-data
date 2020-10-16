@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "203573802",
+    "school_osm_type": "way",
+    "school_name": "Средняя образовательная школа № 1",
+    "place_osm_id": "-6722701",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Славгород",
+    "lon": "30.999909862841353",
+    "lat": "53.44545545467814"
+  },
+  {
+    "school_osm_id": "469068960",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-6722701",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Славгород",
+    "lon": "31.01117726399829",
+    "lat": "53.45140968181345"
+  }
+]

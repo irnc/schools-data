@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Пружаны",
+    "osm_id": "-6722278",
+    "hierarchy": [
+      "Пружанский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.556557837225185",
+    "lon": "24.446222319646708"
+  },
+  "group": [
+    {
+      "school_osm_id": "668464835",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа №1",
+      "place_osm_id": "-6722278",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Пружаны",
+      "lon": "24.446222319646708",
+      "lat": "52.556557837225185"
+    },
+    {
+      "school_osm_id": "668464835",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа №1",
+      "place_osm_id": "-71094",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Пружанский район",
+      "lon": "24.446222319646708",
+      "lat": "52.556557837225185"
+    },
+    {
+      "school_osm_id": "668464835",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа №1",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "24.446222319646708",
+      "lat": "52.556557837225185"
+    },
+    {
+      "school_osm_id": "668464835",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа №1",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "24.446222319646708",
+      "lat": "52.556557837225185"
+    }
+  ]
+}

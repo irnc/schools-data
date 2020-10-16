@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Селец",
+    "osm_id": "-7459173",
+    "hierarchy": [
+      "Селецкий сельский Совет",
+      "Берёзовский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.585494708504676",
+    "lon": "24.861072983185053"
+  },
+  "group": [
+    {
+      "school_osm_id": "386030597",
+      "school_osm_type": "way",
+      "school_name": "Ясли-сад-средняя школа",
+      "place_osm_id": "-8085940",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Селецкий сельский Совет",
+      "lon": "24.861072983185053",
+      "lat": "52.585494708504676"
+    },
+    {
+      "school_osm_id": "386030597",
+      "school_osm_type": "way",
+      "school_name": "Ясли-сад-средняя школа",
+      "place_osm_id": "-7459173",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Селец",
+      "lon": "24.861072983185053",
+      "lat": "52.585494708504676"
+    },
+    {
+      "school_osm_id": "386030597",
+      "school_osm_type": "way",
+      "school_name": "Ясли-сад-средняя школа",
+      "place_osm_id": "-71107",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Берёзовский район",
+      "lon": "24.861072983185053",
+      "lat": "52.585494708504676"
+    },
+    {
+      "school_osm_id": "386030597",
+      "school_osm_type": "way",
+      "school_name": "Ясли-сад-средняя школа",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "24.861072983185053",
+      "lat": "52.585494708504676"
+    },
+    {
+      "school_osm_id": "386030597",
+      "school_osm_type": "way",
+      "school_name": "Ясли-сад-средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "24.861072983185053",
+      "lat": "52.585494708504676"
+    }
+  ]
+}

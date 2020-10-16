@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Скородное",
+    "osm_id": "-7443266",
+    "hierarchy": [
+      "Скороднянский сельский Совет",
+      "Ельский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "51.63099671579034",
+    "lon": "28.828890260828672"
+  },
+  "group": [
+    {
+      "school_osm_id": "407503934",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8030866",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Скороднянский сельский Совет",
+      "lon": "28.828890260828672",
+      "lat": "51.63099671579034"
+    },
+    {
+      "school_osm_id": "407503934",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7443266",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Скородное",
+      "lon": "28.828890260828672",
+      "lat": "51.63099671579034"
+    },
+    {
+      "school_osm_id": "407503934",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70810",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Ельский район",
+      "lon": "28.828890260828672",
+      "lat": "51.63099671579034"
+    },
+    {
+      "school_osm_id": "407503934",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "28.828890260828672",
+      "lat": "51.63099671579034"
+    },
+    {
+      "school_osm_id": "407503934",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.828890260828672",
+      "lat": "51.63099671579034"
+    }
+  ]
+}

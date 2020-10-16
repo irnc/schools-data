@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Будслав",
+    "osm_id": "-7552031",
+    "hierarchy": [
+      "Будславский сельский Совет",
+      "Мядельский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.783805785321164",
+    "lon": "27.460257303258643"
+  },
+  "group": [
+    {
+      "school_osm_id": "369261657",
+      "school_osm_type": "way",
+      "school_name": "Будславская средняя школа им. Павлины Мяделки",
+      "place_osm_id": "-8016467",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Будславский сельский Совет",
+      "lon": "27.460257303258643",
+      "lat": "54.783805785321164"
+    },
+    {
+      "school_osm_id": "369261657",
+      "school_osm_type": "way",
+      "school_name": "Будславская средняя школа им. Павлины Мяделки",
+      "place_osm_id": "-7552031",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Будслав",
+      "lon": "27.460257303258643",
+      "lat": "54.783805785321164"
+    },
+    {
+      "school_osm_id": "369261657",
+      "school_osm_type": "way",
+      "school_name": "Будславская средняя школа им. Павлины Мяделки",
+      "place_osm_id": "-70719",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Мядельский район",
+      "lon": "27.460257303258643",
+      "lat": "54.783805785321164"
+    },
+    {
+      "school_osm_id": "369261657",
+      "school_osm_type": "way",
+      "school_name": "Будславская средняя школа им. Павлины Мяделки",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.460257303258643",
+      "lat": "54.783805785321164"
+    },
+    {
+      "school_osm_id": "369261657",
+      "school_osm_type": "way",
+      "school_name": "Будславская средняя школа им. Павлины Мяделки",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.460257303258643",
+      "lat": "54.783805785321164"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Осиновка",
+    "osm_id": "-7589704",
+    "hierarchy": [
+      "Осиновский сельский Совет",
+      "Чаусский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.8497871979513",
+    "lon": "31.21938342494596"
+  },
+  "group": [
+    {
+      "school_osm_id": "544008264",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8140437",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Осиновский сельский Совет",
+      "lon": "31.21938342494596",
+      "lat": "53.8497871979513"
+    },
+    {
+      "school_osm_id": "544008264",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7589704",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Осиновка",
+      "lon": "31.21938342494596",
+      "lat": "53.8497871979513"
+    },
+    {
+      "school_osm_id": "544008264",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70591",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Чаусский район",
+      "lon": "31.21938342494596",
+      "lat": "53.8497871979513"
+    },
+    {
+      "school_osm_id": "544008264",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "31.21938342494596",
+      "lat": "53.8497871979513"
+    },
+    {
+      "school_osm_id": "544008264",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "31.21938342494596",
+      "lat": "53.8497871979513"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Судково",
+    "osm_id": "-7453569",
+    "hierarchy": [
+      "Судковский сельский Совет",
+      "Хойникский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "51.88190254938314",
+    "lon": "29.899273300008527"
+  },
+  "group": [
+    {
+      "school_osm_id": "263306650",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8031213",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Судковский сельский Совет",
+      "lon": "29.899273300008527",
+      "lat": "51.88190254938314"
+    },
+    {
+      "school_osm_id": "263306650",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7453569",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Судково",
+      "lon": "29.899273300008527",
+      "lat": "51.88190254938314"
+    },
+    {
+      "school_osm_id": "263306650",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70802",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Хойникский район",
+      "lon": "29.899273300008527",
+      "lat": "51.88190254938314"
+    },
+    {
+      "school_osm_id": "263306650",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "29.899273300008527",
+      "lat": "51.88190254938314"
+    },
+    {
+      "school_osm_id": "263306650",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.899273300008527",
+      "lat": "51.88190254938314"
+    }
+  ]
+}

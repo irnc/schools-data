@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "378125439",
+    "school_osm_type": "way",
+    "school_name": "Дворецкая средняя школа",
+    "place_osm_id": "-7512346",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Дворец",
+    "lon": "25.563366772011886",
+    "lat": "53.410269255812885"
+  },
+  {
+    "school_osm_id": "843076695",
+    "school_osm_type": "way",
+    "school_name": "УПК",
+    "place_osm_id": "-7512346",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Дворец",
+    "lon": "25.56594301974841",
+    "lat": "53.4090894828922"
+  }
+]

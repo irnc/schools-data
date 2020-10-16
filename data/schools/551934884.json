@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Дуниловичи",
+    "osm_id": "-7498303",
+    "hierarchy": [
+      "Дуниловичский сельский Совет",
+      "Поставский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.08666512554512",
+    "lon": "27.238989813522966"
+  },
+  "group": [
+    {
+      "school_osm_id": "551934884",
+      "school_osm_type": "way",
+      "school_name": "Дуниловичская ясли-сад-средняя школа",
+      "place_osm_id": "-8016489",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Дуниловичский сельский Совет",
+      "lon": "27.238989813522966",
+      "lat": "55.08666512554512"
+    },
+    {
+      "school_osm_id": "551934884",
+      "school_osm_type": "way",
+      "school_name": "Дуниловичская ясли-сад-средняя школа",
+      "place_osm_id": "-7498303",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Дуниловичи",
+      "lon": "27.238989813522966",
+      "lat": "55.08666512554512"
+    },
+    {
+      "school_osm_id": "551934884",
+      "school_osm_type": "way",
+      "school_name": "Дуниловичская ясли-сад-средняя школа",
+      "place_osm_id": "-70707",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Поставский район",
+      "lon": "27.238989813522966",
+      "lat": "55.08666512554512"
+    },
+    {
+      "school_osm_id": "551934884",
+      "school_osm_type": "way",
+      "school_name": "Дуниловичская ясли-сад-средняя школа",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "27.238989813522966",
+      "lat": "55.08666512554512"
+    },
+    {
+      "school_osm_id": "551934884",
+      "school_osm_type": "way",
+      "school_name": "Дуниловичская ясли-сад-средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.238989813522966",
+      "lat": "55.08666512554512"
+    }
+  ]
+}

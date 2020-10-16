@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Рубель",
+    "osm_id": "-7468466",
+    "hierarchy": [
+      "Рубельский сельский Совет",
+      "Столинский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "51.973674522022996",
+    "lon": "27.067575428479742"
+  },
+  "group": [
+    {
+      "school_osm_id": "-6303485",
+      "school_osm_type": "relation",
+      "school_name": "",
+      "place_osm_id": "-8028509",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Рубельский сельский Совет",
+      "lon": "27.067575428479742",
+      "lat": "51.973674522022996"
+    },
+    {
+      "school_osm_id": "-6303485",
+      "school_osm_type": "relation",
+      "school_name": "",
+      "place_osm_id": "-7468466",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Рубель",
+      "lon": "27.067575428479742",
+      "lat": "51.973674522022996"
+    },
+    {
+      "school_osm_id": "-6303485",
+      "school_osm_type": "relation",
+      "school_name": "",
+      "place_osm_id": "-71125",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Столинский район",
+      "lon": "27.067575428479742",
+      "lat": "51.973674522022996"
+    },
+    {
+      "school_osm_id": "-6303485",
+      "school_osm_type": "relation",
+      "school_name": "",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "27.067575428479742",
+      "lat": "51.973674522022996"
+    },
+    {
+      "school_osm_id": "-6303485",
+      "school_osm_type": "relation",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.067575428479742",
+      "lat": "51.973674522022996"
+    }
+  ]
+}

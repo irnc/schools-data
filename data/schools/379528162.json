@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Петковичи",
+    "osm_id": "-7536257",
+    "hierarchy": [
+      "Дзержинский сельский Совет",
+      "Дзержинский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.6987495669974",
+    "lon": "27.19560538362795"
+  },
+  "group": [
+    {
+      "school_osm_id": "379528162",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8139705",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Дзержинский сельский Совет",
+      "lon": "27.19560538362795",
+      "lat": "53.6987495669974"
+    },
+    {
+      "school_osm_id": "379528162",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7536257",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Петковичи",
+      "lon": "27.19560538362795",
+      "lat": "53.6987495669974"
+    },
+    {
+      "school_osm_id": "379528162",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70563",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Дзержинский район",
+      "lon": "27.19560538362795",
+      "lat": "53.6987495669974"
+    },
+    {
+      "school_osm_id": "379528162",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.19560538362795",
+      "lat": "53.6987495669974"
+    },
+    {
+      "school_osm_id": "379528162",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.19560538362795",
+      "lat": "53.6987495669974"
+    }
+  ]
+}

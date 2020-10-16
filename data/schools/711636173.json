@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Красное",
+    "osm_id": "-5155582",
+    "hierarchy": [
+      "Свислочский сельский Совет",
+      "Осиповичский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.308387809997036",
+    "lon": "29.05074315536663"
+  },
+  "group": [
+    {
+      "school_osm_id": "711636173",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8144314",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Свислочский сельский Совет",
+      "lon": "29.05074315536663",
+      "lat": "53.308387809997036"
+    },
+    {
+      "school_osm_id": "711636173",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-5155582",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Красное",
+      "lon": "29.05074315536663",
+      "lat": "53.308387809997036"
+    },
+    {
+      "school_osm_id": "711636173",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59753",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Осиповичский район",
+      "lon": "29.05074315536663",
+      "lat": "53.308387809997036"
+    },
+    {
+      "school_osm_id": "711636173",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "29.05074315536663",
+      "lat": "53.308387809997036"
+    },
+    {
+      "school_osm_id": "711636173",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.05074315536663",
+      "lat": "53.308387809997036"
+    }
+  ]
+}

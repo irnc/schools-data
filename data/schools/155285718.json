@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Старлыги",
+    "osm_id": "-7552486",
+    "hierarchy": [
+      "Занарочский сельский Совет",
+      "Мядельский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.82780364651095",
+    "lon": "26.510638480061093"
+  },
+  "group": [
+    {
+      "school_osm_id": "155285718",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8016470",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Занарочский сельский Совет",
+      "lon": "26.510638480061093",
+      "lat": "54.82780364651095"
+    },
+    {
+      "school_osm_id": "155285718",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7552486",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Старлыги",
+      "lon": "26.510638480061093",
+      "lat": "54.82780364651095"
+    },
+    {
+      "school_osm_id": "155285718",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70719",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Мядельский район",
+      "lon": "26.510638480061093",
+      "lat": "54.82780364651095"
+    },
+    {
+      "school_osm_id": "155285718",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "26.510638480061093",
+      "lat": "54.82780364651095"
+    },
+    {
+      "school_osm_id": "155285718",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.510638480061093",
+      "lat": "54.82780364651095"
+    }
+  ]
+}

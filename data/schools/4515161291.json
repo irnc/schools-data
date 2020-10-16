@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Острошицкий Городок",
+    "osm_id": "-6891910",
+    "hierarchy": [
+      "Острошицко-Городокский сельский Совет",
+      "Минский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.06736369919647",
+    "lon": "27.6996279"
+  },
+  "group": [
+    {
+      "school_osm_id": "4515161291",
+      "school_osm_type": "node",
+      "school_name": "Острошицко-городокская СШ",
+      "place_osm_id": "-8144342",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Острошицко-Городокский сельский Совет",
+      "lon": "27.6996279",
+      "lat": "54.06736369919647"
+    },
+    {
+      "school_osm_id": "4515161291",
+      "school_osm_type": "node",
+      "school_name": "Острошицко-городокская СШ",
+      "place_osm_id": "-6891910",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Острошицкий Городок",
+      "lon": "27.6996279",
+      "lat": "54.06736369919647"
+    },
+    {
+      "school_osm_id": "4515161291",
+      "school_osm_type": "node",
+      "school_name": "Острошицко-городокская СШ",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.6996279",
+      "lat": "54.06736369919647"
+    },
+    {
+      "school_osm_id": "4515161291",
+      "school_osm_type": "node",
+      "school_name": "Острошицко-городокская СШ",
+      "place_osm_id": "-59190",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Минский район",
+      "lon": "27.6996279",
+      "lat": "54.06736369919647"
+    },
+    {
+      "school_osm_id": "4515161291",
+      "school_osm_type": "node",
+      "school_name": "Острошицко-городокская СШ",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.6996279",
+      "lat": "54.06736369919647"
+    }
+  ]
+}

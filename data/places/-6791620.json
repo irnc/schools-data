@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "337779793",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-6791620",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Кошелево",
+    "lon": "25.723323134042694",
+    "lat": "53.53817760154865"
+  },
+  {
+    "school_osm_id": "367580426",
+    "school_osm_type": "way",
+    "school_name": "Школа",
+    "place_osm_id": "-6791620",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Кошелево",
+    "lon": "25.723357222176904",
+    "lat": "53.538615612353226"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "school_osm_id": "492600552",
+    "school_osm_type": "way",
+    "school_name": "Школа 4",
+    "place_osm_id": "-6722245",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Лунинец",
+    "lon": "26.79463134088481",
+    "lat": "52.25863215433027"
+  },
+  {
+    "school_osm_id": "492600554",
+    "school_osm_type": "way",
+    "school_name": "Школа №2",
+    "place_osm_id": "-6722245",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Лунинец",
+    "lon": "26.79421587535407",
+    "lat": "52.25464216102278"
+  },
+  {
+    "school_osm_id": "492660576",
+    "school_osm_type": "way",
+    "school_name": "СШ №1",
+    "place_osm_id": "-6722245",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Лунинец",
+    "lon": "26.801146687619237",
+    "lat": "52.24281413286359"
+  },
+  {
+    "school_osm_id": "506284271",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-6722245",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Лунинец",
+    "lon": "26.815745858284746",
+    "lat": "52.24551536853544"
+  },
+  {
+    "school_osm_id": "506749761",
+    "school_osm_type": "way",
+    "school_name": "УО \"Государственный общеобразовательный лицей г.Лунинца\"",
+    "place_osm_id": "-6722245",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Лунинец",
+    "lon": "26.829875259318094",
+    "lat": "52.250237221667874"
+  },
+  {
+    "school_osm_id": "506759645",
+    "school_osm_type": "way",
+    "school_name": "Автодром",
+    "place_osm_id": "-6722245",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Лунинец",
+    "lon": "26.85011188172273",
+    "lat": "52.24931506493661"
+  },
+  {
+    "school_osm_id": "530383296",
+    "school_osm_type": "way",
+    "school_name": "Автодром",
+    "place_osm_id": "-6722245",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Лунинец",
+    "lon": "26.78374953638109",
+    "lat": "52.262930489963445"
+  },
+  {
+    "school_osm_id": "530860563",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-6722245",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Лунинец",
+    "lon": "26.80125121185514",
+    "lat": "52.25297873289729"
+  }
+]

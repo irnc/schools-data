@@ -1,0 +1,48 @@
+{
+  "place": {
+    "name": "Новополоцк",
+    "osm_id": "-6825778",
+    "hierarchy": [
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.52713297460277",
+    "lon": "28.668387910810903"
+  },
+  "group": [
+    {
+      "school_osm_id": "38076021",
+      "school_osm_type": "way",
+      "school_name": "Школа искусств № 1",
+      "place_osm_id": "-6825778",
+      "place_admin_level": "6",
+      "place_place": "city",
+      "place_name": "Новополоцк",
+      "lon": "28.668387910810903",
+      "lat": "55.52713297460277"
+    },
+    {
+      "school_osm_id": "38076021",
+      "school_osm_type": "way",
+      "school_name": "Школа искусств № 1",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "28.668387910810903",
+      "lat": "55.52713297460277"
+    },
+    {
+      "school_osm_id": "38076021",
+      "school_osm_type": "way",
+      "school_name": "Школа искусств № 1",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.668387910810903",
+      "lat": "55.52713297460277"
+    }
+  ]
+}

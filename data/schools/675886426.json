@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Каменка",
+    "osm_id": "-7529346",
+    "hierarchy": [
+      "Каменский сельский Совет",
+      "Щучинский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.55507187767406",
+    "lon": "24.50447761285273"
+  },
+  "group": [
+    {
+      "school_osm_id": "675886426",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8021152",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Каменский сельский Совет",
+      "lon": "24.50447761285273",
+      "lat": "53.55507187767406"
+    },
+    {
+      "school_osm_id": "675886426",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7529346",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Каменка",
+      "lon": "24.50447761285273",
+      "lat": "53.55507187767406"
+    },
+    {
+      "school_osm_id": "675886426",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70748",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Щучинский район",
+      "lon": "24.50447761285273",
+      "lat": "53.55507187767406"
+    },
+    {
+      "school_osm_id": "675886426",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "24.50447761285273",
+      "lat": "53.55507187767406"
+    },
+    {
+      "school_osm_id": "675886426",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "24.50447761285273",
+      "lat": "53.55507187767406"
+    }
+  ]
+}

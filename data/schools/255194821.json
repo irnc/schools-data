@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Березино",
+    "osm_id": "-6722487",
+    "hierarchy": [
+      "Березинский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.83136924170782",
+    "lon": "28.98758366195704"
+  },
+  "group": [
+    {
+      "school_osm_id": "255194821",
+      "school_osm_type": "way",
+      "school_name": "Начальная школа",
+      "place_osm_id": "-6722487",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Березино",
+      "lon": "28.98758366195704",
+      "lat": "53.83136924170782"
+    },
+    {
+      "school_osm_id": "255194821",
+      "school_osm_type": "way",
+      "school_name": "Начальная школа",
+      "place_osm_id": "-70575",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Березинский район",
+      "lon": "28.98758366195704",
+      "lat": "53.83136924170782"
+    },
+    {
+      "school_osm_id": "255194821",
+      "school_osm_type": "way",
+      "school_name": "Начальная школа",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "28.98758366195704",
+      "lat": "53.83136924170782"
+    },
+    {
+      "school_osm_id": "255194821",
+      "school_osm_type": "way",
+      "school_name": "Начальная школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.98758366195704",
+      "lat": "53.83136924170782"
+    }
+  ]
+}

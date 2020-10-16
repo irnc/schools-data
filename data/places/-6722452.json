@@ -1,0 +1,35 @@
+[
+  {
+    "school_osm_id": "243640711",
+    "school_osm_type": "way",
+    "school_name": "Свислочская гимназия № 1",
+    "place_osm_id": "-6722452",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Свислочь",
+    "lon": "24.09967943673417",
+    "lat": "53.035852094499354"
+  },
+  {
+    "school_osm_id": "646504767",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №2 имени Н.П. Массонова",
+    "place_osm_id": "-6722452",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Свислочь",
+    "lon": "24.10353701230573",
+    "lat": "53.037863295789805"
+  },
+  {
+    "school_osm_id": "700865669",
+    "school_osm_type": "way",
+    "school_name": "Свислочская средняя школа №3",
+    "place_osm_id": "-6722452",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Свислочь",
+    "lon": "24.09649145966715",
+    "lat": "53.036106892618896"
+  }
+]

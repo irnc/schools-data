@@ -1,0 +1,53 @@
+{
+  "place": "warning-school-without-place",
+  "geo": {
+    "lat": "53.611530233264645",
+    "lon": "28.9700189709325"
+  },
+  "group": [
+    {
+      "school_osm_id": "550706910",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8144326",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Капланецкий сельский Совет",
+      "lon": "28.9700189709325",
+      "lat": "53.611530233264645"
+    },
+    {
+      "school_osm_id": "550706910",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70575",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Березинский район",
+      "lon": "28.9700189709325",
+      "lat": "53.611530233264645"
+    },
+    {
+      "school_osm_id": "550706910",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "28.9700189709325",
+      "lat": "53.611530233264645"
+    },
+    {
+      "school_osm_id": "550706910",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.9700189709325",
+      "lat": "53.611530233264645"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Чуриловичи",
+    "osm_id": "-7547135",
+    "hierarchy": [
+      "Михановичский сельский Совет",
+      "Минский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.75416168402312",
+    "lon": "27.573861823600744"
+  },
+  "group": [
+    {
+      "school_osm_id": "130885933",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8144204",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Михановичский сельский Совет",
+      "lon": "27.573861823600744",
+      "lat": "53.75416168402312"
+    },
+    {
+      "school_osm_id": "130885933",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7547135",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Чуриловичи",
+      "lon": "27.573861823600744",
+      "lat": "53.75416168402312"
+    },
+    {
+      "school_osm_id": "130885933",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.573861823600744",
+      "lat": "53.75416168402312"
+    },
+    {
+      "school_osm_id": "130885933",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59190",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Минский район",
+      "lon": "27.573861823600744",
+      "lat": "53.75416168402312"
+    },
+    {
+      "school_osm_id": "130885933",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.573861823600744",
+      "lat": "53.75416168402312"
+    }
+  ]
+}

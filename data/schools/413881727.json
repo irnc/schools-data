@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Хомичево",
+    "osm_id": "-6296198",
+    "hierarchy": [
+      "Мохровский сельский Совет",
+      "Ивановский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.01625901638414",
+    "lon": "25.593806094351766"
+  },
+  "group": [
+    {
+      "school_osm_id": "413881727",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8028555",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Мохровский сельский Совет",
+      "lon": "25.593806094351766",
+      "lat": "52.01625901638414"
+    },
+    {
+      "school_osm_id": "413881727",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-6296198",
+      "place_admin_level": "10",
+      "place_place": "hamlet",
+      "place_name": "Хомичево",
+      "lon": "25.593806094351766",
+      "lat": "52.01625901638414"
+    },
+    {
+      "school_osm_id": "413881727",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-71118",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Ивановский район",
+      "lon": "25.593806094351766",
+      "lat": "52.01625901638414"
+    },
+    {
+      "school_osm_id": "413881727",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "25.593806094351766",
+      "lat": "52.01625901638414"
+    },
+    {
+      "school_osm_id": "413881727",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "25.593806094351766",
+      "lat": "52.01625901638414"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Крынки",
+    "osm_id": "-7450505",
+    "hierarchy": [
+      "Лисковский сельский Совет",
+      "Речицкий район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.35176621745677",
+    "lon": "30.070566937875316"
+  },
+  "group": [
+    {
+      "school_osm_id": "322428348",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8083012",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Лисковский сельский Совет",
+      "lon": "30.070566937875316",
+      "lat": "52.35176621745677"
+    },
+    {
+      "school_osm_id": "322428348",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7450505",
+      "place_admin_level": "10",
+      "place_place": "hamlet",
+      "place_name": "Крынки",
+      "lon": "30.070566937875316",
+      "lat": "52.35176621745677"
+    },
+    {
+      "school_osm_id": "322428348",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70812",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Речицкий район",
+      "lon": "30.070566937875316",
+      "lat": "52.35176621745677"
+    },
+    {
+      "school_osm_id": "322428348",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "30.070566937875316",
+      "lat": "52.35176621745677"
+    },
+    {
+      "school_osm_id": "322428348",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.070566937875316",
+      "lat": "52.35176621745677"
+    }
+  ]
+}

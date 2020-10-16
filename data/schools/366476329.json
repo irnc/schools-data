@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Марковское",
+    "osm_id": "-7445601",
+    "hierarchy": [
+      "Боровской сельский Совет",
+      "Лельчицкий район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "51.72407049932848",
+    "lon": "28.208226350015877"
+  },
+  "group": [
+    {
+      "school_osm_id": "366476329",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8030883",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Боровской сельский Совет",
+      "lon": "28.208226350015877",
+      "lat": "51.72407049932848"
+    },
+    {
+      "school_osm_id": "366476329",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7445601",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Марковское",
+      "lon": "28.208226350015877",
+      "lat": "51.72407049932848"
+    },
+    {
+      "school_osm_id": "366476329",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-71147",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Лельчицкий район",
+      "lon": "28.208226350015877",
+      "lat": "51.72407049932848"
+    },
+    {
+      "school_osm_id": "366476329",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "28.208226350015877",
+      "lat": "51.72407049932848"
+    },
+    {
+      "school_osm_id": "366476329",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.208226350015877",
+      "lat": "51.72407049932848"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Дружный",
+    "osm_id": "-7555701",
+    "hierarchy": [
+      "Свислочский сельский Совет",
+      "Пуховичский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.62369995975759",
+    "lon": "27.8920783856567"
+  },
+  "group": [
+    {
+      "school_osm_id": "565014266",
+      "school_osm_type": "way",
+      "school_name": "Начальная школа",
+      "place_osm_id": "-8144294",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Свислочский сельский Совет",
+      "lon": "27.8920783856567",
+      "lat": "53.62369995975759"
+    },
+    {
+      "school_osm_id": "565014266",
+      "school_osm_type": "way",
+      "school_name": "Начальная школа",
+      "place_osm_id": "-7555701",
+      "place_admin_level": "10",
+      "place_place": "town",
+      "place_name": "Дружный",
+      "lon": "27.8920783856567",
+      "lat": "53.62369995975759"
+    },
+    {
+      "school_osm_id": "565014266",
+      "school_osm_type": "way",
+      "school_name": "Начальная школа",
+      "place_osm_id": "-70549",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Пуховичский район",
+      "lon": "27.8920783856567",
+      "lat": "53.62369995975759"
+    },
+    {
+      "school_osm_id": "565014266",
+      "school_osm_type": "way",
+      "school_name": "Начальная школа",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.8920783856567",
+      "lat": "53.62369995975759"
+    },
+    {
+      "school_osm_id": "565014266",
+      "school_osm_type": "way",
+      "school_name": "Начальная школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.8920783856567",
+      "lat": "53.62369995975759"
+    }
+  ]
+}

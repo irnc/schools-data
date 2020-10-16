@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Носовичи",
+    "osm_id": "-7443521",
+    "hierarchy": [
+      "Зеленочский сельский Совет",
+      "Калинковичский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.28479293078916",
+    "lon": "29.587972171975736"
+  },
+  "group": [
+    {
+      "school_osm_id": "323600417",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8087902",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Зеленочский сельский Совет",
+      "lon": "29.587972171975736",
+      "lat": "52.28479293078916"
+    },
+    {
+      "school_osm_id": "323600417",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7443521",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Носовичи",
+      "lon": "29.587972171975736",
+      "lat": "52.28479293078916"
+    },
+    {
+      "school_osm_id": "323600417",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70814",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Калинковичский район",
+      "lon": "29.587972171975736",
+      "lat": "52.28479293078916"
+    },
+    {
+      "school_osm_id": "323600417",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "29.587972171975736",
+      "lat": "52.28479293078916"
+    },
+    {
+      "school_osm_id": "323600417",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.587972171975736",
+      "lat": "52.28479293078916"
+    }
+  ]
+}

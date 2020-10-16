@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Исерно",
+    "osm_id": "-7556145",
+    "hierarchy": [
+      "Исернский сельский Совет",
+      "Слуцкий район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.89980242883423",
+    "lon": "27.63866875837437"
+  },
+  "group": [
+    {
+      "school_osm_id": "440509444",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8144258",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Исернский сельский Совет",
+      "lon": "27.63866875837437",
+      "lat": "52.89980242883423"
+    },
+    {
+      "school_osm_id": "440509444",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7556145",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Исерно",
+      "lon": "27.63866875837437",
+      "lat": "52.89980242883423"
+    },
+    {
+      "school_osm_id": "440509444",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-71134",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Слуцкий район",
+      "lon": "27.63866875837437",
+      "lat": "52.89980242883423"
+    },
+    {
+      "school_osm_id": "440509444",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.63866875837437",
+      "lat": "52.89980242883423"
+    },
+    {
+      "school_osm_id": "440509444",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.63866875837437",
+      "lat": "52.89980242883423"
+    }
+  ]
+}

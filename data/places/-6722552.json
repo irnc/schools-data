@@ -1,0 +1,222 @@
+[
+  {
+    "school_osm_id": "-5253354",
+    "school_osm_type": "relation",
+    "school_name": "Гимназия №6",
+    "place_osm_id": "-6722552",
+    "place_admin_level": "8",
+    "place_place": "city",
+    "place_name": "Молодечно",
+    "lon": "26.844696980863624",
+    "lat": "54.304860280130185"
+  },
+  {
+    "school_osm_id": "-4119887",
+    "school_osm_type": "relation",
+    "school_name": "Гимназия №10",
+    "place_osm_id": "-6722552",
+    "place_admin_level": "8",
+    "place_place": "city",
+    "place_name": "Молодечно",
+    "lon": "26.844210479712956",
+    "lat": "54.30149273246299"
+  },
+  {
+    "school_osm_id": "106992678",
+    "school_osm_type": "way",
+    "school_name": "Молодечненская детская школа искусств",
+    "place_osm_id": "-6722552",
+    "place_admin_level": "8",
+    "place_place": "city",
+    "place_name": "Молодечно",
+    "lon": "26.837680866617568",
+    "lat": "54.307532803854905"
+  },
+  {
+    "school_osm_id": "194910603",
+    "school_osm_type": "way",
+    "school_name": "Гимназия №3",
+    "place_osm_id": "-6722552",
+    "place_admin_level": "8",
+    "place_place": "city",
+    "place_name": "Молодечно",
+    "lon": "26.859144517697143",
+    "lat": "54.31661202227655"
+  },
+  {
+    "school_osm_id": "278807708",
+    "school_osm_type": "way",
+    "school_name": "Автошкола ДОСААФ",
+    "place_osm_id": "-6722552",
+    "place_admin_level": "8",
+    "place_place": "city",
+    "place_name": "Молодечно",
+    "lon": "26.861326436675675",
+    "lat": "54.31697823869918"
+  },
+  {
+    "school_osm_id": "308322340",
+    "school_osm_type": "way",
+    "school_name": "Школа №12",
+    "place_osm_id": "-6722552",
+    "place_admin_level": "8",
+    "place_place": "city",
+    "place_name": "Молодечно",
+    "lon": "26.848436182853952",
+    "lat": "54.29331565642368"
+  },
+  {
+    "school_osm_id": "308746074",
+    "school_osm_type": "way",
+    "school_name": "Школа № 11",
+    "place_osm_id": "-6722552",
+    "place_admin_level": "8",
+    "place_place": "city",
+    "place_name": "Молодечно",
+    "lon": "26.852389947012195",
+    "lat": "54.299382186044994"
+  },
+  {
+    "school_osm_id": "311303581",
+    "school_osm_type": "way",
+    "school_name": "Школа №14",
+    "place_osm_id": "-6722552",
+    "place_admin_level": "8",
+    "place_place": "city",
+    "place_name": "Молодечно",
+    "lon": "26.875857886032275",
+    "lat": "54.29547961661264"
+  },
+  {
+    "school_osm_id": "388121583",
+    "school_osm_type": "way",
+    "school_name": "Гимназия №7",
+    "place_osm_id": "-6722552",
+    "place_admin_level": "8",
+    "place_place": "city",
+    "place_name": "Молодечно",
+    "lon": "26.83056301534508",
+    "lat": "54.31175222348034"
+  },
+  {
+    "school_osm_id": "388130343",
+    "school_osm_type": "way",
+    "school_name": "Школа №8",
+    "place_osm_id": "-6722552",
+    "place_admin_level": "8",
+    "place_place": "city",
+    "place_name": "Молодечно",
+    "lon": "26.850563579336914",
+    "lat": "54.305239581235284"
+  },
+  {
+    "school_osm_id": "388135482",
+    "school_osm_type": "way",
+    "school_name": "Молодечненская специальная общеобразовательная школа-интернат",
+    "place_osm_id": "-6722552",
+    "place_admin_level": "8",
+    "place_place": "city",
+    "place_name": "Молодечно",
+    "lon": "26.84829765889199",
+    "lat": "54.309595648373154"
+  },
+  {
+    "school_osm_id": "414379185",
+    "school_osm_type": "way",
+    "school_name": "СШ №2",
+    "place_osm_id": "-6722552",
+    "place_admin_level": "8",
+    "place_place": "city",
+    "place_name": "Молодечно",
+    "lon": "26.826769817770003",
+    "lat": "54.29971176450863"
+  },
+  {
+    "school_osm_id": "417988518",
+    "school_osm_type": "way",
+    "school_name": "СШ №1 имени Янки Купалы",
+    "place_osm_id": "-6722552",
+    "place_admin_level": "8",
+    "place_place": "city",
+    "place_name": "Молодечно",
+    "lon": "26.878137969624376",
+    "lat": "54.318845758617826"
+  },
+  {
+    "school_osm_id": "417988519",
+    "school_osm_type": "way",
+    "school_name": "Школа №4",
+    "place_osm_id": "-6722552",
+    "place_admin_level": "8",
+    "place_place": "city",
+    "place_name": "Молодечно",
+    "lon": "26.84340518137096",
+    "lat": "54.311372479639004"
+  },
+  {
+    "school_osm_id": "417988520",
+    "school_osm_type": "way",
+    "school_name": "СШ №5",
+    "place_osm_id": "-6722552",
+    "place_admin_level": "8",
+    "place_place": "city",
+    "place_name": "Молодечно",
+    "lon": "26.87002339027162",
+    "lat": "54.319539390518635"
+  },
+  {
+    "school_osm_id": "553155370",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №9 г. Молодечно",
+    "place_osm_id": "-6722552",
+    "place_admin_level": "8",
+    "place_place": "city",
+    "place_name": "Молодечно",
+    "lon": "26.842425417210745",
+    "lat": "54.325107131682"
+  },
+  {
+    "school_osm_id": "627877524",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-6722552",
+    "place_admin_level": "8",
+    "place_place": "city",
+    "place_name": "Молодечно",
+    "lon": "26.85029377802151",
+    "lat": "54.308878397987385"
+  },
+  {
+    "school_osm_id": "4481325889",
+    "school_osm_type": "node",
+    "school_name": "Зал борьбы",
+    "place_osm_id": "-6722552",
+    "place_admin_level": "8",
+    "place_place": "city",
+    "place_name": "Молодечно",
+    "lon": "26.8256306",
+    "lat": "54.302015299241454"
+  },
+  {
+    "school_osm_id": "4560619954",
+    "school_osm_type": "node",
+    "school_name": "Детская художественная школа",
+    "place_osm_id": "-6722552",
+    "place_admin_level": "8",
+    "place_place": "city",
+    "place_name": "Молодечно",
+    "lon": "26.823238999999997",
+    "lat": "54.30577579924224"
+  },
+  {
+    "school_osm_id": "4961645623",
+    "school_osm_type": "node",
+    "school_name": "Гимназия-колледж искусств",
+    "place_osm_id": "-6722552",
+    "place_admin_level": "8",
+    "place_place": "city",
+    "place_name": "Молодечно",
+    "lon": "26.847760399999995",
+    "lat": "54.293715199239735"
+  }
+]

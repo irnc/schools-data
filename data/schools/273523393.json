@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Бучатино",
+    "osm_id": "-7542816",
+    "hierarchy": [
+      "Бучатинский сельский Совет",
+      "Копыльский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.916015081764854",
+    "lon": "27.090473930486016"
+  },
+  "group": [
+    {
+      "school_osm_id": "273523393",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8139721",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Бучатинский сельский Совет",
+      "lon": "27.090473930486016",
+      "lat": "52.916015081764854"
+    },
+    {
+      "school_osm_id": "273523393",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7542816",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Бучатино",
+      "lon": "27.090473930486016",
+      "lat": "52.916015081764854"
+    },
+    {
+      "school_osm_id": "273523393",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-71132",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Копыльский район",
+      "lon": "27.090473930486016",
+      "lat": "52.916015081764854"
+    },
+    {
+      "school_osm_id": "273523393",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.090473930486016",
+      "lat": "52.916015081764854"
+    },
+    {
+      "school_osm_id": "273523393",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.090473930486016",
+      "lat": "52.916015081764854"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Старые Храковичи",
+    "osm_id": "-7440936",
+    "hierarchy": [
+      "Чемерисский сельский Совет",
+      "Брагинский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "51.673610707011576",
+    "lon": "30.424244585056353"
+  },
+  "group": [
+    {
+      "school_osm_id": "367660644",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8031205",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Чемерисский сельский Совет",
+      "lon": "30.424244585056353",
+      "lat": "51.673610707011576"
+    },
+    {
+      "school_osm_id": "367660644",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7440936",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Старые Храковичи",
+      "lon": "30.424244585056353",
+      "lat": "51.673610707011576"
+    },
+    {
+      "school_osm_id": "367660644",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70801",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Брагинский район",
+      "lon": "30.424244585056353",
+      "lat": "51.673610707011576"
+    },
+    {
+      "school_osm_id": "367660644",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "30.424244585056353",
+      "lat": "51.673610707011576"
+    },
+    {
+      "school_osm_id": "367660644",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.424244585056353",
+      "lat": "51.673610707011576"
+    }
+  ]
+}

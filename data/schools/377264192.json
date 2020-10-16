@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Турец",
+    "osm_id": "-7517927",
+    "hierarchy": [
+      "Турецкий сельский Совет",
+      "Кореличский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.52826677685408",
+    "lon": "26.301518765644254"
+  },
+  "group": [
+    {
+      "school_osm_id": "377264192",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8100430",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Турецкий сельский Совет",
+      "lon": "26.301518765644254",
+      "lat": "53.52826677685408"
+    },
+    {
+      "school_osm_id": "377264192",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7517927",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Турец",
+      "lon": "26.301518765644254",
+      "lat": "53.52826677685408"
+    },
+    {
+      "school_osm_id": "377264192",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70751",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Кореличский район",
+      "lon": "26.301518765644254",
+      "lat": "53.52826677685408"
+    },
+    {
+      "school_osm_id": "377264192",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "26.301518765644254",
+      "lat": "53.52826677685408"
+    },
+    {
+      "school_osm_id": "377264192",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.301518765644254",
+      "lat": "53.52826677685408"
+    }
+  ]
+}

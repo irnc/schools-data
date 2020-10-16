@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "82784415",
+    "school_osm_type": "way",
+    "school_name": "Муз. школа",
+    "place_osm_id": "-7507083",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Оболь",
+    "lon": "29.30819958372458",
+    "lat": "55.34822931096048"
+  },
+  {
+    "school_osm_id": "274103671",
+    "school_osm_type": "way",
+    "school_name": "Обольская средняя школа",
+    "place_osm_id": "-7507083",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Оболь",
+    "lon": "29.294693481499657",
+    "lat": "55.35342264632193"
+  }
+]

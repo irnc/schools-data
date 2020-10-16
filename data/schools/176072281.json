@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Добруш",
+    "osm_id": "-5598556",
+    "hierarchy": [
+      "Добрушский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.42429756461217",
+    "lon": "31.306992691009786"
+  },
+  "group": [
+    {
+      "school_osm_id": "176072281",
+      "school_osm_type": "way",
+      "school_name": "Гимназия",
+      "place_osm_id": "-5598556",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Добруш",
+      "lon": "31.306992691009786",
+      "lat": "52.42429756461217"
+    },
+    {
+      "school_osm_id": "176072281",
+      "school_osm_type": "way",
+      "school_name": "Гимназия",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "31.306992691009786",
+      "lat": "52.42429756461217"
+    },
+    {
+      "school_osm_id": "176072281",
+      "school_osm_type": "way",
+      "school_name": "Гимназия",
+      "place_osm_id": "-59092",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Добрушский район",
+      "lon": "31.306992691009786",
+      "lat": "52.42429756461217"
+    },
+    {
+      "school_osm_id": "176072281",
+      "school_osm_type": "way",
+      "school_name": "Гимназия",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "31.306992691009786",
+      "lat": "52.42429756461217"
+    }
+  ]
+}

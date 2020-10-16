@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Вязовница",
+    "osm_id": "-7589419",
+    "hierarchy": [
+      "Липенский сельский Совет",
+      "Осиповичский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.45526291693973",
+    "lon": "28.82710889310993"
+  },
+  "group": [
+    {
+      "school_osm_id": "216732645",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8144249",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Липенский сельский Совет",
+      "lon": "28.82710889310993",
+      "lat": "53.45526291693973"
+    },
+    {
+      "school_osm_id": "216732645",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7589419",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Вязовница",
+      "lon": "28.82710889310993",
+      "lat": "53.45526291693973"
+    },
+    {
+      "school_osm_id": "216732645",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59753",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Осиповичский район",
+      "lon": "28.82710889310993",
+      "lat": "53.45526291693973"
+    },
+    {
+      "school_osm_id": "216732645",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "28.82710889310993",
+      "lat": "53.45526291693973"
+    },
+    {
+      "school_osm_id": "216732645",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.82710889310993",
+      "lat": "53.45526291693973"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+[
+  {
+    "school_osm_id": "239754285",
+    "school_osm_type": "way",
+    "school_name": "Зельвенская государственная санаторная школа-интернат",
+    "place_osm_id": "-6722384",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Зельва",
+    "lon": "24.804366395380782",
+    "lat": "53.154213778321456"
+  },
+  {
+    "school_osm_id": "481805663",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №2",
+    "place_osm_id": "-6722384",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Зельва",
+    "lon": "24.817280149341993",
+    "lat": "53.146293154240354"
+  },
+  {
+    "school_osm_id": "483889644",
+    "school_osm_type": "way",
+    "school_name": "Гимназия №1",
+    "place_osm_id": "-6722384",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Зельва",
+    "lon": "24.813049881318477",
+    "lat": "53.150387098930864"
+  },
+  {
+    "school_osm_id": "502570184",
+    "school_osm_type": "way",
+    "school_name": "Детско-юношеская спортивная школа",
+    "place_osm_id": "-6722384",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Зельва",
+    "lon": "24.815341129062116",
+    "lat": "53.14996026803556"
+  },
+  {
+    "school_osm_id": "502570185",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №3",
+    "place_osm_id": "-6722384",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Зельва",
+    "lon": "24.814365215924724",
+    "lat": "53.159907598033136"
+  }
+]

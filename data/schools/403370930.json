@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Ровковичи",
+    "osm_id": "-7453674",
+    "hierarchy": [
+      "Ровковичский сельский Совет",
+      "Чечерский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.85008325697757",
+    "lon": "30.775974973667367"
+  },
+  "group": [
+    {
+      "school_osm_id": "403370930",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8031186",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Ровковичский сельский Совет",
+      "lon": "30.775974973667367",
+      "lat": "52.85008325697757"
+    },
+    {
+      "school_osm_id": "403370930",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7453674",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Ровковичи",
+      "lon": "30.775974973667367",
+      "lat": "52.85008325697757"
+    },
+    {
+      "school_osm_id": "403370930",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59178",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Чечерский район",
+      "lon": "30.775974973667367",
+      "lat": "52.85008325697757"
+    },
+    {
+      "school_osm_id": "403370930",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "30.775974973667367",
+      "lat": "52.85008325697757"
+    },
+    {
+      "school_osm_id": "403370930",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.775974973667367",
+      "lat": "52.85008325697757"
+    }
+  ]
+}

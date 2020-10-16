@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Светлогорск",
+    "osm_id": "-5598676",
+    "hierarchy": [
+      "Светлогорский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.6248103990852",
+    "lon": "29.7181662"
+  },
+  "group": [
+    {
+      "school_osm_id": "6780472886",
+      "school_osm_type": "node",
+      "school_name": "Средня школа 9",
+      "place_osm_id": "-5598676",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Светлогорск",
+      "lon": "29.7181662",
+      "lat": "52.6248103990852"
+    },
+    {
+      "school_osm_id": "6780472886",
+      "school_osm_type": "node",
+      "school_name": "Средня школа 9",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "29.7181662",
+      "lat": "52.6248103990852"
+    },
+    {
+      "school_osm_id": "6780472886",
+      "school_osm_type": "node",
+      "school_name": "Средня школа 9",
+      "place_osm_id": "-59137",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Светлогорский район",
+      "lon": "29.7181662",
+      "lat": "52.6248103990852"
+    },
+    {
+      "school_osm_id": "6780472886",
+      "school_osm_type": "node",
+      "school_name": "Средня школа 9",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.7181662",
+      "lat": "52.6248103990852"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Сенно",
+    "osm_id": "-1996913",
+    "hierarchy": [
+      "Сенненский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.813975847664324",
+    "lon": "29.705119535604208"
+  },
+  "group": [
+    {
+      "school_osm_id": "372316960",
+      "school_osm_type": "way",
+      "school_name": "СШ №2",
+      "place_osm_id": "-1996913",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Сенно",
+      "lon": "29.705119535604208",
+      "lat": "54.813975847664324"
+    },
+    {
+      "school_osm_id": "372316960",
+      "school_osm_type": "way",
+      "school_name": "СШ №2",
+      "place_osm_id": "-70662",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Сенненский район",
+      "lon": "29.705119535604208",
+      "lat": "54.813975847664324"
+    },
+    {
+      "school_osm_id": "372316960",
+      "school_osm_type": "way",
+      "school_name": "СШ №2",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "29.705119535604208",
+      "lat": "54.813975847664324"
+    },
+    {
+      "school_osm_id": "372316960",
+      "school_osm_type": "way",
+      "school_name": "СШ №2",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.705119535604208",
+      "lat": "54.813975847664324"
+    }
+  ]
+}

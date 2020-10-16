@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Старое Село",
+    "osm_id": "-7549099",
+    "hierarchy": [
+      "Хатежинский сельский Совет",
+      "Минский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.88246355289671",
+    "lon": "27.259563200600578"
+  },
+  "group": [
+    {
+      "school_osm_id": "662056325",
+      "school_osm_type": "way",
+      "school_name": "Старосельская детский сад - средняя школа",
+      "place_osm_id": "-8144202",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Хатежинский сельский Совет",
+      "lon": "27.259563200600578",
+      "lat": "53.88246355289671"
+    },
+    {
+      "school_osm_id": "662056325",
+      "school_osm_type": "way",
+      "school_name": "Старосельская детский сад - средняя школа",
+      "place_osm_id": "-7549099",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Старое Село",
+      "lon": "27.259563200600578",
+      "lat": "53.88246355289671"
+    },
+    {
+      "school_osm_id": "662056325",
+      "school_osm_type": "way",
+      "school_name": "Старосельская детский сад - средняя школа",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.259563200600578",
+      "lat": "53.88246355289671"
+    },
+    {
+      "school_osm_id": "662056325",
+      "school_osm_type": "way",
+      "school_name": "Старосельская детский сад - средняя школа",
+      "place_osm_id": "-59190",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Минский район",
+      "lon": "27.259563200600578",
+      "lat": "53.88246355289671"
+    },
+    {
+      "school_osm_id": "662056325",
+      "school_osm_type": "way",
+      "school_name": "Старосельская детский сад - средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.259563200600578",
+      "lat": "53.88246355289671"
+    }
+  ]
+}

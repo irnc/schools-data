@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Борщёвка",
+    "osm_id": "-7443001",
+    "hierarchy": [
+      "Борщёвский сельский Совет",
+      "Добрушский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.21152407328781",
+    "lon": "31.561778327406298"
+  },
+  "group": [
+    {
+      "school_osm_id": "279747114",
+      "school_osm_type": "way",
+      "school_name": "Борщёвская СОШ",
+      "place_osm_id": "-8065406",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Борщёвский сельский Совет",
+      "lon": "31.561778327406298",
+      "lat": "52.21152407328781"
+    },
+    {
+      "school_osm_id": "279747114",
+      "school_osm_type": "way",
+      "school_name": "Борщёвская СОШ",
+      "place_osm_id": "-7443001",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Борщёвка",
+      "lon": "31.561778327406298",
+      "lat": "52.21152407328781"
+    },
+    {
+      "school_osm_id": "279747114",
+      "school_osm_type": "way",
+      "school_name": "Борщёвская СОШ",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "31.561778327406298",
+      "lat": "52.21152407328781"
+    },
+    {
+      "school_osm_id": "279747114",
+      "school_osm_type": "way",
+      "school_name": "Борщёвская СОШ",
+      "place_osm_id": "-59092",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Добрушский район",
+      "lon": "31.561778327406298",
+      "lat": "52.21152407328781"
+    },
+    {
+      "school_osm_id": "279747114",
+      "school_osm_type": "way",
+      "school_name": "Борщёвская СОШ",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "31.561778327406298",
+      "lat": "52.21152407328781"
+    }
+  ]
+}

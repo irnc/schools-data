@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Каменка",
+    "osm_id": "-7572978",
+    "hierarchy": [
+      "Слободковский сельский Совет",
+      "Бобруйский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.10164490033237",
+    "lon": "29.091531054574155"
+  },
+  "group": [
+    {
+      "school_osm_id": "208548915",
+      "school_osm_type": "way",
+      "school_name": "КАМЕНСКАЯ СРЕДНЯЯ ШКОЛА",
+      "place_osm_id": "-8144363",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Слободковский сельский Совет",
+      "lon": "29.091531054574155",
+      "lat": "53.10164490033237"
+    },
+    {
+      "school_osm_id": "208548915",
+      "school_osm_type": "way",
+      "school_name": "КАМЕНСКАЯ СРЕДНЯЯ ШКОЛА",
+      "place_osm_id": "-7572978",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Каменка",
+      "lon": "29.091531054574155",
+      "lat": "53.10164490033237"
+    },
+    {
+      "school_osm_id": "208548915",
+      "school_osm_type": "way",
+      "school_name": "КАМЕНСКАЯ СРЕДНЯЯ ШКОЛА",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "29.091531054574155",
+      "lat": "53.10164490033237"
+    },
+    {
+      "school_osm_id": "208548915",
+      "school_osm_type": "way",
+      "school_name": "КАМЕНСКАЯ СРЕДНЯЯ ШКОЛА",
+      "place_osm_id": "-59148",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Бобруйский район",
+      "lon": "29.091531054574155",
+      "lat": "53.10164490033237"
+    },
+    {
+      "school_osm_id": "208548915",
+      "school_osm_type": "way",
+      "school_name": "КАМЕНСКАЯ СРЕДНЯЯ ШКОЛА",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.091531054574155",
+      "lat": "53.10164490033237"
+    }
+  ]
+}

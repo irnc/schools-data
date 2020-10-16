@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Добрая",
+    "osm_id": "-7578266",
+    "hierarchy": [
+      "Добровский сельский Совет",
+      "Горецкий район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.197887341767235",
+    "lon": "30.93939800591673"
+  },
+  "group": [
+    {
+      "school_osm_id": "405121643",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8076002",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Добровский сельский Совет",
+      "lon": "30.93939800591673",
+      "lat": "54.197887341767235"
+    },
+    {
+      "school_osm_id": "405121643",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7578266",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Добрая",
+      "lon": "30.93939800591673",
+      "lat": "54.197887341767235"
+    },
+    {
+      "school_osm_id": "405121643",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70620",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Горецкий район",
+      "lon": "30.93939800591673",
+      "lat": "54.197887341767235"
+    },
+    {
+      "school_osm_id": "405121643",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "30.93939800591673",
+      "lat": "54.197887341767235"
+    },
+    {
+      "school_osm_id": "405121643",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.93939800591673",
+      "lat": "54.197887341767235"
+    }
+  ]
+}

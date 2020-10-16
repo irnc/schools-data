@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "241008315",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-5598993",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Чечерск",
+    "lon": "30.90955490000554",
+    "lat": "52.918277499101556"
+  },
+  {
+    "school_osm_id": "241020213",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-5598993",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Чечерск",
+    "lon": "30.90739622169138",
+    "lat": "52.91646275815254"
+  }
+]

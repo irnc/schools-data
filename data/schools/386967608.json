@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Курополье",
+    "osm_id": "-7498413",
+    "hierarchy": [
+      "Куропольский сельский Совет",
+      "Поставский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.22553082397559",
+    "lon": "26.87050221963683"
+  },
+  "group": [
+    {
+      "school_osm_id": "386967608",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8016495",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Куропольский сельский Совет",
+      "lon": "26.87050221963683",
+      "lat": "55.22553082397559"
+    },
+    {
+      "school_osm_id": "386967608",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7498413",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Курополье",
+      "lon": "26.87050221963683",
+      "lat": "55.22553082397559"
+    },
+    {
+      "school_osm_id": "386967608",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70707",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Поставский район",
+      "lon": "26.87050221963683",
+      "lat": "55.22553082397559"
+    },
+    {
+      "school_osm_id": "386967608",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "26.87050221963683",
+      "lat": "55.22553082397559"
+    },
+    {
+      "school_osm_id": "386967608",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.87050221963683",
+      "lat": "55.22553082397559"
+    }
+  ]
+}

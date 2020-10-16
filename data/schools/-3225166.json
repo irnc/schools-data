@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Ельск",
+    "osm_id": "-5598567",
+    "hierarchy": [
+      "Ельский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "51.81330171810507",
+    "lon": "29.168571841168653"
+  },
+  "group": [
+    {
+      "school_osm_id": "-3225166",
+      "school_osm_type": "relation",
+      "school_name": "СШ №2",
+      "place_osm_id": "-5598567",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Ельск",
+      "lon": "29.168571841168653",
+      "lat": "51.81330171810507"
+    },
+    {
+      "school_osm_id": "-3225166",
+      "school_osm_type": "relation",
+      "school_name": "СШ №2",
+      "place_osm_id": "-70810",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Ельский район",
+      "lon": "29.168571841168653",
+      "lat": "51.81330171810507"
+    },
+    {
+      "school_osm_id": "-3225166",
+      "school_osm_type": "relation",
+      "school_name": "СШ №2",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "29.168571841168653",
+      "lat": "51.81330171810507"
+    },
+    {
+      "school_osm_id": "-3225166",
+      "school_osm_type": "relation",
+      "school_name": "СШ №2",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.168571841168653",
+      "lat": "51.81330171810507"
+    }
+  ]
+}

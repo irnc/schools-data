@@ -1,0 +1,46 @@
+{
+  "place": {
+    "name": "Минск",
+    "osm_id": "-59195",
+    "hierarchy": []
+  },
+  "geo": {
+    "lat": "53.91474294353563",
+    "lon": "27.556128277693265"
+  },
+  "group": [
+    {
+      "school_osm_id": "380200721",
+      "school_osm_type": "way",
+      "school_name": "Минская государственная гимназия-колледж искусств",
+      "place_osm_id": "-59249",
+      "place_admin_level": "9",
+      "place_place": "",
+      "place_name": "Центральный район",
+      "lon": "27.556128277693265",
+      "lat": "53.91474294353563"
+    },
+    {
+      "school_osm_id": "380200721",
+      "school_osm_type": "way",
+      "school_name": "Минская государственная гимназия-колледж искусств",
+      "place_osm_id": "-59195",
+      "place_admin_level": "4",
+      "place_place": "city",
+      "place_name": "Минск",
+      "lon": "27.556128277693265",
+      "lat": "53.91474294353563"
+    },
+    {
+      "school_osm_id": "380200721",
+      "school_osm_type": "way",
+      "school_name": "Минская государственная гимназия-колледж искусств",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.556128277693265",
+      "lat": "53.91474294353563"
+    }
+  ]
+}

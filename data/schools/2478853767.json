@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Октябрьский",
+    "osm_id": "-7566024",
+    "hierarchy": [
+      "Плисский сельский Совет",
+      "Смолевичский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.04060179919184",
+    "lon": "28.1942728"
+  },
+  "group": [
+    {
+      "school_osm_id": "2478853767",
+      "school_osm_type": "node",
+      "school_name": "Плисская средняя школа",
+      "place_osm_id": "-8144352",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Плисский сельский Совет",
+      "lon": "28.1942728",
+      "lat": "54.04060179919184"
+    },
+    {
+      "school_osm_id": "2478853767",
+      "school_osm_type": "node",
+      "school_name": "Плисская средняя школа",
+      "place_osm_id": "-7566024",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Октябрьский",
+      "lon": "28.1942728",
+      "lat": "54.04060179919184"
+    },
+    {
+      "school_osm_id": "2478853767",
+      "school_osm_type": "node",
+      "school_name": "Плисская средняя школа",
+      "place_osm_id": "-69554",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Смолевичский район",
+      "lon": "28.1942728",
+      "lat": "54.04060179919184"
+    },
+    {
+      "school_osm_id": "2478853767",
+      "school_osm_type": "node",
+      "school_name": "Плисская средняя школа",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "28.1942728",
+      "lat": "54.04060179919184"
+    },
+    {
+      "school_osm_id": "2478853767",
+      "school_osm_type": "node",
+      "school_name": "Плисская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.1942728",
+      "lat": "54.04060179919184"
+    }
+  ]
+}

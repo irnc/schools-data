@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Россоны",
+    "osm_id": "-6722342",
+    "hierarchy": [
+      "Россонский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.90240929974699",
+    "lon": "28.811716400000005"
+  },
+  "group": [
+    {
+      "school_osm_id": "2961991587",
+      "school_osm_type": "node",
+      "school_name": "ДЮСШ",
+      "place_osm_id": "-6722342",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Россоны",
+      "lon": "28.811716400000005",
+      "lat": "55.90240929974699"
+    },
+    {
+      "school_osm_id": "2961991587",
+      "school_osm_type": "node",
+      "school_name": "ДЮСШ",
+      "place_osm_id": "-70680",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Россонский район",
+      "lon": "28.811716400000005",
+      "lat": "55.90240929974699"
+    },
+    {
+      "school_osm_id": "2961991587",
+      "school_osm_type": "node",
+      "school_name": "ДЮСШ",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "28.811716400000005",
+      "lat": "55.90240929974699"
+    },
+    {
+      "school_osm_id": "2961991587",
+      "school_osm_type": "node",
+      "school_name": "ДЮСШ",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.811716400000005",
+      "lat": "55.90240929974699"
+    }
+  ]
+}

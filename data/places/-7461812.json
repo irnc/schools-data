@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "1236209968",
+    "school_osm_type": "node",
+    "school_name": "Муз.школа",
+    "place_osm_id": "-7461812",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Черни",
+    "lon": "23.753211899999997",
+    "lat": "52.1497105991058"
+  },
+  {
+    "school_osm_id": "1236210001",
+    "school_osm_type": "node",
+    "school_name": "СШ д.Черни",
+    "place_osm_id": "-7461812",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Черни",
+    "lon": "23.7494799",
+    "lat": "52.14924459910584"
+  }
+]

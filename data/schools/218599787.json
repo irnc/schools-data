@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Сластёны",
+    "osm_id": "-7589820",
+    "hierarchy": [
+      "Каменский сельский Совет",
+      "Чаусский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.976839050036205",
+    "lon": "30.797468450098766"
+  },
+  "group": [
+    {
+      "school_osm_id": "218599787",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8140439",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Каменский сельский Совет",
+      "lon": "30.797468450098766",
+      "lat": "53.976839050036205"
+    },
+    {
+      "school_osm_id": "218599787",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7589820",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Сластёны",
+      "lon": "30.797468450098766",
+      "lat": "53.976839050036205"
+    },
+    {
+      "school_osm_id": "218599787",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70591",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Чаусский район",
+      "lon": "30.797468450098766",
+      "lat": "53.976839050036205"
+    },
+    {
+      "school_osm_id": "218599787",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "30.797468450098766",
+      "lat": "53.976839050036205"
+    },
+    {
+      "school_osm_id": "218599787",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.797468450098766",
+      "lat": "53.976839050036205"
+    }
+  ]
+}

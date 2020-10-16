@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "306783538",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №1",
+    "place_osm_id": "-1177449",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Дубровно",
+    "lon": "30.693589069588004",
+    "lat": "54.57225789036551"
+  },
+  {
+    "school_osm_id": "372065042",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №2",
+    "place_osm_id": "-1177449",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Дубровно",
+    "lon": "30.673672298855124",
+    "lat": "54.57699057278862"
+  }
+]

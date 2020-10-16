@@ -1,0 +1,59 @@
+{
+  "place": {
+    "name": "Гродно",
+    "osm_id": "-130921",
+    "hierarchy": [
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.65363668481464",
+    "lon": "23.839066235006733"
+  },
+  "group": [
+    {
+      "school_osm_id": "-7170145",
+      "school_osm_type": "relation",
+      "school_name": "Гимназия №9 имени Кириченко",
+      "place_osm_id": "-2888068",
+      "place_admin_level": "9",
+      "place_place": "",
+      "place_name": "Октябрьский район",
+      "lon": "23.839066235006733",
+      "lat": "53.65363668481464"
+    },
+    {
+      "school_osm_id": "-7170145",
+      "school_osm_type": "relation",
+      "school_name": "Гимназия №9 имени Кириченко",
+      "place_osm_id": "-130921",
+      "place_admin_level": "6",
+      "place_place": "city",
+      "place_name": "Гродно",
+      "lon": "23.839066235006733",
+      "lat": "53.65363668481464"
+    },
+    {
+      "school_osm_id": "-7170145",
+      "school_osm_type": "relation",
+      "school_name": "Гимназия №9 имени Кириченко",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "23.839066235006733",
+      "lat": "53.65363668481464"
+    },
+    {
+      "school_osm_id": "-7170145",
+      "school_osm_type": "relation",
+      "school_name": "Гимназия №9 имени Кириченко",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "23.839066235006733",
+      "lat": "53.65363668481464"
+    }
+  ]
+}

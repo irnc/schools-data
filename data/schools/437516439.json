@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Новоселье",
+    "osm_id": "-7492604",
+    "hierarchy": [
+      "Оршанский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.41774970323283",
+    "lon": "30.274104844272173"
+  },
+  "group": [
+    {
+      "school_osm_id": "437516439",
+      "school_osm_type": "way",
+      "school_name": "Детский сад - средняя школа №22 имени С.И. Грицевца",
+      "place_osm_id": "-7492604",
+      "place_admin_level": "10",
+      "place_place": "hamlet",
+      "place_name": "Новоселье",
+      "lon": "30.274104844272173",
+      "lat": "54.41774970323283"
+    },
+    {
+      "school_osm_id": "437516439",
+      "school_osm_type": "way",
+      "school_name": "Детский сад - средняя школа №22 имени С.И. Грицевца",
+      "place_osm_id": "-70660",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Оршанский район",
+      "lon": "30.274104844272173",
+      "lat": "54.41774970323283"
+    },
+    {
+      "school_osm_id": "437516439",
+      "school_osm_type": "way",
+      "school_name": "Детский сад - средняя школа №22 имени С.И. Грицевца",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "30.274104844272173",
+      "lat": "54.41774970323283"
+    },
+    {
+      "school_osm_id": "437516439",
+      "school_osm_type": "way",
+      "school_name": "Детский сад - средняя школа №22 имени С.И. Грицевца",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.274104844272173",
+      "lat": "54.41774970323283"
+    }
+  ]
+}

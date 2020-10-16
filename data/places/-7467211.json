@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "758446471",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7467211",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Олтуш",
+    "lon": "23.96248402742049",
+    "lat": "51.68204800738742"
+  },
+  {
+    "school_osm_id": "758448090",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7467211",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Олтуш",
+    "lon": "23.96245122253236",
+    "lat": "51.68210200974513"
+  }
+]

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Долгополье",
+    "osm_id": "-7483102",
+    "hierarchy": [
+      "Долгопольский сельский Совет",
+      "Городокский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.549107127625675",
+    "lon": "29.74770273527421"
+  },
+  "group": [
+    {
+      "school_osm_id": "58709899",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8018225",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Долгопольский сельский Совет",
+      "lon": "29.74770273527421",
+      "lat": "55.549107127625675"
+    },
+    {
+      "school_osm_id": "58709899",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7483102",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Долгополье",
+      "lon": "29.74770273527421",
+      "lat": "55.549107127625675"
+    },
+    {
+      "school_osm_id": "58709899",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70676",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Городокский район",
+      "lon": "29.74770273527421",
+      "lat": "55.549107127625675"
+    },
+    {
+      "school_osm_id": "58709899",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "29.74770273527421",
+      "lat": "55.549107127625675"
+    },
+    {
+      "school_osm_id": "58709899",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.74770273527421",
+      "lat": "55.549107127625675"
+    }
+  ]
+}

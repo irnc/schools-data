@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Липнишки",
+    "osm_id": "-4004464",
+    "hierarchy": [
+      "Липнишковский сельский Совет",
+      "Ивьевский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.00233104820117",
+    "lon": "25.60740363974812"
+  },
+  "group": [
+    {
+      "school_osm_id": "293174272",
+      "school_osm_type": "way",
+      "school_name": "Ліпнішкаўскі дзіцячы сад – сярэдняя школа",
+      "place_osm_id": "-4004464",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Липнишки",
+      "lon": "25.60740363974812",
+      "lat": "54.00233104820117"
+    },
+    {
+      "school_osm_id": "293174272",
+      "school_osm_type": "way",
+      "school_name": "Ліпнішкаўскі дзіцячы сад – сярэдняя школа",
+      "place_osm_id": "-3798390",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Липнишковский сельский Совет",
+      "lon": "25.60740363974812",
+      "lat": "54.00233104820117"
+    },
+    {
+      "school_osm_id": "293174272",
+      "school_osm_type": "way",
+      "school_name": "Ліпнішкаўскі дзіцячы сад – сярэдняя школа",
+      "place_osm_id": "-70732",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Ивьевский район",
+      "lon": "25.60740363974812",
+      "lat": "54.00233104820117"
+    },
+    {
+      "school_osm_id": "293174272",
+      "school_osm_type": "way",
+      "school_name": "Ліпнішкаўскі дзіцячы сад – сярэдняя школа",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "25.60740363974812",
+      "lat": "54.00233104820117"
+    },
+    {
+      "school_osm_id": "293174272",
+      "school_osm_type": "way",
+      "school_name": "Ліпнішкаўскі дзіцячы сад – сярэдняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "25.60740363974812",
+      "lat": "54.00233104820117"
+    }
+  ]
+}

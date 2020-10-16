@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Городьки",
+    "osm_id": "-7535404",
+    "hierarchy": [
+      "Городьковский сельский Совет",
+      "Воложинский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.21274456693688",
+    "lon": "26.445871991230245"
+  },
+  "group": [
+    {
+      "school_osm_id": "774605548",
+      "school_osm_type": "way",
+      "school_name": "Воложинская детская школа искусств",
+      "place_osm_id": "-8014023",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Городьковский сельский Совет",
+      "lon": "26.445871991230245",
+      "lat": "54.21274456693688"
+    },
+    {
+      "school_osm_id": "774605548",
+      "school_osm_type": "way",
+      "school_name": "Воложинская детская школа искусств",
+      "place_osm_id": "-7535404",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Городьки",
+      "lon": "26.445871991230245",
+      "lat": "54.21274456693688"
+    },
+    {
+      "school_osm_id": "774605548",
+      "school_osm_type": "way",
+      "school_name": "Воложинская детская школа искусств",
+      "place_osm_id": "-70565",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Воложинский район",
+      "lon": "26.445871991230245",
+      "lat": "54.21274456693688"
+    },
+    {
+      "school_osm_id": "774605548",
+      "school_osm_type": "way",
+      "school_name": "Воложинская детская школа искусств",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "26.445871991230245",
+      "lat": "54.21274456693688"
+    },
+    {
+      "school_osm_id": "774605548",
+      "school_osm_type": "way",
+      "school_name": "Воложинская детская школа искусств",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.445871991230245",
+      "lat": "54.21274456693688"
+    }
+  ]
+}

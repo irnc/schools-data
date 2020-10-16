@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Путьки",
+    "osm_id": "-7589710",
+    "hierarchy": [
+      "Радомльский сельский Совет",
+      "Чаусский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.84214752637325",
+    "lon": "31.076820234373265"
+  },
+  "group": [
+    {
+      "school_osm_id": "385666959",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8140438",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Радомльский сельский Совет",
+      "lon": "31.076820234373265",
+      "lat": "53.84214752637325"
+    },
+    {
+      "school_osm_id": "385666959",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7589710",
+      "place_admin_level": "10",
+      "place_place": "hamlet",
+      "place_name": "Путьки",
+      "lon": "31.076820234373265",
+      "lat": "53.84214752637325"
+    },
+    {
+      "school_osm_id": "385666959",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70591",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Чаусский район",
+      "lon": "31.076820234373265",
+      "lat": "53.84214752637325"
+    },
+    {
+      "school_osm_id": "385666959",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "31.076820234373265",
+      "lat": "53.84214752637325"
+    },
+    {
+      "school_osm_id": "385666959",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "31.076820234373265",
+      "lat": "53.84214752637325"
+    }
+  ]
+}

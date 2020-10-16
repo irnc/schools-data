@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "377023751",
+    "school_osm_type": "way",
+    "school_name": "Городищенская средняя школа",
+    "place_osm_id": "-7456625",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Городище",
+    "lon": "26.001113593882813",
+    "lat": "53.323272660068106"
+  },
+  {
+    "school_osm_id": "679190415",
+    "school_osm_type": "way",
+    "school_name": "ДЮСШ",
+    "place_osm_id": "-7456625",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Городище",
+    "lon": "26.01258341172179",
+    "lat": "53.32334766543116"
+  }
+]

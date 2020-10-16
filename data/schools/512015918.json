@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Желудок",
+    "osm_id": "-5598163",
+    "hierarchy": [
+      "Щучинский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.601050051664416",
+    "lon": "24.98026319838594"
+  },
+  "group": [
+    {
+      "school_osm_id": "512015918",
+      "school_osm_type": "way",
+      "school_name": "Желудокская Средняя школа",
+      "place_osm_id": "-5598163",
+      "place_admin_level": "8",
+      "place_place": "village",
+      "place_name": "Желудок",
+      "lon": "24.98026319838594",
+      "lat": "53.601050051664416"
+    },
+    {
+      "school_osm_id": "512015918",
+      "school_osm_type": "way",
+      "school_name": "Желудокская Средняя школа",
+      "place_osm_id": "-70748",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Щучинский район",
+      "lon": "24.98026319838594",
+      "lat": "53.601050051664416"
+    },
+    {
+      "school_osm_id": "512015918",
+      "school_osm_type": "way",
+      "school_name": "Желудокская Средняя школа",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "24.98026319838594",
+      "lat": "53.601050051664416"
+    },
+    {
+      "school_osm_id": "512015918",
+      "school_osm_type": "way",
+      "school_name": "Желудокская Средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "24.98026319838594",
+      "lat": "53.601050051664416"
+    }
+  ]
+}

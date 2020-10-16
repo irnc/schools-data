@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "311401343",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7443579",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Домановичи",
+    "lon": "29.40312288756886",
+    "lat": "52.343792259698986"
+  },
+  {
+    "school_osm_id": "311401344",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7443579",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Домановичи",
+    "lon": "29.401952388356207",
+    "lat": "52.34413679813884"
+  }
+]

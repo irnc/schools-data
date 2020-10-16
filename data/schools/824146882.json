@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Большие Жуховичи",
+    "osm_id": "-7518374",
+    "hierarchy": [
+      "Жуховичский сельский Совет",
+      "Кореличский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.40548024719058",
+    "lon": "26.317028475948575"
+  },
+  "group": [
+    {
+      "school_osm_id": "824146882",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8100431",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Жуховичский сельский Совет",
+      "lon": "26.317028475948575",
+      "lat": "53.40548024719058"
+    },
+    {
+      "school_osm_id": "824146882",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7518374",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Большие Жуховичи",
+      "lon": "26.317028475948575",
+      "lat": "53.40548024719058"
+    },
+    {
+      "school_osm_id": "824146882",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70751",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Кореличский район",
+      "lon": "26.317028475948575",
+      "lat": "53.40548024719058"
+    },
+    {
+      "school_osm_id": "824146882",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "26.317028475948575",
+      "lat": "53.40548024719058"
+    },
+    {
+      "school_osm_id": "824146882",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.317028475948575",
+      "lat": "53.40548024719058"
+    }
+  ]
+}

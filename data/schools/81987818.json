@@ -1,0 +1,59 @@
+{
+  "place": {
+    "name": "Брест",
+    "osm_id": "-72615",
+    "hierarchy": [
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.113496047275376",
+    "lon": "23.73088144393309"
+  },
+  "group": [
+    {
+      "school_osm_id": "81987818",
+      "school_osm_type": "way",
+      "school_name": "школа 32",
+      "place_osm_id": "-3626404",
+      "place_admin_level": "9",
+      "place_place": "",
+      "place_name": "Ленинский район",
+      "lon": "23.73088144393309",
+      "lat": "52.113496047275376"
+    },
+    {
+      "school_osm_id": "81987818",
+      "school_osm_type": "way",
+      "school_name": "школа 32",
+      "place_osm_id": "-72615",
+      "place_admin_level": "6",
+      "place_place": "city",
+      "place_name": "Брест",
+      "lon": "23.73088144393309",
+      "lat": "52.113496047275376"
+    },
+    {
+      "school_osm_id": "81987818",
+      "school_osm_type": "way",
+      "school_name": "школа 32",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "23.73088144393309",
+      "lat": "52.113496047275376"
+    },
+    {
+      "school_osm_id": "81987818",
+      "school_osm_type": "way",
+      "school_name": "школа 32",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "23.73088144393309",
+      "lat": "52.113496047275376"
+    }
+  ]
+}

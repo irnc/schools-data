@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Обчин",
+    "osm_id": "-7546944",
+    "hierarchy": [
+      "Реченский сельский Совет",
+      "Любанский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.755665899084164",
+    "lon": "27.912027300000002"
+  },
+  "group": [
+    {
+      "school_osm_id": "4327375889",
+      "school_osm_type": "node",
+      "school_name": "Обчинский УПК ДС-СШ Любанского района",
+      "place_osm_id": "-8144346",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Реченский сельский Совет",
+      "lon": "27.912027300000002",
+      "lat": "52.755665899084164"
+    },
+    {
+      "school_osm_id": "4327375889",
+      "school_osm_type": "node",
+      "school_name": "Обчинский УПК ДС-СШ Любанского района",
+      "place_osm_id": "-7546944",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Обчин",
+      "lon": "27.912027300000002",
+      "lat": "52.755665899084164"
+    },
+    {
+      "school_osm_id": "4327375889",
+      "school_osm_type": "node",
+      "school_name": "Обчинский УПК ДС-СШ Любанского района",
+      "place_osm_id": "-71140",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Любанский район",
+      "lon": "27.912027300000002",
+      "lat": "52.755665899084164"
+    },
+    {
+      "school_osm_id": "4327375889",
+      "school_osm_type": "node",
+      "school_name": "Обчинский УПК ДС-СШ Любанского района",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.912027300000002",
+      "lat": "52.755665899084164"
+    },
+    {
+      "school_osm_id": "4327375889",
+      "school_osm_type": "node",
+      "school_name": "Обчинский УПК ДС-СШ Любанского района",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.912027300000002",
+      "lat": "52.755665899084164"
+    }
+  ]
+}

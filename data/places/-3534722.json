@@ -1,0 +1,57 @@
+[
+  {
+    "school_osm_id": "102273489",
+    "school_osm_type": "way",
+    "school_name": "Школа - Интернат",
+    "place_osm_id": "-3534722",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Ошмяны",
+    "lon": "25.958982850391582",
+    "lat": "54.4318565996103"
+  },
+  {
+    "school_osm_id": "102273535",
+    "school_osm_type": "way",
+    "school_name": "Гимназия №1",
+    "place_osm_id": "-3534722",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Ошмяны",
+    "lon": "25.952115387834542",
+    "lat": "54.430780904729176"
+  },
+  {
+    "school_osm_id": "223117550",
+    "school_osm_type": "way",
+    "school_name": "Школа глухонемых",
+    "place_osm_id": "-3534722",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Ошмяны",
+    "lon": "25.91064458316542",
+    "lat": "54.42180799584372"
+  },
+  {
+    "school_osm_id": "706060377",
+    "school_osm_type": "way",
+    "school_name": "СШ №2",
+    "place_osm_id": "-3534722",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Ошмяны",
+    "lon": "25.95954168749933",
+    "lat": "54.435113401083136"
+  },
+  {
+    "school_osm_id": "713160534",
+    "school_osm_type": "way",
+    "school_name": "СШ №3",
+    "place_osm_id": "-3534722",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Ошмяны",
+    "lon": "25.932545506504088",
+    "lat": "54.427390915607965"
+  }
+]

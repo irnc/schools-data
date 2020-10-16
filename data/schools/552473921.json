@@ -1,0 +1,53 @@
+{
+  "place": "warning-school-without-place",
+  "geo": {
+    "lat": "52.275287039127",
+    "lon": "26.73524476259368"
+  },
+  "group": [
+    {
+      "school_osm_id": "552473921",
+      "school_osm_type": "way",
+      "school_name": "Автодром",
+      "place_osm_id": "-8087844",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Лунинский сельский Совет",
+      "lon": "26.73524476259368",
+      "lat": "52.275287039127"
+    },
+    {
+      "school_osm_id": "552473921",
+      "school_osm_type": "way",
+      "school_name": "Автодром",
+      "place_osm_id": "-71124",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Лунинецкий район",
+      "lon": "26.73524476259368",
+      "lat": "52.275287039127"
+    },
+    {
+      "school_osm_id": "552473921",
+      "school_osm_type": "way",
+      "school_name": "Автодром",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "26.73524476259368",
+      "lat": "52.275287039127"
+    },
+    {
+      "school_osm_id": "552473921",
+      "school_osm_type": "way",
+      "school_name": "Автодром",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.73524476259368",
+      "lat": "52.275287039127"
+    }
+  ]
+}

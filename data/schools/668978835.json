@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Сороги",
+    "osm_id": "-7555998",
+    "hierarchy": [
+      "Сорогский сельский Совет",
+      "Слуцкий район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.03395191835626",
+    "lon": "27.92625631671992"
+  },
+  "group": [
+    {
+      "school_osm_id": "668978835",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8144211",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Сорогский сельский Совет",
+      "lon": "27.92625631671992",
+      "lat": "53.03395191835626"
+    },
+    {
+      "school_osm_id": "668978835",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7555998",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Сороги",
+      "lon": "27.92625631671992",
+      "lat": "53.03395191835626"
+    },
+    {
+      "school_osm_id": "668978835",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-71134",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Слуцкий район",
+      "lon": "27.92625631671992",
+      "lat": "53.03395191835626"
+    },
+    {
+      "school_osm_id": "668978835",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.92625631671992",
+      "lat": "53.03395191835626"
+    },
+    {
+      "school_osm_id": "668978835",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.92625631671992",
+      "lat": "53.03395191835626"
+    }
+  ]
+}

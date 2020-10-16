@@ -1,0 +1,53 @@
+{
+  "place": "warning-school-without-place",
+  "geo": {
+    "lat": "55.50003329168712",
+    "lon": "30.772902652106918"
+  },
+  "group": [
+    {
+      "school_osm_id": "641728697",
+      "school_osm_type": "way",
+      "school_name": "Запольская детский сад-средняя школа",
+      "place_osm_id": "-7924021",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Запольский сельский Совет",
+      "lon": "30.772902652106918",
+      "lat": "55.50003329168712"
+    },
+    {
+      "school_osm_id": "641728697",
+      "school_osm_type": "way",
+      "school_name": "Запольская детский сад-средняя школа",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "30.772902652106918",
+      "lat": "55.50003329168712"
+    },
+    {
+      "school_osm_id": "641728697",
+      "school_osm_type": "way",
+      "school_name": "Запольская детский сад-средняя школа",
+      "place_osm_id": "-59504",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Витебский район",
+      "lon": "30.772902652106918",
+      "lat": "55.50003329168712"
+    },
+    {
+      "school_osm_id": "641728697",
+      "school_osm_type": "way",
+      "school_name": "Запольская детский сад-средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.772902652106918",
+      "lat": "55.50003329168712"
+    }
+  ]
+}

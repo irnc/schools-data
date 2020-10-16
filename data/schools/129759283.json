@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Островы",
+    "osm_id": "-6901308",
+    "hierarchy": [
+      "Червенский сельский Совет",
+      "Червенский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.734130566963344",
+    "lon": "28.38878226640781"
+  },
+  "group": [
+    {
+      "school_osm_id": "129759283",
+      "school_osm_type": "way",
+      "school_name": "УПК",
+      "place_osm_id": "-8144299",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Червенский сельский Совет",
+      "lon": "28.38878226640781",
+      "lat": "53.734130566963344"
+    },
+    {
+      "school_osm_id": "129759283",
+      "school_osm_type": "way",
+      "school_name": "УПК",
+      "place_osm_id": "-6901308",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Островы",
+      "lon": "28.38878226640781",
+      "lat": "53.734130566963344"
+    },
+    {
+      "school_osm_id": "129759283",
+      "school_osm_type": "way",
+      "school_name": "УПК",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "28.38878226640781",
+      "lat": "53.734130566963344"
+    },
+    {
+      "school_osm_id": "129759283",
+      "school_osm_type": "way",
+      "school_name": "УПК",
+      "place_osm_id": "-59751",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Червенский район",
+      "lon": "28.38878226640781",
+      "lat": "53.734130566963344"
+    },
+    {
+      "school_osm_id": "129759283",
+      "school_osm_type": "way",
+      "school_name": "УПК",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.38878226640781",
+      "lat": "53.734130566963344"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Улезлы",
+    "osm_id": "-7508996",
+    "hierarchy": [
+      "Изабелинский сельский Совет",
+      "Волковысский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.0626095339886",
+    "lon": "24.578044342652422"
+  },
+  "group": [
+    {
+      "school_osm_id": "576335183",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8085953",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Изабелинский сельский Совет",
+      "lon": "24.578044342652422",
+      "lat": "53.0626095339886"
+    },
+    {
+      "school_osm_id": "576335183",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7508996",
+      "place_admin_level": "10",
+      "place_place": "hamlet",
+      "place_name": "Улезлы",
+      "lon": "24.578044342652422",
+      "lat": "53.0626095339886"
+    },
+    {
+      "school_osm_id": "576335183",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70771",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Волковысский район",
+      "lon": "24.578044342652422",
+      "lat": "53.0626095339886"
+    },
+    {
+      "school_osm_id": "576335183",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "24.578044342652422",
+      "lat": "53.0626095339886"
+    },
+    {
+      "school_osm_id": "576335183",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "24.578044342652422",
+      "lat": "53.0626095339886"
+    }
+  ]
+}

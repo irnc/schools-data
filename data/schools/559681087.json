@@ -1,0 +1,53 @@
+{
+  "place": "warning-school-without-place",
+  "geo": {
+    "lat": "53.3162558614141",
+    "lon": "25.678161482814495"
+  },
+  "group": [
+    {
+      "school_osm_id": "559681087",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8096122",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Молчадский сельский Совет",
+      "lon": "25.678161482814495",
+      "lat": "53.3162558614141"
+    },
+    {
+      "school_osm_id": "559681087",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-71116",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Барановичский район",
+      "lon": "25.678161482814495",
+      "lat": "53.3162558614141"
+    },
+    {
+      "school_osm_id": "559681087",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "25.678161482814495",
+      "lat": "53.3162558614141"
+    },
+    {
+      "school_osm_id": "559681087",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "25.678161482814495",
+      "lat": "53.3162558614141"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Обчуга",
+    "osm_id": "-7542911",
+    "hierarchy": [
+      "Октябрьский сельский Совет",
+      "Крупский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.500105322061316",
+    "lon": "29.347084759554907"
+  },
+  "group": [
+    {
+      "school_osm_id": "370676834",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8016697",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Октябрьский сельский Совет",
+      "lon": "29.347084759554907",
+      "lat": "54.500105322061316"
+    },
+    {
+      "school_osm_id": "370676834",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7542911",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Обчуга",
+      "lon": "29.347084759554907",
+      "lat": "54.500105322061316"
+    },
+    {
+      "school_osm_id": "370676834",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70639",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Крупский район",
+      "lon": "29.347084759554907",
+      "lat": "54.500105322061316"
+    },
+    {
+      "school_osm_id": "370676834",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "29.347084759554907",
+      "lat": "54.500105322061316"
+    },
+    {
+      "school_osm_id": "370676834",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.347084759554907",
+      "lat": "54.500105322061316"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Тяпино",
+    "osm_id": "-7506083",
+    "hierarchy": [
+      "Проземлянский сельский Совет",
+      "Чашникский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.83432474284758",
+    "lon": "29.062671859735385"
+  },
+  "group": [
+    {
+      "school_osm_id": "361202025",
+      "school_osm_type": "way",
+      "school_name": "Тяпинская детский сад-средняя школа",
+      "place_osm_id": "-7506083",
+      "place_admin_level": "10",
+      "place_place": "hamlet",
+      "place_name": "Тяпино",
+      "lon": "29.062671859735385",
+      "lat": "54.83432474284758"
+    },
+    {
+      "school_osm_id": "361202025",
+      "school_osm_type": "way",
+      "school_name": "Тяпинская детский сад-средняя школа",
+      "place_osm_id": "-4850389",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Проземлянский сельский Совет",
+      "lon": "29.062671859735385",
+      "lat": "54.83432474284758"
+    },
+    {
+      "school_osm_id": "361202025",
+      "school_osm_type": "way",
+      "school_name": "Тяпинская детский сад-средняя школа",
+      "place_osm_id": "-70746",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Чашникский район",
+      "lon": "29.062671859735385",
+      "lat": "54.83432474284758"
+    },
+    {
+      "school_osm_id": "361202025",
+      "school_osm_type": "way",
+      "school_name": "Тяпинская детский сад-средняя школа",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "29.062671859735385",
+      "lat": "54.83432474284758"
+    },
+    {
+      "school_osm_id": "361202025",
+      "school_osm_type": "way",
+      "school_name": "Тяпинская детский сад-средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.062671859735385",
+      "lat": "54.83432474284758"
+    }
+  ]
+}

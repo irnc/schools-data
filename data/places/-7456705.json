@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "605535836",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7456705",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Тешевле",
+    "lon": "25.812939752089303",
+    "lat": "53.22911309350552"
+  },
+  {
+    "school_osm_id": "674061015",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7456705",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Тешевле",
+    "lon": "25.812200281174217",
+    "lat": "53.229053077969255"
+  }
+]

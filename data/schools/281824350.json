@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Васильевка",
+    "osm_id": "-7443000",
+    "hierarchy": [
+      "Тереховский сельский Совет",
+      "Добрушский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.249992735590816",
+    "lon": "31.507518920427792"
+  },
+  "group": [
+    {
+      "school_osm_id": "281824350",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8065407",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Тереховский сельский Совет",
+      "lon": "31.507518920427792",
+      "lat": "52.249992735590816"
+    },
+    {
+      "school_osm_id": "281824350",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7443000",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Васильевка",
+      "lon": "31.507518920427792",
+      "lat": "52.249992735590816"
+    },
+    {
+      "school_osm_id": "281824350",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "31.507518920427792",
+      "lat": "52.249992735590816"
+    },
+    {
+      "school_osm_id": "281824350",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59092",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Добрушский район",
+      "lon": "31.507518920427792",
+      "lat": "52.249992735590816"
+    },
+    {
+      "school_osm_id": "281824350",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "31.507518920427792",
+      "lat": "52.249992735590816"
+    }
+  ]
+}

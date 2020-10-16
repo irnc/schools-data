@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Чигиринка",
+    "osm_id": "-7578598",
+    "hierarchy": [
+      "Стайковский сельский Совет",
+      "Кировский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.417906995928234",
+    "lon": "29.855407142164733"
+  },
+  "group": [
+    {
+      "school_osm_id": "372623290",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7622190",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Стайковский сельский Совет",
+      "lon": "29.855407142164733",
+      "lat": "53.417906995928234"
+    },
+    {
+      "school_osm_id": "372623290",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7578598",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Чигиринка",
+      "lon": "29.855407142164733",
+      "lat": "53.417906995928234"
+    },
+    {
+      "school_osm_id": "372623290",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70580",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Кировский район",
+      "lon": "29.855407142164733",
+      "lat": "53.417906995928234"
+    },
+    {
+      "school_osm_id": "372623290",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "29.855407142164733",
+      "lat": "53.417906995928234"
+    },
+    {
+      "school_osm_id": "372623290",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.855407142164733",
+      "lat": "53.417906995928234"
+    }
+  ]
+}

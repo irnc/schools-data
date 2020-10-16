@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Любча",
+    "osm_id": "-7522194",
+    "hierarchy": [
+      "Любчанский сельский Совет",
+      "Новогрудский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.750872487389294",
+    "lon": "26.064783540084232"
+  },
+  "group": [
+    {
+      "school_osm_id": "377144864",
+      "school_osm_type": "way",
+      "school_name": "Любчанская средняя школа",
+      "place_osm_id": "-8100417",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Любчанский сельский Совет",
+      "lon": "26.064783540084232",
+      "lat": "53.750872487389294"
+    },
+    {
+      "school_osm_id": "377144864",
+      "school_osm_type": "way",
+      "school_name": "Любчанская средняя школа",
+      "place_osm_id": "-7522194",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Любча",
+      "lon": "26.064783540084232",
+      "lat": "53.750872487389294"
+    },
+    {
+      "school_osm_id": "377144864",
+      "school_osm_type": "way",
+      "school_name": "Любчанская средняя школа",
+      "place_osm_id": "-70749",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Новогрудский район",
+      "lon": "26.064783540084232",
+      "lat": "53.750872487389294"
+    },
+    {
+      "school_osm_id": "377144864",
+      "school_osm_type": "way",
+      "school_name": "Любчанская средняя школа",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "26.064783540084232",
+      "lat": "53.750872487389294"
+    },
+    {
+      "school_osm_id": "377144864",
+      "school_osm_type": "way",
+      "school_name": "Любчанская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.064783540084232",
+      "lat": "53.750872487389294"
+    }
+  ]
+}

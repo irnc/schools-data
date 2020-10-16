@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Саковичи",
+    "osm_id": "-7566411",
+    "hierarchy": [
+      "Старобинский сельский Совет",
+      "Солигорский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.732332199084205",
+    "lon": "27.6102372"
+  },
+  "group": [
+    {
+      "school_osm_id": "2147413253",
+      "school_osm_type": "node",
+      "school_name": "средняя школа",
+      "place_osm_id": "-8144280",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Старобинский сельский Совет",
+      "lon": "27.6102372",
+      "lat": "52.732332199084205"
+    },
+    {
+      "school_osm_id": "2147413253",
+      "school_osm_type": "node",
+      "school_name": "средняя школа",
+      "place_osm_id": "-7566411",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Саковичи",
+      "lon": "27.6102372",
+      "lat": "52.732332199084205"
+    },
+    {
+      "school_osm_id": "2147413253",
+      "school_osm_type": "node",
+      "school_name": "средняя школа",
+      "place_osm_id": "-71133",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Солигорский район",
+      "lon": "27.6102372",
+      "lat": "52.732332199084205"
+    },
+    {
+      "school_osm_id": "2147413253",
+      "school_osm_type": "node",
+      "school_name": "средняя школа",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.6102372",
+      "lat": "52.732332199084205"
+    },
+    {
+      "school_osm_id": "2147413253",
+      "school_osm_type": "node",
+      "school_name": "средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.6102372",
+      "lat": "52.732332199084205"
+    }
+  ]
+}

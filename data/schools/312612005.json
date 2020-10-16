@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Суйково",
+    "osm_id": "-7479509",
+    "hierarchy": [
+      "Зароновский сельский Совет",
+      "Витебский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.23417619057077",
+    "lon": "30.08902072366163"
+  },
+  "group": [
+    {
+      "school_osm_id": "312612005",
+      "school_osm_type": "way",
+      "school_name": "Суйковская базовая школа",
+      "place_osm_id": "-7924020",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Зароновский сельский Совет",
+      "lon": "30.08902072366163",
+      "lat": "55.23417619057077"
+    },
+    {
+      "school_osm_id": "312612005",
+      "school_osm_type": "way",
+      "school_name": "Суйковская базовая школа",
+      "place_osm_id": "-7479509",
+      "place_admin_level": "10",
+      "place_place": "hamlet",
+      "place_name": "Суйково",
+      "lon": "30.08902072366163",
+      "lat": "55.23417619057077"
+    },
+    {
+      "school_osm_id": "312612005",
+      "school_osm_type": "way",
+      "school_name": "Суйковская базовая школа",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "30.08902072366163",
+      "lat": "55.23417619057077"
+    },
+    {
+      "school_osm_id": "312612005",
+      "school_osm_type": "way",
+      "school_name": "Суйковская базовая школа",
+      "place_osm_id": "-59504",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Витебский район",
+      "lon": "30.08902072366163",
+      "lat": "55.23417619057077"
+    },
+    {
+      "school_osm_id": "312612005",
+      "school_osm_type": "way",
+      "school_name": "Суйковская базовая школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.08902072366163",
+      "lat": "55.23417619057077"
+    }
+  ]
+}

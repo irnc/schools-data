@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Берёзовка",
+    "osm_id": "-7589460",
+    "hierarchy": [
+      "Гиженский сельский Совет",
+      "Славгородский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.63659318064507",
+    "lon": "30.981704930707302"
+  },
+  "group": [
+    {
+      "school_osm_id": "372705404",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8140433",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Гиженский сельский Совет",
+      "lon": "30.981704930707302",
+      "lat": "53.63659318064507"
+    },
+    {
+      "school_osm_id": "372705404",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7589460",
+      "place_admin_level": "10",
+      "place_place": "hamlet",
+      "place_name": "Берёзовка",
+      "lon": "30.981704930707302",
+      "lat": "53.63659318064507"
+    },
+    {
+      "school_osm_id": "372705404",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70589",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Славгородский район",
+      "lon": "30.981704930707302",
+      "lat": "53.63659318064507"
+    },
+    {
+      "school_osm_id": "372705404",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "30.981704930707302",
+      "lat": "53.63659318064507"
+    },
+    {
+      "school_osm_id": "372705404",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.981704930707302",
+      "lat": "53.63659318064507"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+[
+  {
+    "school_osm_id": "722229858",
+    "school_osm_type": "way",
+    "school_name": "Городейская вспомогательная школа-интернат",
+    "place_osm_id": "-6722811",
+    "place_admin_level": "8",
+    "place_place": "village",
+    "place_name": "Городея",
+    "lon": "26.5087123888957",
+    "lat": "53.30880282867195"
+  },
+  {
+    "school_osm_id": "727505052",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №2",
+    "place_osm_id": "-6722811",
+    "place_admin_level": "8",
+    "place_place": "village",
+    "place_name": "Городея",
+    "lon": "26.519388872036647",
+    "lat": "53.30635648021878"
+  },
+  {
+    "school_osm_id": "728389236",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №1",
+    "place_osm_id": "-6722811",
+    "place_admin_level": "8",
+    "place_place": "village",
+    "place_name": "Городея",
+    "lon": "26.540629818809826",
+    "lat": "53.3128075814554"
+  }
+]

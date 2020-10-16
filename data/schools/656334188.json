@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Ходаки",
+    "osm_id": "-7465358",
+    "hierarchy": [
+      "Житлинский сельский Совет",
+      "Ивацевичский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.58509918682591",
+    "lon": "25.38430026482474"
+  },
+  "group": [
+    {
+      "school_osm_id": "656334188",
+      "school_osm_type": "way",
+      "school_name": "Ходаковская базовая школа",
+      "place_osm_id": "-8085931",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Житлинский сельский Совет",
+      "lon": "25.38430026482474",
+      "lat": "52.58509918682591"
+    },
+    {
+      "school_osm_id": "656334188",
+      "school_osm_type": "way",
+      "school_name": "Ходаковская базовая школа",
+      "place_osm_id": "-7465358",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Ходаки",
+      "lon": "25.38430026482474",
+      "lat": "52.58509918682591"
+    },
+    {
+      "school_osm_id": "656334188",
+      "school_osm_type": "way",
+      "school_name": "Ходаковская базовая школа",
+      "place_osm_id": "-71112",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Ивацевичский район",
+      "lon": "25.38430026482474",
+      "lat": "52.58509918682591"
+    },
+    {
+      "school_osm_id": "656334188",
+      "school_osm_type": "way",
+      "school_name": "Ходаковская базовая школа",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "25.38430026482474",
+      "lat": "52.58509918682591"
+    },
+    {
+      "school_osm_id": "656334188",
+      "school_osm_type": "way",
+      "school_name": "Ходаковская базовая школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "25.38430026482474",
+      "lat": "52.58509918682591"
+    }
+  ]
+}

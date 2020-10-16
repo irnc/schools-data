@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Тереховка",
+    "osm_id": "-5139654",
+    "hierarchy": [
+      "Тереховский сельский Совет",
+      "Добрушский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.21688310380381",
+    "lon": "31.420822381141623"
+  },
+  "group": [
+    {
+      "school_osm_id": "169345145",
+      "school_osm_type": "way",
+      "school_name": "Центр внешкольной работы",
+      "place_osm_id": "-8065407",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Тереховский сельский Совет",
+      "lon": "31.420822381141623",
+      "lat": "52.21688310380381"
+    },
+    {
+      "school_osm_id": "169345145",
+      "school_osm_type": "way",
+      "school_name": "Центр внешкольной работы",
+      "place_osm_id": "-5139654",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Тереховка",
+      "lon": "31.420822381141623",
+      "lat": "52.21688310380381"
+    },
+    {
+      "school_osm_id": "169345145",
+      "school_osm_type": "way",
+      "school_name": "Центр внешкольной работы",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "31.420822381141623",
+      "lat": "52.21688310380381"
+    },
+    {
+      "school_osm_id": "169345145",
+      "school_osm_type": "way",
+      "school_name": "Центр внешкольной работы",
+      "place_osm_id": "-59092",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Добрушский район",
+      "lon": "31.420822381141623",
+      "lat": "52.21688310380381"
+    },
+    {
+      "school_osm_id": "169345145",
+      "school_osm_type": "way",
+      "school_name": "Центр внешкольной работы",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "31.420822381141623",
+      "lat": "52.21688310380381"
+    }
+  ]
+}

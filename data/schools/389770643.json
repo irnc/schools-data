@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Оснежицы",
+    "osm_id": "-6910322",
+    "hierarchy": [
+      "Оснежицкий сельский Совет",
+      "Пинский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.187923999142825",
+    "lon": "26.137612699991774"
+  },
+  "group": [
+    {
+      "school_osm_id": "389770643",
+      "school_osm_type": "way",
+      "school_name": "Оснежицкая средняя школа",
+      "place_osm_id": "-8028533",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Оснежицкий сельский Совет",
+      "lon": "26.137612699991774",
+      "lat": "52.187923999142825"
+    },
+    {
+      "school_osm_id": "389770643",
+      "school_osm_type": "way",
+      "school_name": "Оснежицкая средняя школа",
+      "place_osm_id": "-6910322",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Оснежицы",
+      "lon": "26.137612699991774",
+      "lat": "52.187923999142825"
+    },
+    {
+      "school_osm_id": "389770643",
+      "school_osm_type": "way",
+      "school_name": "Оснежицкая средняя школа",
+      "place_osm_id": "-71119",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Пинский район",
+      "lon": "26.137612699991774",
+      "lat": "52.187923999142825"
+    },
+    {
+      "school_osm_id": "389770643",
+      "school_osm_type": "way",
+      "school_name": "Оснежицкая средняя школа",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "26.137612699991774",
+      "lat": "52.187923999142825"
+    },
+    {
+      "school_osm_id": "389770643",
+      "school_osm_type": "way",
+      "school_name": "Оснежицкая средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.137612699991774",
+      "lat": "52.187923999142825"
+    }
+  ]
+}

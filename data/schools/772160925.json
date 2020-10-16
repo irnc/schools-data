@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Денисковичи",
+    "osm_id": "-7463759",
+    "hierarchy": [
+      "Денисковичский сельский Совет",
+      "Ганцевичский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.72358845355756",
+    "lon": "26.68022402726022"
+  },
+  "group": [
+    {
+      "school_osm_id": "772160925",
+      "school_osm_type": "way",
+      "school_name": "Денисковичский ясли-сад - средняя школа",
+      "place_osm_id": "-8096146",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Денисковичский сельский Совет",
+      "lon": "26.68022402726022",
+      "lat": "52.72358845355756"
+    },
+    {
+      "school_osm_id": "772160925",
+      "school_osm_type": "way",
+      "school_name": "Денисковичский ясли-сад - средняя школа",
+      "place_osm_id": "-7463759",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Денисковичи",
+      "lon": "26.68022402726022",
+      "lat": "52.72358845355756"
+    },
+    {
+      "school_osm_id": "772160925",
+      "school_osm_type": "way",
+      "school_name": "Денисковичский ясли-сад - средняя школа",
+      "place_osm_id": "-71121",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Ганцевичский район",
+      "lon": "26.68022402726022",
+      "lat": "52.72358845355756"
+    },
+    {
+      "school_osm_id": "772160925",
+      "school_osm_type": "way",
+      "school_name": "Денисковичский ясли-сад - средняя школа",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "26.68022402726022",
+      "lat": "52.72358845355756"
+    },
+    {
+      "school_osm_id": "772160925",
+      "school_osm_type": "way",
+      "school_name": "Денисковичский ясли-сад - средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.68022402726022",
+      "lat": "52.72358845355756"
+    }
+  ]
+}

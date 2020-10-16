@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Междулесье",
+    "osm_id": "-7459167",
+    "hierarchy": [
+      "Междулесский сельский Совет",
+      "Берёзовский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.38769742784628",
+    "lon": "25.015397578129587"
+  },
+  "group": [
+    {
+      "school_osm_id": "620372809",
+      "school_osm_type": "way",
+      "school_name": "Междулесская средняя школа",
+      "place_osm_id": "-8085943",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Междулесский сельский Совет",
+      "lon": "25.015397578129587",
+      "lat": "52.38769742784628"
+    },
+    {
+      "school_osm_id": "620372809",
+      "school_osm_type": "way",
+      "school_name": "Междулесская средняя школа",
+      "place_osm_id": "-7459167",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Междулесье",
+      "lon": "25.015397578129587",
+      "lat": "52.38769742784628"
+    },
+    {
+      "school_osm_id": "620372809",
+      "school_osm_type": "way",
+      "school_name": "Междулесская средняя школа",
+      "place_osm_id": "-71107",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Берёзовский район",
+      "lon": "25.015397578129587",
+      "lat": "52.38769742784628"
+    },
+    {
+      "school_osm_id": "620372809",
+      "school_osm_type": "way",
+      "school_name": "Междулесская средняя школа",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "25.015397578129587",
+      "lat": "52.38769742784628"
+    },
+    {
+      "school_osm_id": "620372809",
+      "school_osm_type": "way",
+      "school_name": "Междулесская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "25.015397578129587",
+      "lat": "52.38769742784628"
+    }
+  ]
+}

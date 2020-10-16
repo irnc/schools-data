@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Мальковичи",
+    "osm_id": "-7463769",
+    "hierarchy": [
+      "Мальковичский сельский Совет",
+      "Ганцевичский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.53588997937615",
+    "lon": "26.597463399712073"
+  },
+  "group": [
+    {
+      "school_osm_id": "520343343",
+      "school_osm_type": "way",
+      "school_name": "Мальковичская средняя школа",
+      "place_osm_id": "-8096143",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Мальковичский сельский Совет",
+      "lon": "26.597463399712073",
+      "lat": "52.53588997937615"
+    },
+    {
+      "school_osm_id": "520343343",
+      "school_osm_type": "way",
+      "school_name": "Мальковичская средняя школа",
+      "place_osm_id": "-7463769",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Мальковичи",
+      "lon": "26.597463399712073",
+      "lat": "52.53588997937615"
+    },
+    {
+      "school_osm_id": "520343343",
+      "school_osm_type": "way",
+      "school_name": "Мальковичская средняя школа",
+      "place_osm_id": "-71121",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Ганцевичский район",
+      "lon": "26.597463399712073",
+      "lat": "52.53588997937615"
+    },
+    {
+      "school_osm_id": "520343343",
+      "school_osm_type": "way",
+      "school_name": "Мальковичская средняя школа",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "26.597463399712073",
+      "lat": "52.53588997937615"
+    },
+    {
+      "school_osm_id": "520343343",
+      "school_osm_type": "way",
+      "school_name": "Мальковичская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.597463399712073",
+      "lat": "52.53588997937615"
+    }
+  ]
+}

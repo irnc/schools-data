@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Лотвичи",
+    "osm_id": "-6742144",
+    "hierarchy": [
+      "Полонковский сельский Совет",
+      "Барановичский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.1891097273731",
+    "lon": "25.671673540901832"
+  },
+  "group": [
+    {
+      "school_osm_id": "677870227",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8096119",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Полонковский сельский Совет",
+      "lon": "25.671673540901832",
+      "lat": "53.1891097273731"
+    },
+    {
+      "school_osm_id": "677870227",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-6742144",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Лотвичи",
+      "lon": "25.671673540901832",
+      "lat": "53.1891097273731"
+    },
+    {
+      "school_osm_id": "677870227",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-71116",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Барановичский район",
+      "lon": "25.671673540901832",
+      "lat": "53.1891097273731"
+    },
+    {
+      "school_osm_id": "677870227",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "25.671673540901832",
+      "lat": "53.1891097273731"
+    },
+    {
+      "school_osm_id": "677870227",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "25.671673540901832",
+      "lat": "53.1891097273731"
+    }
+  ]
+}

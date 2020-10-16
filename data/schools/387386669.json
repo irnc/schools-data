@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Полоцк",
+    "osm_id": "-1749243",
+    "hierarchy": [
+      "Полоцкий район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.49519472745488",
+    "lon": "28.75561927716417"
+  },
+  "group": [
+    {
+      "school_osm_id": "387386669",
+      "school_osm_type": "way",
+      "school_name": "Школа №16",
+      "place_osm_id": "-1749243",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Полоцк",
+      "lon": "28.75561927716417",
+      "lat": "55.49519472745488"
+    },
+    {
+      "school_osm_id": "387386669",
+      "school_osm_type": "way",
+      "school_name": "Школа №16",
+      "place_osm_id": "-70671",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Полоцкий район",
+      "lon": "28.75561927716417",
+      "lat": "55.49519472745488"
+    },
+    {
+      "school_osm_id": "387386669",
+      "school_osm_type": "way",
+      "school_name": "Школа №16",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "28.75561927716417",
+      "lat": "55.49519472745488"
+    },
+    {
+      "school_osm_id": "387386669",
+      "school_osm_type": "way",
+      "school_name": "Школа №16",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.75561927716417",
+      "lat": "55.49519472745488"
+    }
+  ]
+}

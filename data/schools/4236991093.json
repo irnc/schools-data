@@ -1,0 +1,59 @@
+{
+  "place": {
+    "name": "Витебск",
+    "osm_id": "-6825777",
+    "hierarchy": [
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.16003359947098",
+    "lon": "30.2262256"
+  },
+  "group": [
+    {
+      "school_osm_id": "4236991093",
+      "school_osm_type": "node",
+      "school_name": "Воскресная школа",
+      "place_osm_id": "-6825777",
+      "place_admin_level": "6",
+      "place_place": "city",
+      "place_name": "Витебск",
+      "lon": "30.2262256",
+      "lat": "55.16003359947098"
+    },
+    {
+      "school_osm_id": "4236991093",
+      "school_osm_type": "node",
+      "school_name": "Воскресная школа",
+      "place_osm_id": "-68617",
+      "place_admin_level": "9",
+      "place_place": "",
+      "place_name": "Первомайский район",
+      "lon": "30.2262256",
+      "lat": "55.16003359947098"
+    },
+    {
+      "school_osm_id": "4236991093",
+      "school_osm_type": "node",
+      "school_name": "Воскресная школа",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "30.2262256",
+      "lat": "55.16003359947098"
+    },
+    {
+      "school_osm_id": "4236991093",
+      "school_osm_type": "node",
+      "school_name": "Воскресная школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.2262256",
+      "lat": "55.16003359947098"
+    }
+  ]
+}

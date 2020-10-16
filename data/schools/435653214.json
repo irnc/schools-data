@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Тобулки",
+    "osm_id": "-7467538",
+    "hierarchy": [
+      "Поречский сельский Совет",
+      "Пинский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.28763153644341",
+    "lon": "25.75259982955236"
+  },
+  "group": [
+    {
+      "school_osm_id": "435653214",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8028528",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Поречский сельский Совет",
+      "lon": "25.75259982955236",
+      "lat": "52.28763153644341"
+    },
+    {
+      "school_osm_id": "435653214",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7467538",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Тобулки",
+      "lon": "25.75259982955236",
+      "lat": "52.28763153644341"
+    },
+    {
+      "school_osm_id": "435653214",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-71119",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Пинский район",
+      "lon": "25.75259982955236",
+      "lat": "52.28763153644341"
+    },
+    {
+      "school_osm_id": "435653214",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "25.75259982955236",
+      "lat": "52.28763153644341"
+    },
+    {
+      "school_osm_id": "435653214",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "25.75259982955236",
+      "lat": "52.28763153644341"
+    }
+  ]
+}

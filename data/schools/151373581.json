@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Семково",
+    "osm_id": "-7546646",
+    "hierarchy": [
+      "Беларучский сельский Совет",
+      "Логойский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.165055600022804",
+    "lon": "27.64005620004338"
+  },
+  "group": [
+    {
+      "school_osm_id": "151373581",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8014101",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Беларучский сельский Совет",
+      "lon": "27.64005620004338",
+      "lat": "54.165055600022804"
+    },
+    {
+      "school_osm_id": "151373581",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7546646",
+      "place_admin_level": "10",
+      "place_place": "hamlet",
+      "place_name": "Семково",
+      "lon": "27.64005620004338",
+      "lat": "54.165055600022804"
+    },
+    {
+      "school_osm_id": "151373581",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70542",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Логойский район",
+      "lon": "27.64005620004338",
+      "lat": "54.165055600022804"
+    },
+    {
+      "school_osm_id": "151373581",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.64005620004338",
+      "lat": "54.165055600022804"
+    },
+    {
+      "school_osm_id": "151373581",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.64005620004338",
+      "lat": "54.165055600022804"
+    }
+  ]
+}

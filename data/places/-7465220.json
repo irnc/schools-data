@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "379877300",
+    "school_osm_type": "way",
+    "school_name": "Мотольская детский сад- средняя школа №2",
+    "place_osm_id": "-7465220",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Мотоль",
+    "lon": "25.584642058944603",
+    "lat": "52.315742998728666"
+  },
+  {
+    "school_osm_id": "504590907",
+    "school_osm_type": "way",
+    "school_name": "Мотольская средняя школа",
+    "place_osm_id": "-7465220",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Мотоль",
+    "lon": "25.60727620568147",
+    "lat": "52.31596982522226"
+  }
+]

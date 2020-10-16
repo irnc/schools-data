@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Городок",
+    "osm_id": "-7573436",
+    "hierarchy": [
+      "Заволочицкий сельский Совет",
+      "Глусский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.04105625824333",
+    "lon": "28.762790779723247"
+  },
+  "group": [
+    {
+      "school_osm_id": "378467954",
+      "school_osm_type": "way",
+      "school_name": "Детский лагерь \"Христианин\"",
+      "place_osm_id": "-8144282",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Заволочицкий сельский Совет",
+      "lon": "28.762790779723247",
+      "lat": "53.04105625824333"
+    },
+    {
+      "school_osm_id": "378467954",
+      "school_osm_type": "way",
+      "school_name": "Детский лагерь \"Христианин\"",
+      "place_osm_id": "-7573436",
+      "place_admin_level": "10",
+      "place_place": "hamlet",
+      "place_name": "Городок",
+      "lon": "28.762790779723247",
+      "lat": "53.04105625824333"
+    },
+    {
+      "school_osm_id": "378467954",
+      "school_osm_type": "way",
+      "school_name": "Детский лагерь \"Христианин\"",
+      "place_osm_id": "-71138",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Глусский район",
+      "lon": "28.762790779723247",
+      "lat": "53.04105625824333"
+    },
+    {
+      "school_osm_id": "378467954",
+      "school_osm_type": "way",
+      "school_name": "Детский лагерь \"Христианин\"",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "28.762790779723247",
+      "lat": "53.04105625824333"
+    },
+    {
+      "school_osm_id": "378467954",
+      "school_osm_type": "way",
+      "school_name": "Детский лагерь \"Христианин\"",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.762790779723247",
+      "lat": "53.04105625824333"
+    }
+  ]
+}

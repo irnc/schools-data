@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Луково",
+    "osm_id": "-7467174",
+    "hierarchy": [
+      "Луковский сельский Совет",
+      "Малоритский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "51.8879031801369",
+    "lon": "24.239095168709575"
+  },
+  "group": [
+    {
+      "school_osm_id": "626390249",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8028575",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Луковский сельский Совет",
+      "lon": "24.239095168709575",
+      "lat": "51.8879031801369"
+    },
+    {
+      "school_osm_id": "626390249",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7467174",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Луково",
+      "lon": "24.239095168709575",
+      "lat": "51.8879031801369"
+    },
+    {
+      "school_osm_id": "626390249",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-71100",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Малоритский район",
+      "lon": "24.239095168709575",
+      "lat": "51.8879031801369"
+    },
+    {
+      "school_osm_id": "626390249",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "24.239095168709575",
+      "lat": "51.8879031801369"
+    },
+    {
+      "school_osm_id": "626390249",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "24.239095168709575",
+      "lat": "51.8879031801369"
+    }
+  ]
+}

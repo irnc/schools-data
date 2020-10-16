@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Новосёлки",
+    "osm_id": "-7498346",
+    "hierarchy": [
+      "Новосёлковский сельский Совет",
+      "Поставский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.14292499946543",
+    "lon": "27.012202899999995"
+  },
+  "group": [
+    {
+      "school_osm_id": "2552975132",
+      "school_osm_type": "node",
+      "school_name": "Музыкальная школа",
+      "place_osm_id": "-8016493",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Новосёлковский сельский Совет",
+      "lon": "27.012202899999995",
+      "lat": "55.14292499946543"
+    },
+    {
+      "school_osm_id": "2552975132",
+      "school_osm_type": "node",
+      "school_name": "Музыкальная школа",
+      "place_osm_id": "-7498346",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Новосёлки",
+      "lon": "27.012202899999995",
+      "lat": "55.14292499946543"
+    },
+    {
+      "school_osm_id": "2552975132",
+      "school_osm_type": "node",
+      "school_name": "Музыкальная школа",
+      "place_osm_id": "-70707",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Поставский район",
+      "lon": "27.012202899999995",
+      "lat": "55.14292499946543"
+    },
+    {
+      "school_osm_id": "2552975132",
+      "school_osm_type": "node",
+      "school_name": "Музыкальная школа",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "27.012202899999995",
+      "lat": "55.14292499946543"
+    },
+    {
+      "school_osm_id": "2552975132",
+      "school_osm_type": "node",
+      "school_name": "Музыкальная школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.012202899999995",
+      "lat": "55.14292499946543"
+    }
+  ]
+}

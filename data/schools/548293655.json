@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Порплище",
+    "osm_id": "-7483401",
+    "hierarchy": [
+      "Порплищенский сельский Совет",
+      "Докшицкий район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.95936160938801",
+    "lon": "27.653051568478947"
+  },
+  "group": [
+    {
+      "school_osm_id": "548293655",
+      "school_osm_type": "way",
+      "school_name": "Порплищенская средняя школа",
+      "place_osm_id": "-8016719",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Порплищенский сельский Совет",
+      "lon": "27.653051568478947",
+      "lat": "54.95936160938801"
+    },
+    {
+      "school_osm_id": "548293655",
+      "school_osm_type": "way",
+      "school_name": "Порплищенская средняя школа",
+      "place_osm_id": "-7483401",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Порплище",
+      "lon": "27.653051568478947",
+      "lat": "54.95936160938801"
+    },
+    {
+      "school_osm_id": "548293655",
+      "school_osm_type": "way",
+      "school_name": "Порплищенская средняя школа",
+      "place_osm_id": "-70716",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Докшицкий район",
+      "lon": "27.653051568478947",
+      "lat": "54.95936160938801"
+    },
+    {
+      "school_osm_id": "548293655",
+      "school_osm_type": "way",
+      "school_name": "Порплищенская средняя школа",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "27.653051568478947",
+      "lat": "54.95936160938801"
+    },
+    {
+      "school_osm_id": "548293655",
+      "school_osm_type": "way",
+      "school_name": "Порплищенская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.653051568478947",
+      "lat": "54.95936160938801"
+    }
+  ]
+}

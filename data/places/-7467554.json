@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "391892658",
+    "school_osm_type": "way",
+    "school_name": "Центр внешкольной деятельности",
+    "place_osm_id": "-7467554",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Пинковичи",
+    "lon": "26.15539341079539",
+    "lat": "52.13655451059844"
+  },
+  {
+    "school_osm_id": "827390645",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7467554",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Пинковичи",
+    "lon": "26.168016854754864",
+    "lat": "52.14306075983226"
+  }
+]

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Пиревичи",
+    "osm_id": "-7439812",
+    "hierarchy": [
+      "Пиревичский сельский Совет",
+      "Жлобинский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.78449749908421",
+    "lon": "30.329436499999996"
+  },
+  "group": [
+    {
+      "school_osm_id": "2781013735",
+      "school_osm_type": "node",
+      "school_name": "Школа д.Пиревичи",
+      "place_osm_id": "-7439812",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Пиревичи",
+      "lon": "30.329436499999996",
+      "lat": "52.78449749908421"
+    },
+    {
+      "school_osm_id": "2781013735",
+      "school_osm_type": "node",
+      "school_name": "Школа д.Пиревичи",
+      "place_osm_id": "-6352455",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Пиревичский сельский Совет",
+      "lon": "30.329436499999996",
+      "lat": "52.78449749908421"
+    },
+    {
+      "school_osm_id": "2781013735",
+      "school_osm_type": "node",
+      "school_name": "Школа д.Пиревичи",
+      "place_osm_id": "-59167",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Жлобинский район",
+      "lon": "30.329436499999996",
+      "lat": "52.78449749908421"
+    },
+    {
+      "school_osm_id": "2781013735",
+      "school_osm_type": "node",
+      "school_name": "Школа д.Пиревичи",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "30.329436499999996",
+      "lat": "52.78449749908421"
+    },
+    {
+      "school_osm_id": "2781013735",
+      "school_osm_type": "node",
+      "school_name": "Школа д.Пиревичи",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.329436499999996",
+      "lat": "52.78449749908421"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Славгород",
+    "osm_id": "-6722701",
+    "hierarchy": [
+      "Славгородский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.45140968181345",
+    "lon": "31.01117726399829"
+  },
+  "group": [
+    {
+      "school_osm_id": "469068960",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-6722701",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Славгород",
+      "lon": "31.01117726399829",
+      "lat": "53.45140968181345"
+    },
+    {
+      "school_osm_id": "469068960",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70589",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Славгородский район",
+      "lon": "31.01117726399829",
+      "lat": "53.45140968181345"
+    },
+    {
+      "school_osm_id": "469068960",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "31.01117726399829",
+      "lat": "53.45140968181345"
+    },
+    {
+      "school_osm_id": "469068960",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "31.01117726399829",
+      "lat": "53.45140968181345"
+    }
+  ]
+}

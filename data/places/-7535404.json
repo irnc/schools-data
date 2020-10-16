@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "774605191",
+    "school_osm_type": "way",
+    "school_name": "Городьковский учебно-педагогический комплекс детский сад – средняя школа",
+    "place_osm_id": "-7535404",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Городьки",
+    "lon": "26.446228260996023",
+    "lat": "54.21411653864243"
+  },
+  {
+    "school_osm_id": "774605548",
+    "school_osm_type": "way",
+    "school_name": "Воложинская детская школа искусств",
+    "place_osm_id": "-7535404",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Городьки",
+    "lon": "26.445871991230245",
+    "lat": "54.21274456693688"
+  }
+]

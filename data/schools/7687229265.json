@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Карповка",
+    "osm_id": "-7446508",
+    "hierarchy": [
+      "Карповский сельский Совет",
+      "Лоевский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.02560139911531",
+    "lon": "30.905650699999995"
+  },
+  "group": [
+    {
+      "school_osm_id": "7687229265",
+      "school_osm_type": "node",
+      "school_name": "ГУО «Карповский детский сад",
+      "place_osm_id": "-8031201",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Карповский сельский Совет",
+      "lon": "30.905650699999995",
+      "lat": "52.02560139911531"
+    },
+    {
+      "school_osm_id": "7687229265",
+      "school_osm_type": "node",
+      "school_name": "ГУО «Карповский детский сад",
+      "place_osm_id": "-7446508",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Карповка",
+      "lon": "30.905650699999995",
+      "lat": "52.02560139911531"
+    },
+    {
+      "school_osm_id": "7687229265",
+      "school_osm_type": "node",
+      "school_name": "ГУО «Карповский детский сад",
+      "place_osm_id": "-70799",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Лоевский район",
+      "lon": "30.905650699999995",
+      "lat": "52.02560139911531"
+    },
+    {
+      "school_osm_id": "7687229265",
+      "school_osm_type": "node",
+      "school_name": "ГУО «Карповский детский сад",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "30.905650699999995",
+      "lat": "52.02560139911531"
+    },
+    {
+      "school_osm_id": "7687229265",
+      "school_osm_type": "node",
+      "school_name": "ГУО «Карповский детский сад",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.905650699999995",
+      "lat": "52.02560139911531"
+    }
+  ]
+}

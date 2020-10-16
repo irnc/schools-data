@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Нижнее Чернихово",
+    "osm_id": "-7456508",
+    "hierarchy": [
+      "Вольновский сельский Совет",
+      "Барановичский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.24931250536035",
+    "lon": "26.28872436065424"
+  },
+  "group": [
+    {
+      "school_osm_id": "678481397",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8096129",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Вольновский сельский Совет",
+      "lon": "26.28872436065424",
+      "lat": "53.24931250536035"
+    },
+    {
+      "school_osm_id": "678481397",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7456508",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Нижнее Чернихово",
+      "lon": "26.28872436065424",
+      "lat": "53.24931250536035"
+    },
+    {
+      "school_osm_id": "678481397",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-71116",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Барановичский район",
+      "lon": "26.28872436065424",
+      "lat": "53.24931250536035"
+    },
+    {
+      "school_osm_id": "678481397",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "26.28872436065424",
+      "lat": "53.24931250536035"
+    },
+    {
+      "school_osm_id": "678481397",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.28872436065424",
+      "lat": "53.24931250536035"
+    }
+  ]
+}

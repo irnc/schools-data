@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Корнадь",
+    "osm_id": "-7526108",
+    "hierarchy": [
+      "Новодворский сельский Совет",
+      "Свислочский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.802383997448025",
+    "lon": "24.485505428743828"
+  },
+  "group": [
+    {
+      "school_osm_id": "597891944",
+      "school_osm_type": "way",
+      "school_name": "Корнадский детский сад-базовая школа",
+      "place_osm_id": "-8025379",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Новодворский сельский Совет",
+      "lon": "24.485505428743828",
+      "lat": "52.802383997448025"
+    },
+    {
+      "school_osm_id": "597891944",
+      "school_osm_type": "way",
+      "school_name": "Корнадский детский сад-базовая школа",
+      "place_osm_id": "-7526108",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Корнадь",
+      "lon": "24.485505428743828",
+      "lat": "52.802383997448025"
+    },
+    {
+      "school_osm_id": "597891944",
+      "school_osm_type": "way",
+      "school_name": "Корнадский детский сад-базовая школа",
+      "place_osm_id": "-71093",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Свислочский район",
+      "lon": "24.485505428743828",
+      "lat": "52.802383997448025"
+    },
+    {
+      "school_osm_id": "597891944",
+      "school_osm_type": "way",
+      "school_name": "Корнадский детский сад-базовая школа",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "24.485505428743828",
+      "lat": "52.802383997448025"
+    },
+    {
+      "school_osm_id": "597891944",
+      "school_osm_type": "way",
+      "school_name": "Корнадский детский сад-базовая школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "24.485505428743828",
+      "lat": "52.802383997448025"
+    }
+  ]
+}

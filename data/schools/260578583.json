@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Волпа",
+    "osm_id": "-7509036",
+    "hierarchy": [
+      "Волповский сельский Совет",
+      "Волковысский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.36584210267917",
+    "lon": "24.367478449154508"
+  },
+  "group": [
+    {
+      "school_osm_id": "260578583",
+      "school_osm_type": "way",
+      "school_name": "Волповская средняя школа",
+      "place_osm_id": "-8085955",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Волповский сельский Совет",
+      "lon": "24.367478449154508",
+      "lat": "53.36584210267917"
+    },
+    {
+      "school_osm_id": "260578583",
+      "school_osm_type": "way",
+      "school_name": "Волповская средняя школа",
+      "place_osm_id": "-7509036",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Волпа",
+      "lon": "24.367478449154508",
+      "lat": "53.36584210267917"
+    },
+    {
+      "school_osm_id": "260578583",
+      "school_osm_type": "way",
+      "school_name": "Волповская средняя школа",
+      "place_osm_id": "-70771",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Волковысский район",
+      "lon": "24.367478449154508",
+      "lat": "53.36584210267917"
+    },
+    {
+      "school_osm_id": "260578583",
+      "school_osm_type": "way",
+      "school_name": "Волповская средняя школа",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "24.367478449154508",
+      "lat": "53.36584210267917"
+    },
+    {
+      "school_osm_id": "260578583",
+      "school_osm_type": "way",
+      "school_name": "Волповская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "24.367478449154508",
+      "lat": "53.36584210267917"
+    }
+  ]
+}

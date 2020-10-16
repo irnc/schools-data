@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Рубежевичи",
+    "osm_id": "-7566916",
+    "hierarchy": [
+      "Рубежевичский сельский Совет",
+      "Столбцовский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.68574871797628",
+    "lon": "26.856737049408164"
+  },
+  "group": [
+    {
+      "school_osm_id": "463849555",
+      "school_osm_type": "way",
+      "school_name": "ГУО \"Рубежевичская средняя школа\"",
+      "place_osm_id": "-8139746",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Рубежевичский сельский Совет",
+      "lon": "26.856737049408164",
+      "lat": "53.68574871797628"
+    },
+    {
+      "school_osm_id": "463849555",
+      "school_osm_type": "way",
+      "school_name": "ГУО \"Рубежевичская средняя школа\"",
+      "place_osm_id": "-7566916",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Рубежевичи",
+      "lon": "26.856737049408164",
+      "lat": "53.68574871797628"
+    },
+    {
+      "school_osm_id": "463849555",
+      "school_osm_type": "way",
+      "school_name": "ГУО \"Рубежевичская средняя школа\"",
+      "place_osm_id": "-70752",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Столбцовский район",
+      "lon": "26.856737049408164",
+      "lat": "53.68574871797628"
+    },
+    {
+      "school_osm_id": "463849555",
+      "school_osm_type": "way",
+      "school_name": "ГУО \"Рубежевичская средняя школа\"",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "26.856737049408164",
+      "lat": "53.68574871797628"
+    },
+    {
+      "school_osm_id": "463849555",
+      "school_osm_type": "way",
+      "school_name": "ГУО \"Рубежевичская средняя школа\"",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.856737049408164",
+      "lat": "53.68574871797628"
+    }
+  ]
+}

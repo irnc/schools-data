@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Подкраичи",
+    "osm_id": "-7459247",
+    "hierarchy": [
+      "Малечский сельский Совет",
+      "Берёзовский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.437475774836905",
+    "lon": "24.721327376028878"
+  },
+  "group": [
+    {
+      "school_osm_id": "654484630",
+      "school_osm_type": "way",
+      "school_name": "Подкраичская базовая школа",
+      "place_osm_id": "-8085944",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Малечский сельский Совет",
+      "lon": "24.721327376028878",
+      "lat": "52.437475774836905"
+    },
+    {
+      "school_osm_id": "654484630",
+      "school_osm_type": "way",
+      "school_name": "Подкраичская базовая школа",
+      "place_osm_id": "-7459247",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Подкраичи",
+      "lon": "24.721327376028878",
+      "lat": "52.437475774836905"
+    },
+    {
+      "school_osm_id": "654484630",
+      "school_osm_type": "way",
+      "school_name": "Подкраичская базовая школа",
+      "place_osm_id": "-71107",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Берёзовский район",
+      "lon": "24.721327376028878",
+      "lat": "52.437475774836905"
+    },
+    {
+      "school_osm_id": "654484630",
+      "school_osm_type": "way",
+      "school_name": "Подкраичская базовая школа",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "24.721327376028878",
+      "lat": "52.437475774836905"
+    },
+    {
+      "school_osm_id": "654484630",
+      "school_osm_type": "way",
+      "school_name": "Подкраичская базовая школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "24.721327376028878",
+      "lat": "52.437475774836905"
+    }
+  ]
+}

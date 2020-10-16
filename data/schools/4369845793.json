@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Милошевичи",
+    "osm_id": "-7445613",
+    "hierarchy": [
+      "Милошевичский сельский Совет",
+      "Лельчицкий район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "51.64984509915355",
+    "lon": "27.9169388"
+  },
+  "group": [
+    {
+      "school_osm_id": "4369845793",
+      "school_osm_type": "node",
+      "school_name": "Средняя школа",
+      "place_osm_id": "-8030876",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Милошевичский сельский Совет",
+      "lon": "27.9169388",
+      "lat": "51.64984509915355"
+    },
+    {
+      "school_osm_id": "4369845793",
+      "school_osm_type": "node",
+      "school_name": "Средняя школа",
+      "place_osm_id": "-7445613",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Милошевичи",
+      "lon": "27.9169388",
+      "lat": "51.64984509915355"
+    },
+    {
+      "school_osm_id": "4369845793",
+      "school_osm_type": "node",
+      "school_name": "Средняя школа",
+      "place_osm_id": "-71147",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Лельчицкий район",
+      "lon": "27.9169388",
+      "lat": "51.64984509915355"
+    },
+    {
+      "school_osm_id": "4369845793",
+      "school_osm_type": "node",
+      "school_name": "Средняя школа",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "27.9169388",
+      "lat": "51.64984509915355"
+    },
+    {
+      "school_osm_id": "4369845793",
+      "school_osm_type": "node",
+      "school_name": "Средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.9169388",
+      "lat": "51.64984509915355"
+    }
+  ]
+}

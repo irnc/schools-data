@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Слобода",
+    "osm_id": "-7506767",
+    "hierarchy": [
+      "Сиротинский сельский Совет",
+      "Шумилинский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.32567739962481",
+    "lon": "29.74788124992894"
+  },
+  "group": [
+    {
+      "school_osm_id": "238157576",
+      "school_osm_type": "way",
+      "school_name": "Д/сад-школа",
+      "place_osm_id": "-7981158",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Сиротинский сельский Совет",
+      "lon": "29.74788124992894",
+      "lat": "55.32567739962481"
+    },
+    {
+      "school_osm_id": "238157576",
+      "school_osm_type": "way",
+      "school_name": "Д/сад-школа",
+      "place_osm_id": "-7506767",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Слобода",
+      "lon": "29.74788124992894",
+      "lat": "55.32567739962481"
+    },
+    {
+      "school_osm_id": "238157576",
+      "school_osm_type": "way",
+      "school_name": "Д/сад-школа",
+      "place_osm_id": "-70677",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Шумилинский район",
+      "lon": "29.74788124992894",
+      "lat": "55.32567739962481"
+    },
+    {
+      "school_osm_id": "238157576",
+      "school_osm_type": "way",
+      "school_name": "Д/сад-школа",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "29.74788124992894",
+      "lat": "55.32567739962481"
+    },
+    {
+      "school_osm_id": "238157576",
+      "school_osm_type": "way",
+      "school_name": "Д/сад-школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.74788124992894",
+      "lat": "55.32567739962481"
+    }
+  ]
+}

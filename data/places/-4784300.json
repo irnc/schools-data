@@ -1,0 +1,79 @@
+[
+  {
+    "school_osm_id": "243587541",
+    "school_osm_type": "way",
+    "school_name": "Средняя школла № 1 г. Скиделя",
+    "place_osm_id": "-4784300",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Скидель",
+    "lon": "24.23970218592102",
+    "lat": "53.587061219938356"
+  },
+  {
+    "school_osm_id": "599039156",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №2 г.Скиделя",
+    "place_osm_id": "-4784300",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Скидель",
+    "lon": "24.197256190207657",
+    "lat": "53.570657847388595"
+  },
+  {
+    "school_osm_id": "599039159",
+    "school_osm_type": "way",
+    "school_name": "Скидельская ДЮСШ",
+    "place_osm_id": "-4784300",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Скидель",
+    "lon": "24.19892301620982",
+    "lat": "53.571621224573214"
+  },
+  {
+    "school_osm_id": "599039171",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-4784300",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Скидель",
+    "lon": "24.237119635502136",
+    "lat": "53.574287477184996"
+  },
+  {
+    "school_osm_id": "672100435",
+    "school_osm_type": "way",
+    "school_name": "Территория школы",
+    "place_osm_id": "-4784300",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Скидель",
+    "lon": "24.240062273061078",
+    "lat": "53.58751243031273"
+  },
+  {
+    "school_osm_id": "672100438",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа № 1",
+    "place_osm_id": "-4784300",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Скидель",
+    "lon": "24.248991560801052",
+    "lat": "53.58594883555998"
+  },
+  {
+    "school_osm_id": "5704999921",
+    "school_osm_type": "node",
+    "school_name": "Спортивная школа",
+    "place_osm_id": "-4784300",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Скидель",
+    "lon": "24.1995123",
+    "lat": "53.57141459912676"
+  }
+]

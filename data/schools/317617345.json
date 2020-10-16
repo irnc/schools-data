@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Вилейка",
+    "osm_id": "-5549061",
+    "hierarchy": [
+      "Вилейский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.48828683274892",
+    "lon": "26.89665767183494"
+  },
+  "group": [
+    {
+      "school_osm_id": "317617345",
+      "school_osm_type": "way",
+      "school_name": "Школа №1",
+      "place_osm_id": "-5549061",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Вилейка",
+      "lon": "26.89665767183494",
+      "lat": "54.48828683274892"
+    },
+    {
+      "school_osm_id": "317617345",
+      "school_osm_type": "way",
+      "school_name": "Школа №1",
+      "place_osm_id": "-70568",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Вилейский район",
+      "lon": "26.89665767183494",
+      "lat": "54.48828683274892"
+    },
+    {
+      "school_osm_id": "317617345",
+      "school_osm_type": "way",
+      "school_name": "Школа №1",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "26.89665767183494",
+      "lat": "54.48828683274892"
+    },
+    {
+      "school_osm_id": "317617345",
+      "school_osm_type": "way",
+      "school_name": "Школа №1",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.89665767183494",
+      "lat": "54.48828683274892"
+    }
+  ]
+}

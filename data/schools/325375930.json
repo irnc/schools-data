@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Острожанка",
+    "osm_id": "-7445579",
+    "hierarchy": [
+      "Буйновичский сельский Совет",
+      "Лельчицкий район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "51.99173586269099",
+    "lon": "28.551622968159442"
+  },
+  "group": [
+    {
+      "school_osm_id": "325375930",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8030882",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Буйновичский сельский Совет",
+      "lon": "28.551622968159442",
+      "lat": "51.99173586269099"
+    },
+    {
+      "school_osm_id": "325375930",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7445579",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Острожанка",
+      "lon": "28.551622968159442",
+      "lat": "51.99173586269099"
+    },
+    {
+      "school_osm_id": "325375930",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-71147",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Лельчицкий район",
+      "lon": "28.551622968159442",
+      "lat": "51.99173586269099"
+    },
+    {
+      "school_osm_id": "325375930",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "28.551622968159442",
+      "lat": "51.99173586269099"
+    },
+    {
+      "school_osm_id": "325375930",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.551622968159442",
+      "lat": "51.99173586269099"
+    }
+  ]
+}

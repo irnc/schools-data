@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Дричин",
+    "osm_id": "-7589407",
+    "hierarchy": [
+      "Дричинский сельский Совет",
+      "Осиповичский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.213980958774926",
+    "lon": "28.227657325550542"
+  },
+  "group": [
+    {
+      "school_osm_id": "276926738",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8144357",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Дричинский сельский Совет",
+      "lon": "28.227657325550542",
+      "lat": "53.213980958774926"
+    },
+    {
+      "school_osm_id": "276926738",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7589407",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Дричин",
+      "lon": "28.227657325550542",
+      "lat": "53.213980958774926"
+    },
+    {
+      "school_osm_id": "276926738",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59753",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Осиповичский район",
+      "lon": "28.227657325550542",
+      "lat": "53.213980958774926"
+    },
+    {
+      "school_osm_id": "276926738",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "28.227657325550542",
+      "lat": "53.213980958774926"
+    },
+    {
+      "school_osm_id": "276926738",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.227657325550542",
+      "lat": "53.213980958774926"
+    }
+  ]
+}

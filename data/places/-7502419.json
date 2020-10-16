@@ -1,0 +1,35 @@
+[
+  {
+    "school_osm_id": "160095241",
+    "school_osm_type": "way",
+    "school_name": "Школа искусств",
+    "place_osm_id": "-7502419",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Коханово",
+    "lon": "30.006348581001888",
+    "lat": "54.4607344550144"
+  },
+  {
+    "school_osm_id": "643089759",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7502419",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Коханово",
+    "lon": "30.00904687111173",
+    "lat": "54.458274697771664"
+  },
+  {
+    "school_osm_id": "732160281",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7502419",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Коханово",
+    "lon": "30.005643153001362",
+    "lat": "54.46304766307869"
+  }
+]

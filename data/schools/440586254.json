@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Наровля",
+    "osm_id": "-5598639",
+    "hierarchy": [
+      "Наровлянский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "51.79692524369233",
+    "lon": "29.505663456491412"
+  },
+  "group": [
+    {
+      "school_osm_id": "440586254",
+      "school_osm_type": "way",
+      "school_name": "Гимназия",
+      "place_osm_id": "-5598639",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Наровля",
+      "lon": "29.505663456491412",
+      "lat": "51.79692524369233"
+    },
+    {
+      "school_osm_id": "440586254",
+      "school_osm_type": "way",
+      "school_name": "Гимназия",
+      "place_osm_id": "-70809",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Наровлянский район",
+      "lon": "29.505663456491412",
+      "lat": "51.79692524369233"
+    },
+    {
+      "school_osm_id": "440586254",
+      "school_osm_type": "way",
+      "school_name": "Гимназия",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "29.505663456491412",
+      "lat": "51.79692524369233"
+    },
+    {
+      "school_osm_id": "440586254",
+      "school_osm_type": "way",
+      "school_name": "Гимназия",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.505663456491412",
+      "lat": "51.79692524369233"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Благовичи",
+    "osm_id": "-7589833",
+    "hierarchy": [
+      "Горбовичский сельский Совет",
+      "Чаусский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.83442415543164",
+    "lon": "30.84128372354822"
+  },
+  "group": [
+    {
+      "school_osm_id": "779418136",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8140440",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Горбовичский сельский Совет",
+      "lon": "30.84128372354822",
+      "lat": "53.83442415543164"
+    },
+    {
+      "school_osm_id": "779418136",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7589833",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Благовичи",
+      "lon": "30.84128372354822",
+      "lat": "53.83442415543164"
+    },
+    {
+      "school_osm_id": "779418136",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70591",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Чаусский район",
+      "lon": "30.84128372354822",
+      "lat": "53.83442415543164"
+    },
+    {
+      "school_osm_id": "779418136",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "30.84128372354822",
+      "lat": "53.83442415543164"
+    },
+    {
+      "school_osm_id": "779418136",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.84128372354822",
+      "lat": "53.83442415543164"
+    }
+  ]
+}

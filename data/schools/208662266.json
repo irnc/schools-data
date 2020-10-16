@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Осово",
+    "osm_id": "-4850865",
+    "hierarchy": [
+      "Горбацевичский сельский Совет",
+      "Бобруйский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.1630117490972",
+    "lon": "28.912801639560026"
+  },
+  "group": [
+    {
+      "school_osm_id": "208662266",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8144259",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Горбацевичский сельский Совет",
+      "lon": "28.912801639560026",
+      "lat": "53.1630117490972"
+    },
+    {
+      "school_osm_id": "208662266",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-4850865",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Осово",
+      "lon": "28.912801639560026",
+      "lat": "53.1630117490972"
+    },
+    {
+      "school_osm_id": "208662266",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "28.912801639560026",
+      "lat": "53.1630117490972"
+    },
+    {
+      "school_osm_id": "208662266",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59148",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Бобруйский район",
+      "lon": "28.912801639560026",
+      "lat": "53.1630117490972"
+    },
+    {
+      "school_osm_id": "208662266",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.912801639560026",
+      "lat": "53.1630117490972"
+    }
+  ]
+}

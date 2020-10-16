@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Богушевск",
+    "osm_id": "-6807938",
+    "hierarchy": [
+      "Сенненский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.844191900959096",
+    "lon": "30.210924172173016"
+  },
+  "group": [
+    {
+      "school_osm_id": "275392646",
+      "school_osm_type": "way",
+      "school_name": "Богушевская СШ № 1",
+      "place_osm_id": "-6807938",
+      "place_admin_level": "8",
+      "place_place": "village",
+      "place_name": "Богушевск",
+      "lon": "30.210924172173016",
+      "lat": "54.844191900959096"
+    },
+    {
+      "school_osm_id": "275392646",
+      "school_osm_type": "way",
+      "school_name": "Богушевская СШ № 1",
+      "place_osm_id": "-70662",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Сенненский район",
+      "lon": "30.210924172173016",
+      "lat": "54.844191900959096"
+    },
+    {
+      "school_osm_id": "275392646",
+      "school_osm_type": "way",
+      "school_name": "Богушевская СШ № 1",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "30.210924172173016",
+      "lat": "54.844191900959096"
+    },
+    {
+      "school_osm_id": "275392646",
+      "school_osm_type": "way",
+      "school_name": "Богушевская СШ № 1",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.210924172173016",
+      "lat": "54.844191900959096"
+    }
+  ]
+}

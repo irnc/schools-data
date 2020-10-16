@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "358802783",
+    "school_osm_type": "way",
+    "school_name": "Крупицкая средняя школа",
+    "place_osm_id": "-7547141",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Крупица",
+    "lon": "27.534919182587004",
+    "lat": "53.678485352760646"
+  },
+  {
+    "school_osm_id": "772683059",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7547141",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Крупица",
+    "lon": "27.53242566470781",
+    "lat": "53.67659287826756"
+  }
+]

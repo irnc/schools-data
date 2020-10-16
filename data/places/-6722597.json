@@ -1,0 +1,189 @@
+[
+  {
+    "school_osm_id": "39269064",
+    "school_osm_type": "way",
+    "school_name": "Музыкальная школа",
+    "place_osm_id": "-6722597",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Слуцк",
+    "lon": "27.54965074872184",
+    "lat": "53.023413654923374"
+  },
+  {
+    "school_osm_id": "341560136",
+    "school_osm_type": "way",
+    "school_name": "ГУО «Слуцкий районный центр коррекционно-развивающего обучения и реабилитации»",
+    "place_osm_id": "-6722597",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Слуцк",
+    "lon": "27.557199042375416",
+    "lat": "53.02815603011542"
+  },
+  {
+    "school_osm_id": "356983268",
+    "school_osm_type": "way",
+    "school_name": "ГУО \"Средняя школа № 11 г.Слуцка\"",
+    "place_osm_id": "-6722597",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Слуцк",
+    "lon": "27.56679654941277",
+    "lat": "53.04172534713552"
+  },
+  {
+    "school_osm_id": "364165126",
+    "school_osm_type": "way",
+    "school_name": "ГУО \"Гимназия №1 г. Слуцка\"",
+    "place_osm_id": "-6722597",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Слуцк",
+    "lon": "27.560450913110742",
+    "lat": "53.02632727768607"
+  },
+  {
+    "school_osm_id": "394732205",
+    "school_osm_type": "way",
+    "school_name": "ГУО \"Средняя школа № 6 г.Слуцка\"",
+    "place_osm_id": "-6722597",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Слуцк",
+    "lon": "27.55278799868028",
+    "lat": "53.030966898641786"
+  },
+  {
+    "school_osm_id": "394732209",
+    "school_osm_type": "way",
+    "school_name": "ГУО \"Гимназия №2 г.Слуцка\"",
+    "place_osm_id": "-6722597",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Слуцк",
+    "lon": "27.54328430723939",
+    "lat": "53.02615185097535"
+  },
+  {
+    "school_osm_id": "394732214",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-6722597",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Слуцк",
+    "lon": "27.55835339383585",
+    "lat": "53.03215938775683"
+  },
+  {
+    "school_osm_id": "394792425",
+    "school_osm_type": "way",
+    "school_name": "ГУО \"Средняя школа № 10 им.С.Ф.Рубанова г.Слуцка”",
+    "place_osm_id": "-6722597",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Слуцк",
+    "lon": "27.54336039498662",
+    "lat": "53.02259261223531"
+  },
+  {
+    "school_osm_id": "394792439",
+    "school_osm_type": "way",
+    "school_name": "ГУО \"Средняя школа № 13 г.Слуцка\"",
+    "place_osm_id": "-6722597",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Слуцк",
+    "lon": "27.55286797452962",
+    "lat": "53.01532777704784"
+  },
+  {
+    "school_osm_id": "402104060",
+    "school_osm_type": "way",
+    "school_name": "ГУО \"Средняя школа № 9 г.Слуцка\"",
+    "place_osm_id": "-6722597",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Слуцк",
+    "lon": "27.58942846358653",
+    "lat": "53.04289578593583"
+  },
+  {
+    "school_osm_id": "402104065",
+    "school_osm_type": "way",
+    "school_name": "ГУО \"Средняя школа №8 г.Слуцка”",
+    "place_osm_id": "-6722597",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Слуцк",
+    "lon": "27.582478800410524",
+    "lat": "53.02972971743069"
+  },
+  {
+    "school_osm_id": "402202761",
+    "school_osm_type": "way",
+    "school_name": "ГУО \"Средняя школа №2 г.Слуцка\"",
+    "place_osm_id": "-6722597",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Слуцк",
+    "lon": "27.537017331298955",
+    "lat": "53.01082421839859"
+  },
+  {
+    "school_osm_id": "402202766",
+    "school_osm_type": "way",
+    "school_name": "ГУО \"Средняя школа №4 г.Слуцка\"",
+    "place_osm_id": "-6722597",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Слуцк",
+    "lon": "27.57591910146668",
+    "lat": "53.035778099889406"
+  },
+  {
+    "school_osm_id": "402207873",
+    "school_osm_type": "way",
+    "school_name": "ГУО \"Средняя школа № 5 г.Слуцка\"",
+    "place_osm_id": "-6722597",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Слуцк",
+    "lon": "27.55153099368594",
+    "lat": "53.02451222923302"
+  },
+  {
+    "school_osm_id": "402213936",
+    "school_osm_type": "way",
+    "school_name": "ГУО \"Средняя школа № 12 г.Слуцка\"",
+    "place_osm_id": "-6722597",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Слуцк",
+    "lon": "27.52555305619625",
+    "lat": "53.00632849912283"
+  },
+  {
+    "school_osm_id": "403439345",
+    "school_osm_type": "way",
+    "school_name": "ГУО «Минское областное кадетское училище»",
+    "place_osm_id": "-6722597",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Слуцк",
+    "lon": "27.57885273759473",
+    "lat": "53.044186430761336"
+  },
+  {
+    "school_osm_id": "4485722830",
+    "school_osm_type": "node",
+    "school_name": "Школа №6",
+    "place_osm_id": "-6722597",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Слуцк",
+    "lon": "27.5536159",
+    "lat": "53.030971099088866"
+  }
+]

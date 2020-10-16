@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Холхолица",
+    "osm_id": "-6816192",
+    "hierarchy": [
+      "Веселовский сельский Совет",
+      "Борисовский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.42796618859234",
+    "lon": "28.43626561996244"
+  },
+  "group": [
+    {
+      "school_osm_id": "424350853",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8016702",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Веселовский сельский Совет",
+      "lon": "28.43626561996244",
+      "lat": "54.42796618859234"
+    },
+    {
+      "school_osm_id": "424350853",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-6816192",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Холхолица",
+      "lon": "28.43626561996244",
+      "lat": "54.42796618859234"
+    },
+    {
+      "school_osm_id": "424350853",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70569",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Борисовский район",
+      "lon": "28.43626561996244",
+      "lat": "54.42796618859234"
+    },
+    {
+      "school_osm_id": "424350853",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "28.43626561996244",
+      "lat": "54.42796618859234"
+    },
+    {
+      "school_osm_id": "424350853",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.43626561996244",
+      "lat": "54.42796618859234"
+    }
+  ]
+}

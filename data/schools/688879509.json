@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Петришки",
+    "osm_id": "-7549071",
+    "hierarchy": [
+      "Петришковский сельский Совет",
+      "Минский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.07254516699329",
+    "lon": "27.214549501863587"
+  },
+  "group": [
+    {
+      "school_osm_id": "688879509",
+      "school_osm_type": "way",
+      "school_name": "Петришковская средняя школа",
+      "place_osm_id": "-8144199",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Петришковский сельский Совет",
+      "lon": "27.214549501863587",
+      "lat": "54.07254516699329"
+    },
+    {
+      "school_osm_id": "688879509",
+      "school_osm_type": "way",
+      "school_name": "Петришковская средняя школа",
+      "place_osm_id": "-7549071",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Петришки",
+      "lon": "27.214549501863587",
+      "lat": "54.07254516699329"
+    },
+    {
+      "school_osm_id": "688879509",
+      "school_osm_type": "way",
+      "school_name": "Петришковская средняя школа",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.214549501863587",
+      "lat": "54.07254516699329"
+    },
+    {
+      "school_osm_id": "688879509",
+      "school_osm_type": "way",
+      "school_name": "Петришковская средняя школа",
+      "place_osm_id": "-59190",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Минский район",
+      "lon": "27.214549501863587",
+      "lat": "54.07254516699329"
+    },
+    {
+      "school_osm_id": "688879509",
+      "school_osm_type": "way",
+      "school_name": "Петришковская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.214549501863587",
+      "lat": "54.07254516699329"
+    }
+  ]
+}

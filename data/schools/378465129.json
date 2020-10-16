@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Пастовичи",
+    "osm_id": "-7566743",
+    "hierarchy": [
+      "Новодорожский сельский Совет",
+      "Стародорожский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.05397975214103",
+    "lon": "28.476616461469572"
+  },
+  "group": [
+    {
+      "school_osm_id": "378465129",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8144358",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Новодорожский сельский Совет",
+      "lon": "28.476616461469572",
+      "lat": "53.05397975214103"
+    },
+    {
+      "school_osm_id": "378465129",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7566743",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Пастовичи",
+      "lon": "28.476616461469572",
+      "lat": "53.05397975214103"
+    },
+    {
+      "school_osm_id": "378465129",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-71135",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Стародорожский район",
+      "lon": "28.476616461469572",
+      "lat": "53.05397975214103"
+    },
+    {
+      "school_osm_id": "378465129",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "28.476616461469572",
+      "lat": "53.05397975214103"
+    },
+    {
+      "school_osm_id": "378465129",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.476616461469572",
+      "lat": "53.05397975214103"
+    }
+  ]
+}

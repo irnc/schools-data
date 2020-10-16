@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "344013919",
+    "school_osm_type": "way",
+    "school_name": "Острошицко-Городокская школа",
+    "place_osm_id": "-6891910",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Острошицкий Городок",
+    "lon": "27.699874543543647",
+    "lat": "54.06747590883907"
+  },
+  {
+    "school_osm_id": "4515161291",
+    "school_osm_type": "node",
+    "school_name": "Острошицко-городокская СШ",
+    "place_osm_id": "-6891910",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Острошицкий Городок",
+    "lon": "27.6996279",
+    "lat": "54.06736369919647"
+  }
+]

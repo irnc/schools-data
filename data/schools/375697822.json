@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Дуброво",
+    "osm_id": "-7549464",
+    "hierarchy": [
+      "Олехновичский сельский Совет",
+      "Молодечненский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.09170678458907",
+    "lon": "27.095773787428612"
+  },
+  "group": [
+    {
+      "school_osm_id": "375697822",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8013926",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Олехновичский сельский Совет",
+      "lon": "27.095773787428612",
+      "lat": "54.09170678458907"
+    },
+    {
+      "school_osm_id": "375697822",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7549464",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Дуброво",
+      "lon": "27.095773787428612",
+      "lat": "54.09170678458907"
+    },
+    {
+      "school_osm_id": "375697822",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70566",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Молодечненский район",
+      "lon": "27.095773787428612",
+      "lat": "54.09170678458907"
+    },
+    {
+      "school_osm_id": "375697822",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.095773787428612",
+      "lat": "54.09170678458907"
+    },
+    {
+      "school_osm_id": "375697822",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.095773787428612",
+      "lat": "54.09170678458907"
+    }
+  ]
+}

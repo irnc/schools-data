@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Глубокое",
+    "osm_id": "-1176300",
+    "hierarchy": [
+      "Глубокский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.14796421064542",
+    "lon": "27.690902861205693"
+  },
+  "group": [
+    {
+      "school_osm_id": "303371009",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-1176300",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Глубокое",
+      "lon": "27.690902861205693",
+      "lat": "55.14796421064542"
+    },
+    {
+      "school_osm_id": "303371009",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70703",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Глубокский район",
+      "lon": "27.690902861205693",
+      "lat": "55.14796421064542"
+    },
+    {
+      "school_osm_id": "303371009",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "27.690902861205693",
+      "lat": "55.14796421064542"
+    },
+    {
+      "school_osm_id": "303371009",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.690902861205693",
+      "lat": "55.14796421064542"
+    }
+  ]
+}

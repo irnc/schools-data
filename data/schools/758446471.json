@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Олтуш",
+    "osm_id": "-7467211",
+    "hierarchy": [
+      "Олтушский сельский Совет",
+      "Малоритский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "51.68204800738742",
+    "lon": "23.96248402742049"
+  },
+  "group": [
+    {
+      "school_osm_id": "758446471",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8028573",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Олтушский сельский Совет",
+      "lon": "23.96248402742049",
+      "lat": "51.68204800738742"
+    },
+    {
+      "school_osm_id": "758446471",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7467211",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Олтуш",
+      "lon": "23.96248402742049",
+      "lat": "51.68204800738742"
+    },
+    {
+      "school_osm_id": "758446471",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-71100",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Малоритский район",
+      "lon": "23.96248402742049",
+      "lat": "51.68204800738742"
+    },
+    {
+      "school_osm_id": "758446471",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "23.96248402742049",
+      "lat": "51.68204800738742"
+    },
+    {
+      "school_osm_id": "758446471",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "23.96248402742049",
+      "lat": "51.68204800738742"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Доропеевичи",
+    "osm_id": "-7467158",
+    "hierarchy": [
+      "Чернянский сельский Совет",
+      "Малоритский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "51.964362539330345",
+    "lon": "24.318133802588463"
+  },
+  "group": [
+    {
+      "school_osm_id": "664753725",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8028570",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Чернянский сельский Совет",
+      "lon": "24.318133802588463",
+      "lat": "51.964362539330345"
+    },
+    {
+      "school_osm_id": "664753725",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7467158",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Доропеевичи",
+      "lon": "24.318133802588463",
+      "lat": "51.964362539330345"
+    },
+    {
+      "school_osm_id": "664753725",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-71100",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Малоритский район",
+      "lon": "24.318133802588463",
+      "lat": "51.964362539330345"
+    },
+    {
+      "school_osm_id": "664753725",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "24.318133802588463",
+      "lat": "51.964362539330345"
+    },
+    {
+      "school_osm_id": "664753725",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "24.318133802588463",
+      "lat": "51.964362539330345"
+    }
+  ]
+}

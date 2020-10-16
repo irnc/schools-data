@@ -1,0 +1,53 @@
+{
+  "place": "warning-school-without-place",
+  "geo": {
+    "lat": "53.76940144363802",
+    "lon": "28.653759070971745"
+  },
+  "group": [
+    {
+      "school_osm_id": "452934076",
+      "school_osm_type": "way",
+      "school_name": "Пионерлагерь",
+      "place_osm_id": "-8144276",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Ляденский сельский Совет",
+      "lon": "28.653759070971745",
+      "lat": "53.76940144363802"
+    },
+    {
+      "school_osm_id": "452934076",
+      "school_osm_type": "way",
+      "school_name": "Пионерлагерь",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "28.653759070971745",
+      "lat": "53.76940144363802"
+    },
+    {
+      "school_osm_id": "452934076",
+      "school_osm_type": "way",
+      "school_name": "Пионерлагерь",
+      "place_osm_id": "-59751",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Червенский район",
+      "lon": "28.653759070971745",
+      "lat": "53.76940144363802"
+    },
+    {
+      "school_osm_id": "452934076",
+      "school_osm_type": "way",
+      "school_name": "Пионерлагерь",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.653759070971745",
+      "lat": "53.76940144363802"
+    }
+  ]
+}

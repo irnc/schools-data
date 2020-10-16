@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Корма",
+    "osm_id": "-5598624",
+    "hierarchy": [
+      "Кормянский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.13638535991731",
+    "lon": "30.805757490347133"
+  },
+  "group": [
+    {
+      "school_osm_id": "548030320",
+      "school_osm_type": "way",
+      "school_name": "СШ №1",
+      "place_osm_id": "-5598624",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Корма",
+      "lon": "30.805757490347133",
+      "lat": "53.13638535991731"
+    },
+    {
+      "school_osm_id": "548030320",
+      "school_osm_type": "way",
+      "school_name": "СШ №1",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "30.805757490347133",
+      "lat": "53.13638535991731"
+    },
+    {
+      "school_osm_id": "548030320",
+      "school_osm_type": "way",
+      "school_name": "СШ №1",
+      "place_osm_id": "-59149",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Кормянский район",
+      "lon": "30.805757490347133",
+      "lat": "53.13638535991731"
+    },
+    {
+      "school_osm_id": "548030320",
+      "school_osm_type": "way",
+      "school_name": "СШ №1",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.805757490347133",
+      "lat": "53.13638535991731"
+    }
+  ]
+}

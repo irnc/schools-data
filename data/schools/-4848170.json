@@ -1,0 +1,75 @@
+{
+  "place": "warning-school-without-place",
+  "geo": {
+    "lat": "53.90219503756785",
+    "lon": "27.4380325351525"
+  },
+  "group": [
+    {
+      "school_osm_id": "-4848170",
+      "school_osm_type": "relation",
+      "school_name": "СШ №159",
+      "place_osm_id": "-59246",
+      "place_admin_level": "9",
+      "place_place": "",
+      "place_name": "Фрунзенский район",
+      "lon": "27.4380325351525",
+      "lat": "53.90219503756785"
+    },
+    {
+      "school_osm_id": "-4848170",
+      "school_osm_type": "relation",
+      "school_name": "СШ №159",
+      "place_osm_id": "-59246",
+      "place_admin_level": "9",
+      "place_place": "",
+      "place_name": "Фрунзенский район",
+      "lon": "27.441847654831054",
+      "lat": "53.901362446380844"
+    },
+    {
+      "school_osm_id": "-4848170",
+      "school_osm_type": "relation",
+      "school_name": "СШ №159",
+      "place_osm_id": "-59195",
+      "place_admin_level": "4",
+      "place_place": "city",
+      "place_name": "Минск",
+      "lon": "27.4380325351525",
+      "lat": "53.90219503756785"
+    },
+    {
+      "school_osm_id": "-4848170",
+      "school_osm_type": "relation",
+      "school_name": "СШ №159",
+      "place_osm_id": "-59195",
+      "place_admin_level": "4",
+      "place_place": "city",
+      "place_name": "Минск",
+      "lon": "27.441847654831054",
+      "lat": "53.901362446380844"
+    },
+    {
+      "school_osm_id": "-4848170",
+      "school_osm_type": "relation",
+      "school_name": "СШ №159",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.4380325351525",
+      "lat": "53.90219503756785"
+    },
+    {
+      "school_osm_id": "-4848170",
+      "school_osm_type": "relation",
+      "school_name": "СШ №159",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.441847654831054",
+      "lat": "53.901362446380844"
+    }
+  ]
+}

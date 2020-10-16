@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Липень",
+    "osm_id": "-7589418",
+    "hierarchy": [
+      "Липенский сельский Совет",
+      "Осиповичский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.413090478434505",
+    "lon": "28.832607699050083"
+  },
+  "group": [
+    {
+      "school_osm_id": "832756047",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8144249",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Липенский сельский Совет",
+      "lon": "28.832607699050083",
+      "lat": "53.413090478434505"
+    },
+    {
+      "school_osm_id": "832756047",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7589418",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Липень",
+      "lon": "28.832607699050083",
+      "lat": "53.413090478434505"
+    },
+    {
+      "school_osm_id": "832756047",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59753",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Осиповичский район",
+      "lon": "28.832607699050083",
+      "lat": "53.413090478434505"
+    },
+    {
+      "school_osm_id": "832756047",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "28.832607699050083",
+      "lat": "53.413090478434505"
+    },
+    {
+      "school_osm_id": "832756047",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.832607699050083",
+      "lat": "53.413090478434505"
+    }
+  ]
+}

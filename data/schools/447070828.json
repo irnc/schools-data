@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Иванск",
+    "osm_id": "-7505976",
+    "hierarchy": [
+      "Иванский сельский Совет",
+      "Чашникский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.93500512277992",
+    "lon": "29.150030589792795"
+  },
+  "group": [
+    {
+      "school_osm_id": "447070828",
+      "school_osm_type": "way",
+      "school_name": "Детский сад - средняя школа",
+      "place_osm_id": "-7505976",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Иванск",
+      "lon": "29.150030589792795",
+      "lat": "54.93500512277992"
+    },
+    {
+      "school_osm_id": "447070828",
+      "school_osm_type": "way",
+      "school_name": "Детский сад - средняя школа",
+      "place_osm_id": "-4850384",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Иванский сельский Совет",
+      "lon": "29.150030589792795",
+      "lat": "54.93500512277992"
+    },
+    {
+      "school_osm_id": "447070828",
+      "school_osm_type": "way",
+      "school_name": "Детский сад - средняя школа",
+      "place_osm_id": "-70746",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Чашникский район",
+      "lon": "29.150030589792795",
+      "lat": "54.93500512277992"
+    },
+    {
+      "school_osm_id": "447070828",
+      "school_osm_type": "way",
+      "school_name": "Детский сад - средняя школа",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "29.150030589792795",
+      "lat": "54.93500512277992"
+    },
+    {
+      "school_osm_id": "447070828",
+      "school_osm_type": "way",
+      "school_name": "Детский сад - средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.150030589792795",
+      "lat": "54.93500512277992"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Новосёлки",
+    "osm_id": "-7450246",
+    "hierarchy": [
+      "Новосёлковский сельский Совет",
+      "Петриковский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.40394867402727",
+    "lon": "28.54797058637179"
+  },
+  "group": [
+    {
+      "school_osm_id": "472268357",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8087869",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Новосёлковский сельский Совет",
+      "lon": "28.54797058637179",
+      "lat": "52.40394867402727"
+    },
+    {
+      "school_osm_id": "472268357",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7450246",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Новосёлки",
+      "lon": "28.54797058637179",
+      "lat": "52.40394867402727"
+    },
+    {
+      "school_osm_id": "472268357",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-71145",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Петриковский район",
+      "lon": "28.54797058637179",
+      "lat": "52.40394867402727"
+    },
+    {
+      "school_osm_id": "472268357",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "28.54797058637179",
+      "lat": "52.40394867402727"
+    },
+    {
+      "school_osm_id": "472268357",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.54797058637179",
+      "lat": "52.40394867402727"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Славгород",
+    "osm_id": "-6722701",
+    "hierarchy": [
+      "Славгородский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.44545545467814",
+    "lon": "30.999909862841353"
+  },
+  "group": [
+    {
+      "school_osm_id": "203573802",
+      "school_osm_type": "way",
+      "school_name": "Средняя образовательная школа № 1",
+      "place_osm_id": "-6722701",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Славгород",
+      "lon": "30.999909862841353",
+      "lat": "53.44545545467814"
+    },
+    {
+      "school_osm_id": "203573802",
+      "school_osm_type": "way",
+      "school_name": "Средняя образовательная школа № 1",
+      "place_osm_id": "-70589",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Славгородский район",
+      "lon": "30.999909862841353",
+      "lat": "53.44545545467814"
+    },
+    {
+      "school_osm_id": "203573802",
+      "school_osm_type": "way",
+      "school_name": "Средняя образовательная школа № 1",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "30.999909862841353",
+      "lat": "53.44545545467814"
+    },
+    {
+      "school_osm_id": "203573802",
+      "school_osm_type": "way",
+      "school_name": "Средняя образовательная школа № 1",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.999909862841353",
+      "lat": "53.44545545467814"
+    }
+  ]
+}

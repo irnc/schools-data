@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Узда",
+    "osm_id": "-6722622",
+    "hierarchy": [
+      "Узденский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.46716508325976",
+    "lon": "27.21099492702037"
+  },
+  "group": [
+    {
+      "school_osm_id": "428447246",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-6722622",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Узда",
+      "lon": "27.21099492702037",
+      "lat": "53.46716508325976"
+    },
+    {
+      "school_osm_id": "428447246",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70561",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Узденский район",
+      "lon": "27.21099492702037",
+      "lat": "53.46716508325976"
+    },
+    {
+      "school_osm_id": "428447246",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.21099492702037",
+      "lat": "53.46716508325976"
+    },
+    {
+      "school_osm_id": "428447246",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.21099492702037",
+      "lat": "53.46716508325976"
+    }
+  ]
+}

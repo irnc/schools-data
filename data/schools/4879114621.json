@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Великорита",
+    "osm_id": "-7467189",
+    "hierarchy": [
+      "Великоритский сельский Совет",
+      "Малоритский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "51.936080799123154",
+    "lon": "24.055733499999995"
+  },
+  "group": [
+    {
+      "school_osm_id": "4879114621",
+      "school_osm_type": "node",
+      "school_name": "Великоритская СШ им. П.В Саевича",
+      "place_osm_id": "-8028577",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Великоритский сельский Совет",
+      "lon": "24.055733499999995",
+      "lat": "51.936080799123154"
+    },
+    {
+      "school_osm_id": "4879114621",
+      "school_osm_type": "node",
+      "school_name": "Великоритская СШ им. П.В Саевича",
+      "place_osm_id": "-7467189",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Великорита",
+      "lon": "24.055733499999995",
+      "lat": "51.936080799123154"
+    },
+    {
+      "school_osm_id": "4879114621",
+      "school_osm_type": "node",
+      "school_name": "Великоритская СШ им. П.В Саевича",
+      "place_osm_id": "-71100",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Малоритский район",
+      "lon": "24.055733499999995",
+      "lat": "51.936080799123154"
+    },
+    {
+      "school_osm_id": "4879114621",
+      "school_osm_type": "node",
+      "school_name": "Великоритская СШ им. П.В Саевича",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "24.055733499999995",
+      "lat": "51.936080799123154"
+    },
+    {
+      "school_osm_id": "4879114621",
+      "school_osm_type": "node",
+      "school_name": "Великоритская СШ им. П.В Саевича",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "24.055733499999995",
+      "lat": "51.936080799123154"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Коковчино",
+    "osm_id": "-7501860",
+    "hierarchy": [
+      "Коковчинский сельский Совет",
+      "Сенненский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.69050399575375",
+    "lon": "30.086768593138224"
+  },
+  "group": [
+    {
+      "school_osm_id": "336176027",
+      "school_osm_type": "way",
+      "school_name": "Коковчинская средняя школа",
+      "place_osm_id": "-7923834",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Коковчинский сельский Совет",
+      "lon": "30.086768593138224",
+      "lat": "54.69050399575375"
+    },
+    {
+      "school_osm_id": "336176027",
+      "school_osm_type": "way",
+      "school_name": "Коковчинская средняя школа",
+      "place_osm_id": "-7501860",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Коковчино",
+      "lon": "30.086768593138224",
+      "lat": "54.69050399575375"
+    },
+    {
+      "school_osm_id": "336176027",
+      "school_osm_type": "way",
+      "school_name": "Коковчинская средняя школа",
+      "place_osm_id": "-70662",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Сенненский район",
+      "lon": "30.086768593138224",
+      "lat": "54.69050399575375"
+    },
+    {
+      "school_osm_id": "336176027",
+      "school_osm_type": "way",
+      "school_name": "Коковчинская средняя школа",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "30.086768593138224",
+      "lat": "54.69050399575375"
+    },
+    {
+      "school_osm_id": "336176027",
+      "school_osm_type": "way",
+      "school_name": "Коковчинская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.086768593138224",
+      "lat": "54.69050399575375"
+    }
+  ]
+}

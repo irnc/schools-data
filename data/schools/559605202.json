@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Краснополье",
+    "osm_id": "-6722686",
+    "hierarchy": [
+      "Краснопольский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.3306475289105",
+    "lon": "31.383518146912078"
+  },
+  "group": [
+    {
+      "school_osm_id": "559605202",
+      "school_osm_type": "way",
+      "school_name": "Школа № 2",
+      "place_osm_id": "-6722686",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Краснополье",
+      "lon": "31.383518146912078",
+      "lat": "53.3306475289105"
+    },
+    {
+      "school_osm_id": "559605202",
+      "school_osm_type": "way",
+      "school_name": "Школа № 2",
+      "place_osm_id": "-70602",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Краснопольский район",
+      "lon": "31.383518146912078",
+      "lat": "53.3306475289105"
+    },
+    {
+      "school_osm_id": "559605202",
+      "school_osm_type": "way",
+      "school_name": "Школа № 2",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "31.383518146912078",
+      "lat": "53.3306475289105"
+    },
+    {
+      "school_osm_id": "559605202",
+      "school_osm_type": "way",
+      "school_name": "Школа № 2",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "31.383518146912078",
+      "lat": "53.3306475289105"
+    }
+  ]
+}

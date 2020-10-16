@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "75597787",
+    "school_osm_type": "way",
+    "school_name": "Школа №2",
+    "place_osm_id": "-6722280",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Столин",
+    "lon": "26.857919697818144",
+    "lat": "51.89963994378625"
+  },
+  {
+    "school_osm_id": "886921511",
+    "school_osm_type": "node",
+    "school_name": "Гимназия",
+    "place_osm_id": "-6722280",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Столин",
+    "lon": "26.852739399999997",
+    "lat": "51.88980509912752"
+  }
+]

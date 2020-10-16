@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Станули",
+    "osm_id": "-7480280",
+    "hierarchy": [
+      "Озерецкий сельский Совет",
+      "Глубокский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.161569499682514",
+    "lon": "27.751521749982007"
+  },
+  "group": [
+    {
+      "school_osm_id": "295783839",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7980391",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Озерецкий сельский Совет",
+      "lon": "27.751521749982007",
+      "lat": "55.161569499682514"
+    },
+    {
+      "school_osm_id": "295783839",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7480280",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Станули",
+      "lon": "27.751521749982007",
+      "lat": "55.161569499682514"
+    },
+    {
+      "school_osm_id": "295783839",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70703",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Глубокский район",
+      "lon": "27.751521749982007",
+      "lat": "55.161569499682514"
+    },
+    {
+      "school_osm_id": "295783839",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "27.751521749982007",
+      "lat": "55.161569499682514"
+    },
+    {
+      "school_osm_id": "295783839",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.751521749982007",
+      "lat": "55.161569499682514"
+    }
+  ]
+}

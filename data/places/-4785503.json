@@ -1,0 +1,79 @@
+[
+  {
+    "school_osm_id": "204114613",
+    "school_osm_type": "way",
+    "school_name": "УПК",
+    "place_osm_id": "-4785503",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Чаусы",
+    "lon": "30.95358621211664",
+    "lat": "53.80517836593885"
+  },
+  {
+    "school_osm_id": "205336065",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-4785503",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Чаусы",
+    "lon": "30.974693935886975",
+    "lat": "53.808923876751535"
+  },
+  {
+    "school_osm_id": "206224914",
+    "school_osm_type": "way",
+    "school_name": "Школа Интернат",
+    "place_osm_id": "-4785503",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Чаусы",
+    "lon": "30.973694349997864",
+    "lat": "53.8175345493183"
+  },
+  {
+    "school_osm_id": "206224915",
+    "school_osm_type": "way",
+    "school_name": "Школа Интернат",
+    "place_osm_id": "-4785503",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Чаусы",
+    "lon": "30.974213374815214",
+    "lat": "53.81729563085772"
+  },
+  {
+    "school_osm_id": "206224916",
+    "school_osm_type": "way",
+    "school_name": "Школа Интернат",
+    "place_osm_id": "-4785503",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Чаусы",
+    "lon": "30.97222643131294",
+    "lat": "53.81743571206742"
+  },
+  {
+    "school_osm_id": "372734915",
+    "school_osm_type": "way",
+    "school_name": "СШ №1",
+    "place_osm_id": "-4785503",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Чаусы",
+    "lon": "30.954344948829483",
+    "lat": "53.8044634287219"
+  },
+  {
+    "school_osm_id": "549096024",
+    "school_osm_type": "way",
+    "school_name": "СШ №2",
+    "place_osm_id": "-4785503",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Чаусы",
+    "lon": "30.96485278892215",
+    "lat": "53.80141245488302"
+  }
+]

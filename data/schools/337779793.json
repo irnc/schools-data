@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Кошелево",
+    "osm_id": "-6791620",
+    "hierarchy": [
+      "Кошелевский сельский Совет",
+      "Новогрудский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.53817760154865",
+    "lon": "25.723323134042694"
+  },
+  "group": [
+    {
+      "school_osm_id": "337779793",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8100419",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Кошелевский сельский Совет",
+      "lon": "25.723323134042694",
+      "lat": "53.53817760154865"
+    },
+    {
+      "school_osm_id": "337779793",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-6791620",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Кошелево",
+      "lon": "25.723323134042694",
+      "lat": "53.53817760154865"
+    },
+    {
+      "school_osm_id": "337779793",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70749",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Новогрудский район",
+      "lon": "25.723323134042694",
+      "lat": "53.53817760154865"
+    },
+    {
+      "school_osm_id": "337779793",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "25.723323134042694",
+      "lat": "53.53817760154865"
+    },
+    {
+      "school_osm_id": "337779793",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "25.723323134042694",
+      "lat": "53.53817760154865"
+    }
+  ]
+}

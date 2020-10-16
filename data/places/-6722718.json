@@ -1,0 +1,46 @@
+[
+  {
+    "school_osm_id": "156137095",
+    "school_osm_type": "way",
+    "school_name": "Музыкальная школа",
+    "place_osm_id": "-6722718",
+    "place_admin_level": "8",
+    "place_place": "village",
+    "place_name": "Уречье",
+    "lon": "27.892196516757352",
+    "lat": "52.93440892253874"
+  },
+  {
+    "school_osm_id": "156137096",
+    "school_osm_type": "way",
+    "school_name": "СШ №2",
+    "place_osm_id": "-6722718",
+    "place_admin_level": "8",
+    "place_place": "village",
+    "place_name": "Уречье",
+    "lon": "27.896024115477527",
+    "lat": "52.9364597393368"
+  },
+  {
+    "school_osm_id": "157424693",
+    "school_osm_type": "way",
+    "school_name": "СШ №1",
+    "place_osm_id": "-6722718",
+    "place_admin_level": "8",
+    "place_place": "village",
+    "place_name": "Уречье",
+    "lon": "27.87385687701923",
+    "lat": "52.95067776556333"
+  },
+  {
+    "school_osm_id": "414819803",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-6722718",
+    "place_admin_level": "8",
+    "place_place": "village",
+    "place_name": "Уречье",
+    "lon": "27.874532693575873",
+    "lat": "52.95099820120441"
+  }
+]

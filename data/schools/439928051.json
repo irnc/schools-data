@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Шашки",
+    "osm_id": "-7566992",
+    "hierarchy": [
+      "Шашковский сельский Совет",
+      "Столбцовский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.61970305679332",
+    "lon": "26.662533862614307"
+  },
+  "group": [
+    {
+      "school_osm_id": "439928051",
+      "school_osm_type": "way",
+      "school_name": "Школа",
+      "place_osm_id": "-8139751",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Шашковский сельский Совет",
+      "lon": "26.662533862614307",
+      "lat": "53.61970305679332"
+    },
+    {
+      "school_osm_id": "439928051",
+      "school_osm_type": "way",
+      "school_name": "Школа",
+      "place_osm_id": "-7566992",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Шашки",
+      "lon": "26.662533862614307",
+      "lat": "53.61970305679332"
+    },
+    {
+      "school_osm_id": "439928051",
+      "school_osm_type": "way",
+      "school_name": "Школа",
+      "place_osm_id": "-70752",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Столбцовский район",
+      "lon": "26.662533862614307",
+      "lat": "53.61970305679332"
+    },
+    {
+      "school_osm_id": "439928051",
+      "school_osm_type": "way",
+      "school_name": "Школа",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "26.662533862614307",
+      "lat": "53.61970305679332"
+    },
+    {
+      "school_osm_id": "439928051",
+      "school_osm_type": "way",
+      "school_name": "Школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.662533862614307",
+      "lat": "53.61970305679332"
+    }
+  ]
+}

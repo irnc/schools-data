@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Новый Свержень",
+    "osm_id": "-6879603",
+    "hierarchy": [
+      "Новосверженский сельский Совет",
+      "Столбцовский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.449635441948786",
+    "lon": "26.732334364393648"
+  },
+  "group": [
+    {
+      "school_osm_id": "497899105",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8139749",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Новосверженский сельский Совет",
+      "lon": "26.732334364393648",
+      "lat": "53.449635441948786"
+    },
+    {
+      "school_osm_id": "497899105",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-6879603",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Новый Свержень",
+      "lon": "26.732334364393648",
+      "lat": "53.449635441948786"
+    },
+    {
+      "school_osm_id": "497899105",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70752",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Столбцовский район",
+      "lon": "26.732334364393648",
+      "lat": "53.449635441948786"
+    },
+    {
+      "school_osm_id": "497899105",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "26.732334364393648",
+      "lat": "53.449635441948786"
+    },
+    {
+      "school_osm_id": "497899105",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.732334364393648",
+      "lat": "53.449635441948786"
+    }
+  ]
+}

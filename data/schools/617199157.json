@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Спорово",
+    "osm_id": "-7459149",
+    "hierarchy": [
+      "Споровский сельский Совет",
+      "Берёзовский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.42388768271117",
+    "lon": "25.33300285448986"
+  },
+  "group": [
+    {
+      "school_osm_id": "617199157",
+      "school_osm_type": "way",
+      "school_name": "Споровская средняя школа",
+      "place_osm_id": "-8085936",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Споровский сельский Совет",
+      "lon": "25.33300285448986",
+      "lat": "52.42388768271117"
+    },
+    {
+      "school_osm_id": "617199157",
+      "school_osm_type": "way",
+      "school_name": "Споровская средняя школа",
+      "place_osm_id": "-7459149",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Спорово",
+      "lon": "25.33300285448986",
+      "lat": "52.42388768271117"
+    },
+    {
+      "school_osm_id": "617199157",
+      "school_osm_type": "way",
+      "school_name": "Споровская средняя школа",
+      "place_osm_id": "-71107",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Берёзовский район",
+      "lon": "25.33300285448986",
+      "lat": "52.42388768271117"
+    },
+    {
+      "school_osm_id": "617199157",
+      "school_osm_type": "way",
+      "school_name": "Споровская средняя школа",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "25.33300285448986",
+      "lat": "52.42388768271117"
+    },
+    {
+      "school_osm_id": "617199157",
+      "school_osm_type": "way",
+      "school_name": "Споровская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "25.33300285448986",
+      "lat": "52.42388768271117"
+    }
+  ]
+}

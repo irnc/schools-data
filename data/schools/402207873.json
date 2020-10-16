@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Слуцк",
+    "osm_id": "-6722597",
+    "hierarchy": [
+      "Слуцкий район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.02451222923302",
+    "lon": "27.55153099368594"
+  },
+  "group": [
+    {
+      "school_osm_id": "402207873",
+      "school_osm_type": "way",
+      "school_name": "ГУО \"Средняя школа № 5 г.Слуцка\"",
+      "place_osm_id": "-6722597",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Слуцк",
+      "lon": "27.55153099368594",
+      "lat": "53.02451222923302"
+    },
+    {
+      "school_osm_id": "402207873",
+      "school_osm_type": "way",
+      "school_name": "ГУО \"Средняя школа № 5 г.Слуцка\"",
+      "place_osm_id": "-71134",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Слуцкий район",
+      "lon": "27.55153099368594",
+      "lat": "53.02451222923302"
+    },
+    {
+      "school_osm_id": "402207873",
+      "school_osm_type": "way",
+      "school_name": "ГУО \"Средняя школа № 5 г.Слуцка\"",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.55153099368594",
+      "lat": "53.02451222923302"
+    },
+    {
+      "school_osm_id": "402207873",
+      "school_osm_type": "way",
+      "school_name": "ГУО \"Средняя школа № 5 г.Слуцка\"",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.55153099368594",
+      "lat": "53.02451222923302"
+    }
+  ]
+}

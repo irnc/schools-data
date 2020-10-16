@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Комарин",
+    "osm_id": "-5598419",
+    "hierarchy": [
+      "Комаринский сельский Совет",
+      "Брагинский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "51.43819081030727",
+    "lon": "30.566898557018632"
+  },
+  "group": [
+    {
+      "school_osm_id": "713918951",
+      "school_osm_type": "way",
+      "school_name": "ГУО \"Комаринская СШ\"",
+      "place_osm_id": "-8031210",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Комаринский сельский Совет",
+      "lon": "30.566898557018632",
+      "lat": "51.43819081030727"
+    },
+    {
+      "school_osm_id": "713918951",
+      "school_osm_type": "way",
+      "school_name": "ГУО \"Комаринская СШ\"",
+      "place_osm_id": "-5598419",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Комарин",
+      "lon": "30.566898557018632",
+      "lat": "51.43819081030727"
+    },
+    {
+      "school_osm_id": "713918951",
+      "school_osm_type": "way",
+      "school_name": "ГУО \"Комаринская СШ\"",
+      "place_osm_id": "-70801",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Брагинский район",
+      "lon": "30.566898557018632",
+      "lat": "51.43819081030727"
+    },
+    {
+      "school_osm_id": "713918951",
+      "school_osm_type": "way",
+      "school_name": "ГУО \"Комаринская СШ\"",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "30.566898557018632",
+      "lat": "51.43819081030727"
+    },
+    {
+      "school_osm_id": "713918951",
+      "school_osm_type": "way",
+      "school_name": "ГУО \"Комаринская СШ\"",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.566898557018632",
+      "lat": "51.43819081030727"
+    }
+  ]
+}

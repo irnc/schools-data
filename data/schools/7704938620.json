@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Лоев",
+    "osm_id": "-5598630",
+    "hierarchy": [
+      "Лоевский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "51.938790999122894",
+    "lon": "30.803740400000002"
+  },
+  "group": [
+    {
+      "school_osm_id": "7704938620",
+      "school_osm_type": "node",
+      "school_name": "ГУО \"Ясли сад №1 г.п. Лоева\"",
+      "place_osm_id": "-5598630",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Лоев",
+      "lon": "30.803740400000002",
+      "lat": "51.938790999122894"
+    },
+    {
+      "school_osm_id": "7704938620",
+      "school_osm_type": "node",
+      "school_name": "ГУО \"Ясли сад №1 г.п. Лоева\"",
+      "place_osm_id": "-70799",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Лоевский район",
+      "lon": "30.803740400000002",
+      "lat": "51.938790999122894"
+    },
+    {
+      "school_osm_id": "7704938620",
+      "school_osm_type": "node",
+      "school_name": "ГУО \"Ясли сад №1 г.п. Лоева\"",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "30.803740400000002",
+      "lat": "51.938790999122894"
+    },
+    {
+      "school_osm_id": "7704938620",
+      "school_osm_type": "node",
+      "school_name": "ГУО \"Ясли сад №1 г.п. Лоева\"",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.803740400000002",
+      "lat": "51.938790999122894"
+    }
+  ]
+}

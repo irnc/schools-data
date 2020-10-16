@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Волковыск",
+    "osm_id": "-6722368",
+    "hierarchy": [
+      "Волковысский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.16212029909452",
+    "lon": "24.4545108"
+  },
+  "group": [
+    {
+      "school_osm_id": "2061662506",
+      "school_osm_type": "node",
+      "school_name": "Районный эколого-биологический центр детей и юношества",
+      "place_osm_id": "-6722368",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Волковыск",
+      "lon": "24.4545108",
+      "lat": "53.16212029909452"
+    },
+    {
+      "school_osm_id": "2061662506",
+      "school_osm_type": "node",
+      "school_name": "Районный эколого-биологический центр детей и юношества",
+      "place_osm_id": "-70771",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Волковысский район",
+      "lon": "24.4545108",
+      "lat": "53.16212029909452"
+    },
+    {
+      "school_osm_id": "2061662506",
+      "school_osm_type": "node",
+      "school_name": "Районный эколого-биологический центр детей и юношества",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "24.4545108",
+      "lat": "53.16212029909452"
+    },
+    {
+      "school_osm_id": "2061662506",
+      "school_osm_type": "node",
+      "school_name": "Районный эколого-биологический центр детей и юношества",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "24.4545108",
+      "lat": "53.16212029909452"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "380133991",
+    "school_osm_type": "way",
+    "school_name": "Перковичская средняя школа",
+    "place_osm_id": "-7464032",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Перковичи",
+    "lon": "25.032034962316807",
+    "lat": "52.17661324813998"
+  },
+  {
+    "school_osm_id": "833772643",
+    "school_osm_type": "node",
+    "school_name": "Перковичская санаторная школа-интернат",
+    "place_osm_id": "-7464032",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Перковичи",
+    "lon": "25.0285263",
+    "lat": "52.17740549910391"
+  }
+]

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Ганевичи",
+    "osm_id": "-5513470",
+    "hierarchy": [
+      "Швабский сельский Совет",
+      "Логойский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.28386206438281",
+    "lon": "28.03708728778245"
+  },
+  "group": [
+    {
+      "school_osm_id": "375400832",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8014104",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Швабский сельский Совет",
+      "lon": "28.03708728778245",
+      "lat": "54.28386206438281"
+    },
+    {
+      "school_osm_id": "375400832",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-5513470",
+      "place_admin_level": "10",
+      "place_place": "hamlet",
+      "place_name": "Ганевичи",
+      "lon": "28.03708728778245",
+      "lat": "54.28386206438281"
+    },
+    {
+      "school_osm_id": "375400832",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70542",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Логойский район",
+      "lon": "28.03708728778245",
+      "lat": "54.28386206438281"
+    },
+    {
+      "school_osm_id": "375400832",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "28.03708728778245",
+      "lat": "54.28386206438281"
+    },
+    {
+      "school_osm_id": "375400832",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.03708728778245",
+      "lat": "54.28386206438281"
+    }
+  ]
+}

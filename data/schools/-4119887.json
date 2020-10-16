@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Молодечно",
+    "osm_id": "-6722552",
+    "hierarchy": [
+      "Молодечненский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.30149273246299",
+    "lon": "26.844210479712956"
+  },
+  "group": [
+    {
+      "school_osm_id": "-4119887",
+      "school_osm_type": "relation",
+      "school_name": "Гимназия №10",
+      "place_osm_id": "-6722552",
+      "place_admin_level": "8",
+      "place_place": "city",
+      "place_name": "Молодечно",
+      "lon": "26.844210479712956",
+      "lat": "54.30149273246299"
+    },
+    {
+      "school_osm_id": "-4119887",
+      "school_osm_type": "relation",
+      "school_name": "Гимназия №10",
+      "place_osm_id": "-70566",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Молодечненский район",
+      "lon": "26.844210479712956",
+      "lat": "54.30149273246299"
+    },
+    {
+      "school_osm_id": "-4119887",
+      "school_osm_type": "relation",
+      "school_name": "Гимназия №10",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "26.844210479712956",
+      "lat": "54.30149273246299"
+    },
+    {
+      "school_osm_id": "-4119887",
+      "school_osm_type": "relation",
+      "school_name": "Гимназия №10",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.844210479712956",
+      "lat": "54.30149273246299"
+    }
+  ]
+}

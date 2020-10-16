@@ -1,0 +1,48 @@
+{
+  "place": {
+    "name": "Пинск",
+    "osm_id": "-1749248",
+    "hierarchy": [
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.1165726772674",
+    "lon": "26.070801707124335"
+  },
+  "group": [
+    {
+      "school_osm_id": "323243924",
+      "school_osm_type": "way",
+      "school_name": "Пинский филиал УО «БГСХА»",
+      "place_osm_id": "-1749248",
+      "place_admin_level": "6",
+      "place_place": "city",
+      "place_name": "Пинск",
+      "lon": "26.070801707124335",
+      "lat": "52.1165726772674"
+    },
+    {
+      "school_osm_id": "323243924",
+      "school_osm_type": "way",
+      "school_name": "Пинский филиал УО «БГСХА»",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "26.070801707124335",
+      "lat": "52.1165726772674"
+    },
+    {
+      "school_osm_id": "323243924",
+      "school_osm_type": "way",
+      "school_name": "Пинский филиал УО «БГСХА»",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.070801707124335",
+      "lat": "52.1165726772674"
+    }
+  ]
+}

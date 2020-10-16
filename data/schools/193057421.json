@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Усвиж-Бук",
+    "osm_id": "-7502559",
+    "hierarchy": [
+      "Серковицкий сельский Совет",
+      "Толочинский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.487386784710445",
+    "lon": "29.704528852520507"
+  },
+  "group": [
+    {
+      "school_osm_id": "193057421",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7975907",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Серковицкий сельский Совет",
+      "lon": "29.704528852520507",
+      "lat": "54.487386784710445"
+    },
+    {
+      "school_osm_id": "193057421",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7502559",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Усвиж-Бук",
+      "lon": "29.704528852520507",
+      "lat": "54.487386784710445"
+    },
+    {
+      "school_osm_id": "193057421",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70649",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Толочинский район",
+      "lon": "29.704528852520507",
+      "lat": "54.487386784710445"
+    },
+    {
+      "school_osm_id": "193057421",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "29.704528852520507",
+      "lat": "54.487386784710445"
+    },
+    {
+      "school_osm_id": "193057421",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.704528852520507",
+      "lat": "54.487386784710445"
+    }
+  ]
+}

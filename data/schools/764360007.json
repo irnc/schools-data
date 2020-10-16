@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Селецкое",
+    "osm_id": "-7585533",
+    "hierarchy": [
+      "Селецкий сельский Совет",
+      "Костюковичский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.18646903465243",
+    "lon": "32.28177047719769"
+  },
+  "group": [
+    {
+      "school_osm_id": "764360007",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8067517",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Селецкий сельский Совет",
+      "lon": "32.28177047719769",
+      "lat": "53.18646903465243"
+    },
+    {
+      "school_osm_id": "764360007",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7585533",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Селецкое",
+      "lon": "32.28177047719769",
+      "lat": "53.18646903465243"
+    },
+    {
+      "school_osm_id": "764360007",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70604",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Костюковичский район",
+      "lon": "32.28177047719769",
+      "lat": "53.18646903465243"
+    },
+    {
+      "school_osm_id": "764360007",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "32.28177047719769",
+      "lat": "53.18646903465243"
+    },
+    {
+      "school_osm_id": "764360007",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "32.28177047719769",
+      "lat": "53.18646903465243"
+    }
+  ]
+}

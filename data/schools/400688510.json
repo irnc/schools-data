@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Заболотье",
+    "osm_id": "-7492568",
+    "hierarchy": [
+      "Заболотский сельский Совет",
+      "Оршанский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.52455969956541",
+    "lon": "30.28834544999529"
+  },
+  "group": [
+    {
+      "school_osm_id": "400688510",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8083035",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Заболотский сельский Совет",
+      "lon": "30.28834544999529",
+      "lat": "54.52455969956541"
+    },
+    {
+      "school_osm_id": "400688510",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7492568",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Заболотье",
+      "lon": "30.28834544999529",
+      "lat": "54.52455969956541"
+    },
+    {
+      "school_osm_id": "400688510",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70660",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Оршанский район",
+      "lon": "30.28834544999529",
+      "lat": "54.52455969956541"
+    },
+    {
+      "school_osm_id": "400688510",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "30.28834544999529",
+      "lat": "54.52455969956541"
+    },
+    {
+      "school_osm_id": "400688510",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.28834544999529",
+      "lat": "54.52455969956541"
+    }
+  ]
+}

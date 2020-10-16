@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Ушачи",
+    "osm_id": "-1180578",
+    "hierarchy": [
+      "Ушачский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.1804715199077",
+    "lon": "28.611900528593285"
+  },
+  "group": [
+    {
+      "school_osm_id": "157063562",
+      "school_osm_type": "way",
+      "school_name": "Музыкальная школа",
+      "place_osm_id": "-1180578",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Ушачи",
+      "lon": "28.611900528593285",
+      "lat": "55.1804715199077"
+    },
+    {
+      "school_osm_id": "157063562",
+      "school_osm_type": "way",
+      "school_name": "Музыкальная школа",
+      "place_osm_id": "-70669",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Ушачский район",
+      "lon": "28.611900528593285",
+      "lat": "55.1804715199077"
+    },
+    {
+      "school_osm_id": "157063562",
+      "school_osm_type": "way",
+      "school_name": "Музыкальная школа",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "28.611900528593285",
+      "lat": "55.1804715199077"
+    },
+    {
+      "school_osm_id": "157063562",
+      "school_osm_type": "way",
+      "school_name": "Музыкальная школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.611900528593285",
+      "lat": "55.1804715199077"
+    }
+  ]
+}

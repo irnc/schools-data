@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Браково",
+    "osm_id": "-6899975",
+    "hierarchy": [
+      "Княжицкий сельский Совет",
+      "Могилёвский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.00098104229754",
+    "lon": "30.138123168327787"
+  },
+  "group": [
+    {
+      "school_osm_id": "204538009",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8144235",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Княжицкий сельский Совет",
+      "lon": "30.138123168327787",
+      "lat": "54.00098104229754"
+    },
+    {
+      "school_osm_id": "204538009",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-6899975",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Браково",
+      "lon": "30.138123168327787",
+      "lat": "54.00098104229754"
+    },
+    {
+      "school_osm_id": "204538009",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-62147",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Могилёвский район",
+      "lon": "30.138123168327787",
+      "lat": "54.00098104229754"
+    },
+    {
+      "school_osm_id": "204538009",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "30.138123168327787",
+      "lat": "54.00098104229754"
+    },
+    {
+      "school_osm_id": "204538009",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.138123168327787",
+      "lat": "54.00098104229754"
+    }
+  ]
+}

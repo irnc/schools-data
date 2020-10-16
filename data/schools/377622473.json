@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Вороново",
+    "osm_id": "-6722371",
+    "hierarchy": [
+      "Вороновский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.15098348485553",
+    "lon": "25.322380126768504"
+  },
+  "group": [
+    {
+      "school_osm_id": "377622473",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-6722371",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Вороново",
+      "lon": "25.322380126768504",
+      "lat": "54.15098348485553"
+    },
+    {
+      "school_osm_id": "377622473",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70737",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Вороновский район",
+      "lon": "25.322380126768504",
+      "lat": "54.15098348485553"
+    },
+    {
+      "school_osm_id": "377622473",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "25.322380126768504",
+      "lat": "54.15098348485553"
+    },
+    {
+      "school_osm_id": "377622473",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "25.322380126768504",
+      "lat": "54.15098348485553"
+    }
+  ]
+}

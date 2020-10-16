@@ -1,0 +1,57 @@
+[
+  {
+    "school_osm_id": "274478396",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-6722443",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Островец",
+    "lon": "25.958932949994757",
+    "lat": "54.57634174934305"
+  },
+  {
+    "school_osm_id": "421662735",
+    "school_osm_type": "way",
+    "school_name": "Гимназия №1",
+    "place_osm_id": "-6722443",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Островец",
+    "lon": "25.977822889404255",
+    "lat": "54.61616883768633"
+  },
+  {
+    "school_osm_id": "436777879",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №2",
+    "place_osm_id": "-6722443",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Островец",
+    "lon": "25.957437727016522",
+    "lat": "54.61750175373743"
+  },
+  {
+    "school_osm_id": "436778655",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №1",
+    "place_osm_id": "-6722443",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Островец",
+    "lon": "25.9653010413392",
+    "lat": "54.617179024095535"
+  },
+  {
+    "school_osm_id": "549033561",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №3",
+    "place_osm_id": "-6722443",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Островец",
+    "lon": "25.971274065229196",
+    "lat": "54.60894087008607"
+  }
+]

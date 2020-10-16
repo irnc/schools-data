@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Дисна",
+    "osm_id": "-6722318",
+    "hierarchy": [
+      "Миорский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.55432047871273",
+    "lon": "28.212614821180303"
+  },
+  "group": [
+    {
+      "school_osm_id": "-8328031",
+      "school_osm_type": "relation",
+      "school_name": "",
+      "place_osm_id": "-6722318",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Дисна",
+      "lon": "28.212614821180303",
+      "lat": "55.55432047871273"
+    },
+    {
+      "school_osm_id": "-8328031",
+      "school_osm_type": "relation",
+      "school_name": "",
+      "place_osm_id": "-70690",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Миорский район",
+      "lon": "28.212614821180303",
+      "lat": "55.55432047871273"
+    },
+    {
+      "school_osm_id": "-8328031",
+      "school_osm_type": "relation",
+      "school_name": "",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "28.212614821180303",
+      "lat": "55.55432047871273"
+    },
+    {
+      "school_osm_id": "-8328031",
+      "school_osm_type": "relation",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.212614821180303",
+      "lat": "55.55432047871273"
+    }
+  ]
+}

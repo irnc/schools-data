@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Долгиново",
+    "osm_id": "-7533718",
+    "hierarchy": [
+      "Долгиновский сельский Совет",
+      "Вилейский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.63953171667572",
+    "lon": "27.473888997788"
+  },
+  "group": [
+    {
+      "school_osm_id": "457982263",
+      "school_osm_type": "way",
+      "school_name": "Даўгінаўская СШ",
+      "place_osm_id": "-8013870",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Долгиновский сельский Совет",
+      "lon": "27.473888997788",
+      "lat": "54.63953171667572"
+    },
+    {
+      "school_osm_id": "457982263",
+      "school_osm_type": "way",
+      "school_name": "Даўгінаўская СШ",
+      "place_osm_id": "-7533718",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Долгиново",
+      "lon": "27.473888997788",
+      "lat": "54.63953171667572"
+    },
+    {
+      "school_osm_id": "457982263",
+      "school_osm_type": "way",
+      "school_name": "Даўгінаўская СШ",
+      "place_osm_id": "-70568",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Вилейский район",
+      "lon": "27.473888997788",
+      "lat": "54.63953171667572"
+    },
+    {
+      "school_osm_id": "457982263",
+      "school_osm_type": "way",
+      "school_name": "Даўгінаўская СШ",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.473888997788",
+      "lat": "54.63953171667572"
+    },
+    {
+      "school_osm_id": "457982263",
+      "school_osm_type": "way",
+      "school_name": "Даўгінаўская СШ",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.473888997788",
+      "lat": "54.63953171667572"
+    }
+  ]
+}

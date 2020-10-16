@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Добруш",
+    "osm_id": "-5598556",
+    "hierarchy": [
+      "Добрушский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.383961400724644",
+    "lon": "31.330998523046606"
+  },
+  "group": [
+    {
+      "school_osm_id": "-2901530",
+      "school_osm_type": "relation",
+      "school_name": "СШ №2",
+      "place_osm_id": "-5598556",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Добруш",
+      "lon": "31.330998523046606",
+      "lat": "52.383961400724644"
+    },
+    {
+      "school_osm_id": "-2901530",
+      "school_osm_type": "relation",
+      "school_name": "СШ №2",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "31.330998523046606",
+      "lat": "52.383961400724644"
+    },
+    {
+      "school_osm_id": "-2901530",
+      "school_osm_type": "relation",
+      "school_name": "СШ №2",
+      "place_osm_id": "-59092",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Добрушский район",
+      "lon": "31.330998523046606",
+      "lat": "52.383961400724644"
+    },
+    {
+      "school_osm_id": "-2901530",
+      "school_osm_type": "relation",
+      "school_name": "СШ №2",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "31.330998523046606",
+      "lat": "52.383961400724644"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Гожа",
+    "osm_id": "-7512111",
+    "hierarchy": [
+      "Гожский сельский Совет",
+      "Гродненский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.81214166660042",
+    "lon": "23.852039859768876"
+  },
+  "group": [
+    {
+      "school_osm_id": "510767322",
+      "school_osm_type": "way",
+      "school_name": "Гожская средняя школа",
+      "place_osm_id": "-8025358",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Гожский сельский Совет",
+      "lon": "23.852039859768876",
+      "lat": "53.81214166660042"
+    },
+    {
+      "school_osm_id": "510767322",
+      "school_osm_type": "way",
+      "school_name": "Гожская средняя школа",
+      "place_osm_id": "-7512111",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Гожа",
+      "lon": "23.852039859768876",
+      "lat": "53.81214166660042"
+    },
+    {
+      "school_osm_id": "510767322",
+      "school_osm_type": "way",
+      "school_name": "Гожская средняя школа",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "23.852039859768876",
+      "lat": "53.81214166660042"
+    },
+    {
+      "school_osm_id": "510767322",
+      "school_osm_type": "way",
+      "school_name": "Гожская средняя школа",
+      "place_osm_id": "-59273",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Гродненский район",
+      "lon": "23.852039859768876",
+      "lat": "53.81214166660042"
+    },
+    {
+      "school_osm_id": "510767322",
+      "school_osm_type": "way",
+      "school_name": "Гожская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "23.852039859768876",
+      "lat": "53.81214166660042"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "place": {
+    "name": "Брест",
+    "osm_id": "-72615",
+    "hierarchy": [
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.08724455853403",
+    "lon": "23.70616865641138"
+  },
+  "group": [
+    {
+      "school_osm_id": "59628680",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа №15",
+      "place_osm_id": "-3626405",
+      "place_admin_level": "9",
+      "place_place": "",
+      "place_name": "Московский район",
+      "lon": "23.70616865641138",
+      "lat": "52.08724455853403"
+    },
+    {
+      "school_osm_id": "59628680",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа №15",
+      "place_osm_id": "-72615",
+      "place_admin_level": "6",
+      "place_place": "city",
+      "place_name": "Брест",
+      "lon": "23.70616865641138",
+      "lat": "52.08724455853403"
+    },
+    {
+      "school_osm_id": "59628680",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа №15",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "23.70616865641138",
+      "lat": "52.08724455853403"
+    },
+    {
+      "school_osm_id": "59628680",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа №15",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "23.70616865641138",
+      "lat": "52.08724455853403"
+    }
+  ]
+}

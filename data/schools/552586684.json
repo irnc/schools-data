@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Бродница",
+    "osm_id": "-4719240",
+    "hierarchy": [
+      "Вульковский сельский Совет",
+      "Лунинецкий район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.29925209405636",
+    "lon": "26.957819100818373"
+  },
+  "group": [
+    {
+      "school_osm_id": "552586684",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8087849",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Вульковский сельский Совет",
+      "lon": "26.957819100818373",
+      "lat": "52.29925209405636"
+    },
+    {
+      "school_osm_id": "552586684",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-4719240",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Бродница",
+      "lon": "26.957819100818373",
+      "lat": "52.29925209405636"
+    },
+    {
+      "school_osm_id": "552586684",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-71124",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Лунинецкий район",
+      "lon": "26.957819100818373",
+      "lat": "52.29925209405636"
+    },
+    {
+      "school_osm_id": "552586684",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "26.957819100818373",
+      "lat": "52.29925209405636"
+    },
+    {
+      "school_osm_id": "552586684",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.957819100818373",
+      "lat": "52.29925209405636"
+    }
+  ]
+}

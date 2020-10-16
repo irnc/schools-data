@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Гать",
+    "osm_id": "-7450032",
+    "hierarchy": [
+      "Ломовичский сельский Совет",
+      "Октябрьский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.599135864728474",
+    "lon": "28.962476187070347"
+  },
+  "group": [
+    {
+      "school_osm_id": "330924231",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8107327",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Ломовичский сельский Совет",
+      "lon": "28.962476187070347",
+      "lat": "52.599135864728474"
+    },
+    {
+      "school_osm_id": "330924231",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7450032",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Гать",
+      "lon": "28.962476187070347",
+      "lat": "52.599135864728474"
+    },
+    {
+      "school_osm_id": "330924231",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59755",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Октябрьский район",
+      "lon": "28.962476187070347",
+      "lat": "52.599135864728474"
+    },
+    {
+      "school_osm_id": "330924231",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "28.962476187070347",
+      "lat": "52.599135864728474"
+    },
+    {
+      "school_osm_id": "330924231",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.962476187070347",
+      "lat": "52.599135864728474"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+[
+  {
+    "school_osm_id": "338901769",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-6722678",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Костюковичи",
+    "lon": "32.06172693739742",
+    "lat": "53.34852241221726"
+  },
+  {
+    "school_osm_id": "450254581",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №4",
+    "place_osm_id": "-6722678",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Костюковичи",
+    "lon": "32.04825926142449",
+    "lat": "53.35799510991542"
+  },
+  {
+    "school_osm_id": "820538488",
+    "school_osm_type": "way",
+    "school_name": "СШ №1",
+    "place_osm_id": "-6722678",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Костюковичи",
+    "lon": "32.05537168588062",
+    "lat": "53.35063282217313"
+  },
+  {
+    "school_osm_id": "820538494",
+    "school_osm_type": "way",
+    "school_name": "СШ №2",
+    "place_osm_id": "-6722678",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Костюковичи",
+    "lon": "32.05759879227743",
+    "lat": "53.35678891498137"
+  }
+]

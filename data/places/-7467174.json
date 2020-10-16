@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "626390249",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7467174",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Луково",
+    "lon": "24.239095168709575",
+    "lat": "51.8879031801369"
+  },
+  {
+    "school_osm_id": "5836211891",
+    "school_osm_type": "node",
+    "school_name": "Луковская средняя школа",
+    "place_osm_id": "-7467174",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Луково",
+    "lon": "24.239301600000005",
+    "lat": "51.888140999127685"
+  }
+]

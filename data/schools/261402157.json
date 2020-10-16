@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Жгунь",
+    "osm_id": "-7443018",
+    "hierarchy": [
+      "Жгунский сельский Совет",
+      "Добрушский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.33852284785436",
+    "lon": "31.31400827130709"
+  },
+  "group": [
+    {
+      "school_osm_id": "261402157",
+      "school_osm_type": "way",
+      "school_name": "Жгуньская средняя школа",
+      "place_osm_id": "-8065405",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Жгунский сельский Совет",
+      "lon": "31.31400827130709",
+      "lat": "52.33852284785436"
+    },
+    {
+      "school_osm_id": "261402157",
+      "school_osm_type": "way",
+      "school_name": "Жгуньская средняя школа",
+      "place_osm_id": "-7443018",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Жгунь",
+      "lon": "31.31400827130709",
+      "lat": "52.33852284785436"
+    },
+    {
+      "school_osm_id": "261402157",
+      "school_osm_type": "way",
+      "school_name": "Жгуньская средняя школа",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "31.31400827130709",
+      "lat": "52.33852284785436"
+    },
+    {
+      "school_osm_id": "261402157",
+      "school_osm_type": "way",
+      "school_name": "Жгуньская средняя школа",
+      "place_osm_id": "-59092",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Добрушский район",
+      "lon": "31.31400827130709",
+      "lat": "52.33852284785436"
+    },
+    {
+      "school_osm_id": "261402157",
+      "school_osm_type": "way",
+      "school_name": "Жгуньская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "31.31400827130709",
+      "lat": "52.33852284785436"
+    }
+  ]
+}

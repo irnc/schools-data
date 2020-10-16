@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "116824526",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7566127",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Слобода",
+    "lon": "27.875369263800312",
+    "lat": "54.00972414872275"
+  },
+  {
+    "school_osm_id": "1209297434",
+    "school_osm_type": "node",
+    "school_name": "",
+    "place_osm_id": "-7566127",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Слобода",
+    "lon": "27.875657999999998",
+    "lat": "54.009842299186644"
+  }
+]

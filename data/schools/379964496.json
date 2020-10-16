@@ -1,0 +1,48 @@
+{
+  "place": {
+    "name": "Барановичи",
+    "osm_id": "-3629362",
+    "hierarchy": [
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.14740987020823",
+    "lon": "26.007362143348264"
+  },
+  "group": [
+    {
+      "school_osm_id": "379964496",
+      "school_osm_type": "way",
+      "school_name": "Лицей № 1",
+      "place_osm_id": "-3629362",
+      "place_admin_level": "6",
+      "place_place": "city",
+      "place_name": "Барановичи",
+      "lon": "26.007362143348264",
+      "lat": "53.14740987020823"
+    },
+    {
+      "school_osm_id": "379964496",
+      "school_osm_type": "way",
+      "school_name": "Лицей № 1",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "26.007362143348264",
+      "lat": "53.14740987020823"
+    },
+    {
+      "school_osm_id": "379964496",
+      "school_osm_type": "way",
+      "school_name": "Лицей № 1",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.007362143348264",
+      "lat": "53.14740987020823"
+    }
+  ]
+}

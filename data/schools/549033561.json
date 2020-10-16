@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Островец",
+    "osm_id": "-6722443",
+    "hierarchy": [
+      "Островецкий район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.60894087008607",
+    "lon": "25.971274065229196"
+  },
+  "group": [
+    {
+      "school_osm_id": "549033561",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа №3",
+      "place_osm_id": "-6722443",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Островец",
+      "lon": "25.971274065229196",
+      "lat": "54.60894087008607"
+    },
+    {
+      "school_osm_id": "549033561",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа №3",
+      "place_osm_id": "-70721",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Островецкий район",
+      "lon": "25.971274065229196",
+      "lat": "54.60894087008607"
+    },
+    {
+      "school_osm_id": "549033561",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа №3",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "25.971274065229196",
+      "lat": "54.60894087008607"
+    },
+    {
+      "school_osm_id": "549033561",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа №3",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "25.971274065229196",
+      "lat": "54.60894087008607"
+    }
+  ]
+}

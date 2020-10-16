@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Рябцево",
+    "osm_id": "-7501713",
+    "hierarchy": [
+      "Богушевский сельский Совет",
+      "Сенненский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.8308169786129",
+    "lon": "30.225552911958356"
+  },
+  "group": [
+    {
+      "school_osm_id": "592060637",
+      "school_osm_type": "way",
+      "school_name": "Детский дом-интернат",
+      "place_osm_id": "-7923831",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Богушевский сельский Совет",
+      "lon": "30.225552911958356",
+      "lat": "54.8308169786129"
+    },
+    {
+      "school_osm_id": "592060637",
+      "school_osm_type": "way",
+      "school_name": "Детский дом-интернат",
+      "place_osm_id": "-7501713",
+      "place_admin_level": "10",
+      "place_place": "hamlet",
+      "place_name": "Рябцево",
+      "lon": "30.225552911958356",
+      "lat": "54.8308169786129"
+    },
+    {
+      "school_osm_id": "592060637",
+      "school_osm_type": "way",
+      "school_name": "Детский дом-интернат",
+      "place_osm_id": "-70662",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Сенненский район",
+      "lon": "30.225552911958356",
+      "lat": "54.8308169786129"
+    },
+    {
+      "school_osm_id": "592060637",
+      "school_osm_type": "way",
+      "school_name": "Детский дом-интернат",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "30.225552911958356",
+      "lat": "54.8308169786129"
+    },
+    {
+      "school_osm_id": "592060637",
+      "school_osm_type": "way",
+      "school_name": "Детский дом-интернат",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.225552911958356",
+      "lat": "54.8308169786129"
+    }
+  ]
+}

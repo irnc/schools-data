@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "391733638",
+    "school_osm_type": "way",
+    "school_name": "ср школа 1",
+    "place_osm_id": "-7486109",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Боровка",
+    "lon": "28.799319193168554",
+    "lat": "54.95998436077591"
+  },
+  {
+    "school_osm_id": "479771231",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7486109",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Боровка",
+    "lon": "28.799486836045343",
+    "lat": "54.95966525010092"
+  }
+]

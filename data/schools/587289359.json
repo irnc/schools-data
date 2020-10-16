@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Колки",
+    "osm_id": "-7450139",
+    "hierarchy": [
+      "Колковский сельский Совет",
+      "Петриковский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.42012098441769",
+    "lon": "28.95697121305488"
+  },
+  "group": [
+    {
+      "school_osm_id": "587289359",
+      "school_osm_type": "way",
+      "school_name": "Сярэдняя адукацыйная школа",
+      "place_osm_id": "-8087875",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Колковский сельский Совет",
+      "lon": "28.95697121305488",
+      "lat": "52.42012098441769"
+    },
+    {
+      "school_osm_id": "587289359",
+      "school_osm_type": "way",
+      "school_name": "Сярэдняя адукацыйная школа",
+      "place_osm_id": "-7450139",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Колки",
+      "lon": "28.95697121305488",
+      "lat": "52.42012098441769"
+    },
+    {
+      "school_osm_id": "587289359",
+      "school_osm_type": "way",
+      "school_name": "Сярэдняя адукацыйная школа",
+      "place_osm_id": "-71145",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Петриковский район",
+      "lon": "28.95697121305488",
+      "lat": "52.42012098441769"
+    },
+    {
+      "school_osm_id": "587289359",
+      "school_osm_type": "way",
+      "school_name": "Сярэдняя адукацыйная школа",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "28.95697121305488",
+      "lat": "52.42012098441769"
+    },
+    {
+      "school_osm_id": "587289359",
+      "school_osm_type": "way",
+      "school_name": "Сярэдняя адукацыйная школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.95697121305488",
+      "lat": "52.42012098441769"
+    }
+  ]
+}

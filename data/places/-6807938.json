@@ -1,0 +1,35 @@
+[
+  {
+    "school_osm_id": "275392646",
+    "school_osm_type": "way",
+    "school_name": "Богушевская СШ № 1",
+    "place_osm_id": "-6807938",
+    "place_admin_level": "8",
+    "place_place": "village",
+    "place_name": "Богушевск",
+    "lon": "30.210924172173016",
+    "lat": "54.844191900959096"
+  },
+  {
+    "school_osm_id": "275392647",
+    "school_osm_type": "way",
+    "school_name": "Богушевская средняя школа имени А.Э. Марфицкого",
+    "place_osm_id": "-6807938",
+    "place_admin_level": "8",
+    "place_place": "village",
+    "place_name": "Богушевск",
+    "lon": "30.220830984894803",
+    "lat": "54.84002891475575"
+  },
+  {
+    "school_osm_id": "275392937",
+    "school_osm_type": "way",
+    "school_name": "санаторная школа-интернат",
+    "place_osm_id": "-6807938",
+    "place_admin_level": "8",
+    "place_place": "village",
+    "place_name": "Богушевск",
+    "lon": "30.20439372439829",
+    "lat": "54.857385766909346"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "296654880",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7439894",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Ректа",
+    "lon": "29.931076555050062",
+    "lat": "52.98223396649483"
+  },
+  {
+    "school_osm_id": "337772622",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7439894",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Ректа",
+    "lon": "29.930721500802452",
+    "lat": "52.98249924269709"
+  }
+]

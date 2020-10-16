@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Мир",
+    "osm_id": "-7456750",
+    "hierarchy": [
+      "Новомышский сельский Совет",
+      "Барановичский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.17077762321625",
+    "lon": "25.93350106159348"
+  },
+  "group": [
+    {
+      "school_osm_id": "687182601",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8096121",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Новомышский сельский Совет",
+      "lon": "25.93350106159348",
+      "lat": "53.17077762321625"
+    },
+    {
+      "school_osm_id": "687182601",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7456750",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Мир",
+      "lon": "25.93350106159348",
+      "lat": "53.17077762321625"
+    },
+    {
+      "school_osm_id": "687182601",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-71116",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Барановичский район",
+      "lon": "25.93350106159348",
+      "lat": "53.17077762321625"
+    },
+    {
+      "school_osm_id": "687182601",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "25.93350106159348",
+      "lat": "53.17077762321625"
+    },
+    {
+      "school_osm_id": "687182601",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "25.93350106159348",
+      "lat": "53.17077762321625"
+    }
+  ]
+}

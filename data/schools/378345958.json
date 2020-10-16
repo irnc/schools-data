@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Яновичи",
+    "osm_id": "-5162120",
+    "hierarchy": [
+      "Краснозвёздовский сельский Совет",
+      "Клецкий район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.01473349897017",
+    "lon": "26.650925525608013"
+  },
+  "group": [
+    {
+      "school_osm_id": "378345958",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8139728",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Краснозвёздовский сельский Совет",
+      "lon": "26.650925525608013",
+      "lat": "53.01473349897017"
+    },
+    {
+      "school_osm_id": "378345958",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-5162120",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Яновичи",
+      "lon": "26.650925525608013",
+      "lat": "53.01473349897017"
+    },
+    {
+      "school_osm_id": "378345958",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-71130",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Клецкий район",
+      "lon": "26.650925525608013",
+      "lat": "53.01473349897017"
+    },
+    {
+      "school_osm_id": "378345958",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "26.650925525608013",
+      "lat": "53.01473349897017"
+    },
+    {
+      "school_osm_id": "378345958",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.650925525608013",
+      "lat": "53.01473349897017"
+    }
+  ]
+}

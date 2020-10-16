@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Октябрь",
+    "osm_id": "-6882071",
+    "hierarchy": [
+      "Октябрьский сельский Совет",
+      "Буда-Кошелёвский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.66951252226272",
+    "lon": "30.814920556949644"
+  },
+  "group": [
+    {
+      "school_osm_id": "405584174",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-6882071",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Октябрь",
+      "lon": "30.814920556949644",
+      "lat": "52.66951252226272"
+    },
+    {
+      "school_osm_id": "405584174",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-6882070",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Октябрьский сельский Совет",
+      "lon": "30.814920556949644",
+      "lat": "52.66951252226272"
+    },
+    {
+      "school_osm_id": "405584174",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59175",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Буда-Кошелёвский район",
+      "lon": "30.814920556949644",
+      "lat": "52.66951252226272"
+    },
+    {
+      "school_osm_id": "405584174",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "30.814920556949644",
+      "lat": "52.66951252226272"
+    },
+    {
+      "school_osm_id": "405584174",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.814920556949644",
+      "lat": "52.66951252226272"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "671330714",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7583298",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Колбча",
+    "lon": "29.23307419588731",
+    "lat": "53.64551213565427"
+  },
+  {
+    "school_osm_id": "7124052285",
+    "school_osm_type": "node",
+    "school_name": "",
+    "place_osm_id": "-7583298",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Колбча",
+    "lon": "29.233118899999994",
+    "lat": "53.64526059913498"
+  }
+]

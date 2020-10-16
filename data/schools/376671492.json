@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Замостье",
+    "osm_id": "-7556086",
+    "hierarchy": [
+      "Покрашевский сельский Совет",
+      "Слуцкий район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.2076333637361",
+    "lon": "27.59750635002269"
+  },
+  "group": [
+    {
+      "school_osm_id": "376671492",
+      "school_osm_type": "way",
+      "school_name": "Замостская средняя школа",
+      "place_osm_id": "-8144292",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Покрашевский сельский Совет",
+      "lon": "27.59750635002269",
+      "lat": "53.2076333637361"
+    },
+    {
+      "school_osm_id": "376671492",
+      "school_osm_type": "way",
+      "school_name": "Замостская средняя школа",
+      "place_osm_id": "-7556086",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Замостье",
+      "lon": "27.59750635002269",
+      "lat": "53.2076333637361"
+    },
+    {
+      "school_osm_id": "376671492",
+      "school_osm_type": "way",
+      "school_name": "Замостская средняя школа",
+      "place_osm_id": "-71134",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Слуцкий район",
+      "lon": "27.59750635002269",
+      "lat": "53.2076333637361"
+    },
+    {
+      "school_osm_id": "376671492",
+      "school_osm_type": "way",
+      "school_name": "Замостская средняя школа",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.59750635002269",
+      "lat": "53.2076333637361"
+    },
+    {
+      "school_osm_id": "376671492",
+      "school_osm_type": "way",
+      "school_name": "Замостская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.59750635002269",
+      "lat": "53.2076333637361"
+    }
+  ]
+}

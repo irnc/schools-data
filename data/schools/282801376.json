@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Ржавка",
+    "osm_id": "-7469379",
+    "hierarchy": [
+      "Верхнекривинский сельский Совет",
+      "Бешенковичский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.0745068720111",
+    "lon": "29.573783362236416"
+  },
+  "group": [
+    {
+      "school_osm_id": "282801376",
+      "school_osm_type": "way",
+      "school_name": "Ржавская детский сад-средняя школа",
+      "place_osm_id": "-7973415",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Верхнекривинский сельский Совет",
+      "lon": "29.573783362236416",
+      "lat": "55.0745068720111"
+    },
+    {
+      "school_osm_id": "282801376",
+      "school_osm_type": "way",
+      "school_name": "Ржавская детский сад-средняя школа",
+      "place_osm_id": "-7469379",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Ржавка",
+      "lon": "29.573783362236416",
+      "lat": "55.0745068720111"
+    },
+    {
+      "school_osm_id": "282801376",
+      "school_osm_type": "way",
+      "school_name": "Ржавская детский сад-средняя школа",
+      "place_osm_id": "-70668",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Бешенковичский район",
+      "lon": "29.573783362236416",
+      "lat": "55.0745068720111"
+    },
+    {
+      "school_osm_id": "282801376",
+      "school_osm_type": "way",
+      "school_name": "Ржавская детский сад-средняя школа",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "29.573783362236416",
+      "lat": "55.0745068720111"
+    },
+    {
+      "school_osm_id": "282801376",
+      "school_osm_type": "way",
+      "school_name": "Ржавская детский сад-средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.573783362236416",
+      "lat": "55.0745068720111"
+    }
+  ]
+}

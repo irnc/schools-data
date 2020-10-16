@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Дрогичин",
+    "osm_id": "-5602445",
+    "hierarchy": [
+      "Дрогичинский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.1881654727946",
+    "lon": "25.149527179152432"
+  },
+  "group": [
+    {
+      "school_osm_id": "380087402",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-5602445",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Дрогичин",
+      "lon": "25.149527179152432",
+      "lat": "52.1881654727946"
+    },
+    {
+      "school_osm_id": "380087402",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-71105",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Дрогичинский район",
+      "lon": "25.149527179152432",
+      "lat": "52.1881654727946"
+    },
+    {
+      "school_osm_id": "380087402",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "25.149527179152432",
+      "lat": "52.1881654727946"
+    },
+    {
+      "school_osm_id": "380087402",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "25.149527179152432",
+      "lat": "52.1881654727946"
+    }
+  ]
+}

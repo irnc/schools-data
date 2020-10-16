@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "491666672",
+    "school_osm_type": "way",
+    "school_name": "Ивенецкая средняя школа",
+    "place_osm_id": "-6722711",
+    "place_admin_level": "8",
+    "place_place": "village",
+    "place_name": "Ивенец",
+    "lon": "26.749551014042684",
+    "lat": "53.8884881767528"
+  },
+  {
+    "school_osm_id": "645176195",
+    "school_osm_type": "way",
+    "school_name": "Школа-Интернат",
+    "place_osm_id": "-6722711",
+    "place_admin_level": "8",
+    "place_place": "village",
+    "place_name": "Ивенец",
+    "lon": "26.745706423782632",
+    "lat": "53.89548687485279"
+  }
+]

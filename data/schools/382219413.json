@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Кожан-Городок",
+    "osm_id": "-7466578",
+    "hierarchy": [
+      "Городокский сельский Совет",
+      "Лунинецкий район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.216848220082035",
+    "lon": "27.02156302747776"
+  },
+  "group": [
+    {
+      "school_osm_id": "382219413",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8087848",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Городокский сельский Совет",
+      "lon": "27.02156302747776",
+      "lat": "52.216848220082035"
+    },
+    {
+      "school_osm_id": "382219413",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7466578",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Кожан-Городок",
+      "lon": "27.02156302747776",
+      "lat": "52.216848220082035"
+    },
+    {
+      "school_osm_id": "382219413",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-71124",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Лунинецкий район",
+      "lon": "27.02156302747776",
+      "lat": "52.216848220082035"
+    },
+    {
+      "school_osm_id": "382219413",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "27.02156302747776",
+      "lat": "52.216848220082035"
+    },
+    {
+      "school_osm_id": "382219413",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.02156302747776",
+      "lat": "52.216848220082035"
+    }
+  ]
+}

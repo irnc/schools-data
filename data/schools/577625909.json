@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Рогачёв",
+    "osm_id": "-3551849",
+    "hierarchy": [
+      "Рогачёвский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.07930179909069",
+    "lon": "30.04646569999999"
+  },
+  "group": [
+    {
+      "school_osm_id": "577625909",
+      "school_osm_type": "node",
+      "school_name": "Школа №2",
+      "place_osm_id": "-3551849",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Рогачёв",
+      "lon": "30.04646569999999",
+      "lat": "53.07930179909069"
+    },
+    {
+      "school_osm_id": "577625909",
+      "school_osm_type": "node",
+      "school_name": "Школа №2",
+      "place_osm_id": "-59174",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Рогачёвский район",
+      "lon": "30.04646569999999",
+      "lat": "53.07930179909069"
+    },
+    {
+      "school_osm_id": "577625909",
+      "school_osm_type": "node",
+      "school_name": "Школа №2",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "30.04646569999999",
+      "lat": "53.07930179909069"
+    },
+    {
+      "school_osm_id": "577625909",
+      "school_osm_type": "node",
+      "school_name": "Школа №2",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.04646569999999",
+      "lat": "53.07930179909069"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Климовичи",
+    "osm_id": "-6722649",
+    "hierarchy": [
+      "Климовичский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.60410808866306",
+    "lon": "31.96799589813675"
+  },
+  "group": [
+    {
+      "school_osm_id": "302271641",
+      "school_osm_type": "way",
+      "school_name": "Школа №3",
+      "place_osm_id": "-6722649",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Климовичи",
+      "lon": "31.96799589813675",
+      "lat": "53.60410808866306"
+    },
+    {
+      "school_osm_id": "302271641",
+      "school_osm_type": "way",
+      "school_name": "Школа №3",
+      "place_osm_id": "-70610",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Климовичский район",
+      "lon": "31.96799589813675",
+      "lat": "53.60410808866306"
+    },
+    {
+      "school_osm_id": "302271641",
+      "school_osm_type": "way",
+      "school_name": "Школа №3",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "31.96799589813675",
+      "lat": "53.60410808866306"
+    },
+    {
+      "school_osm_id": "302271641",
+      "school_osm_type": "way",
+      "school_name": "Школа №3",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "31.96799589813675",
+      "lat": "53.60410808866306"
+    }
+  ]
+}

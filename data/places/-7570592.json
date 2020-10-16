@@ -1,0 +1,46 @@
+[
+  {
+    "school_osm_id": "-3667858",
+    "school_osm_type": "relation",
+    "school_name": "",
+    "place_osm_id": "-7570592",
+    "place_admin_level": "10",
+    "place_place": "town",
+    "place_name": "Смиловичи",
+    "lon": "28.009428025179584",
+    "lat": "53.75535934422009"
+  },
+  {
+    "school_osm_id": "275731178",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7570592",
+    "place_admin_level": "10",
+    "place_place": "town",
+    "place_name": "Смиловичи",
+    "lon": "28.01011312612519",
+    "lat": "53.75512148239153"
+  },
+  {
+    "school_osm_id": "362547089",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7570592",
+    "place_admin_level": "10",
+    "place_place": "town",
+    "place_name": "Смиловичи",
+    "lon": "28.01548556636463",
+    "lat": "53.753868248540904"
+  },
+  {
+    "school_osm_id": "362547091",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7570592",
+    "place_admin_level": "10",
+    "place_place": "town",
+    "place_name": "Смиловичи",
+    "lon": "28.011828222204127",
+    "lat": "53.754913780300605"
+  }
+]

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Телеши",
+    "osm_id": "-7589448",
+    "hierarchy": [
+      "Гиженский сельский Совет",
+      "Славгородский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.62995720024388",
+    "lon": "31.080548368779816"
+  },
+  "group": [
+    {
+      "school_osm_id": "297516800",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8140433",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Гиженский сельский Совет",
+      "lon": "31.080548368779816",
+      "lat": "53.62995720024388"
+    },
+    {
+      "school_osm_id": "297516800",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7589448",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Телеши",
+      "lon": "31.080548368779816",
+      "lat": "53.62995720024388"
+    },
+    {
+      "school_osm_id": "297516800",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70589",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Славгородский район",
+      "lon": "31.080548368779816",
+      "lat": "53.62995720024388"
+    },
+    {
+      "school_osm_id": "297516800",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "31.080548368779816",
+      "lat": "53.62995720024388"
+    },
+    {
+      "school_osm_id": "297516800",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "31.080548368779816",
+      "lat": "53.62995720024388"
+    }
+  ]
+}

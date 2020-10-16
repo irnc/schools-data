@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "482278604",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа д.Здитово",
+    "place_osm_id": "-4718453",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Здитово",
+    "lon": "24.99637733337037",
+    "lat": "52.47234127916792"
+  },
+  {
+    "school_osm_id": "4940527891",
+    "school_osm_type": "node",
+    "school_name": "Детская школа искусств г.Берёза (филиал д.Здитово)",
+    "place_osm_id": "-4718453",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Здитово",
+    "lon": "24.9971943",
+    "lat": "52.47342849908896"
+  }
+]

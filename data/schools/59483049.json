@@ -1,0 +1,59 @@
+{
+  "place": {
+    "name": "Витебск",
+    "osm_id": "-6825777",
+    "hierarchy": [
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.15824480403669",
+    "lon": "30.20785303682083"
+  },
+  "group": [
+    {
+      "school_osm_id": "59483049",
+      "school_osm_type": "way",
+      "school_name": "Школа № 45 имени Маргелова В. Ф.",
+      "place_osm_id": "-6825777",
+      "place_admin_level": "6",
+      "place_place": "city",
+      "place_name": "Витебск",
+      "lon": "30.20785303682083",
+      "lat": "55.15824480403669"
+    },
+    {
+      "school_osm_id": "59483049",
+      "school_osm_type": "way",
+      "school_name": "Школа № 45 имени Маргелова В. Ф.",
+      "place_osm_id": "-68617",
+      "place_admin_level": "9",
+      "place_place": "",
+      "place_name": "Первомайский район",
+      "lon": "30.20785303682083",
+      "lat": "55.15824480403669"
+    },
+    {
+      "school_osm_id": "59483049",
+      "school_osm_type": "way",
+      "school_name": "Школа № 45 имени Маргелова В. Ф.",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "30.20785303682083",
+      "lat": "55.15824480403669"
+    },
+    {
+      "school_osm_id": "59483049",
+      "school_osm_type": "way",
+      "school_name": "Школа № 45 имени Маргелова В. Ф.",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.20785303682083",
+      "lat": "55.15824480403669"
+    }
+  ]
+}

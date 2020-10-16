@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Окунёвка",
+    "osm_id": "-7590060",
+    "hierarchy": [
+      "Городищенский сельский Совет",
+      "Шкловский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.207942452751375",
+    "lon": "30.55439816579292"
+  },
+  "group": [
+    {
+      "school_osm_id": "373200882",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8144285",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Городищенский сельский Совет",
+      "lon": "30.55439816579292",
+      "lat": "54.207942452751375"
+    },
+    {
+      "school_osm_id": "373200882",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7590060",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Окунёвка",
+      "lon": "30.55439816579292",
+      "lat": "54.207942452751375"
+    },
+    {
+      "school_osm_id": "373200882",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70626",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Шкловский район",
+      "lon": "30.55439816579292",
+      "lat": "54.207942452751375"
+    },
+    {
+      "school_osm_id": "373200882",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "30.55439816579292",
+      "lat": "54.207942452751375"
+    },
+    {
+      "school_osm_id": "373200882",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.55439816579292",
+      "lat": "54.207942452751375"
+    }
+  ]
+}

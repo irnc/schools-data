@@ -1,0 +1,46 @@
+[
+  {
+    "school_osm_id": "492677971",
+    "school_osm_type": "way",
+    "school_name": "ГУО \"Василевичская специальная общеобразовательная школа-интернат для детей с нарушениями зрения\"",
+    "place_osm_id": "-5598662",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Василевичи",
+    "lon": "29.83215381753492",
+    "lat": "52.252346546883906"
+  },
+  {
+    "school_osm_id": "492769920",
+    "school_osm_type": "way",
+    "school_name": "Школа-интернат",
+    "place_osm_id": "-5598662",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Василевичи",
+    "lon": "29.826989174933527",
+    "lat": "52.24932070649517"
+  },
+  {
+    "school_osm_id": "492823240",
+    "school_osm_type": "way",
+    "school_name": "Школа",
+    "place_osm_id": "-5598662",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Василевичи",
+    "lon": "29.82805536019843",
+    "lat": "52.24714202599893"
+  },
+  {
+    "school_osm_id": "576799700",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-5598662",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Василевичи",
+    "lon": "29.831728335708153",
+    "lat": "52.25213212719483"
+  }
+]

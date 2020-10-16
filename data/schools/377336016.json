@@ -1,0 +1,53 @@
+{
+  "place": "warning-school-without-place",
+  "geo": {
+    "lat": "53.734222362224386",
+    "lon": "26.582500735816986"
+  },
+  "group": [
+    {
+      "school_osm_id": "377336016",
+      "school_osm_type": "way",
+      "school_name": "Пионерлагерь \"Пралеска\"",
+      "place_osm_id": "-8139745",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Деревнянский сельский Совет",
+      "lon": "26.582500735816986",
+      "lat": "53.734222362224386"
+    },
+    {
+      "school_osm_id": "377336016",
+      "school_osm_type": "way",
+      "school_name": "Пионерлагерь \"Пралеска\"",
+      "place_osm_id": "-70752",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Столбцовский район",
+      "lon": "26.582500735816986",
+      "lat": "53.734222362224386"
+    },
+    {
+      "school_osm_id": "377336016",
+      "school_osm_type": "way",
+      "school_name": "Пионерлагерь \"Пралеска\"",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "26.582500735816986",
+      "lat": "53.734222362224386"
+    },
+    {
+      "school_osm_id": "377336016",
+      "school_osm_type": "way",
+      "school_name": "Пионерлагерь \"Пралеска\"",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.582500735816986",
+      "lat": "53.734222362224386"
+    }
+  ]
+}

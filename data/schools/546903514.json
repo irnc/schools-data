@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Щомыслица",
+    "osm_id": "-7548926",
+    "hierarchy": [
+      "Щомыслицкий сельский Совет",
+      "Минский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.82386233102778",
+    "lon": "27.44905467543801"
+  },
+  "group": [
+    {
+      "school_osm_id": "546903514",
+      "school_osm_type": "way",
+      "school_name": "Щомыслицкая средняя школа",
+      "place_osm_id": "-8144302",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Щомыслицкий сельский Совет",
+      "lon": "27.44905467543801",
+      "lat": "53.82386233102778"
+    },
+    {
+      "school_osm_id": "546903514",
+      "school_osm_type": "way",
+      "school_name": "Щомыслицкая средняя школа",
+      "place_osm_id": "-7548926",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Щомыслица",
+      "lon": "27.44905467543801",
+      "lat": "53.82386233102778"
+    },
+    {
+      "school_osm_id": "546903514",
+      "school_osm_type": "way",
+      "school_name": "Щомыслицкая средняя школа",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.44905467543801",
+      "lat": "53.82386233102778"
+    },
+    {
+      "school_osm_id": "546903514",
+      "school_osm_type": "way",
+      "school_name": "Щомыслицкая средняя школа",
+      "place_osm_id": "-59190",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Минский район",
+      "lon": "27.44905467543801",
+      "lat": "53.82386233102778"
+    },
+    {
+      "school_osm_id": "546903514",
+      "school_osm_type": "way",
+      "school_name": "Щомыслицкая средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.44905467543801",
+      "lat": "53.82386233102778"
+    }
+  ]
+}

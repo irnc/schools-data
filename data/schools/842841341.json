@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Осиповичи",
+    "osm_id": "-6722697",
+    "hierarchy": [
+      "Осиповичский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.29746924474223",
+    "lon": "28.63409039120203"
+  },
+  "group": [
+    {
+      "school_osm_id": "842841341",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-6722697",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Осиповичи",
+      "lon": "28.63409039120203",
+      "lat": "53.29746924474223"
+    },
+    {
+      "school_osm_id": "842841341",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59753",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Осиповичский район",
+      "lon": "28.63409039120203",
+      "lat": "53.29746924474223"
+    },
+    {
+      "school_osm_id": "842841341",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "28.63409039120203",
+      "lat": "53.29746924474223"
+    },
+    {
+      "school_osm_id": "842841341",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.63409039120203",
+      "lat": "53.29746924474223"
+    }
+  ]
+}

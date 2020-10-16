@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Житковичи",
+    "osm_id": "-5598580",
+    "hierarchy": [
+      "Житковичский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.216234999101395",
+    "lon": "27.8633754"
+  },
+  "group": [
+    {
+      "school_osm_id": "4736931221",
+      "school_osm_type": "node",
+      "school_name": "Средняя школа №1",
+      "place_osm_id": "-5598580",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Житковичи",
+      "lon": "27.8633754",
+      "lat": "52.216234999101395"
+    },
+    {
+      "school_osm_id": "4736931221",
+      "school_osm_type": "node",
+      "school_name": "Средняя школа №1",
+      "place_osm_id": "-71149",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Житковичский район",
+      "lon": "27.8633754",
+      "lat": "52.216234999101395"
+    },
+    {
+      "school_osm_id": "4736931221",
+      "school_osm_type": "node",
+      "school_name": "Средняя школа №1",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "27.8633754",
+      "lat": "52.216234999101395"
+    },
+    {
+      "school_osm_id": "4736931221",
+      "school_osm_type": "node",
+      "school_name": "Средняя школа №1",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.8633754",
+      "lat": "52.216234999101395"
+    }
+  ]
+}

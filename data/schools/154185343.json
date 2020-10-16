@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Вишнево",
+    "osm_id": "-7526698",
+    "hierarchy": [
+      "Вишневский сельский Совет",
+      "Сморгонский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.71651189905662",
+    "lon": "26.52307737646708"
+  },
+  "group": [
+    {
+      "school_osm_id": "154185343",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8015372",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Вишневский сельский Совет",
+      "lon": "26.52307737646708",
+      "lat": "54.71651189905662"
+    },
+    {
+      "school_osm_id": "154185343",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7526698",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Вишнево",
+      "lon": "26.52307737646708",
+      "lat": "54.71651189905662"
+    },
+    {
+      "school_osm_id": "154185343",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70725",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Сморгонский район",
+      "lon": "26.52307737646708",
+      "lat": "54.71651189905662"
+    },
+    {
+      "school_osm_id": "154185343",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "26.52307737646708",
+      "lat": "54.71651189905662"
+    },
+    {
+      "school_osm_id": "154185343",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.52307737646708",
+      "lat": "54.71651189905662"
+    }
+  ]
+}

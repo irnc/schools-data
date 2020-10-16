@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Раковичи",
+    "osm_id": "-7528964",
+    "hierarchy": [
+      "Орлевский сельский Совет",
+      "Щучинский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.51849972297067",
+    "lon": "24.831647354792057"
+  },
+  "group": [
+    {
+      "school_osm_id": "109650582",
+      "school_osm_type": "way",
+      "school_name": "Раковичская средняя школа",
+      "place_osm_id": "-8021148",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Орлевский сельский Совет",
+      "lon": "24.831647354792057",
+      "lat": "53.51849972297067"
+    },
+    {
+      "school_osm_id": "109650582",
+      "school_osm_type": "way",
+      "school_name": "Раковичская средняя школа",
+      "place_osm_id": "-7528964",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Раковичи",
+      "lon": "24.831647354792057",
+      "lat": "53.51849972297067"
+    },
+    {
+      "school_osm_id": "109650582",
+      "school_osm_type": "way",
+      "school_name": "Раковичская средняя школа",
+      "place_osm_id": "-70748",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Щучинский район",
+      "lon": "24.831647354792057",
+      "lat": "53.51849972297067"
+    },
+    {
+      "school_osm_id": "109650582",
+      "school_osm_type": "way",
+      "school_name": "Раковичская средняя школа",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "24.831647354792057",
+      "lat": "53.51849972297067"
+    },
+    {
+      "school_osm_id": "109650582",
+      "school_osm_type": "way",
+      "school_name": "Раковичская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "24.831647354792057",
+      "lat": "53.51849972297067"
+    }
+  ]
+}

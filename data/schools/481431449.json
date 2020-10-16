@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Ивацевичи",
+    "osm_id": "-5602737",
+    "hierarchy": [
+      "Ивацевичский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.71356286098064",
+    "lon": "25.331528197820553"
+  },
+  "group": [
+    {
+      "school_osm_id": "481431449",
+      "school_osm_type": "way",
+      "school_name": "СШ №4",
+      "place_osm_id": "-5602737",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Ивацевичи",
+      "lon": "25.331528197820553",
+      "lat": "52.71356286098064"
+    },
+    {
+      "school_osm_id": "481431449",
+      "school_osm_type": "way",
+      "school_name": "СШ №4",
+      "place_osm_id": "-71112",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Ивацевичский район",
+      "lon": "25.331528197820553",
+      "lat": "52.71356286098064"
+    },
+    {
+      "school_osm_id": "481431449",
+      "school_osm_type": "way",
+      "school_name": "СШ №4",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "25.331528197820553",
+      "lat": "52.71356286098064"
+    },
+    {
+      "school_osm_id": "481431449",
+      "school_osm_type": "way",
+      "school_name": "СШ №4",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "25.331528197820553",
+      "lat": "52.71356286098064"
+    }
+  ]
+}

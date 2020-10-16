@@ -1,0 +1,46 @@
+[
+  {
+    "school_osm_id": "369867130",
+    "school_osm_type": "way",
+    "school_name": "Начальная школа",
+    "place_osm_id": "-6886094",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Освея",
+    "lon": "28.111618585496675",
+    "lat": "56.01576095621044"
+  },
+  {
+    "school_osm_id": "369867133",
+    "school_osm_type": "way",
+    "school_name": "Конно-спортивная школа",
+    "place_osm_id": "-6886094",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Освея",
+    "lon": "28.112331998905866",
+    "lat": "56.01287607188806"
+  },
+  {
+    "school_osm_id": "775613627",
+    "school_osm_type": "way",
+    "school_name": "Освейская средняя школа",
+    "place_osm_id": "-6886094",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Освея",
+    "lon": "28.112715703022527",
+    "lat": "56.01553222827058"
+  },
+  {
+    "school_osm_id": "7236289576",
+    "school_osm_type": "node",
+    "school_name": "Музыкальная школа",
+    "place_osm_id": "-6886094",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Освея",
+    "lon": "28.086094599999996",
+    "lat": "56.01593519979483"
+  }
+]

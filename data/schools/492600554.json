@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Лунинец",
+    "osm_id": "-6722245",
+    "hierarchy": [
+      "Лунинецкий район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.25464216102278",
+    "lon": "26.79421587535407"
+  },
+  "group": [
+    {
+      "school_osm_id": "492600554",
+      "school_osm_type": "way",
+      "school_name": "Школа №2",
+      "place_osm_id": "-6722245",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Лунинец",
+      "lon": "26.79421587535407",
+      "lat": "52.25464216102278"
+    },
+    {
+      "school_osm_id": "492600554",
+      "school_osm_type": "way",
+      "school_name": "Школа №2",
+      "place_osm_id": "-71124",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Лунинецкий район",
+      "lon": "26.79421587535407",
+      "lat": "52.25464216102278"
+    },
+    {
+      "school_osm_id": "492600554",
+      "school_osm_type": "way",
+      "school_name": "Школа №2",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "26.79421587535407",
+      "lat": "52.25464216102278"
+    },
+    {
+      "school_osm_id": "492600554",
+      "school_osm_type": "way",
+      "school_name": "Школа №2",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.79421587535407",
+      "lat": "52.25464216102278"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Кобрин",
+    "osm_id": "-6722171",
+    "hierarchy": [
+      "Кобринский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.19700025573202",
+    "lon": "24.34618038571764"
+  },
+  "group": [
+    {
+      "school_osm_id": "565082090",
+      "school_osm_type": "way",
+      "school_name": "Школа №8",
+      "place_osm_id": "-6722171",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Кобрин",
+      "lon": "24.34618038571764",
+      "lat": "52.19700025573202"
+    },
+    {
+      "school_osm_id": "565082090",
+      "school_osm_type": "way",
+      "school_name": "Школа №8",
+      "place_osm_id": "-71101",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Кобринский район",
+      "lon": "24.34618038571764",
+      "lat": "52.19700025573202"
+    },
+    {
+      "school_osm_id": "565082090",
+      "school_osm_type": "way",
+      "school_name": "Школа №8",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "24.34618038571764",
+      "lat": "52.19700025573202"
+    },
+    {
+      "school_osm_id": "565082090",
+      "school_osm_type": "way",
+      "school_name": "Школа №8",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "24.34618038571764",
+      "lat": "52.19700025573202"
+    }
+  ]
+}

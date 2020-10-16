@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "282414516",
+    "school_osm_type": "way",
+    "school_name": "Музыкальная школа",
+    "place_osm_id": "-7511481",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Сопоцкин",
+    "lon": "23.64901535003826",
+    "lat": "53.831985999193016"
+  },
+  {
+    "school_osm_id": "377840151",
+    "school_osm_type": "way",
+    "school_name": "Сопоцкинская средняя школа",
+    "place_osm_id": "-7511481",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Сопоцкин",
+    "lon": "23.657348136094637",
+    "lat": "53.8282730248977"
+  }
+]

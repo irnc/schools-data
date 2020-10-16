@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Корзуны",
+    "osm_id": "-4850974",
+    "hierarchy": [
+      "Слобода-Кучинский сельский Совет",
+      "Копыльский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.277691021430286",
+    "lon": "27.26035115861883"
+  },
+  "group": [
+    {
+      "school_osm_id": "249335843",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8139715",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Слобода-Кучинский сельский Совет",
+      "lon": "27.26035115861883",
+      "lat": "53.277691021430286"
+    },
+    {
+      "school_osm_id": "249335843",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-4850974",
+      "place_admin_level": "10",
+      "place_place": "hamlet",
+      "place_name": "Корзуны",
+      "lon": "27.26035115861883",
+      "lat": "53.277691021430286"
+    },
+    {
+      "school_osm_id": "249335843",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-71132",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Копыльский район",
+      "lon": "27.26035115861883",
+      "lat": "53.277691021430286"
+    },
+    {
+      "school_osm_id": "249335843",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.26035115861883",
+      "lat": "53.277691021430286"
+    },
+    {
+      "school_osm_id": "249335843",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.26035115861883",
+      "lat": "53.277691021430286"
+    }
+  ]
+}

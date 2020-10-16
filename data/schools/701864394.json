@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Вулька Обровская",
+    "osm_id": "-7465356",
+    "hierarchy": [
+      "Житлинский сельский Совет",
+      "Ивацевичский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.57461085769904",
+    "lon": "25.488778995985196"
+  },
+  "group": [
+    {
+      "school_osm_id": "701864394",
+      "school_osm_type": "way",
+      "school_name": "Вулька-Обровская средняя школа",
+      "place_osm_id": "-8085931",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Житлинский сельский Совет",
+      "lon": "25.488778995985196",
+      "lat": "52.57461085769904"
+    },
+    {
+      "school_osm_id": "701864394",
+      "school_osm_type": "way",
+      "school_name": "Вулька-Обровская средняя школа",
+      "place_osm_id": "-7465356",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Вулька Обровская",
+      "lon": "25.488778995985196",
+      "lat": "52.57461085769904"
+    },
+    {
+      "school_osm_id": "701864394",
+      "school_osm_type": "way",
+      "school_name": "Вулька-Обровская средняя школа",
+      "place_osm_id": "-71112",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Ивацевичский район",
+      "lon": "25.488778995985196",
+      "lat": "52.57461085769904"
+    },
+    {
+      "school_osm_id": "701864394",
+      "school_osm_type": "way",
+      "school_name": "Вулька-Обровская средняя школа",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "25.488778995985196",
+      "lat": "52.57461085769904"
+    },
+    {
+      "school_osm_id": "701864394",
+      "school_osm_type": "way",
+      "school_name": "Вулька-Обровская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "25.488778995985196",
+      "lat": "52.57461085769904"
+    }
+  ]
+}

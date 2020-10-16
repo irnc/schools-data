@@ -1,0 +1,48 @@
+{
+  "place": {
+    "name": "Новополоцк",
+    "osm_id": "-6825778",
+    "hierarchy": [
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.58764447659949",
+    "lon": "28.59794097916958"
+  },
+  "group": [
+    {
+      "school_osm_id": "-8022794",
+      "school_osm_type": "relation",
+      "school_name": "СШ № 15",
+      "place_osm_id": "-6825778",
+      "place_admin_level": "6",
+      "place_place": "city",
+      "place_name": "Новополоцк",
+      "lon": "28.59794097916958",
+      "lat": "55.58764447659949"
+    },
+    {
+      "school_osm_id": "-8022794",
+      "school_osm_type": "relation",
+      "school_name": "СШ № 15",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "28.59794097916958",
+      "lat": "55.58764447659949"
+    },
+    {
+      "school_osm_id": "-8022794",
+      "school_osm_type": "relation",
+      "school_name": "СШ № 15",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.59794097916958",
+      "lat": "55.58764447659949"
+    }
+  ]
+}

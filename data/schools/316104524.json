@@ -1,0 +1,48 @@
+{
+  "place": {
+    "name": "Пинск",
+    "osm_id": "-1749248",
+    "hierarchy": [
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.13991660412843",
+    "lon": "26.113549327568865"
+  },
+  "group": [
+    {
+      "school_osm_id": "316104524",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа №8",
+      "place_osm_id": "-1749248",
+      "place_admin_level": "6",
+      "place_place": "city",
+      "place_name": "Пинск",
+      "lon": "26.113549327568865",
+      "lat": "52.13991660412843"
+    },
+    {
+      "school_osm_id": "316104524",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа №8",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "26.113549327568865",
+      "lat": "52.13991660412843"
+    },
+    {
+      "school_osm_id": "316104524",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа №8",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.113549327568865",
+      "lat": "52.13991660412843"
+    }
+  ]
+}

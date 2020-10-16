@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Шебрин",
+    "osm_id": "-7609303",
+    "hierarchy": [
+      "Тельминский сельский Совет",
+      "Брестский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.09755905112291",
+    "lon": "23.88979333792753"
+  },
+  "group": [
+    {
+      "school_osm_id": "817652169",
+      "school_osm_type": "way",
+      "school_name": "Детский лагерь отдыха Журавинка",
+      "place_osm_id": "-8025992",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Тельминский сельский Совет",
+      "lon": "23.88979333792753",
+      "lat": "52.09755905112291"
+    },
+    {
+      "school_osm_id": "817652169",
+      "school_osm_type": "way",
+      "school_name": "Детский лагерь отдыха Журавинка",
+      "place_osm_id": "-7609303",
+      "place_admin_level": "10",
+      "place_place": "hamlet",
+      "place_name": "Шебрин",
+      "lon": "23.88979333792753",
+      "lat": "52.09755905112291"
+    },
+    {
+      "school_osm_id": "817652169",
+      "school_osm_type": "way",
+      "school_name": "Детский лагерь отдыха Журавинка",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "23.88979333792753",
+      "lat": "52.09755905112291"
+    },
+    {
+      "school_osm_id": "817652169",
+      "school_osm_type": "way",
+      "school_name": "Детский лагерь отдыха Журавинка",
+      "place_osm_id": "-59188",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Брестский район",
+      "lon": "23.88979333792753",
+      "lat": "52.09755905112291"
+    },
+    {
+      "school_osm_id": "817652169",
+      "school_osm_type": "way",
+      "school_name": "Детский лагерь отдыха Журавинка",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "23.88979333792753",
+      "lat": "52.09755905112291"
+    }
+  ]
+}

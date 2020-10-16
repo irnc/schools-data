@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Здитово",
+    "osm_id": "-4718454",
+    "hierarchy": [
+      "Споровский сельский Совет",
+      "Берёзовский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.42486597538799",
+    "lon": "25.263340557792976"
+  },
+  "group": [
+    {
+      "school_osm_id": "562489555",
+      "school_osm_type": "way",
+      "school_name": "Здитовская средняя школа",
+      "place_osm_id": "-8085936",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Споровский сельский Совет",
+      "lon": "25.263340557792976",
+      "lat": "52.42486597538799"
+    },
+    {
+      "school_osm_id": "562489555",
+      "school_osm_type": "way",
+      "school_name": "Здитовская средняя школа",
+      "place_osm_id": "-4718454",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Здитово",
+      "lon": "25.263340557792976",
+      "lat": "52.42486597538799"
+    },
+    {
+      "school_osm_id": "562489555",
+      "school_osm_type": "way",
+      "school_name": "Здитовская средняя школа",
+      "place_osm_id": "-71107",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Берёзовский район",
+      "lon": "25.263340557792976",
+      "lat": "52.42486597538799"
+    },
+    {
+      "school_osm_id": "562489555",
+      "school_osm_type": "way",
+      "school_name": "Здитовская средняя школа",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "25.263340557792976",
+      "lat": "52.42486597538799"
+    },
+    {
+      "school_osm_id": "562489555",
+      "school_osm_type": "way",
+      "school_name": "Здитовская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "25.263340557792976",
+      "lat": "52.42486597538799"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "place": {
+    "name": "Гомель",
+    "osm_id": "-163244",
+    "hierarchy": [
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.425143646883264",
+    "lon": "30.952310989160534"
+  },
+  "group": [
+    {
+      "school_osm_id": "458823727",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа № 22",
+      "place_osm_id": "-3628814",
+      "place_admin_level": "9",
+      "place_place": "",
+      "place_name": "Советский район",
+      "lon": "30.952310989160534",
+      "lat": "52.425143646883264"
+    },
+    {
+      "school_osm_id": "458823727",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа № 22",
+      "place_osm_id": "-163244",
+      "place_admin_level": "6",
+      "place_place": "city",
+      "place_name": "Гомель",
+      "lon": "30.952310989160534",
+      "lat": "52.425143646883264"
+    },
+    {
+      "school_osm_id": "458823727",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа № 22",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "30.952310989160534",
+      "lat": "52.425143646883264"
+    },
+    {
+      "school_osm_id": "458823727",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа № 22",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.952310989160534",
+      "lat": "52.425143646883264"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "389770643",
+    "school_osm_type": "way",
+    "school_name": "Оснежицкая средняя школа",
+    "place_osm_id": "-6910322",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Оснежицы",
+    "lon": "26.137612699991774",
+    "lat": "52.187923999142825"
+  },
+  {
+    "school_osm_id": "389770645",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-6910322",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Оснежицы",
+    "lon": "26.137614218602085",
+    "lat": "52.18785385581221"
+  }
+]

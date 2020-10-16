@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Речица",
+    "osm_id": "-5598659",
+    "hierarchy": [
+      "Речицкий район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.349815417050955",
+    "lon": "30.430848729134244"
+  },
+  "group": [
+    {
+      "school_osm_id": "307520517",
+      "school_osm_type": "way",
+      "school_name": "Детский сад-средняя школа № 1",
+      "place_osm_id": "-5598659",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Речица",
+      "lon": "30.430848729134244",
+      "lat": "52.349815417050955"
+    },
+    {
+      "school_osm_id": "307520517",
+      "school_osm_type": "way",
+      "school_name": "Детский сад-средняя школа № 1",
+      "place_osm_id": "-70812",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Речицкий район",
+      "lon": "30.430848729134244",
+      "lat": "52.349815417050955"
+    },
+    {
+      "school_osm_id": "307520517",
+      "school_osm_type": "way",
+      "school_name": "Детский сад-средняя школа № 1",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "30.430848729134244",
+      "lat": "52.349815417050955"
+    },
+    {
+      "school_osm_id": "307520517",
+      "school_osm_type": "way",
+      "school_name": "Детский сад-средняя школа № 1",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.430848729134244",
+      "lat": "52.349815417050955"
+    }
+  ]
+}

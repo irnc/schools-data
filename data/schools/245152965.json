@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Пенчин",
+    "osm_id": "-7440344",
+    "hierarchy": [
+      "Гусевицкий сельский Совет",
+      "Буда-Кошелёвский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.64207277311879",
+    "lon": "30.653458862456443"
+  },
+  "group": [
+    {
+      "school_osm_id": "245152965",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8100457",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Гусевицкий сельский Совет",
+      "lon": "30.653458862456443",
+      "lat": "52.64207277311879"
+    },
+    {
+      "school_osm_id": "245152965",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7440344",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Пенчин",
+      "lon": "30.653458862456443",
+      "lat": "52.64207277311879"
+    },
+    {
+      "school_osm_id": "245152965",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59175",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Буда-Кошелёвский район",
+      "lon": "30.653458862456443",
+      "lat": "52.64207277311879"
+    },
+    {
+      "school_osm_id": "245152965",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "30.653458862456443",
+      "lat": "52.64207277311879"
+    },
+    {
+      "school_osm_id": "245152965",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.653458862456443",
+      "lat": "52.64207277311879"
+    }
+  ]
+}

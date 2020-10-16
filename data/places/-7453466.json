@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "593898723",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7453466",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Паричи",
+    "lon": "29.416379962538933",
+    "lat": "52.81026562119424"
+  },
+  {
+    "school_osm_id": "593906209",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7453466",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Паричи",
+    "lon": "29.423645647644353",
+    "lat": "52.80749253699936"
+  }
+]

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Бельск",
+    "osm_id": "-4718763",
+    "hierarchy": [
+      "Новосёлковский сельский Совет",
+      "Кобринский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.014871823551736",
+    "lon": "24.407198980826106"
+  },
+  "group": [
+    {
+      "school_osm_id": "-9238510",
+      "school_osm_type": "relation",
+      "school_name": "",
+      "place_osm_id": "-8028563",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Новосёлковский сельский Совет",
+      "lon": "24.407198980826106",
+      "lat": "52.014871823551736"
+    },
+    {
+      "school_osm_id": "-9238510",
+      "school_osm_type": "relation",
+      "school_name": "",
+      "place_osm_id": "-4718763",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Бельск",
+      "lon": "24.407198980826106",
+      "lat": "52.014871823551736"
+    },
+    {
+      "school_osm_id": "-9238510",
+      "school_osm_type": "relation",
+      "school_name": "",
+      "place_osm_id": "-71101",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Кобринский район",
+      "lon": "24.407198980826106",
+      "lat": "52.014871823551736"
+    },
+    {
+      "school_osm_id": "-9238510",
+      "school_osm_type": "relation",
+      "school_name": "",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "24.407198980826106",
+      "lat": "52.014871823551736"
+    },
+    {
+      "school_osm_id": "-9238510",
+      "school_osm_type": "relation",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "24.407198980826106",
+      "lat": "52.014871823551736"
+    }
+  ]
+}

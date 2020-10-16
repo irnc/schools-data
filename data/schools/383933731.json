@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Селец",
+    "osm_id": "-6761836",
+    "hierarchy": [
+      "Красногорский сельский Совет",
+      "Мстиславский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.887462790631574",
+    "lon": "31.763831619129242"
+  },
+  "group": [
+    {
+      "school_osm_id": "383933731",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8076009",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Красногорский сельский Совет",
+      "lon": "31.763831619129242",
+      "lat": "53.887462790631574"
+    },
+    {
+      "school_osm_id": "383933731",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-6761836",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Селец",
+      "lon": "31.763831619129242",
+      "lat": "53.887462790631574"
+    },
+    {
+      "school_osm_id": "383933731",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70616",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Мстиславский район",
+      "lon": "31.763831619129242",
+      "lat": "53.887462790631574"
+    },
+    {
+      "school_osm_id": "383933731",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "31.763831619129242",
+      "lat": "53.887462790631574"
+    },
+    {
+      "school_osm_id": "383933731",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "31.763831619129242",
+      "lat": "53.887462790631574"
+    }
+  ]
+}

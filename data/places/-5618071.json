@@ -1,0 +1,35 @@
+[
+  {
+    "school_osm_id": "570095562",
+    "school_osm_type": "way",
+    "school_name": "Пореченская средняя школа",
+    "place_osm_id": "-5618071",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Поречье",
+    "lon": "24.137251968618763",
+    "lat": "53.88043933100711"
+  },
+  {
+    "school_osm_id": "575112138",
+    "school_osm_type": "way",
+    "school_name": "Поречская государственная санаторная школа-интернат",
+    "place_osm_id": "-5618071",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Поречье",
+    "lon": "24.140595279095088",
+    "lat": "53.87947602135845"
+  },
+  {
+    "school_osm_id": "674100867",
+    "school_osm_type": "way",
+    "school_name": "Гродненское областное кадетское училище",
+    "place_osm_id": "-5618071",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Поречье",
+    "lon": "24.130499966513817",
+    "lat": "53.890948209962836"
+  }
+]

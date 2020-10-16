@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Ошмяны",
+    "osm_id": "-3534722",
+    "hierarchy": [
+      "Ошмянский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.430780904729176",
+    "lon": "25.952115387834542"
+  },
+  "group": [
+    {
+      "school_osm_id": "102273535",
+      "school_osm_type": "way",
+      "school_name": "Гимназия №1",
+      "place_osm_id": "-3534722",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Ошмяны",
+      "lon": "25.952115387834542",
+      "lat": "54.430780904729176"
+    },
+    {
+      "school_osm_id": "102273535",
+      "school_osm_type": "way",
+      "school_name": "Гимназия №1",
+      "place_osm_id": "-70728",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Ошмянский район",
+      "lon": "25.952115387834542",
+      "lat": "54.430780904729176"
+    },
+    {
+      "school_osm_id": "102273535",
+      "school_osm_type": "way",
+      "school_name": "Гимназия №1",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "25.952115387834542",
+      "lat": "54.430780904729176"
+    },
+    {
+      "school_osm_id": "102273535",
+      "school_osm_type": "way",
+      "school_name": "Гимназия №1",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "25.952115387834542",
+      "lat": "54.430780904729176"
+    }
+  ]
+}

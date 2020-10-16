@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Майский",
+    "osm_id": "-7589939",
+    "hierarchy": [
+      "Вепринский сельский Совет",
+      "Чериковский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.5646941358557",
+    "lon": "31.644953005552654"
+  },
+  "group": [
+    {
+      "school_osm_id": "395196659",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8140447",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Вепринский сельский Совет",
+      "lon": "31.644953005552654",
+      "lat": "53.5646941358557"
+    },
+    {
+      "school_osm_id": "395196659",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7589939",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Майский",
+      "lon": "31.644953005552654",
+      "lat": "53.5646941358557"
+    },
+    {
+      "school_osm_id": "395196659",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70595",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Чериковский район",
+      "lon": "31.644953005552654",
+      "lat": "53.5646941358557"
+    },
+    {
+      "school_osm_id": "395196659",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "31.644953005552654",
+      "lat": "53.5646941358557"
+    },
+    {
+      "school_osm_id": "395196659",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "31.644953005552654",
+      "lat": "53.5646941358557"
+    }
+  ]
+}

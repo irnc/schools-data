@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Каролин",
+    "osm_id": "-7514791",
+    "hierarchy": [
+      "Каролинский сельский Совет",
+      "Зельвенский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.073916315895026",
+    "lon": "24.893380094486954"
+  },
+  "group": [
+    {
+      "school_osm_id": "502075370",
+      "school_osm_type": "way",
+      "school_name": "Каролинская средняя школа",
+      "place_osm_id": "-8100434",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Каролинский сельский Совет",
+      "lon": "24.893380094486954",
+      "lat": "53.073916315895026"
+    },
+    {
+      "school_osm_id": "502075370",
+      "school_osm_type": "way",
+      "school_name": "Каролинская средняя школа",
+      "place_osm_id": "-7514791",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Каролин",
+      "lon": "24.893380094486954",
+      "lat": "53.073916315895026"
+    },
+    {
+      "school_osm_id": "502075370",
+      "school_osm_type": "way",
+      "school_name": "Каролинская средняя школа",
+      "place_osm_id": "-70772",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Зельвенский район",
+      "lon": "24.893380094486954",
+      "lat": "53.073916315895026"
+    },
+    {
+      "school_osm_id": "502075370",
+      "school_osm_type": "way",
+      "school_name": "Каролинская средняя школа",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "24.893380094486954",
+      "lat": "53.073916315895026"
+    },
+    {
+      "school_osm_id": "502075370",
+      "school_osm_type": "way",
+      "school_name": "Каролинская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "24.893380094486954",
+      "lat": "53.073916315895026"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Марьина Горка",
+    "osm_id": "-6722591",
+    "hierarchy": [
+      "Пуховичский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.49858978193915",
+    "lon": "28.16941026767915"
+  },
+  "group": [
+    {
+      "school_osm_id": "273538471",
+      "school_osm_type": "way",
+      "school_name": "СШ №3",
+      "place_osm_id": "-6722591",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Марьина Горка",
+      "lon": "28.16941026767915",
+      "lat": "53.49858978193915"
+    },
+    {
+      "school_osm_id": "273538471",
+      "school_osm_type": "way",
+      "school_name": "СШ №3",
+      "place_osm_id": "-70549",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Пуховичский район",
+      "lon": "28.16941026767915",
+      "lat": "53.49858978193915"
+    },
+    {
+      "school_osm_id": "273538471",
+      "school_osm_type": "way",
+      "school_name": "СШ №3",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "28.16941026767915",
+      "lat": "53.49858978193915"
+    },
+    {
+      "school_osm_id": "273538471",
+      "school_osm_type": "way",
+      "school_name": "СШ №3",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.16941026767915",
+      "lat": "53.49858978193915"
+    }
+  ]
+}

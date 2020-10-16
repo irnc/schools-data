@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Селевцы",
+    "osm_id": "-7549607",
+    "hierarchy": [
+      "Городокский сельский Совет",
+      "Молодечненский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.1305320357761",
+    "lon": "26.807605736341447"
+  },
+  "group": [
+    {
+      "school_osm_id": "418860131",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8013923",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Городокский сельский Совет",
+      "lon": "26.807605736341447",
+      "lat": "54.1305320357761"
+    },
+    {
+      "school_osm_id": "418860131",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7549607",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Селевцы",
+      "lon": "26.807605736341447",
+      "lat": "54.1305320357761"
+    },
+    {
+      "school_osm_id": "418860131",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70566",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Молодечненский район",
+      "lon": "26.807605736341447",
+      "lat": "54.1305320357761"
+    },
+    {
+      "school_osm_id": "418860131",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "26.807605736341447",
+      "lat": "54.1305320357761"
+    },
+    {
+      "school_osm_id": "418860131",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.807605736341447",
+      "lat": "54.1305320357761"
+    }
+  ]
+}

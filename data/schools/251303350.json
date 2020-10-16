@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Столпня",
+    "osm_id": "-7450599",
+    "hierarchy": [
+      "Столпнянский сельский Совет",
+      "Рогачёвский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.91806433763355",
+    "lon": "30.42460834365985"
+  },
+  "group": [
+    {
+      "school_osm_id": "251303350",
+      "school_osm_type": "way",
+      "school_name": "Столнянская средняя школа",
+      "place_osm_id": "-8107298",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Столпнянский сельский Совет",
+      "lon": "30.42460834365985",
+      "lat": "52.91806433763355"
+    },
+    {
+      "school_osm_id": "251303350",
+      "school_osm_type": "way",
+      "school_name": "Столнянская средняя школа",
+      "place_osm_id": "-7450599",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Столпня",
+      "lon": "30.42460834365985",
+      "lat": "52.91806433763355"
+    },
+    {
+      "school_osm_id": "251303350",
+      "school_osm_type": "way",
+      "school_name": "Столнянская средняя школа",
+      "place_osm_id": "-59174",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Рогачёвский район",
+      "lon": "30.42460834365985",
+      "lat": "52.91806433763355"
+    },
+    {
+      "school_osm_id": "251303350",
+      "school_osm_type": "way",
+      "school_name": "Столнянская средняя школа",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "30.42460834365985",
+      "lat": "52.91806433763355"
+    },
+    {
+      "school_osm_id": "251303350",
+      "school_osm_type": "way",
+      "school_name": "Столнянская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.42460834365985",
+      "lat": "52.91806433763355"
+    }
+  ]
+}

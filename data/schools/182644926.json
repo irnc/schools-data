@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Крупец",
+    "osm_id": "-4784005",
+    "hierarchy": [
+      "Крупецкий сельский Совет",
+      "Добрушский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.32061677374871",
+    "lon": "31.36566728576217"
+  },
+  "group": [
+    {
+      "school_osm_id": "182644926",
+      "school_osm_type": "way",
+      "school_name": "Крупецкая средняя школа",
+      "place_osm_id": "-8065401",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Крупецкий сельский Совет",
+      "lon": "31.36566728576217",
+      "lat": "52.32061677374871"
+    },
+    {
+      "school_osm_id": "182644926",
+      "school_osm_type": "way",
+      "school_name": "Крупецкая средняя школа",
+      "place_osm_id": "-4784005",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Крупец",
+      "lon": "31.36566728576217",
+      "lat": "52.32061677374871"
+    },
+    {
+      "school_osm_id": "182644926",
+      "school_osm_type": "way",
+      "school_name": "Крупецкая средняя школа",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "31.36566728576217",
+      "lat": "52.32061677374871"
+    },
+    {
+      "school_osm_id": "182644926",
+      "school_osm_type": "way",
+      "school_name": "Крупецкая средняя школа",
+      "place_osm_id": "-59092",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Добрушский район",
+      "lon": "31.36566728576217",
+      "lat": "52.32061677374871"
+    },
+    {
+      "school_osm_id": "182644926",
+      "school_osm_type": "way",
+      "school_name": "Крупецкая средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "31.36566728576217",
+      "lat": "52.32061677374871"
+    }
+  ]
+}

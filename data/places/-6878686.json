@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "83611720",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-6878686",
+    "place_admin_level": "10",
+    "place_place": "town",
+    "place_name": "Боровляны",
+    "lon": "27.67530592543179",
+    "lat": "53.98616165736535"
+  },
+  {
+    "school_osm_id": "4709873690",
+    "school_osm_type": "node",
+    "school_name": "Студия \"Познайка\"",
+    "place_osm_id": "-6878686",
+    "place_admin_level": "10",
+    "place_place": "town",
+    "place_name": "Боровляны",
+    "lon": "27.6677222",
+    "lat": "53.989262699183236"
+  }
+]

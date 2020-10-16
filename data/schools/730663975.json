@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Ректа",
+    "osm_id": "-7589499",
+    "hierarchy": [
+      "Свенский сельский Совет",
+      "Славгородский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.2935767283125",
+    "lon": "30.711089938210023"
+  },
+  "group": [
+    {
+      "school_osm_id": "730663975",
+      "school_osm_type": "way",
+      "school_name": "Ректянская школа",
+      "place_osm_id": "-8140432",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Свенский сельский Совет",
+      "lon": "30.711089938210023",
+      "lat": "53.2935767283125"
+    },
+    {
+      "school_osm_id": "730663975",
+      "school_osm_type": "way",
+      "school_name": "Ректянская школа",
+      "place_osm_id": "-7589499",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Ректа",
+      "lon": "30.711089938210023",
+      "lat": "53.2935767283125"
+    },
+    {
+      "school_osm_id": "730663975",
+      "school_osm_type": "way",
+      "school_name": "Ректянская школа",
+      "place_osm_id": "-70589",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Славгородский район",
+      "lon": "30.711089938210023",
+      "lat": "53.2935767283125"
+    },
+    {
+      "school_osm_id": "730663975",
+      "school_osm_type": "way",
+      "school_name": "Ректянская школа",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "30.711089938210023",
+      "lat": "53.2935767283125"
+    },
+    {
+      "school_osm_id": "730663975",
+      "school_osm_type": "way",
+      "school_name": "Ректянская школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.711089938210023",
+      "lat": "53.2935767283125"
+    }
+  ]
+}

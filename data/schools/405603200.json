@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Ленина",
+    "osm_id": "-7585686",
+    "hierarchy": [
+      "Горский сельский Совет",
+      "Краснопольский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.25741423981283",
+    "lon": "31.45952685459127"
+  },
+  "group": [
+    {
+      "school_osm_id": "405603200",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8031196",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Горский сельский Совет",
+      "lon": "31.45952685459127",
+      "lat": "53.25741423981283"
+    },
+    {
+      "school_osm_id": "405603200",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7585686",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Ленина",
+      "lon": "31.45952685459127",
+      "lat": "53.25741423981283"
+    },
+    {
+      "school_osm_id": "405603200",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70602",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Краснопольский район",
+      "lon": "31.45952685459127",
+      "lat": "53.25741423981283"
+    },
+    {
+      "school_osm_id": "405603200",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "31.45952685459127",
+      "lat": "53.25741423981283"
+    },
+    {
+      "school_osm_id": "405603200",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "31.45952685459127",
+      "lat": "53.25741423981283"
+    }
+  ]
+}

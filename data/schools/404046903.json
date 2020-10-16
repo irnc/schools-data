@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Барсуки",
+    "osm_id": "-7557156",
+    "hierarchy": [
+      "Жодинский сельский Совет",
+      "Смолевичский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.08524799972647",
+    "lon": "28.26338815007838"
+  },
+  "group": [
+    {
+      "school_osm_id": "404046903",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8144265",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Жодинский сельский Совет",
+      "lon": "28.26338815007838",
+      "lat": "54.08524799972647"
+    },
+    {
+      "school_osm_id": "404046903",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7557156",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Барсуки",
+      "lon": "28.26338815007838",
+      "lat": "54.08524799972647"
+    },
+    {
+      "school_osm_id": "404046903",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-69554",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Смолевичский район",
+      "lon": "28.26338815007838",
+      "lat": "54.08524799972647"
+    },
+    {
+      "school_osm_id": "404046903",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "28.26338815007838",
+      "lat": "54.08524799972647"
+    },
+    {
+      "school_osm_id": "404046903",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.26338815007838",
+      "lat": "54.08524799972647"
+    }
+  ]
+}

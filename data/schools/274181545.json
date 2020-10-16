@@ -1,0 +1,59 @@
+{
+  "place": {
+    "name": "Могилёв",
+    "osm_id": "-62145",
+    "hierarchy": [
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.910230383044635",
+    "lon": "30.33720298331428"
+  },
+  "group": [
+    {
+      "school_osm_id": "274181545",
+      "school_osm_type": "way",
+      "school_name": "Сярэдняя школа №21",
+      "place_osm_id": "-82606",
+      "place_admin_level": "9",
+      "place_place": "",
+      "place_name": "Ленинский район",
+      "lon": "30.33720298331428",
+      "lat": "53.910230383044635"
+    },
+    {
+      "school_osm_id": "274181545",
+      "school_osm_type": "way",
+      "school_name": "Сярэдняя школа №21",
+      "place_osm_id": "-62145",
+      "place_admin_level": "6",
+      "place_place": "city",
+      "place_name": "Могилёв",
+      "lon": "30.33720298331428",
+      "lat": "53.910230383044635"
+    },
+    {
+      "school_osm_id": "274181545",
+      "school_osm_type": "way",
+      "school_name": "Сярэдняя школа №21",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "30.33720298331428",
+      "lat": "53.910230383044635"
+    },
+    {
+      "school_osm_id": "274181545",
+      "school_osm_type": "way",
+      "school_name": "Сярэдняя школа №21",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.33720298331428",
+      "lat": "53.910230383044635"
+    }
+  ]
+}

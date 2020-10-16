@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Мышанка",
+    "osm_id": "-7450143",
+    "hierarchy": [
+      "Мышанский сельский Совет",
+      "Петриковский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.179800133820656",
+    "lon": "28.965605827715304"
+  },
+  "group": [
+    {
+      "school_osm_id": "291133496",
+      "school_osm_type": "way",
+      "school_name": "Мышанская средняя школа",
+      "place_osm_id": "-8087870",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Мышанский сельский Совет",
+      "lon": "28.965605827715304",
+      "lat": "52.179800133820656"
+    },
+    {
+      "school_osm_id": "291133496",
+      "school_osm_type": "way",
+      "school_name": "Мышанская средняя школа",
+      "place_osm_id": "-7450143",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Мышанка",
+      "lon": "28.965605827715304",
+      "lat": "52.179800133820656"
+    },
+    {
+      "school_osm_id": "291133496",
+      "school_osm_type": "way",
+      "school_name": "Мышанская средняя школа",
+      "place_osm_id": "-71145",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Петриковский район",
+      "lon": "28.965605827715304",
+      "lat": "52.179800133820656"
+    },
+    {
+      "school_osm_id": "291133496",
+      "school_osm_type": "way",
+      "school_name": "Мышанская средняя школа",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "28.965605827715304",
+      "lat": "52.179800133820656"
+    },
+    {
+      "school_osm_id": "291133496",
+      "school_osm_type": "way",
+      "school_name": "Мышанская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.965605827715304",
+      "lat": "52.179800133820656"
+    }
+  ]
+}

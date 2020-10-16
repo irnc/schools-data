@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Великий Бор",
+    "osm_id": "-7453564",
+    "hierarchy": [
+      "Великоборский сельский Совет",
+      "Хойникский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.03246457170099",
+    "lon": "29.92849841881182"
+  },
+  "group": [
+    {
+      "school_osm_id": "368150335",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8031215",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Великоборский сельский Совет",
+      "lon": "29.92849841881182",
+      "lat": "52.03246457170099"
+    },
+    {
+      "school_osm_id": "368150335",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7453564",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Великий Бор",
+      "lon": "29.92849841881182",
+      "lat": "52.03246457170099"
+    },
+    {
+      "school_osm_id": "368150335",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70802",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Хойникский район",
+      "lon": "29.92849841881182",
+      "lat": "52.03246457170099"
+    },
+    {
+      "school_osm_id": "368150335",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "29.92849841881182",
+      "lat": "52.03246457170099"
+    },
+    {
+      "school_osm_id": "368150335",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.92849841881182",
+      "lat": "52.03246457170099"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Пыхань",
+    "osm_id": "-7442490",
+    "hierarchy": [
+      "Даниловичский сельский Совет",
+      "Ветковский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.609084832261615",
+    "lon": "30.929471196786782"
+  },
+  "group": [
+    {
+      "school_osm_id": "405584175",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8031184",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Даниловичский сельский Совет",
+      "lon": "30.929471196786782",
+      "lat": "52.609084832261615"
+    },
+    {
+      "school_osm_id": "405584175",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7442490",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Пыхань",
+      "lon": "30.929471196786782",
+      "lat": "52.609084832261615"
+    },
+    {
+      "school_osm_id": "405584175",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70795",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Ветковский район",
+      "lon": "30.929471196786782",
+      "lat": "52.609084832261615"
+    },
+    {
+      "school_osm_id": "405584175",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "30.929471196786782",
+      "lat": "52.609084832261615"
+    },
+    {
+      "school_osm_id": "405584175",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.929471196786782",
+      "lat": "52.609084832261615"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "167885225",
+    "school_osm_type": "way",
+    "school_name": "Вишнёвская начальная школа",
+    "place_osm_id": "-7547099",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Вишнёвка",
+    "lon": "27.554919305841157",
+    "lat": "54.059055482781794"
+  },
+  {
+    "school_osm_id": "343943726",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7547099",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Вишнёвка",
+    "lon": "27.554740191377427",
+    "lat": "54.058096374791674"
+  }
+]

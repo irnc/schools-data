@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Губичи",
+    "osm_id": "-6727753",
+    "hierarchy": [
+      "Губичский сельский Совет",
+      "Буда-Кошелёвский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.69126662400321",
+    "lon": "30.31287686215689"
+  },
+  "group": [
+    {
+      "school_osm_id": "593477431",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-6727753",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Губичи",
+      "lon": "30.31287686215689",
+      "lat": "52.69126662400321"
+    },
+    {
+      "school_osm_id": "593477431",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-6727577",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Губичский сельский Совет",
+      "lon": "30.31287686215689",
+      "lat": "52.69126662400321"
+    },
+    {
+      "school_osm_id": "593477431",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59175",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Буда-Кошелёвский район",
+      "lon": "30.31287686215689",
+      "lat": "52.69126662400321"
+    },
+    {
+      "school_osm_id": "593477431",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "30.31287686215689",
+      "lat": "52.69126662400321"
+    },
+    {
+      "school_osm_id": "593477431",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.31287686215689",
+      "lat": "52.69126662400321"
+    }
+  ]
+}

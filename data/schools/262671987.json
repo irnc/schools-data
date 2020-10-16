@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Добрынь",
+    "osm_id": "-7443234",
+    "hierarchy": [
+      "Добрынский сельский Совет",
+      "Ельский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "51.76922297294218",
+    "lon": "29.19657924664208"
+  },
+  "group": [
+    {
+      "school_osm_id": "262671987",
+      "school_osm_type": "way",
+      "school_name": "Школа",
+      "place_osm_id": "-8030868",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Добрынский сельский Совет",
+      "lon": "29.19657924664208",
+      "lat": "51.76922297294218"
+    },
+    {
+      "school_osm_id": "262671987",
+      "school_osm_type": "way",
+      "school_name": "Школа",
+      "place_osm_id": "-7443234",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Добрынь",
+      "lon": "29.19657924664208",
+      "lat": "51.76922297294218"
+    },
+    {
+      "school_osm_id": "262671987",
+      "school_osm_type": "way",
+      "school_name": "Школа",
+      "place_osm_id": "-70810",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Ельский район",
+      "lon": "29.19657924664208",
+      "lat": "51.76922297294218"
+    },
+    {
+      "school_osm_id": "262671987",
+      "school_osm_type": "way",
+      "school_name": "Школа",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "29.19657924664208",
+      "lat": "51.76922297294218"
+    },
+    {
+      "school_osm_id": "262671987",
+      "school_osm_type": "way",
+      "school_name": "Школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.19657924664208",
+      "lat": "51.76922297294218"
+    }
+  ]
+}

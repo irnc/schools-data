@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "407521494",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7453265",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Хутор",
+    "lon": "29.757560713001496",
+    "lat": "52.50083027859013"
+  },
+  {
+    "school_osm_id": "4406354091",
+    "school_osm_type": "node",
+    "school_name": "",
+    "place_osm_id": "-7453265",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Хутор",
+    "lon": "29.757565300000003",
+    "lat": "52.50041869908811"
+  }
+]

@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Ивенец",
+    "osm_id": "-6722711",
+    "hierarchy": [
+      "Воложинский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.89548687485279",
+    "lon": "26.745706423782632"
+  },
+  "group": [
+    {
+      "school_osm_id": "645176195",
+      "school_osm_type": "way",
+      "school_name": "Школа-Интернат",
+      "place_osm_id": "-6722711",
+      "place_admin_level": "8",
+      "place_place": "village",
+      "place_name": "Ивенец",
+      "lon": "26.745706423782632",
+      "lat": "53.89548687485279"
+    },
+    {
+      "school_osm_id": "645176195",
+      "school_osm_type": "way",
+      "school_name": "Школа-Интернат",
+      "place_osm_id": "-70565",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Воложинский район",
+      "lon": "26.745706423782632",
+      "lat": "53.89548687485279"
+    },
+    {
+      "school_osm_id": "645176195",
+      "school_osm_type": "way",
+      "school_name": "Школа-Интернат",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "26.745706423782632",
+      "lat": "53.89548687485279"
+    },
+    {
+      "school_osm_id": "645176195",
+      "school_osm_type": "way",
+      "school_name": "Школа-Интернат",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.745706423782632",
+      "lat": "53.89548687485279"
+    }
+  ]
+}

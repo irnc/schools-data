@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Крулевщина",
+    "osm_id": "-7483313",
+    "hierarchy": [
+      "Крулевщинский сельский Совет",
+      "Докшицкий район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.02370668841956",
+    "lon": "27.78567589014823"
+  },
+  "group": [
+    {
+      "school_osm_id": "-11586954",
+      "school_osm_type": "relation",
+      "school_name": "Крулеўшчынская сярэдняя школа",
+      "place_osm_id": "-8016718",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Крулевщинский сельский Совет",
+      "lon": "27.78567589014823",
+      "lat": "55.02370668841956"
+    },
+    {
+      "school_osm_id": "-11586954",
+      "school_osm_type": "relation",
+      "school_name": "Крулеўшчынская сярэдняя школа",
+      "place_osm_id": "-7483313",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Крулевщина",
+      "lon": "27.78567589014823",
+      "lat": "55.02370668841956"
+    },
+    {
+      "school_osm_id": "-11586954",
+      "school_osm_type": "relation",
+      "school_name": "Крулеўшчынская сярэдняя школа",
+      "place_osm_id": "-70716",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Докшицкий район",
+      "lon": "27.78567589014823",
+      "lat": "55.02370668841956"
+    },
+    {
+      "school_osm_id": "-11586954",
+      "school_osm_type": "relation",
+      "school_name": "Крулеўшчынская сярэдняя школа",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "27.78567589014823",
+      "lat": "55.02370668841956"
+    },
+    {
+      "school_osm_id": "-11586954",
+      "school_osm_type": "relation",
+      "school_name": "Крулеўшчынская сярэдняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.78567589014823",
+      "lat": "55.02370668841956"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Обруб",
+    "osm_id": "-7480284",
+    "hierarchy": [
+      "Обрубский сельский Совет",
+      "Глубокский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.10520691808184",
+    "lon": "27.774383509879662"
+  },
+  "group": [
+    {
+      "school_osm_id": "391342887",
+      "school_osm_type": "way",
+      "school_name": "Кіраўская СШ",
+      "place_osm_id": "-7980390",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Обрубский сельский Совет",
+      "lon": "27.774383509879662",
+      "lat": "55.10520691808184"
+    },
+    {
+      "school_osm_id": "391342887",
+      "school_osm_type": "way",
+      "school_name": "Кіраўская СШ",
+      "place_osm_id": "-7480284",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Обруб",
+      "lon": "27.774383509879662",
+      "lat": "55.10520691808184"
+    },
+    {
+      "school_osm_id": "391342887",
+      "school_osm_type": "way",
+      "school_name": "Кіраўская СШ",
+      "place_osm_id": "-70703",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Глубокский район",
+      "lon": "27.774383509879662",
+      "lat": "55.10520691808184"
+    },
+    {
+      "school_osm_id": "391342887",
+      "school_osm_type": "way",
+      "school_name": "Кіраўская СШ",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "27.774383509879662",
+      "lat": "55.10520691808184"
+    },
+    {
+      "school_osm_id": "391342887",
+      "school_osm_type": "way",
+      "school_name": "Кіраўская СШ",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.774383509879662",
+      "lat": "55.10520691808184"
+    }
+  ]
+}

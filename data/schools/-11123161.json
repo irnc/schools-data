@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Кировская",
+    "osm_id": "-7479926",
+    "hierarchy": [
+      "Летчанский сельский Совет",
+      "Витебский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.18921320841027",
+    "lon": "30.117528176420063"
+  },
+  "group": [
+    {
+      "school_osm_id": "-11123161",
+      "school_osm_type": "relation",
+      "school_name": "Кировская средняя школа",
+      "place_osm_id": "-7924018",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Летчанский сельский Совет",
+      "lon": "30.117528176420063",
+      "lat": "55.18921320841027"
+    },
+    {
+      "school_osm_id": "-11123161",
+      "school_osm_type": "relation",
+      "school_name": "Кировская средняя школа",
+      "place_osm_id": "-7479926",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Кировская",
+      "lon": "30.117528176420063",
+      "lat": "55.18921320841027"
+    },
+    {
+      "school_osm_id": "-11123161",
+      "school_osm_type": "relation",
+      "school_name": "Кировская средняя школа",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "30.117528176420063",
+      "lat": "55.18921320841027"
+    },
+    {
+      "school_osm_id": "-11123161",
+      "school_osm_type": "relation",
+      "school_name": "Кировская средняя школа",
+      "place_osm_id": "-59504",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Витебский район",
+      "lon": "30.117528176420063",
+      "lat": "55.18921320841027"
+    },
+    {
+      "school_osm_id": "-11123161",
+      "school_osm_type": "relation",
+      "school_name": "Кировская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.117528176420063",
+      "lat": "55.18921320841027"
+    }
+  ]
+}

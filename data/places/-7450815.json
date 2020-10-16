@@ -1,0 +1,35 @@
+[
+  {
+    "school_osm_id": "253144211",
+    "school_osm_type": "way",
+    "school_name": "Журавичский Ясли-сад",
+    "place_osm_id": "-7450815",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Журавичи",
+    "lon": "30.543731154886153",
+    "lat": "53.247804258891215"
+  },
+  {
+    "school_osm_id": "270972572",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7450815",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Журавичи",
+    "lon": "30.539319893260842",
+    "lat": "53.24749002029891"
+  },
+  {
+    "school_osm_id": "394525274",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7450815",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Журавичи",
+    "lon": "30.5436577120466",
+    "lat": "53.24790598711247"
+  }
+]

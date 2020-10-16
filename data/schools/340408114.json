@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Звонец",
+    "osm_id": "-7450817",
+    "hierarchy": [
+      "Звонецкий сельский Совет",
+      "Рогачёвский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.23331284162691",
+    "lon": "30.430735666909108"
+  },
+  "group": [
+    {
+      "school_osm_id": "340408114",
+      "school_osm_type": "way",
+      "school_name": "Звонецкая средняя школа",
+      "place_osm_id": "-8107304",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Звонецкий сельский Совет",
+      "lon": "30.430735666909108",
+      "lat": "53.23331284162691"
+    },
+    {
+      "school_osm_id": "340408114",
+      "school_osm_type": "way",
+      "school_name": "Звонецкая средняя школа",
+      "place_osm_id": "-7450817",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Звонец",
+      "lon": "30.430735666909108",
+      "lat": "53.23331284162691"
+    },
+    {
+      "school_osm_id": "340408114",
+      "school_osm_type": "way",
+      "school_name": "Звонецкая средняя школа",
+      "place_osm_id": "-59174",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Рогачёвский район",
+      "lon": "30.430735666909108",
+      "lat": "53.23331284162691"
+    },
+    {
+      "school_osm_id": "340408114",
+      "school_osm_type": "way",
+      "school_name": "Звонецкая средняя школа",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "30.430735666909108",
+      "lat": "53.23331284162691"
+    },
+    {
+      "school_osm_id": "340408114",
+      "school_osm_type": "way",
+      "school_name": "Звонецкая средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.430735666909108",
+      "lat": "53.23331284162691"
+    }
+  ]
+}

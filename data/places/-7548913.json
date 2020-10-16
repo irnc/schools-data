@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "285823322",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7548913",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Ратомка",
+    "lon": "27.34820132972888",
+    "lat": "53.94408234521735"
+  },
+  {
+    "school_osm_id": "1643324592",
+    "school_osm_type": "node",
+    "school_name": "Лицей",
+    "place_osm_id": "-7548913",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Ратомка",
+    "lon": "27.349056699999995",
+    "lat": "53.9481026991766"
+  }
+]

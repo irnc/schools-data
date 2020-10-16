@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Ганцевичи",
+    "osm_id": "-5602434",
+    "hierarchy": [
+      "Ганцевичский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.75715175550104",
+    "lon": "26.4298085332373"
+  },
+  "group": [
+    {
+      "school_osm_id": "212731686",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа №1",
+      "place_osm_id": "-5602434",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Ганцевичи",
+      "lon": "26.4298085332373",
+      "lat": "52.75715175550104"
+    },
+    {
+      "school_osm_id": "212731686",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа №1",
+      "place_osm_id": "-71121",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Ганцевичский район",
+      "lon": "26.4298085332373",
+      "lat": "52.75715175550104"
+    },
+    {
+      "school_osm_id": "212731686",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа №1",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "26.4298085332373",
+      "lat": "52.75715175550104"
+    },
+    {
+      "school_osm_id": "212731686",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа №1",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.4298085332373",
+      "lat": "52.75715175550104"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+[
+  {
+    "school_osm_id": "204432251",
+    "school_osm_type": "way",
+    "school_name": "Музыкальная школа",
+    "place_osm_id": "-6560431",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Сураж",
+    "lon": "30.72562270912756",
+    "lat": "55.40768611545284"
+  },
+  {
+    "school_osm_id": "206106152",
+    "school_osm_type": "way",
+    "school_name": "Бабінічская школа мастацтваў",
+    "place_osm_id": "-6560431",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Сураж",
+    "lon": "30.726049304238565",
+    "lat": "55.407889253217036"
+  },
+  {
+    "school_osm_id": "382714920",
+    "school_osm_type": "way",
+    "school_name": "Суражская средняя школа",
+    "place_osm_id": "-6560431",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Сураж",
+    "lon": "30.729328998478394",
+    "lat": "55.4058805046006"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "221325335",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7570377",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Могильно",
+    "lon": "26.983686503487867",
+    "lat": "53.41608761857418"
+  },
+  {
+    "school_osm_id": "697471456",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7570377",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Могильно",
+    "lon": "26.983984189830572",
+    "lat": "53.41605497011791"
+  }
+]

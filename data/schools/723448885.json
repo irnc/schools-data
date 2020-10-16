@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Хотляны",
+    "osm_id": "-7570248",
+    "hierarchy": [
+      "Хотлянский сельский Совет",
+      "Узденский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.40468538397832",
+    "lon": "27.556756719245893"
+  },
+  "group": [
+    {
+      "school_osm_id": "723448885",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8139708",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Хотлянский сельский Совет",
+      "lon": "27.556756719245893",
+      "lat": "53.40468538397832"
+    },
+    {
+      "school_osm_id": "723448885",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7570248",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Хотляны",
+      "lon": "27.556756719245893",
+      "lat": "53.40468538397832"
+    },
+    {
+      "school_osm_id": "723448885",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70561",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Узденский район",
+      "lon": "27.556756719245893",
+      "lat": "53.40468538397832"
+    },
+    {
+      "school_osm_id": "723448885",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.556756719245893",
+      "lat": "53.40468538397832"
+    },
+    {
+      "school_osm_id": "723448885",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.556756719245893",
+      "lat": "53.40468538397832"
+    }
+  ]
+}

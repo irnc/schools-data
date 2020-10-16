@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Лесная",
+    "osm_id": "-7609293",
+    "hierarchy": [
+      "Леснянский сельский Совет",
+      "Барановичский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.98917889231574",
+    "lon": "25.763535166898468"
+  },
+  "group": [
+    {
+      "school_osm_id": "610447082",
+      "school_osm_type": "way",
+      "school_name": "Леснянская средняя школа",
+      "place_osm_id": "-8096125",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Леснянский сельский Совет",
+      "lon": "25.763535166898468",
+      "lat": "52.98917889231574"
+    },
+    {
+      "school_osm_id": "610447082",
+      "school_osm_type": "way",
+      "school_name": "Леснянская средняя школа",
+      "place_osm_id": "-7609293",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Лесная",
+      "lon": "25.763535166898468",
+      "lat": "52.98917889231574"
+    },
+    {
+      "school_osm_id": "610447082",
+      "school_osm_type": "way",
+      "school_name": "Леснянская средняя школа",
+      "place_osm_id": "-71116",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Барановичский район",
+      "lon": "25.763535166898468",
+      "lat": "52.98917889231574"
+    },
+    {
+      "school_osm_id": "610447082",
+      "school_osm_type": "way",
+      "school_name": "Леснянская средняя школа",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "25.763535166898468",
+      "lat": "52.98917889231574"
+    },
+    {
+      "school_osm_id": "610447082",
+      "school_osm_type": "way",
+      "school_name": "Леснянская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "25.763535166898468",
+      "lat": "52.98917889231574"
+    }
+  ]
+}

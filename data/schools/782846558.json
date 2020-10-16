@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Белин",
+    "osm_id": "-7463827",
+    "hierarchy": [
+      "Осовецкий сельский Совет",
+      "Дрогичинский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.047262989161865",
+    "lon": "25.210288867995292"
+  },
+  "group": [
+    {
+      "school_osm_id": "782846558",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7927914",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Осовецкий сельский Совет",
+      "lon": "25.210288867995292",
+      "lat": "52.047262989161865"
+    },
+    {
+      "school_osm_id": "782846558",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7463827",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Белин",
+      "lon": "25.210288867995292",
+      "lat": "52.047262989161865"
+    },
+    {
+      "school_osm_id": "782846558",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-71105",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Дрогичинский район",
+      "lon": "25.210288867995292",
+      "lat": "52.047262989161865"
+    },
+    {
+      "school_osm_id": "782846558",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "25.210288867995292",
+      "lat": "52.047262989161865"
+    },
+    {
+      "school_osm_id": "782846558",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "25.210288867995292",
+      "lat": "52.047262989161865"
+    }
+  ]
+}

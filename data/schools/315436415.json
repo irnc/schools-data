@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Слобода",
+    "osm_id": "-7446655",
+    "hierarchy": [
+      "Слободской сельский Совет",
+      "Мозырский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.04484137230552",
+    "lon": "29.00298199771179"
+  },
+  "group": [
+    {
+      "school_osm_id": "315436415",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8087881",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Слободской сельский Совет",
+      "lon": "29.00298199771179",
+      "lat": "52.04484137230552"
+    },
+    {
+      "school_osm_id": "315436415",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7446655",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Слобода",
+      "lon": "29.00298199771179",
+      "lat": "52.04484137230552"
+    },
+    {
+      "school_osm_id": "315436415",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70815",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Мозырский район",
+      "lon": "29.00298199771179",
+      "lat": "52.04484137230552"
+    },
+    {
+      "school_osm_id": "315436415",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "29.00298199771179",
+      "lat": "52.04484137230552"
+    },
+    {
+      "school_osm_id": "315436415",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.00298199771179",
+      "lat": "52.04484137230552"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Круча",
+    "osm_id": "-7586152",
+    "hierarchy": [
+      "Филатовский сельский Совет",
+      "Круглянский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.246582937674056",
+    "lon": "29.539230041486082"
+  },
+  "group": [
+    {
+      "school_osm_id": "216380440",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8144333",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Филатовский сельский Совет",
+      "lon": "29.539230041486082",
+      "lat": "54.246582937674056"
+    },
+    {
+      "school_osm_id": "216380440",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7586152",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Круча",
+      "lon": "29.539230041486082",
+      "lat": "54.246582937674056"
+    },
+    {
+      "school_osm_id": "216380440",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70638",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Круглянский район",
+      "lon": "29.539230041486082",
+      "lat": "54.246582937674056"
+    },
+    {
+      "school_osm_id": "216380440",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "29.539230041486082",
+      "lat": "54.246582937674056"
+    },
+    {
+      "school_osm_id": "216380440",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.539230041486082",
+      "lat": "54.246582937674056"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Щорсы",
+    "osm_id": "-7522405",
+    "hierarchy": [
+      "Щорсовский сельский Совет",
+      "Новогрудский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.65236409801193",
+    "lon": "26.170961417619555"
+  },
+  "group": [
+    {
+      "school_osm_id": "377171688",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8100413",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Щорсовский сельский Совет",
+      "lon": "26.170961417619555",
+      "lat": "53.65236409801193"
+    },
+    {
+      "school_osm_id": "377171688",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7522405",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Щорсы",
+      "lon": "26.170961417619555",
+      "lat": "53.65236409801193"
+    },
+    {
+      "school_osm_id": "377171688",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70749",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Новогрудский район",
+      "lon": "26.170961417619555",
+      "lat": "53.65236409801193"
+    },
+    {
+      "school_osm_id": "377171688",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "26.170961417619555",
+      "lat": "53.65236409801193"
+    },
+    {
+      "school_osm_id": "377171688",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.170961417619555",
+      "lat": "53.65236409801193"
+    }
+  ]
+}

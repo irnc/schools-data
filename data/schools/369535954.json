@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Подсвилье",
+    "osm_id": "-7480212",
+    "hierarchy": [
+      "Подсвильский сельский Совет",
+      "Глубокский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.14591387344928",
+    "lon": "27.965006483938236"
+  },
+  "group": [
+    {
+      "school_osm_id": "369535954",
+      "school_osm_type": "way",
+      "school_name": "Подсвильская ясли-сад - средняя школа",
+      "place_osm_id": "-7980393",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Подсвильский сельский Совет",
+      "lon": "27.965006483938236",
+      "lat": "55.14591387344928"
+    },
+    {
+      "school_osm_id": "369535954",
+      "school_osm_type": "way",
+      "school_name": "Подсвильская ясли-сад - средняя школа",
+      "place_osm_id": "-7480212",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Подсвилье",
+      "lon": "27.965006483938236",
+      "lat": "55.14591387344928"
+    },
+    {
+      "school_osm_id": "369535954",
+      "school_osm_type": "way",
+      "school_name": "Подсвильская ясли-сад - средняя школа",
+      "place_osm_id": "-70703",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Глубокский район",
+      "lon": "27.965006483938236",
+      "lat": "55.14591387344928"
+    },
+    {
+      "school_osm_id": "369535954",
+      "school_osm_type": "way",
+      "school_name": "Подсвильская ясли-сад - средняя школа",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "27.965006483938236",
+      "lat": "55.14591387344928"
+    },
+    {
+      "school_osm_id": "369535954",
+      "school_osm_type": "way",
+      "school_name": "Подсвильская ясли-сад - средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.965006483938236",
+      "lat": "55.14591387344928"
+    }
+  ]
+}

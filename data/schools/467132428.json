@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Дворище",
+    "osm_id": "-7536229",
+    "hierarchy": [
+      "Демидовичский сельский Совет",
+      "Дзержинский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.80395516729607",
+    "lon": "27.239011781968753"
+  },
+  "group": [
+    {
+      "school_osm_id": "467132428",
+      "school_osm_type": "way",
+      "school_name": "Дворищанская средняя школа",
+      "place_osm_id": "-8139706",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Демидовичский сельский Совет",
+      "lon": "27.239011781968753",
+      "lat": "53.80395516729607"
+    },
+    {
+      "school_osm_id": "467132428",
+      "school_osm_type": "way",
+      "school_name": "Дворищанская средняя школа",
+      "place_osm_id": "-7536229",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Дворище",
+      "lon": "27.239011781968753",
+      "lat": "53.80395516729607"
+    },
+    {
+      "school_osm_id": "467132428",
+      "school_osm_type": "way",
+      "school_name": "Дворищанская средняя школа",
+      "place_osm_id": "-70563",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Дзержинский район",
+      "lon": "27.239011781968753",
+      "lat": "53.80395516729607"
+    },
+    {
+      "school_osm_id": "467132428",
+      "school_osm_type": "way",
+      "school_name": "Дворищанская средняя школа",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.239011781968753",
+      "lat": "53.80395516729607"
+    },
+    {
+      "school_osm_id": "467132428",
+      "school_osm_type": "way",
+      "school_name": "Дворищанская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.239011781968753",
+      "lat": "53.80395516729607"
+    }
+  ]
+}

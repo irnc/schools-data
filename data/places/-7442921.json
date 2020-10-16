@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "468030307",
+    "school_osm_type": "way",
+    "school_name": "ГУО «Улуковская вспомогательная школа-интернат»",
+    "place_osm_id": "-7442921",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Улуковье",
+    "lon": "31.10241029429",
+    "lat": "52.40548196856764"
+  },
+  {
+    "school_osm_id": "836736681",
+    "school_osm_type": "way",
+    "school_name": "Головинская средняя школа",
+    "place_osm_id": "-7442921",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Улуковье",
+    "lon": "31.125572129955202",
+    "lat": "52.39901148091849"
+  }
+]

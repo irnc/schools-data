@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Хоневичи",
+    "osm_id": "-7526105",
+    "hierarchy": [
+      "Хоневичский сельский Совет",
+      "Свислочский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.880667090093795",
+    "lon": "24.55432441333061"
+  },
+  "group": [
+    {
+      "school_osm_id": "672245006",
+      "school_osm_type": "way",
+      "school_name": "Хоневичский детский сад-средняя школа",
+      "place_osm_id": "-8025377",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Хоневичский сельский Совет",
+      "lon": "24.55432441333061",
+      "lat": "52.880667090093795"
+    },
+    {
+      "school_osm_id": "672245006",
+      "school_osm_type": "way",
+      "school_name": "Хоневичский детский сад-средняя школа",
+      "place_osm_id": "-7526105",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Хоневичи",
+      "lon": "24.55432441333061",
+      "lat": "52.880667090093795"
+    },
+    {
+      "school_osm_id": "672245006",
+      "school_osm_type": "way",
+      "school_name": "Хоневичский детский сад-средняя школа",
+      "place_osm_id": "-71093",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Свислочский район",
+      "lon": "24.55432441333061",
+      "lat": "52.880667090093795"
+    },
+    {
+      "school_osm_id": "672245006",
+      "school_osm_type": "way",
+      "school_name": "Хоневичский детский сад-средняя школа",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "24.55432441333061",
+      "lat": "52.880667090093795"
+    },
+    {
+      "school_osm_id": "672245006",
+      "school_osm_type": "way",
+      "school_name": "Хоневичский детский сад-средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "24.55432441333061",
+      "lat": "52.880667090093795"
+    }
+  ]
+}

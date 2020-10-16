@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Кваторы",
+    "osm_id": "-4784047",
+    "hierarchy": [
+      "Пограничный сельский Совет",
+      "Берестовицкий район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.124443521503665",
+    "lon": "24.06245238005647"
+  },
+  "group": [
+    {
+      "school_osm_id": "689946604",
+      "school_osm_type": "way",
+      "school_name": "Кваторский ясли-сад-базовая школа",
+      "place_osm_id": "-8025371",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Пограничный сельский Совет",
+      "lon": "24.06245238005647",
+      "lat": "53.124443521503665"
+    },
+    {
+      "school_osm_id": "689946604",
+      "school_osm_type": "way",
+      "school_name": "Кваторский ясли-сад-базовая школа",
+      "place_osm_id": "-4784047",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Кваторы",
+      "lon": "24.06245238005647",
+      "lat": "53.124443521503665"
+    },
+    {
+      "school_osm_id": "689946604",
+      "school_osm_type": "way",
+      "school_name": "Кваторский ясли-сад-базовая школа",
+      "place_osm_id": "-70790",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Берестовицкий район",
+      "lon": "24.06245238005647",
+      "lat": "53.124443521503665"
+    },
+    {
+      "school_osm_id": "689946604",
+      "school_osm_type": "way",
+      "school_name": "Кваторский ясли-сад-базовая школа",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "24.06245238005647",
+      "lat": "53.124443521503665"
+    },
+    {
+      "school_osm_id": "689946604",
+      "school_osm_type": "way",
+      "school_name": "Кваторский ясли-сад-базовая школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "24.06245238005647",
+      "lat": "53.124443521503665"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Бородичи",
+    "osm_id": "-7514866",
+    "hierarchy": [
+      "Зельвенский сельский Совет",
+      "Зельвенский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.1603481878086",
+    "lon": "24.788577714197583"
+  },
+  "group": [
+    {
+      "school_osm_id": "530280281",
+      "school_osm_type": "way",
+      "school_name": "Бородичский детский сад - начальная школа",
+      "place_osm_id": "-8100435",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Зельвенский сельский Совет",
+      "lon": "24.788577714197583",
+      "lat": "53.1603481878086"
+    },
+    {
+      "school_osm_id": "530280281",
+      "school_osm_type": "way",
+      "school_name": "Бородичский детский сад - начальная школа",
+      "place_osm_id": "-7514866",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Бородичи",
+      "lon": "24.788577714197583",
+      "lat": "53.1603481878086"
+    },
+    {
+      "school_osm_id": "530280281",
+      "school_osm_type": "way",
+      "school_name": "Бородичский детский сад - начальная школа",
+      "place_osm_id": "-70772",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Зельвенский район",
+      "lon": "24.788577714197583",
+      "lat": "53.1603481878086"
+    },
+    {
+      "school_osm_id": "530280281",
+      "school_osm_type": "way",
+      "school_name": "Бородичский детский сад - начальная школа",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "24.788577714197583",
+      "lat": "53.1603481878086"
+    },
+    {
+      "school_osm_id": "530280281",
+      "school_osm_type": "way",
+      "school_name": "Бородичский детский сад - начальная школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "24.788577714197583",
+      "lat": "53.1603481878086"
+    }
+  ]
+}

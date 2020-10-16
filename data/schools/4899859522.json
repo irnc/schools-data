@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Турин",
+    "osm_id": "-7555944",
+    "hierarchy": [
+      "Туринский сельский Совет",
+      "Пуховичский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.58345159912803",
+    "lon": "28.243491999999996"
+  },
+  "group": [
+    {
+      "school_osm_id": "4899859522",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-8144230",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Туринский сельский Совет",
+      "lon": "28.243491999999996",
+      "lat": "53.58345159912803"
+    },
+    {
+      "school_osm_id": "4899859522",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-7555944",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Турин",
+      "lon": "28.243491999999996",
+      "lat": "53.58345159912803"
+    },
+    {
+      "school_osm_id": "4899859522",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-70549",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Пуховичский район",
+      "lon": "28.243491999999996",
+      "lat": "53.58345159912803"
+    },
+    {
+      "school_osm_id": "4899859522",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "28.243491999999996",
+      "lat": "53.58345159912803"
+    },
+    {
+      "school_osm_id": "4899859522",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.243491999999996",
+      "lat": "53.58345159912803"
+    }
+  ]
+}

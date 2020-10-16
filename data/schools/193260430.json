@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Новинка",
+    "osm_id": "-7502726",
+    "hierarchy": [
+      "Толочинский сельский Совет",
+      "Толочинский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.38943106535097",
+    "lon": "29.518596954570086"
+  },
+  "group": [
+    {
+      "school_osm_id": "193260430",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7975902",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Толочинский сельский Совет",
+      "lon": "29.518596954570086",
+      "lat": "54.38943106535097"
+    },
+    {
+      "school_osm_id": "193260430",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7502726",
+      "place_admin_level": "10",
+      "place_place": "hamlet",
+      "place_name": "Новинка",
+      "lon": "29.518596954570086",
+      "lat": "54.38943106535097"
+    },
+    {
+      "school_osm_id": "193260430",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70649",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Толочинский район",
+      "lon": "29.518596954570086",
+      "lat": "54.38943106535097"
+    },
+    {
+      "school_osm_id": "193260430",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "29.518596954570086",
+      "lat": "54.38943106535097"
+    },
+    {
+      "school_osm_id": "193260430",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.518596954570086",
+      "lat": "54.38943106535097"
+    }
+  ]
+}

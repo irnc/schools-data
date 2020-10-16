@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "-5510211",
+    "school_osm_type": "relation",
+    "school_name": "",
+    "place_osm_id": "-7572349",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Вишов",
+    "lon": "29.97892915250939",
+    "lat": "53.985760454466295"
+  },
+  {
+    "school_osm_id": "370960546",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7572349",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Вишов",
+    "lon": "29.979005887486778",
+    "lat": "53.985578483609956"
+  }
+]

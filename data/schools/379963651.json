@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Сочивки",
+    "osm_id": "-7465199",
+    "hierarchy": [
+      "Сочивковский сельский Совет",
+      "Ивановский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.23091643373832",
+    "lon": "25.443135262345645"
+  },
+  "group": [
+    {
+      "school_osm_id": "379963651",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8028549",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Сочивковский сельский Совет",
+      "lon": "25.443135262345645",
+      "lat": "52.23091643373832"
+    },
+    {
+      "school_osm_id": "379963651",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7465199",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Сочивки",
+      "lon": "25.443135262345645",
+      "lat": "52.23091643373832"
+    },
+    {
+      "school_osm_id": "379963651",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-71118",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Ивановский район",
+      "lon": "25.443135262345645",
+      "lat": "52.23091643373832"
+    },
+    {
+      "school_osm_id": "379963651",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "25.443135262345645",
+      "lat": "52.23091643373832"
+    },
+    {
+      "school_osm_id": "379963651",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "25.443135262345645",
+      "lat": "52.23091643373832"
+    }
+  ]
+}

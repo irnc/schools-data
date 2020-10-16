@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Новые Максимовичи",
+    "osm_id": "-7583304",
+    "hierarchy": [
+      "Колбчанский сельский Совет",
+      "Кличевский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.621686492117945",
+    "lon": "29.126499463209697"
+  },
+  "group": [
+    {
+      "school_osm_id": "214732623",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8144229",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Колбчанский сельский Совет",
+      "lon": "29.126499463209697",
+      "lat": "53.621686492117945"
+    },
+    {
+      "school_osm_id": "214732623",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7583304",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Новые Максимовичи",
+      "lon": "29.126499463209697",
+      "lat": "53.621686492117945"
+    },
+    {
+      "school_osm_id": "214732623",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70577",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Кличевский район",
+      "lon": "29.126499463209697",
+      "lat": "53.621686492117945"
+    },
+    {
+      "school_osm_id": "214732623",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "29.126499463209697",
+      "lat": "53.621686492117945"
+    },
+    {
+      "school_osm_id": "214732623",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.126499463209697",
+      "lat": "53.621686492117945"
+    }
+  ]
+}

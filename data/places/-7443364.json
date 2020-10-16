@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "420678442",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7443364",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Дуброва",
+    "lon": "28.01568851284929",
+    "lat": "52.33400191913316"
+  },
+  {
+    "school_osm_id": "420678445",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7443364",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Дуброва",
+    "lon": "28.019709208497787",
+    "lat": "52.33661462216722"
+  }
+]

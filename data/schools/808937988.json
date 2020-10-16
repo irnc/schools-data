@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Житомля",
+    "osm_id": "-6898045",
+    "hierarchy": [
+      "Вертелишковский сельский Совет",
+      "Гродненский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.63102526462626",
+    "lon": "24.101177920240275"
+  },
+  "group": [
+    {
+      "school_osm_id": "808937988",
+      "school_osm_type": "way",
+      "school_name": "Житомлянская средняя школа",
+      "place_osm_id": "-8025359",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Вертелишковский сельский Совет",
+      "lon": "24.101177920240275",
+      "lat": "53.63102526462626"
+    },
+    {
+      "school_osm_id": "808937988",
+      "school_osm_type": "way",
+      "school_name": "Житомлянская средняя школа",
+      "place_osm_id": "-6898045",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Житомля",
+      "lon": "24.101177920240275",
+      "lat": "53.63102526462626"
+    },
+    {
+      "school_osm_id": "808937988",
+      "school_osm_type": "way",
+      "school_name": "Житомлянская средняя школа",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "24.101177920240275",
+      "lat": "53.63102526462626"
+    },
+    {
+      "school_osm_id": "808937988",
+      "school_osm_type": "way",
+      "school_name": "Житомлянская средняя школа",
+      "place_osm_id": "-59273",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Гродненский район",
+      "lon": "24.101177920240275",
+      "lat": "53.63102526462626"
+    },
+    {
+      "school_osm_id": "808937988",
+      "school_osm_type": "way",
+      "school_name": "Житомлянская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "24.101177920240275",
+      "lat": "53.63102526462626"
+    }
+  ]
+}

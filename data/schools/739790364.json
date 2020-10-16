@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Новое Поле",
+    "osm_id": "-7549125",
+    "hierarchy": [
+      "Горанский сельский Совет",
+      "Минский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.974985077929816",
+    "lon": "27.129975322255593"
+  },
+  "group": [
+    {
+      "school_osm_id": "739790364",
+      "school_osm_type": "way",
+      "school_name": "Новопольская средняя школа",
+      "place_osm_id": "-8144267",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Горанский сельский Совет",
+      "lon": "27.129975322255593",
+      "lat": "53.974985077929816"
+    },
+    {
+      "school_osm_id": "739790364",
+      "school_osm_type": "way",
+      "school_name": "Новопольская средняя школа",
+      "place_osm_id": "-7549125",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Новое Поле",
+      "lon": "27.129975322255593",
+      "lat": "53.974985077929816"
+    },
+    {
+      "school_osm_id": "739790364",
+      "school_osm_type": "way",
+      "school_name": "Новопольская средняя школа",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.129975322255593",
+      "lat": "53.974985077929816"
+    },
+    {
+      "school_osm_id": "739790364",
+      "school_osm_type": "way",
+      "school_name": "Новопольская средняя школа",
+      "place_osm_id": "-59190",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Минский район",
+      "lon": "27.129975322255593",
+      "lat": "53.974985077929816"
+    },
+    {
+      "school_osm_id": "739790364",
+      "school_osm_type": "way",
+      "school_name": "Новопольская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.129975322255593",
+      "lat": "53.974985077929816"
+    }
+  ]
+}

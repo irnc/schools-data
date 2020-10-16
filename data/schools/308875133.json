@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Озерцы",
+    "osm_id": "-7480267",
+    "hierarchy": [
+      "Озерецкий сельский Совет",
+      "Глубокский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.19514831323354",
+    "lon": "27.7717067961179"
+  },
+  "group": [
+    {
+      "school_osm_id": "308875133",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа",
+      "place_osm_id": "-7980391",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Озерецкий сельский Совет",
+      "lon": "27.7717067961179",
+      "lat": "55.19514831323354"
+    },
+    {
+      "school_osm_id": "308875133",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа",
+      "place_osm_id": "-7480267",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Озерцы",
+      "lon": "27.7717067961179",
+      "lat": "55.19514831323354"
+    },
+    {
+      "school_osm_id": "308875133",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа",
+      "place_osm_id": "-70703",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Глубокский район",
+      "lon": "27.7717067961179",
+      "lat": "55.19514831323354"
+    },
+    {
+      "school_osm_id": "308875133",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "27.7717067961179",
+      "lat": "55.19514831323354"
+    },
+    {
+      "school_osm_id": "308875133",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.7717067961179",
+      "lat": "55.19514831323354"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Драчково",
+    "osm_id": "-7566045",
+    "hierarchy": [
+      "Драчковский сельский Совет",
+      "Смолевичский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.82129134044288",
+    "lon": "28.071947646382736"
+  },
+  "group": [
+    {
+      "school_osm_id": "704993043",
+      "school_osm_type": "way",
+      "school_name": "Драчковская средняя школа",
+      "place_osm_id": "-8144318",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Драчковский сельский Совет",
+      "lon": "28.071947646382736",
+      "lat": "53.82129134044288"
+    },
+    {
+      "school_osm_id": "704993043",
+      "school_osm_type": "way",
+      "school_name": "Драчковская средняя школа",
+      "place_osm_id": "-7566045",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Драчково",
+      "lon": "28.071947646382736",
+      "lat": "53.82129134044288"
+    },
+    {
+      "school_osm_id": "704993043",
+      "school_osm_type": "way",
+      "school_name": "Драчковская средняя школа",
+      "place_osm_id": "-69554",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Смолевичский район",
+      "lon": "28.071947646382736",
+      "lat": "53.82129134044288"
+    },
+    {
+      "school_osm_id": "704993043",
+      "school_osm_type": "way",
+      "school_name": "Драчковская средняя школа",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "28.071947646382736",
+      "lat": "53.82129134044288"
+    },
+    {
+      "school_osm_id": "704993043",
+      "school_osm_type": "way",
+      "school_name": "Драчковская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.071947646382736",
+      "lat": "53.82129134044288"
+    }
+  ]
+}

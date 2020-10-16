@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Бадёрый",
+    "osm_id": "-7440558",
+    "hierarchy": [
+      "Морозовичский сельский Совет",
+      "Буда-Кошелёвский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.67470709908456",
+    "lon": "30.617528800000002"
+  },
+  "group": [
+    {
+      "school_osm_id": "4401091492",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-7440558",
+      "place_admin_level": "10",
+      "place_place": "hamlet",
+      "place_name": "Бадёрый",
+      "lon": "30.617528800000002",
+      "lat": "52.67470709908456"
+    },
+    {
+      "school_osm_id": "4401091492",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-6885975",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Морозовичский сельский Совет",
+      "lon": "30.617528800000002",
+      "lat": "52.67470709908456"
+    },
+    {
+      "school_osm_id": "4401091492",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-59175",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Буда-Кошелёвский район",
+      "lon": "30.617528800000002",
+      "lat": "52.67470709908456"
+    },
+    {
+      "school_osm_id": "4401091492",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "30.617528800000002",
+      "lat": "52.67470709908456"
+    },
+    {
+      "school_osm_id": "4401091492",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.617528800000002",
+      "lat": "52.67470709908456"
+    }
+  ]
+}

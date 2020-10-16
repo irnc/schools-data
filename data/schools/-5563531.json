@@ -1,0 +1,75 @@
+{
+  "place": "warning-school-without-place",
+  "geo": {
+    "lat": "53.93470842799538",
+    "lon": "27.58738815749108"
+  },
+  "group": [
+    {
+      "school_osm_id": "-5563531",
+      "school_osm_type": "relation",
+      "school_name": "Гимназия №6",
+      "place_osm_id": "-59250",
+      "place_admin_level": "9",
+      "place_place": "",
+      "place_name": "Советский район",
+      "lon": "27.58738815749108",
+      "lat": "53.93470842799538"
+    },
+    {
+      "school_osm_id": "-5563531",
+      "school_osm_type": "relation",
+      "school_name": "Гимназия №6",
+      "place_osm_id": "-59250",
+      "place_admin_level": "9",
+      "place_place": "",
+      "place_name": "Советский район",
+      "lon": "27.597400978529866",
+      "lat": "53.93426616789659"
+    },
+    {
+      "school_osm_id": "-5563531",
+      "school_osm_type": "relation",
+      "school_name": "Гимназия №6",
+      "place_osm_id": "-59195",
+      "place_admin_level": "4",
+      "place_place": "city",
+      "place_name": "Минск",
+      "lon": "27.58738815749108",
+      "lat": "53.93470842799538"
+    },
+    {
+      "school_osm_id": "-5563531",
+      "school_osm_type": "relation",
+      "school_name": "Гимназия №6",
+      "place_osm_id": "-59195",
+      "place_admin_level": "4",
+      "place_place": "city",
+      "place_name": "Минск",
+      "lon": "27.597400978529866",
+      "lat": "53.93426616789659"
+    },
+    {
+      "school_osm_id": "-5563531",
+      "school_osm_type": "relation",
+      "school_name": "Гимназия №6",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.58738815749108",
+      "lat": "53.93470842799538"
+    },
+    {
+      "school_osm_id": "-5563531",
+      "school_osm_type": "relation",
+      "school_name": "Гимназия №6",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.597400978529866",
+      "lat": "53.93426616789659"
+    }
+  ]
+}

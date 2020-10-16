@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "-3225166",
+    "school_osm_type": "relation",
+    "school_name": "СШ №2",
+    "place_osm_id": "-5598567",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Ельск",
+    "lon": "29.168571841168653",
+    "lat": "51.81330171810507"
+  },
+  {
+    "school_osm_id": "3915801786",
+    "school_osm_type": "node",
+    "school_name": "Школа-Интернат",
+    "place_osm_id": "-5598567",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Ельск",
+    "lon": "29.1538459",
+    "lat": "51.80222789913637"
+  }
+]

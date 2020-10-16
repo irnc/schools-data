@@ -1,0 +1,46 @@
+[
+  {
+    "school_osm_id": "169345145",
+    "school_osm_type": "way",
+    "school_name": "Центр внешкольной работы",
+    "place_osm_id": "-5139654",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Тереховка",
+    "lon": "31.420822381141623",
+    "lat": "52.21688310380381"
+  },
+  {
+    "school_osm_id": "257587638",
+    "school_osm_type": "way",
+    "school_name": "Тереховский УПК",
+    "place_osm_id": "-5139654",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Тереховка",
+    "lon": "31.449668245340966",
+    "lat": "52.21397988703558"
+  },
+  {
+    "school_osm_id": "257587665",
+    "school_osm_type": "way",
+    "school_name": "Тереховская СОШ №2",
+    "place_osm_id": "-5139654",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Тереховка",
+    "lon": "31.44927742353216",
+    "lat": "52.21264649182218"
+  },
+  {
+    "school_osm_id": "406417767",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-5139654",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Тереховка",
+    "lon": "31.427498243792993",
+    "lat": "52.21836207410688"
+  }
+]

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Молчадь",
+    "osm_id": "-4718432",
+    "hierarchy": [
+      "Молчадский сельский Совет",
+      "Барановичский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.31543449213293",
+    "lon": "25.693119030148054"
+  },
+  "group": [
+    {
+      "school_osm_id": "590551817",
+      "school_osm_type": "way",
+      "school_name": "Молчадская средняя школа",
+      "place_osm_id": "-8096122",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Молчадский сельский Совет",
+      "lon": "25.693119030148054",
+      "lat": "53.31543449213293"
+    },
+    {
+      "school_osm_id": "590551817",
+      "school_osm_type": "way",
+      "school_name": "Молчадская средняя школа",
+      "place_osm_id": "-4718432",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Молчадь",
+      "lon": "25.693119030148054",
+      "lat": "53.31543449213293"
+    },
+    {
+      "school_osm_id": "590551817",
+      "school_osm_type": "way",
+      "school_name": "Молчадская средняя школа",
+      "place_osm_id": "-71116",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Барановичский район",
+      "lon": "25.693119030148054",
+      "lat": "53.31543449213293"
+    },
+    {
+      "school_osm_id": "590551817",
+      "school_osm_type": "way",
+      "school_name": "Молчадская средняя школа",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "25.693119030148054",
+      "lat": "53.31543449213293"
+    },
+    {
+      "school_osm_id": "590551817",
+      "school_osm_type": "way",
+      "school_name": "Молчадская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "25.693119030148054",
+      "lat": "53.31543449213293"
+    }
+  ]
+}

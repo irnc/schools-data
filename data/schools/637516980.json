@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Большие Эйсмонты",
+    "osm_id": "-7507267",
+    "hierarchy": [
+      "Эйсмонтовский сельский Совет",
+      "Берестовицкий район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.363516888317925",
+    "lon": "24.074883937043904"
+  },
+  "group": [
+    {
+      "school_osm_id": "637516980",
+      "school_osm_type": "way",
+      "school_name": "Большеэйсмонтовская средняя школа",
+      "place_osm_id": "-8025370",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Эйсмонтовский сельский Совет",
+      "lon": "24.074883937043904",
+      "lat": "53.363516888317925"
+    },
+    {
+      "school_osm_id": "637516980",
+      "school_osm_type": "way",
+      "school_name": "Большеэйсмонтовская средняя школа",
+      "place_osm_id": "-7507267",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Большие Эйсмонты",
+      "lon": "24.074883937043904",
+      "lat": "53.363516888317925"
+    },
+    {
+      "school_osm_id": "637516980",
+      "school_osm_type": "way",
+      "school_name": "Большеэйсмонтовская средняя школа",
+      "place_osm_id": "-70790",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Берестовицкий район",
+      "lon": "24.074883937043904",
+      "lat": "53.363516888317925"
+    },
+    {
+      "school_osm_id": "637516980",
+      "school_osm_type": "way",
+      "school_name": "Большеэйсмонтовская средняя школа",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "24.074883937043904",
+      "lat": "53.363516888317925"
+    },
+    {
+      "school_osm_id": "637516980",
+      "school_osm_type": "way",
+      "school_name": "Большеэйсмонтовская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "24.074883937043904",
+      "lat": "53.363516888317925"
+    }
+  ]
+}

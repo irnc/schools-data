@@ -1,0 +1,35 @@
+[
+  {
+    "school_osm_id": "122804595",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-1173272",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Городок",
+    "lon": "29.98164934751351",
+    "lat": "55.4625153124545"
+  },
+  {
+    "school_osm_id": "282402307",
+    "school_osm_type": "way",
+    "school_name": "Школа № 1",
+    "place_osm_id": "-1173272",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Городок",
+    "lon": "29.984126483104422",
+    "lat": "55.45774580361455"
+  },
+  {
+    "school_osm_id": "282486974",
+    "school_osm_type": "way",
+    "school_name": "Школа № 2",
+    "place_osm_id": "-1173272",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Городок",
+    "lon": "29.974305246509754",
+    "lat": "55.46747297602887"
+  }
+]

@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Копыль",
+    "osm_id": "-6722510",
+    "hierarchy": [
+      "Копыльский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.14638235763373",
+    "lon": "27.111276128260997"
+  },
+  "group": [
+    {
+      "school_osm_id": "787328533",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-6722510",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Копыль",
+      "lon": "27.111276128260997",
+      "lat": "53.14638235763373"
+    },
+    {
+      "school_osm_id": "787328533",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-71132",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Копыльский район",
+      "lon": "27.111276128260997",
+      "lat": "53.14638235763373"
+    },
+    {
+      "school_osm_id": "787328533",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.111276128260997",
+      "lat": "53.14638235763373"
+    },
+    {
+      "school_osm_id": "787328533",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.111276128260997",
+      "lat": "53.14638235763373"
+    }
+  ]
+}

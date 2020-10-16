@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Колбча",
+    "osm_id": "-7583298",
+    "hierarchy": [
+      "Колбчанский сельский Совет",
+      "Кличевский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.64526059913498",
+    "lon": "29.233118899999994"
+  },
+  "group": [
+    {
+      "school_osm_id": "7124052285",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-8144229",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Колбчанский сельский Совет",
+      "lon": "29.233118899999994",
+      "lat": "53.64526059913498"
+    },
+    {
+      "school_osm_id": "7124052285",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-7583298",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Колбча",
+      "lon": "29.233118899999994",
+      "lat": "53.64526059913498"
+    },
+    {
+      "school_osm_id": "7124052285",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-70577",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Кличевский район",
+      "lon": "29.233118899999994",
+      "lat": "53.64526059913498"
+    },
+    {
+      "school_osm_id": "7124052285",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "29.233118899999994",
+      "lat": "53.64526059913498"
+    },
+    {
+      "school_osm_id": "7124052285",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.233118899999994",
+      "lat": "53.64526059913498"
+    }
+  ]
+}

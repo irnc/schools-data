@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Гацук",
+    "osm_id": "-7556080",
+    "hierarchy": [
+      "Гацуковский сельский Совет",
+      "Слуцкий район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.32826995917147",
+    "lon": "27.51613817375853"
+  },
+  "group": [
+    {
+      "school_osm_id": "627615051",
+      "school_osm_type": "way",
+      "school_name": "Гацуковская средняя школа",
+      "place_osm_id": "-8144243",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Гацуковский сельский Совет",
+      "lon": "27.51613817375853",
+      "lat": "53.32826995917147"
+    },
+    {
+      "school_osm_id": "627615051",
+      "school_osm_type": "way",
+      "school_name": "Гацуковская средняя школа",
+      "place_osm_id": "-7556080",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Гацук",
+      "lon": "27.51613817375853",
+      "lat": "53.32826995917147"
+    },
+    {
+      "school_osm_id": "627615051",
+      "school_osm_type": "way",
+      "school_name": "Гацуковская средняя школа",
+      "place_osm_id": "-71134",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Слуцкий район",
+      "lon": "27.51613817375853",
+      "lat": "53.32826995917147"
+    },
+    {
+      "school_osm_id": "627615051",
+      "school_osm_type": "way",
+      "school_name": "Гацуковская средняя школа",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.51613817375853",
+      "lat": "53.32826995917147"
+    },
+    {
+      "school_osm_id": "627615051",
+      "school_osm_type": "way",
+      "school_name": "Гацуковская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.51613817375853",
+      "lat": "53.32826995917147"
+    }
+  ]
+}

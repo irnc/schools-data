@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Боброво",
+    "osm_id": "-7486006",
+    "hierarchy": [
+      "Бобровский сельский Совет",
+      "Лепельский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.01484165583849",
+    "lon": "28.990042730359363"
+  },
+  "group": [
+    {
+      "school_osm_id": "253990118",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7486006",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Боброво",
+      "lon": "28.990042730359363",
+      "lat": "55.01484165583849"
+    },
+    {
+      "school_osm_id": "253990118",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-6826051",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Бобровский сельский Совет",
+      "lon": "28.990042730359363",
+      "lat": "55.01484165583849"
+    },
+    {
+      "school_osm_id": "253990118",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70679",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Лепельский район",
+      "lon": "28.990042730359363",
+      "lat": "55.01484165583849"
+    },
+    {
+      "school_osm_id": "253990118",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "28.990042730359363",
+      "lat": "55.01484165583849"
+    },
+    {
+      "school_osm_id": "253990118",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.990042730359363",
+      "lat": "55.01484165583849"
+    }
+  ]
+}

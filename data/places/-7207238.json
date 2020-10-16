@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "37439310",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа",
+    "place_osm_id": "-7207238",
+    "place_admin_level": "10",
+    "place_place": "town",
+    "place_name": "Лесной",
+    "lon": "27.682448441584913",
+    "lat": "54.0094279727569"
+  },
+  {
+    "school_osm_id": "4716430095",
+    "school_osm_type": "node",
+    "school_name": "Музыкальная школа",
+    "place_osm_id": "-7207238",
+    "place_admin_level": "10",
+    "place_place": "town",
+    "place_name": "Лесной",
+    "lon": "27.683155599999996",
+    "lat": "54.00499229918583"
+  }
+]

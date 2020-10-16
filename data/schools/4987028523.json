@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Толочин",
+    "osm_id": "-6722347",
+    "hierarchy": [
+      "Толочинский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.40173409926291",
+    "lon": "29.6797868"
+  },
+  "group": [
+    {
+      "school_osm_id": "4987028523",
+      "school_osm_type": "node",
+      "school_name": "СДЮШОР Секция греко-римской борьбы",
+      "place_osm_id": "-6722347",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Толочин",
+      "lon": "29.6797868",
+      "lat": "54.40173409926291"
+    },
+    {
+      "school_osm_id": "4987028523",
+      "school_osm_type": "node",
+      "school_name": "СДЮШОР Секция греко-римской борьбы",
+      "place_osm_id": "-70649",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Толочинский район",
+      "lon": "29.6797868",
+      "lat": "54.40173409926291"
+    },
+    {
+      "school_osm_id": "4987028523",
+      "school_osm_type": "node",
+      "school_name": "СДЮШОР Секция греко-римской борьбы",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "29.6797868",
+      "lat": "54.40173409926291"
+    },
+    {
+      "school_osm_id": "4987028523",
+      "school_osm_type": "node",
+      "school_name": "СДЮШОР Секция греко-римской борьбы",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.6797868",
+      "lat": "54.40173409926291"
+    }
+  ]
+}

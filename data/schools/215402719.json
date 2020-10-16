@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Рубеж",
+    "osm_id": "-7586140",
+    "hierarchy": [
+      "Филатовский сельский Совет",
+      "Круглянский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.23870475006918",
+    "lon": "29.627063434029537"
+  },
+  "group": [
+    {
+      "school_osm_id": "215402719",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8144333",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Филатовский сельский Совет",
+      "lon": "29.627063434029537",
+      "lat": "54.23870475006918"
+    },
+    {
+      "school_osm_id": "215402719",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7586140",
+      "place_admin_level": "10",
+      "place_place": "hamlet",
+      "place_name": "Рубеж",
+      "lon": "29.627063434029537",
+      "lat": "54.23870475006918"
+    },
+    {
+      "school_osm_id": "215402719",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70638",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Круглянский район",
+      "lon": "29.627063434029537",
+      "lat": "54.23870475006918"
+    },
+    {
+      "school_osm_id": "215402719",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "29.627063434029537",
+      "lat": "54.23870475006918"
+    },
+    {
+      "school_osm_id": "215402719",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.627063434029537",
+      "lat": "54.23870475006918"
+    }
+  ]
+}

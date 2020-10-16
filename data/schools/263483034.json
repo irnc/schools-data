@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Перерост",
+    "osm_id": "-6904868",
+    "hierarchy": [
+      "Переростовский сельский Совет",
+      "Добрушский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.30384287124233",
+    "lon": "31.46633840493599"
+  },
+  "group": [
+    {
+      "school_osm_id": "263483034",
+      "school_osm_type": "way",
+      "school_name": "Переростовкая СШ",
+      "place_osm_id": "-8065397",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Переростовский сельский Совет",
+      "lon": "31.46633840493599",
+      "lat": "52.30384287124233"
+    },
+    {
+      "school_osm_id": "263483034",
+      "school_osm_type": "way",
+      "school_name": "Переростовкая СШ",
+      "place_osm_id": "-6904868",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Перерост",
+      "lon": "31.46633840493599",
+      "lat": "52.30384287124233"
+    },
+    {
+      "school_osm_id": "263483034",
+      "school_osm_type": "way",
+      "school_name": "Переростовкая СШ",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "31.46633840493599",
+      "lat": "52.30384287124233"
+    },
+    {
+      "school_osm_id": "263483034",
+      "school_osm_type": "way",
+      "school_name": "Переростовкая СШ",
+      "place_osm_id": "-59092",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Добрушский район",
+      "lon": "31.46633840493599",
+      "lat": "52.30384287124233"
+    },
+    {
+      "school_osm_id": "263483034",
+      "school_osm_type": "way",
+      "school_name": "Переростовкая СШ",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "31.46633840493599",
+      "lat": "52.30384287124233"
+    }
+  ]
+}

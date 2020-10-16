@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Глинное",
+    "osm_id": "-7483271",
+    "hierarchy": [
+      "Березинский сельский Совет",
+      "Докшицкий район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.892910313425894",
+    "lon": "28.00326898684707"
+  },
+  "group": [
+    {
+      "school_osm_id": "152023439",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8016711",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Березинский сельский Совет",
+      "lon": "28.00326898684707",
+      "lat": "54.892910313425894"
+    },
+    {
+      "school_osm_id": "152023439",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7483271",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Глинное",
+      "lon": "28.00326898684707",
+      "lat": "54.892910313425894"
+    },
+    {
+      "school_osm_id": "152023439",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70716",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Докшицкий район",
+      "lon": "28.00326898684707",
+      "lat": "54.892910313425894"
+    },
+    {
+      "school_osm_id": "152023439",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "28.00326898684707",
+      "lat": "54.892910313425894"
+    },
+    {
+      "school_osm_id": "152023439",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.00326898684707",
+      "lat": "54.892910313425894"
+    }
+  ]
+}

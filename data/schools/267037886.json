@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Стрешин",
+    "osm_id": "-5598390",
+    "hierarchy": [
+      "Стрешинский сельский Совет",
+      "Жлобинский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.72424472890291",
+    "lon": "30.10076795985988"
+  },
+  "group": [
+    {
+      "school_osm_id": "267037886",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-6185476",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Стрешинский сельский Совет",
+      "lon": "30.10076795985988",
+      "lat": "52.72424472890291"
+    },
+    {
+      "school_osm_id": "267037886",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-5598390",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Стрешин",
+      "lon": "30.10076795985988",
+      "lat": "52.72424472890291"
+    },
+    {
+      "school_osm_id": "267037886",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59167",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Жлобинский район",
+      "lon": "30.10076795985988",
+      "lat": "52.72424472890291"
+    },
+    {
+      "school_osm_id": "267037886",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "30.10076795985988",
+      "lat": "52.72424472890291"
+    },
+    {
+      "school_osm_id": "267037886",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.10076795985988",
+      "lat": "52.72424472890291"
+    }
+  ]
+}

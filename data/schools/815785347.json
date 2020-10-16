@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Тарново",
+    "osm_id": "-7519544",
+    "hierarchy": [
+      "Тарновский сельский Совет",
+      "Лидский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.791250798634046",
+    "lon": "25.14478932157871"
+  },
+  "group": [
+    {
+      "school_osm_id": "815785347",
+      "school_osm_type": "way",
+      "school_name": "Тарновская средняя школа",
+      "place_osm_id": "-8082996",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Тарновский сельский Совет",
+      "lon": "25.14478932157871",
+      "lat": "53.791250798634046"
+    },
+    {
+      "school_osm_id": "815785347",
+      "school_osm_type": "way",
+      "school_name": "Тарновская средняя школа",
+      "place_osm_id": "-7519544",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Тарново",
+      "lon": "25.14478932157871",
+      "lat": "53.791250798634046"
+    },
+    {
+      "school_osm_id": "815785347",
+      "school_osm_type": "way",
+      "school_name": "Тарновская средняя школа",
+      "place_osm_id": "-70747",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Лидский район",
+      "lon": "25.14478932157871",
+      "lat": "53.791250798634046"
+    },
+    {
+      "school_osm_id": "815785347",
+      "school_osm_type": "way",
+      "school_name": "Тарновская средняя школа",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "25.14478932157871",
+      "lat": "53.791250798634046"
+    },
+    {
+      "school_osm_id": "815785347",
+      "school_osm_type": "way",
+      "school_name": "Тарновская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "25.14478932157871",
+      "lat": "53.791250798634046"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Дукора",
+    "osm_id": "-6894334",
+    "hierarchy": [
+      "Дукорский сельский Совет",
+      "Пуховичский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.673748606229545",
+    "lon": "27.96840573326066"
+  },
+  "group": [
+    {
+      "school_osm_id": "691221607",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8144365",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Дукорский сельский Совет",
+      "lon": "27.96840573326066",
+      "lat": "53.673748606229545"
+    },
+    {
+      "school_osm_id": "691221607",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-6894334",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Дукора",
+      "lon": "27.96840573326066",
+      "lat": "53.673748606229545"
+    },
+    {
+      "school_osm_id": "691221607",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70549",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Пуховичский район",
+      "lon": "27.96840573326066",
+      "lat": "53.673748606229545"
+    },
+    {
+      "school_osm_id": "691221607",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.96840573326066",
+      "lat": "53.673748606229545"
+    },
+    {
+      "school_osm_id": "691221607",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.96840573326066",
+      "lat": "53.673748606229545"
+    }
+  ]
+}

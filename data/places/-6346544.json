@@ -1,0 +1,46 @@
+[
+  {
+    "school_osm_id": "386796925",
+    "school_osm_type": "way",
+    "school_name": "ГУО «Плещеницкая средняя общеобразовательная школа № 1",
+    "place_osm_id": "-6346544",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Плещеницы",
+    "lon": "27.82506684994853",
+    "lat": "54.428016170618086"
+  },
+  {
+    "school_osm_id": "422550576",
+    "school_osm_type": "way",
+    "school_name": "Плещеницкий дом детского творчества",
+    "place_osm_id": "-6346544",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Плещеницы",
+    "lon": "27.837643067861638",
+    "lat": "54.423529444389565"
+  },
+  {
+    "school_osm_id": "422719313",
+    "school_osm_type": "way",
+    "school_name": "Школа № 2",
+    "place_osm_id": "-6346544",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Плещеницы",
+    "lon": "27.816395871444826",
+    "lat": "54.41829909228309"
+  },
+  {
+    "school_osm_id": "5565165650",
+    "school_osm_type": "node",
+    "school_name": "Плещеницкая школа искусств",
+    "place_osm_id": "-6346544",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Плещеницы",
+    "lon": "27.817031899999996",
+    "lat": "54.414058399265656"
+  }
+]

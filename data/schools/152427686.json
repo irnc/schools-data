@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Засовье",
+    "osm_id": "-7543242",
+    "hierarchy": [
+      "Задорьевский сельский Совет",
+      "Логойский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.5939215191938",
+    "lon": "27.853497270212408"
+  },
+  "group": [
+    {
+      "school_osm_id": "152427686",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8014107",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Задорьевский сельский Совет",
+      "lon": "27.853497270212408",
+      "lat": "54.5939215191938"
+    },
+    {
+      "school_osm_id": "152427686",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7543242",
+      "place_admin_level": "10",
+      "place_place": "hamlet",
+      "place_name": "Засовье",
+      "lon": "27.853497270212408",
+      "lat": "54.5939215191938"
+    },
+    {
+      "school_osm_id": "152427686",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70542",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Логойский район",
+      "lon": "27.853497270212408",
+      "lat": "54.5939215191938"
+    },
+    {
+      "school_osm_id": "152427686",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.853497270212408",
+      "lat": "54.5939215191938"
+    },
+    {
+      "school_osm_id": "152427686",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.853497270212408",
+      "lat": "54.5939215191938"
+    }
+  ]
+}

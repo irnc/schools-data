@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Берёзки",
+    "osm_id": "-7589658",
+    "hierarchy": [
+      "Берёзковский сельский Совет",
+      "Хотимский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.34162388123514",
+    "lon": "32.34592300176256"
+  },
+  "group": [
+    {
+      "school_osm_id": "336794067",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8067516",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Берёзковский сельский Совет",
+      "lon": "32.34592300176256",
+      "lat": "53.34162388123514"
+    },
+    {
+      "school_osm_id": "336794067",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7589658",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Берёзки",
+      "lon": "32.34592300176256",
+      "lat": "53.34162388123514"
+    },
+    {
+      "school_osm_id": "336794067",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70605",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Хотимский район",
+      "lon": "32.34592300176256",
+      "lat": "53.34162388123514"
+    },
+    {
+      "school_osm_id": "336794067",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "32.34592300176256",
+      "lat": "53.34162388123514"
+    },
+    {
+      "school_osm_id": "336794067",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "32.34592300176256",
+      "lat": "53.34162388123514"
+    }
+  ]
+}

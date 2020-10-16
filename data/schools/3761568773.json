@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Жиличи",
+    "osm_id": "-4777575",
+    "hierarchy": [
+      "Добосненский сельский Совет",
+      "Кировский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.1558520990942",
+    "lon": "29.688684799999994"
+  },
+  "group": [
+    {
+      "school_osm_id": "3761568773",
+      "school_osm_type": "node",
+      "school_name": "Школа искусств",
+      "place_osm_id": "-7622194",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Добосненский сельский Совет",
+      "lon": "29.688684799999994",
+      "lat": "53.1558520990942"
+    },
+    {
+      "school_osm_id": "3761568773",
+      "school_osm_type": "node",
+      "school_name": "Школа искусств",
+      "place_osm_id": "-4777575",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Жиличи",
+      "lon": "29.688684799999994",
+      "lat": "53.1558520990942"
+    },
+    {
+      "school_osm_id": "3761568773",
+      "school_osm_type": "node",
+      "school_name": "Школа искусств",
+      "place_osm_id": "-70580",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Кировский район",
+      "lon": "29.688684799999994",
+      "lat": "53.1558520990942"
+    },
+    {
+      "school_osm_id": "3761568773",
+      "school_osm_type": "node",
+      "school_name": "Школа искусств",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "29.688684799999994",
+      "lat": "53.1558520990942"
+    },
+    {
+      "school_osm_id": "3761568773",
+      "school_osm_type": "node",
+      "school_name": "Школа искусств",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.688684799999994",
+      "lat": "53.1558520990942"
+    }
+  ]
+}

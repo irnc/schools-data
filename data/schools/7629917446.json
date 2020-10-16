@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Новые Горяны",
+    "osm_id": "-7495895",
+    "hierarchy": [
+      "Горянский сельский Совет",
+      "Полоцкий район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.4038568995542",
+    "lon": "29.039945100000004"
+  },
+  "group": [
+    {
+      "school_osm_id": "7629917446",
+      "school_osm_type": "node",
+      "school_name": "ГУО \"Новогорянский детский сад \"",
+      "place_osm_id": "-8075975",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Горянский сельский Совет",
+      "lon": "29.039945100000004",
+      "lat": "55.4038568995542"
+    },
+    {
+      "school_osm_id": "7629917446",
+      "school_osm_type": "node",
+      "school_name": "ГУО \"Новогорянский детский сад \"",
+      "place_osm_id": "-7495895",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Новые Горяны",
+      "lon": "29.039945100000004",
+      "lat": "55.4038568995542"
+    },
+    {
+      "school_osm_id": "7629917446",
+      "school_osm_type": "node",
+      "school_name": "ГУО \"Новогорянский детский сад \"",
+      "place_osm_id": "-70671",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Полоцкий район",
+      "lon": "29.039945100000004",
+      "lat": "55.4038568995542"
+    },
+    {
+      "school_osm_id": "7629917446",
+      "school_osm_type": "node",
+      "school_name": "ГУО \"Новогорянский детский сад \"",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "29.039945100000004",
+      "lat": "55.4038568995542"
+    },
+    {
+      "school_osm_id": "7629917446",
+      "school_osm_type": "node",
+      "school_name": "ГУО \"Новогорянский детский сад \"",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.039945100000004",
+      "lat": "55.4038568995542"
+    }
+  ]
+}

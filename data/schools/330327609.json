@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Секеричи",
+    "osm_id": "-7450137",
+    "hierarchy": [
+      "Колковский сельский Совет",
+      "Петриковский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.46668232343027",
+    "lon": "28.923868165191244"
+  },
+  "group": [
+    {
+      "school_osm_id": "330327609",
+      "school_osm_type": "way",
+      "school_name": "Сякерыцкая Базавая школа",
+      "place_osm_id": "-8087875",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Колковский сельский Совет",
+      "lon": "28.923868165191244",
+      "lat": "52.46668232343027"
+    },
+    {
+      "school_osm_id": "330327609",
+      "school_osm_type": "way",
+      "school_name": "Сякерыцкая Базавая школа",
+      "place_osm_id": "-7450137",
+      "place_admin_level": "10",
+      "place_place": "hamlet",
+      "place_name": "Секеричи",
+      "lon": "28.923868165191244",
+      "lat": "52.46668232343027"
+    },
+    {
+      "school_osm_id": "330327609",
+      "school_osm_type": "way",
+      "school_name": "Сякерыцкая Базавая школа",
+      "place_osm_id": "-71145",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Петриковский район",
+      "lon": "28.923868165191244",
+      "lat": "52.46668232343027"
+    },
+    {
+      "school_osm_id": "330327609",
+      "school_osm_type": "way",
+      "school_name": "Сякерыцкая Базавая школа",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "28.923868165191244",
+      "lat": "52.46668232343027"
+    },
+    {
+      "school_osm_id": "330327609",
+      "school_osm_type": "way",
+      "school_name": "Сякерыцкая Базавая школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.923868165191244",
+      "lat": "52.46668232343027"
+    }
+  ]
+}

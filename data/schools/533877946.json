@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Антоновка",
+    "osm_id": "-7439825",
+    "hierarchy": [
+      "Майский сельский Совет",
+      "Жлобинский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.98256622347544",
+    "lon": "30.15212950872811"
+  },
+  "group": [
+    {
+      "school_osm_id": "533877946",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7439825",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Антоновка",
+      "lon": "30.15212950872811",
+      "lat": "52.98256622347544"
+    },
+    {
+      "school_osm_id": "533877946",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-6316894",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Майский сельский Совет",
+      "lon": "30.15212950872811",
+      "lat": "52.98256622347544"
+    },
+    {
+      "school_osm_id": "533877946",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59167",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Жлобинский район",
+      "lon": "30.15212950872811",
+      "lat": "52.98256622347544"
+    },
+    {
+      "school_osm_id": "533877946",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "30.15212950872811",
+      "lat": "52.98256622347544"
+    },
+    {
+      "school_osm_id": "533877946",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.15212950872811",
+      "lat": "52.98256622347544"
+    }
+  ]
+}

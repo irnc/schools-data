@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Иванова Слобода",
+    "osm_id": "-7445611",
+    "hierarchy": [
+      "Тонежский сельский Совет",
+      "Лельчицкий район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "51.852528047339206",
+    "lon": "27.875988306365162"
+  },
+  "group": [
+    {
+      "school_osm_id": "320041028",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8030873",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Тонежский сельский Совет",
+      "lon": "27.875988306365162",
+      "lat": "51.852528047339206"
+    },
+    {
+      "school_osm_id": "320041028",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7445611",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Иванова Слобода",
+      "lon": "27.875988306365162",
+      "lat": "51.852528047339206"
+    },
+    {
+      "school_osm_id": "320041028",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-71147",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Лельчицкий район",
+      "lon": "27.875988306365162",
+      "lat": "51.852528047339206"
+    },
+    {
+      "school_osm_id": "320041028",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "27.875988306365162",
+      "lat": "51.852528047339206"
+    },
+    {
+      "school_osm_id": "320041028",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.875988306365162",
+      "lat": "51.852528047339206"
+    }
+  ]
+}

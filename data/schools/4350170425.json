@@ -1,0 +1,59 @@
+{
+  "place": {
+    "name": "Бобруйск",
+    "osm_id": "-167857",
+    "hierarchy": [
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.13919659909338",
+    "lon": "29.2182887"
+  },
+  "group": [
+    {
+      "school_osm_id": "4350170425",
+      "school_osm_type": "node",
+      "school_name": "Бобруйский Технологический Коледж",
+      "place_osm_id": "-3629220",
+      "place_admin_level": "9",
+      "place_place": "",
+      "place_name": "Ленинский район",
+      "lon": "29.2182887",
+      "lat": "53.13919659909338"
+    },
+    {
+      "school_osm_id": "4350170425",
+      "school_osm_type": "node",
+      "school_name": "Бобруйский Технологический Коледж",
+      "place_osm_id": "-167857",
+      "place_admin_level": "6",
+      "place_place": "city",
+      "place_name": "Бобруйск",
+      "lon": "29.2182887",
+      "lat": "53.13919659909338"
+    },
+    {
+      "school_osm_id": "4350170425",
+      "school_osm_type": "node",
+      "school_name": "Бобруйский Технологический Коледж",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "29.2182887",
+      "lat": "53.13919659909338"
+    },
+    {
+      "school_osm_id": "4350170425",
+      "school_osm_type": "node",
+      "school_name": "Бобруйский Технологический Коледж",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.2182887",
+      "lat": "53.13919659909338"
+    }
+  ]
+}

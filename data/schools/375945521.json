@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Новосёлки",
+    "osm_id": "-7526400",
+    "hierarchy": [
+      "Павловский сельский Совет",
+      "Слонимский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.25813720895642",
+    "lon": "25.292957230402443"
+  },
+  "group": [
+    {
+      "school_osm_id": "375945521",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8100395",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Павловский сельский Совет",
+      "lon": "25.292957230402443",
+      "lat": "53.25813720895642"
+    },
+    {
+      "school_osm_id": "375945521",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7526400",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Новосёлки",
+      "lon": "25.292957230402443",
+      "lat": "53.25813720895642"
+    },
+    {
+      "school_osm_id": "375945521",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-71114",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Слонимский район",
+      "lon": "25.292957230402443",
+      "lat": "53.25813720895642"
+    },
+    {
+      "school_osm_id": "375945521",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "25.292957230402443",
+      "lat": "53.25813720895642"
+    },
+    {
+      "school_osm_id": "375945521",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "25.292957230402443",
+      "lat": "53.25813720895642"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Коммунар",
+    "osm_id": "-7440012",
+    "hierarchy": [
+      "Коммунаровский сельский Совет",
+      "Буда-Кошелёвский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.63648608998034",
+    "lon": "30.819345556786924"
+  },
+  "group": [
+    {
+      "school_osm_id": "420942025",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8100456",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Коммунаровский сельский Совет",
+      "lon": "30.819345556786924",
+      "lat": "52.63648608998034"
+    },
+    {
+      "school_osm_id": "420942025",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7440012",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Коммунар",
+      "lon": "30.819345556786924",
+      "lat": "52.63648608998034"
+    },
+    {
+      "school_osm_id": "420942025",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59175",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Буда-Кошелёвский район",
+      "lon": "30.819345556786924",
+      "lat": "52.63648608998034"
+    },
+    {
+      "school_osm_id": "420942025",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "30.819345556786924",
+      "lat": "52.63648608998034"
+    },
+    {
+      "school_osm_id": "420942025",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.819345556786924",
+      "lat": "52.63648608998034"
+    }
+  ]
+}

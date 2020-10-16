@@ -1,0 +1,59 @@
+{
+  "place": {
+    "name": "Витебск",
+    "osm_id": "-6825777",
+    "hierarchy": [
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.157564770716206",
+    "lon": "30.194314726602332"
+  },
+  "group": [
+    {
+      "school_osm_id": "406813332",
+      "school_osm_type": "way",
+      "school_name": "Школа для детей с нарушением слуха",
+      "place_osm_id": "-6825777",
+      "place_admin_level": "6",
+      "place_place": "city",
+      "place_name": "Витебск",
+      "lon": "30.194314726602332",
+      "lat": "55.157564770716206"
+    },
+    {
+      "school_osm_id": "406813332",
+      "school_osm_type": "way",
+      "school_name": "Школа для детей с нарушением слуха",
+      "place_osm_id": "-68617",
+      "place_admin_level": "9",
+      "place_place": "",
+      "place_name": "Первомайский район",
+      "lon": "30.194314726602332",
+      "lat": "55.157564770716206"
+    },
+    {
+      "school_osm_id": "406813332",
+      "school_osm_type": "way",
+      "school_name": "Школа для детей с нарушением слуха",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "30.194314726602332",
+      "lat": "55.157564770716206"
+    },
+    {
+      "school_osm_id": "406813332",
+      "school_osm_type": "way",
+      "school_name": "Школа для детей с нарушением слуха",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.194314726602332",
+      "lat": "55.157564770716206"
+    }
+  ]
+}

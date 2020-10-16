@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Заболотье",
+    "osm_id": "-7536330",
+    "hierarchy": [
+      "Станьковский сельский Совет",
+      "Дзержинский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.674604898209466",
+    "lon": "27.26991702501273"
+  },
+  "group": [
+    {
+      "school_osm_id": "732138293",
+      "school_osm_type": "way",
+      "school_name": "Заболотский детский сад - базовая школа",
+      "place_osm_id": "-8139701",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Станьковский сельский Совет",
+      "lon": "27.26991702501273",
+      "lat": "53.674604898209466"
+    },
+    {
+      "school_osm_id": "732138293",
+      "school_osm_type": "way",
+      "school_name": "Заболотский детский сад - базовая школа",
+      "place_osm_id": "-7536330",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Заболотье",
+      "lon": "27.26991702501273",
+      "lat": "53.674604898209466"
+    },
+    {
+      "school_osm_id": "732138293",
+      "school_osm_type": "way",
+      "school_name": "Заболотский детский сад - базовая школа",
+      "place_osm_id": "-70563",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Дзержинский район",
+      "lon": "27.26991702501273",
+      "lat": "53.674604898209466"
+    },
+    {
+      "school_osm_id": "732138293",
+      "school_osm_type": "way",
+      "school_name": "Заболотский детский сад - базовая школа",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.26991702501273",
+      "lat": "53.674604898209466"
+    },
+    {
+      "school_osm_id": "732138293",
+      "school_osm_type": "way",
+      "school_name": "Заболотский детский сад - базовая школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.26991702501273",
+      "lat": "53.674604898209466"
+    }
+  ]
+}

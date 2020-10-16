@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Александрия",
+    "osm_id": "-4777653",
+    "hierarchy": [
+      "Александрийский сельский Совет",
+      "Шкловский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.32747463863082",
+    "lon": "30.281073345513757"
+  },
+  "group": [
+    {
+      "school_osm_id": "237299584",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8144307",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Александрийский сельский Совет",
+      "lon": "30.281073345513757",
+      "lat": "54.32747463863082"
+    },
+    {
+      "school_osm_id": "237299584",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-4777653",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Александрия",
+      "lon": "30.281073345513757",
+      "lat": "54.32747463863082"
+    },
+    {
+      "school_osm_id": "237299584",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70626",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Шкловский район",
+      "lon": "30.281073345513757",
+      "lat": "54.32747463863082"
+    },
+    {
+      "school_osm_id": "237299584",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "30.281073345513757",
+      "lat": "54.32747463863082"
+    },
+    {
+      "school_osm_id": "237299584",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.281073345513757",
+      "lat": "54.32747463863082"
+    }
+  ]
+}

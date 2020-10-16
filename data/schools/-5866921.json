@@ -1,0 +1,59 @@
+{
+  "place": {
+    "name": "Гомель",
+    "osm_id": "-163244",
+    "hierarchy": [
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.47058893543546",
+    "lon": "31.025888243447177"
+  },
+  "group": [
+    {
+      "school_osm_id": "-5866921",
+      "school_osm_type": "relation",
+      "school_name": "Школа № 29",
+      "place_osm_id": "-3628812",
+      "place_admin_level": "9",
+      "place_place": "",
+      "place_name": "Железнодорожный район",
+      "lon": "31.025888243447177",
+      "lat": "52.47058893543546"
+    },
+    {
+      "school_osm_id": "-5866921",
+      "school_osm_type": "relation",
+      "school_name": "Школа № 29",
+      "place_osm_id": "-163244",
+      "place_admin_level": "6",
+      "place_place": "city",
+      "place_name": "Гомель",
+      "lon": "31.025888243447177",
+      "lat": "52.47058893543546"
+    },
+    {
+      "school_osm_id": "-5866921",
+      "school_osm_type": "relation",
+      "school_name": "Школа № 29",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "31.025888243447177",
+      "lat": "52.47058893543546"
+    },
+    {
+      "school_osm_id": "-5866921",
+      "school_osm_type": "relation",
+      "school_name": "Школа № 29",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "31.025888243447177",
+      "lat": "52.47058893543546"
+    }
+  ]
+}

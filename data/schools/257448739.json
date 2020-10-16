@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Заболотье",
+    "osm_id": "-5240008",
+    "hierarchy": [
+      "Ходосовский сельский Совет",
+      "Мстиславский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.85674757309778",
+    "lon": "31.37026083124862"
+  },
+  "group": [
+    {
+      "school_osm_id": "257448739",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8076004",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Ходосовский сельский Совет",
+      "lon": "31.37026083124862",
+      "lat": "53.85674757309778"
+    },
+    {
+      "school_osm_id": "257448739",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-5240008",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Заболотье",
+      "lon": "31.37026083124862",
+      "lat": "53.85674757309778"
+    },
+    {
+      "school_osm_id": "257448739",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70616",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Мстиславский район",
+      "lon": "31.37026083124862",
+      "lat": "53.85674757309778"
+    },
+    {
+      "school_osm_id": "257448739",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "31.37026083124862",
+      "lat": "53.85674757309778"
+    },
+    {
+      "school_osm_id": "257448739",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "31.37026083124862",
+      "lat": "53.85674757309778"
+    }
+  ]
+}

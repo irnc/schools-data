@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Сеница",
+    "osm_id": "-7547126",
+    "hierarchy": [
+      "Сеницкий сельский Совет",
+      "Минский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.82817569915859",
+    "lon": "27.5215902"
+  },
+  "group": [
+    {
+      "school_osm_id": "4948141821",
+      "school_osm_type": "node",
+      "school_name": "ГУО \"Сеницкая детская школа искусств\"",
+      "place_osm_id": "-8144236",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Сеницкий сельский Совет",
+      "lon": "27.5215902",
+      "lat": "53.82817569915859"
+    },
+    {
+      "school_osm_id": "4948141821",
+      "school_osm_type": "node",
+      "school_name": "ГУО \"Сеницкая детская школа искусств\"",
+      "place_osm_id": "-7547126",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Сеница",
+      "lon": "27.5215902",
+      "lat": "53.82817569915859"
+    },
+    {
+      "school_osm_id": "4948141821",
+      "school_osm_type": "node",
+      "school_name": "ГУО \"Сеницкая детская школа искусств\"",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.5215902",
+      "lat": "53.82817569915859"
+    },
+    {
+      "school_osm_id": "4948141821",
+      "school_osm_type": "node",
+      "school_name": "ГУО \"Сеницкая детская школа искусств\"",
+      "place_osm_id": "-59190",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Минский район",
+      "lon": "27.5215902",
+      "lat": "53.82817569915859"
+    },
+    {
+      "school_osm_id": "4948141821",
+      "school_osm_type": "node",
+      "school_name": "ГУО \"Сеницкая детская школа искусств\"",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.5215902",
+      "lat": "53.82817569915859"
+    }
+  ]
+}

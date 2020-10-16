@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Молотковичи",
+    "osm_id": "-7467524",
+    "hierarchy": [
+      "Молотковичский сельский Совет",
+      "Пинский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.113483399108404",
+    "lon": "25.911315899999998"
+  },
+  "group": [
+    {
+      "school_osm_id": "5279037634",
+      "school_osm_type": "node",
+      "school_name": "Школа-интернат",
+      "place_osm_id": "-8028535",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Молотковичский сельский Совет",
+      "lon": "25.911315899999998",
+      "lat": "52.113483399108404"
+    },
+    {
+      "school_osm_id": "5279037634",
+      "school_osm_type": "node",
+      "school_name": "Школа-интернат",
+      "place_osm_id": "-7467524",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Молотковичи",
+      "lon": "25.911315899999998",
+      "lat": "52.113483399108404"
+    },
+    {
+      "school_osm_id": "5279037634",
+      "school_osm_type": "node",
+      "school_name": "Школа-интернат",
+      "place_osm_id": "-71119",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Пинский район",
+      "lon": "25.911315899999998",
+      "lat": "52.113483399108404"
+    },
+    {
+      "school_osm_id": "5279037634",
+      "school_osm_type": "node",
+      "school_name": "Школа-интернат",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "25.911315899999998",
+      "lat": "52.113483399108404"
+    },
+    {
+      "school_osm_id": "5279037634",
+      "school_osm_type": "node",
+      "school_name": "Школа-интернат",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "25.911315899999998",
+      "lat": "52.113483399108404"
+    }
+  ]
+}

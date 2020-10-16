@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Кривичи",
+    "osm_id": "-7566444",
+    "hierarchy": [
+      "Краснодворский сельский Совет",
+      "Солигорский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.824620251765815",
+    "lon": "27.38806374135004"
+  },
+  "group": [
+    {
+      "school_osm_id": "598364521",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8144234",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Краснодворский сельский Совет",
+      "lon": "27.38806374135004",
+      "lat": "52.824620251765815"
+    },
+    {
+      "school_osm_id": "598364521",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7566444",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Кривичи",
+      "lon": "27.38806374135004",
+      "lat": "52.824620251765815"
+    },
+    {
+      "school_osm_id": "598364521",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-71133",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Солигорский район",
+      "lon": "27.38806374135004",
+      "lat": "52.824620251765815"
+    },
+    {
+      "school_osm_id": "598364521",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.38806374135004",
+      "lat": "52.824620251765815"
+    },
+    {
+      "school_osm_id": "598364521",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.38806374135004",
+      "lat": "52.824620251765815"
+    }
+  ]
+}

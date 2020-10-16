@@ -1,0 +1,53 @@
+{
+  "place": "warning-school-without-place",
+  "geo": {
+    "lat": "54.44734474744657",
+    "lon": "30.787956151115186"
+  },
+  "group": [
+    {
+      "school_osm_id": "689930048",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8075993",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Добрынский сельский Совет",
+      "lon": "30.787956151115186",
+      "lat": "54.44734474744657"
+    },
+    {
+      "school_osm_id": "689930048",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70656",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Дубровенский район",
+      "lon": "30.787956151115186",
+      "lat": "54.44734474744657"
+    },
+    {
+      "school_osm_id": "689930048",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "30.787956151115186",
+      "lat": "54.44734474744657"
+    },
+    {
+      "school_osm_id": "689930048",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.787956151115186",
+      "lat": "54.44734474744657"
+    }
+  ]
+}

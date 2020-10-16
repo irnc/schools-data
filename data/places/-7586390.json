@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "184735722",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7586390",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Княжицы",
+    "lon": "30.14447756078336",
+    "lat": "53.97285896286848"
+  },
+  {
+    "school_osm_id": "2381976802",
+    "school_osm_type": "node",
+    "school_name": "Княжицкая СШ",
+    "place_osm_id": "-7586390",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Княжицы",
+    "lon": "30.1442598",
+    "lat": "53.97300099918057"
+  }
+]

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Алесино",
+    "osm_id": "-7557170",
+    "hierarchy": [
+      "Курганский сельский Совет",
+      "Смолевичский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.95338338252149",
+    "lon": "28.2339246286878"
+  },
+  "group": [
+    {
+      "school_osm_id": "706791395",
+      "school_osm_type": "way",
+      "school_name": "Верхменская средняя школа имени В.А. Тумара",
+      "place_osm_id": "-8144250",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Курганский сельский Совет",
+      "lon": "28.2339246286878",
+      "lat": "53.95338338252149"
+    },
+    {
+      "school_osm_id": "706791395",
+      "school_osm_type": "way",
+      "school_name": "Верхменская средняя школа имени В.А. Тумара",
+      "place_osm_id": "-7557170",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Алесино",
+      "lon": "28.2339246286878",
+      "lat": "53.95338338252149"
+    },
+    {
+      "school_osm_id": "706791395",
+      "school_osm_type": "way",
+      "school_name": "Верхменская средняя школа имени В.А. Тумара",
+      "place_osm_id": "-69554",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Смолевичский район",
+      "lon": "28.2339246286878",
+      "lat": "53.95338338252149"
+    },
+    {
+      "school_osm_id": "706791395",
+      "school_osm_type": "way",
+      "school_name": "Верхменская средняя школа имени В.А. Тумара",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "28.2339246286878",
+      "lat": "53.95338338252149"
+    },
+    {
+      "school_osm_id": "706791395",
+      "school_osm_type": "way",
+      "school_name": "Верхменская средняя школа имени В.А. Тумара",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.2339246286878",
+      "lat": "53.95338338252149"
+    }
+  ]
+}

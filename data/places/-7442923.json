@@ -1,0 +1,35 @@
+[
+  {
+    "school_osm_id": "124652834",
+    "school_osm_type": "way",
+    "school_name": "Ереминская музыкальная",
+    "place_osm_id": "-7442923",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Ерёмино",
+    "lon": "30.941775600005375",
+    "lat": "52.50936134922903"
+  },
+  {
+    "school_osm_id": "124659106",
+    "school_osm_type": "way",
+    "school_name": "Ерёминская средняя школа",
+    "place_osm_id": "-7442923",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Ерёмино",
+    "lon": "30.94285963175622",
+    "lat": "52.50695114120916"
+  },
+  {
+    "school_osm_id": "447969066",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7442923",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Ерёмино",
+    "lon": "30.94617575849488",
+    "lat": "52.50847719075626"
+  }
+]

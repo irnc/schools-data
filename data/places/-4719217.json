@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "506496093",
+    "school_osm_type": "way",
+    "school_name": "Школа",
+    "place_osm_id": "-4719217",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Язвинки",
+    "lon": "26.899018032212474",
+    "lat": "52.25248596314549"
+  },
+  {
+    "school_osm_id": "4952626959",
+    "school_osm_type": "node",
+    "school_name": "Школа",
+    "place_osm_id": "-4719217",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Язвинки",
+    "lon": "26.899729199999996",
+    "lat": "52.252451899099206"
+  }
+]

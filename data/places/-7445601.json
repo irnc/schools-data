@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "366476328",
+    "school_osm_type": "way",
+    "school_name": "приют",
+    "place_osm_id": "-7445601",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Марковское",
+    "lon": "28.20953642371355",
+    "lat": "51.72486280543835"
+  },
+  {
+    "school_osm_id": "366476329",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7445601",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Марковское",
+    "lon": "28.208226350015877",
+    "lat": "51.72407049932848"
+  }
+]

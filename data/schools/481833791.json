@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Усакино",
+    "osm_id": "-7583256",
+    "hierarchy": [
+      "Потокский сельский Совет",
+      "Кличевский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.61763687323125",
+    "lon": "29.44893024981776"
+  },
+  "group": [
+    {
+      "school_osm_id": "481833791",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8143042",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Потокский сельский Совет",
+      "lon": "29.44893024981776",
+      "lat": "53.61763687323125"
+    },
+    {
+      "school_osm_id": "481833791",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7583256",
+      "place_admin_level": "10",
+      "place_place": "hamlet",
+      "place_name": "Усакино",
+      "lon": "29.44893024981776",
+      "lat": "53.61763687323125"
+    },
+    {
+      "school_osm_id": "481833791",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70577",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Кличевский район",
+      "lon": "29.44893024981776",
+      "lat": "53.61763687323125"
+    },
+    {
+      "school_osm_id": "481833791",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "29.44893024981776",
+      "lat": "53.61763687323125"
+    },
+    {
+      "school_osm_id": "481833791",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.44893024981776",
+      "lat": "53.61763687323125"
+    }
+  ]
+}

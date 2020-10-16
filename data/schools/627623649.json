@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Омговичи",
+    "osm_id": "-7556011",
+    "hierarchy": [
+      "Сорогский сельский Совет",
+      "Слуцкий район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.102058523715705",
+    "lon": "27.804316730202803"
+  },
+  "group": [
+    {
+      "school_osm_id": "627623649",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8144211",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Сорогский сельский Совет",
+      "lon": "27.804316730202803",
+      "lat": "53.102058523715705"
+    },
+    {
+      "school_osm_id": "627623649",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7556011",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Омговичи",
+      "lon": "27.804316730202803",
+      "lat": "53.102058523715705"
+    },
+    {
+      "school_osm_id": "627623649",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-71134",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Слуцкий район",
+      "lon": "27.804316730202803",
+      "lat": "53.102058523715705"
+    },
+    {
+      "school_osm_id": "627623649",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.804316730202803",
+      "lat": "53.102058523715705"
+    },
+    {
+      "school_osm_id": "627623649",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.804316730202803",
+      "lat": "53.102058523715705"
+    }
+  ]
+}

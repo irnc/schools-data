@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Орша",
+    "osm_id": "-178128",
+    "hierarchy": [
+      "Оршанский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.51704762172365",
+    "lon": "30.37199240016185"
+  },
+  "group": [
+    {
+      "school_osm_id": "489671255",
+      "school_osm_type": "way",
+      "school_name": "Школа № 12",
+      "place_osm_id": "-178128",
+      "place_admin_level": "8",
+      "place_place": "city",
+      "place_name": "Орша",
+      "lon": "30.37199240016185",
+      "lat": "54.51704762172365"
+    },
+    {
+      "school_osm_id": "489671255",
+      "school_osm_type": "way",
+      "school_name": "Школа № 12",
+      "place_osm_id": "-70660",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Оршанский район",
+      "lon": "30.37199240016185",
+      "lat": "54.51704762172365"
+    },
+    {
+      "school_osm_id": "489671255",
+      "school_osm_type": "way",
+      "school_name": "Школа № 12",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "30.37199240016185",
+      "lat": "54.51704762172365"
+    },
+    {
+      "school_osm_id": "489671255",
+      "school_osm_type": "way",
+      "school_name": "Школа № 12",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.37199240016185",
+      "lat": "54.51704762172365"
+    }
+  ]
+}

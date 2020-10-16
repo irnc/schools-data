@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "406500557",
+    "school_osm_type": "way",
+    "school_name": "ГУО \"Новодворцевская базовая школа\"",
+    "place_osm_id": "-6894518",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Новодворцы",
+    "lon": "27.56006854925115",
+    "lat": "52.99597822294404"
+  },
+  {
+    "school_osm_id": "5240838087",
+    "school_osm_type": "node",
+    "school_name": "Школа д. Новодворцев",
+    "place_osm_id": "-6894518",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Новодворцы",
+    "lon": "27.5604406",
+    "lat": "52.996137899087756"
+  }
+]

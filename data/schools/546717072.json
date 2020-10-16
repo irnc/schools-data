@@ -1,0 +1,53 @@
+{
+  "place": "warning-school-without-place",
+  "geo": {
+    "lat": "55.16000827860649",
+    "lon": "28.343668510501708"
+  },
+  "group": [
+    {
+      "school_osm_id": "546717072",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7976434",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Кубличский сельский Совет",
+      "lon": "28.343668510501708",
+      "lat": "55.16000827860649"
+    },
+    {
+      "school_osm_id": "546717072",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70669",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Ушачский район",
+      "lon": "28.343668510501708",
+      "lat": "55.16000827860649"
+    },
+    {
+      "school_osm_id": "546717072",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "28.343668510501708",
+      "lat": "55.16000827860649"
+    },
+    {
+      "school_osm_id": "546717072",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.343668510501708",
+      "lat": "55.16000827860649"
+    }
+  ]
+}

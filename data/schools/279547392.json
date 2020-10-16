@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Красная Буда",
+    "osm_id": "-7443004",
+    "hierarchy": [
+      "Усохо-Будский сельский Совет",
+      "Добрушский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.187456747679754",
+    "lon": "31.495253833778367"
+  },
+  "group": [
+    {
+      "school_osm_id": "279547392",
+      "school_osm_type": "way",
+      "school_name": "Красно-Будская СШ",
+      "place_osm_id": "-8065395",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Усохо-Будский сельский Совет",
+      "lon": "31.495253833778367",
+      "lat": "52.187456747679754"
+    },
+    {
+      "school_osm_id": "279547392",
+      "school_osm_type": "way",
+      "school_name": "Красно-Будская СШ",
+      "place_osm_id": "-7443004",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Красная Буда",
+      "lon": "31.495253833778367",
+      "lat": "52.187456747679754"
+    },
+    {
+      "school_osm_id": "279547392",
+      "school_osm_type": "way",
+      "school_name": "Красно-Будская СШ",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "31.495253833778367",
+      "lat": "52.187456747679754"
+    },
+    {
+      "school_osm_id": "279547392",
+      "school_osm_type": "way",
+      "school_name": "Красно-Будская СШ",
+      "place_osm_id": "-59092",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Добрушский район",
+      "lon": "31.495253833778367",
+      "lat": "52.187456747679754"
+    },
+    {
+      "school_osm_id": "279547392",
+      "school_osm_type": "way",
+      "school_name": "Красно-Будская СШ",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "31.495253833778367",
+      "lat": "52.187456747679754"
+    }
+  ]
+}

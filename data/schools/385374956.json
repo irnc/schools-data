@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Кучин",
+    "osm_id": "-7443692",
+    "hierarchy": [
+      "Каменский сельский Совет",
+      "Кормянский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.1887436999038",
+    "lon": "30.685370550051857"
+  },
+  "group": [
+    {
+      "school_osm_id": "385374956",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8107294",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Каменский сельский Совет",
+      "lon": "30.685370550051857",
+      "lat": "53.1887436999038"
+    },
+    {
+      "school_osm_id": "385374956",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7443692",
+      "place_admin_level": "10",
+      "place_place": "hamlet",
+      "place_name": "Кучин",
+      "lon": "30.685370550051857",
+      "lat": "53.1887436999038"
+    },
+    {
+      "school_osm_id": "385374956",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "30.685370550051857",
+      "lat": "53.1887436999038"
+    },
+    {
+      "school_osm_id": "385374956",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59149",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Кормянский район",
+      "lon": "30.685370550051857",
+      "lat": "53.1887436999038"
+    },
+    {
+      "school_osm_id": "385374956",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.685370550051857",
+      "lat": "53.1887436999038"
+    }
+  ]
+}

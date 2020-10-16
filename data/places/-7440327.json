@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "405584169",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7440327",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Дуравичи",
+    "lon": "30.71436361833881",
+    "lat": "52.70409350542991"
+  },
+  {
+    "school_osm_id": "599457073",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7440327",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Дуравичи",
+    "lon": "30.715029679225395",
+    "lat": "52.70242045543472"
+  }
+]

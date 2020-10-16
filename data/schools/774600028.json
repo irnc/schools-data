@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Судники",
+    "osm_id": "-7535255",
+    "hierarchy": [
+      "Ивенецкий сельский Совет",
+      "Воложинский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.90402534743507",
+    "lon": "26.902997948161353"
+  },
+  "group": [
+    {
+      "school_osm_id": "774600028",
+      "school_osm_type": "way",
+      "school_name": "Судниковская средняя школа",
+      "place_osm_id": "-8014018",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Ивенецкий сельский Совет",
+      "lon": "26.902997948161353",
+      "lat": "53.90402534743507"
+    },
+    {
+      "school_osm_id": "774600028",
+      "school_osm_type": "way",
+      "school_name": "Судниковская средняя школа",
+      "place_osm_id": "-7535255",
+      "place_admin_level": "10",
+      "place_place": "hamlet",
+      "place_name": "Судники",
+      "lon": "26.902997948161353",
+      "lat": "53.90402534743507"
+    },
+    {
+      "school_osm_id": "774600028",
+      "school_osm_type": "way",
+      "school_name": "Судниковская средняя школа",
+      "place_osm_id": "-70565",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Воложинский район",
+      "lon": "26.902997948161353",
+      "lat": "53.90402534743507"
+    },
+    {
+      "school_osm_id": "774600028",
+      "school_osm_type": "way",
+      "school_name": "Судниковская средняя школа",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "26.902997948161353",
+      "lat": "53.90402534743507"
+    },
+    {
+      "school_osm_id": "774600028",
+      "school_osm_type": "way",
+      "school_name": "Судниковская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.902997948161353",
+      "lat": "53.90402534743507"
+    }
+  ]
+}

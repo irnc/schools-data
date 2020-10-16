@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Светлый Бор",
+    "osm_id": "-7555391",
+    "hierarchy": [
+      "Туринский сельский Совет",
+      "Пуховичский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.58122249912781",
+    "lon": "28.2931798"
+  },
+  "group": [
+    {
+      "school_osm_id": "4778168070",
+      "school_osm_type": "node",
+      "school_name": "Светлоборская базовая школа",
+      "place_osm_id": "-8144230",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Туринский сельский Совет",
+      "lon": "28.2931798",
+      "lat": "53.58122249912781"
+    },
+    {
+      "school_osm_id": "4778168070",
+      "school_osm_type": "node",
+      "school_name": "Светлоборская базовая школа",
+      "place_osm_id": "-7555391",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Светлый Бор",
+      "lon": "28.2931798",
+      "lat": "53.58122249912781"
+    },
+    {
+      "school_osm_id": "4778168070",
+      "school_osm_type": "node",
+      "school_name": "Светлоборская базовая школа",
+      "place_osm_id": "-70549",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Пуховичский район",
+      "lon": "28.2931798",
+      "lat": "53.58122249912781"
+    },
+    {
+      "school_osm_id": "4778168070",
+      "school_osm_type": "node",
+      "school_name": "Светлоборская базовая школа",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "28.2931798",
+      "lat": "53.58122249912781"
+    },
+    {
+      "school_osm_id": "4778168070",
+      "school_osm_type": "node",
+      "school_name": "Светлоборская базовая школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.2931798",
+      "lat": "53.58122249912781"
+    }
+  ]
+}

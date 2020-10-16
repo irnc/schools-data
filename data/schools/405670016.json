@@ -1,0 +1,53 @@
+{
+  "place": "warning-school-without-place",
+  "geo": {
+    "lat": "54.31176809110728",
+    "lon": "29.82528934325717"
+  },
+  "group": [
+    {
+      "school_osm_id": "405670016",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8143034",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Круглянский сельский Совет",
+      "lon": "29.82528934325717",
+      "lat": "54.31176809110728"
+    },
+    {
+      "school_osm_id": "405670016",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70638",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Круглянский район",
+      "lon": "29.82528934325717",
+      "lat": "54.31176809110728"
+    },
+    {
+      "school_osm_id": "405670016",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "29.82528934325717",
+      "lat": "54.31176809110728"
+    },
+    {
+      "school_osm_id": "405670016",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.82528934325717",
+      "lat": "54.31176809110728"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Тельмы 1",
+    "osm_id": "-7592265",
+    "hierarchy": [
+      "Тельминский сельский Совет",
+      "Брестский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.11486399910831",
+    "lon": "23.8266704"
+  },
+  "group": [
+    {
+      "school_osm_id": "1307710231",
+      "school_osm_type": "node",
+      "school_name": "Средняя школа д.Тельмы-1",
+      "place_osm_id": "-8025992",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Тельминский сельский Совет",
+      "lon": "23.8266704",
+      "lat": "52.11486399910831"
+    },
+    {
+      "school_osm_id": "1307710231",
+      "school_osm_type": "node",
+      "school_name": "Средняя школа д.Тельмы-1",
+      "place_osm_id": "-7592265",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Тельмы 1",
+      "lon": "23.8266704",
+      "lat": "52.11486399910831"
+    },
+    {
+      "school_osm_id": "1307710231",
+      "school_osm_type": "node",
+      "school_name": "Средняя школа д.Тельмы-1",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "23.8266704",
+      "lat": "52.11486399910831"
+    },
+    {
+      "school_osm_id": "1307710231",
+      "school_osm_type": "node",
+      "school_name": "Средняя школа д.Тельмы-1",
+      "place_osm_id": "-59188",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Брестский район",
+      "lon": "23.8266704",
+      "lat": "52.11486399910831"
+    },
+    {
+      "school_osm_id": "1307710231",
+      "school_osm_type": "node",
+      "school_name": "Средняя школа д.Тельмы-1",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "23.8266704",
+      "lat": "52.11486399910831"
+    }
+  ]
+}

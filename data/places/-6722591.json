@@ -1,0 +1,79 @@
+[
+  {
+    "school_osm_id": "273538468",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-6722591",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Марьина Горка",
+    "lon": "28.156767949504463",
+    "lat": "53.503128432046445"
+  },
+  {
+    "school_osm_id": "273538471",
+    "school_osm_type": "way",
+    "school_name": "СШ №3",
+    "place_osm_id": "-6722591",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Марьина Горка",
+    "lon": "28.16941026767915",
+    "lat": "53.49858978193915"
+  },
+  {
+    "school_osm_id": "598625946",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-6722591",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Марьина Горка",
+    "lon": "28.149423685150676",
+    "lat": "53.5097490782341"
+  },
+  {
+    "school_osm_id": "701916282",
+    "school_osm_type": "way",
+    "school_name": "СШ №1",
+    "place_osm_id": "-6722591",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Марьина Горка",
+    "lon": "28.12825671426638",
+    "lat": "53.5165399884719"
+  },
+  {
+    "school_osm_id": "914196818",
+    "school_osm_type": "node",
+    "school_name": "Музыкальная школа",
+    "place_osm_id": "-6722591",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Марьина Горка",
+    "lon": "28.1726252",
+    "lat": "53.50367119911986"
+  },
+  {
+    "school_osm_id": "914388470",
+    "school_osm_type": "node",
+    "school_name": "СШ №2",
+    "place_osm_id": "-6722591",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Марьина Горка",
+    "lon": "28.1493794",
+    "lat": "53.509618499120435"
+  },
+  {
+    "school_osm_id": "920144486",
+    "school_osm_type": "node",
+    "school_name": "СШ №4",
+    "place_osm_id": "-6722591",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Марьина Горка",
+    "lon": "28.1365557",
+    "lat": "53.50345039911983"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "550874672",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7465295",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Телеханы",
+    "lon": "25.84629826918335",
+    "lat": "52.514348342834914"
+  },
+  {
+    "school_osm_id": "550874694",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7465295",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Телеханы",
+    "lon": "25.848257790215058",
+    "lat": "52.51990264024046"
+  }
+]

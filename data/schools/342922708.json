@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Родня",
+    "osm_id": "-7583168",
+    "hierarchy": [
+      "Родненский сельский Совет",
+      "Климовичский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.51228042055058",
+    "lon": "32.13187214137895"
+  },
+  "group": [
+    {
+      "school_osm_id": "342922708",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8067505",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Родненский сельский Совет",
+      "lon": "32.13187214137895",
+      "lat": "53.51228042055058"
+    },
+    {
+      "school_osm_id": "342922708",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7583168",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Родня",
+      "lon": "32.13187214137895",
+      "lat": "53.51228042055058"
+    },
+    {
+      "school_osm_id": "342922708",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70610",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Климовичский район",
+      "lon": "32.13187214137895",
+      "lat": "53.51228042055058"
+    },
+    {
+      "school_osm_id": "342922708",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "32.13187214137895",
+      "lat": "53.51228042055058"
+    },
+    {
+      "school_osm_id": "342922708",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "32.13187214137895",
+      "lat": "53.51228042055058"
+    }
+  ]
+}

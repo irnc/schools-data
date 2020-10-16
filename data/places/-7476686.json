@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "561749418",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7476686",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Сарья",
+    "lon": "27.887836664833902",
+    "lat": "55.91399824182995"
+  },
+  {
+    "school_osm_id": "852413412",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7476686",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Сарья",
+    "lon": "27.887514088899053",
+    "lat": "55.91392037516795"
+  }
+]

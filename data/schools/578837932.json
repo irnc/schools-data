@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Ручей",
+    "osm_id": "-6794036",
+    "hierarchy": [
+      "Лапичский сельский Совет",
+      "Осиповичский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.42633073386873",
+    "lon": "28.483160279308315"
+  },
+  "group": [
+    {
+      "school_osm_id": "578837932",
+      "school_osm_type": "way",
+      "school_name": "Лапичская средняя школа",
+      "place_osm_id": "-8144354",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Лапичский сельский Совет",
+      "lon": "28.483160279308315",
+      "lat": "53.42633073386873"
+    },
+    {
+      "school_osm_id": "578837932",
+      "school_osm_type": "way",
+      "school_name": "Лапичская средняя школа",
+      "place_osm_id": "-6794036",
+      "place_admin_level": "10",
+      "place_place": "hamlet",
+      "place_name": "Ручей",
+      "lon": "28.483160279308315",
+      "lat": "53.42633073386873"
+    },
+    {
+      "school_osm_id": "578837932",
+      "school_osm_type": "way",
+      "school_name": "Лапичская средняя школа",
+      "place_osm_id": "-59753",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Осиповичский район",
+      "lon": "28.483160279308315",
+      "lat": "53.42633073386873"
+    },
+    {
+      "school_osm_id": "578837932",
+      "school_osm_type": "way",
+      "school_name": "Лапичская средняя школа",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "28.483160279308315",
+      "lat": "53.42633073386873"
+    },
+    {
+      "school_osm_id": "578837932",
+      "school_osm_type": "way",
+      "school_name": "Лапичская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.483160279308315",
+      "lat": "53.42633073386873"
+    }
+  ]
+}

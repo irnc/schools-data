@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "45816960",
+    "school_osm_type": "way",
+    "school_name": "Детский дом",
+    "place_osm_id": "-7479840",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Большие Лётцы",
+    "lon": "29.968255588448137",
+    "lat": "55.198105172215385"
+  },
+  {
+    "school_osm_id": "288228678",
+    "school_osm_type": "way",
+    "school_name": "Велико-летчанская средняя школа",
+    "place_osm_id": "-7479840",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Большие Лётцы",
+    "lon": "29.967113852367817",
+    "lat": "55.19519391212433"
+  }
+]

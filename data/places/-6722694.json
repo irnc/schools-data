@@ -1,0 +1,112 @@
+[
+  {
+    "school_osm_id": "207703028",
+    "school_osm_type": "way",
+    "school_name": "Музыкальная школа",
+    "place_osm_id": "-6722694",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Кричев",
+    "lon": "31.71104479810059",
+    "lat": "53.69445159695577"
+  },
+  {
+    "school_osm_id": "207703029",
+    "school_osm_type": "way",
+    "school_name": "Художественная школа",
+    "place_osm_id": "-6722694",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Кричев",
+    "lon": "31.710975045859207",
+    "lat": "53.693931591912715"
+  },
+  {
+    "school_osm_id": "340059220",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №1",
+    "place_osm_id": "-6722694",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Кричев",
+    "lon": "31.71372439473935",
+    "lat": "53.69258658199495"
+  },
+  {
+    "school_osm_id": "366653069",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №3",
+    "place_osm_id": "-6722694",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Кричев",
+    "lon": "31.72146588130563",
+    "lat": "53.71192865835642"
+  },
+  {
+    "school_osm_id": "366653072",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №5",
+    "place_osm_id": "-6722694",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Кричев",
+    "lon": "31.71844396024881",
+    "lat": "53.747415304691565"
+  },
+  {
+    "school_osm_id": "366655581",
+    "school_osm_type": "way",
+    "school_name": "Школа № 8",
+    "place_osm_id": "-6722694",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Кричев",
+    "lon": "31.710422368765087",
+    "lat": "53.71110217266085"
+  },
+  {
+    "school_osm_id": "366655582",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-6722694",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Кричев",
+    "lon": "31.696221273734444",
+    "lat": "53.73476677709733"
+  },
+  {
+    "school_osm_id": "508498924",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-6722694",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Кричев",
+    "lon": "31.72127983620557",
+    "lat": "53.710451878146756"
+  },
+  {
+    "school_osm_id": "838585442",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-6722694",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Кричев",
+    "lon": "31.721114875224956",
+    "lat": "53.742616294318985"
+  },
+  {
+    "school_osm_id": "4976473622",
+    "school_osm_type": "node",
+    "school_name": "Средняя школа №5",
+    "place_osm_id": "-6722694",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Кричев",
+    "lon": "31.719369399999994",
+    "lat": "53.74705259914755"
+  }
+]

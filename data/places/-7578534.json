@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "218409226",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7578534",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Трилесино",
+    "lon": "30.971617555423204",
+    "lat": "54.050020131867925"
+  },
+  {
+    "school_osm_id": "373173518",
+    "school_osm_type": "way",
+    "school_name": "Государственное учреждение образования \"Трилесинская средняя школа\"",
+    "place_osm_id": "-7578534",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Трилесино",
+    "lon": "30.978276614280176",
+    "lat": "54.04172793918283"
+  }
+]

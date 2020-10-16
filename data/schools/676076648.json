@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Ровбицк",
+    "osm_id": "-7467857",
+    "hierarchy": [
+      "Сухопольский сельский Совет",
+      "Пружанский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.66975431343239",
+    "lon": "24.081096098746695"
+  },
+  "group": [
+    {
+      "school_osm_id": "676076648",
+      "school_osm_type": "way",
+      "school_name": "Ровбицкий УПК детский сад - базовая школа",
+      "place_osm_id": "-8025730",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Сухопольский сельский Совет",
+      "lon": "24.081096098746695",
+      "lat": "52.66975431343239"
+    },
+    {
+      "school_osm_id": "676076648",
+      "school_osm_type": "way",
+      "school_name": "Ровбицкий УПК детский сад - базовая школа",
+      "place_osm_id": "-7467857",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Ровбицк",
+      "lon": "24.081096098746695",
+      "lat": "52.66975431343239"
+    },
+    {
+      "school_osm_id": "676076648",
+      "school_osm_type": "way",
+      "school_name": "Ровбицкий УПК детский сад - базовая школа",
+      "place_osm_id": "-71094",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Пружанский район",
+      "lon": "24.081096098746695",
+      "lat": "52.66975431343239"
+    },
+    {
+      "school_osm_id": "676076648",
+      "school_osm_type": "way",
+      "school_name": "Ровбицкий УПК детский сад - базовая школа",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "24.081096098746695",
+      "lat": "52.66975431343239"
+    },
+    {
+      "school_osm_id": "676076648",
+      "school_osm_type": "way",
+      "school_name": "Ровбицкий УПК детский сад - базовая школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "24.081096098746695",
+      "lat": "52.66975431343239"
+    }
+  ]
+}

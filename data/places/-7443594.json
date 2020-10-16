@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "326189212",
+    "school_osm_type": "way",
+    "school_name": "Дудичская средняя школа",
+    "place_osm_id": "-7443594",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Дудичи",
+    "lon": "29.34426303697774",
+    "lat": "52.179327642689465"
+  },
+  {
+    "school_osm_id": "326189213",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7443594",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Дудичи",
+    "lon": "29.34400029349232",
+    "lat": "52.17978259877673"
+  }
+]

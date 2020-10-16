@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Большая Ведрень",
+    "osm_id": "-7505982",
+    "hierarchy": [
+      "Иванский сельский Совет",
+      "Чашникский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.90528262290526",
+    "lon": "29.280521149310875"
+  },
+  "group": [
+    {
+      "school_osm_id": "361202661",
+      "school_osm_type": "way",
+      "school_name": "Ведренская детский сад-базовая школа",
+      "place_osm_id": "-7505982",
+      "place_admin_level": "10",
+      "place_place": "hamlet",
+      "place_name": "Большая Ведрень",
+      "lon": "29.280521149310875",
+      "lat": "54.90528262290526"
+    },
+    {
+      "school_osm_id": "361202661",
+      "school_osm_type": "way",
+      "school_name": "Ведренская детский сад-базовая школа",
+      "place_osm_id": "-4850384",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Иванский сельский Совет",
+      "lon": "29.280521149310875",
+      "lat": "54.90528262290526"
+    },
+    {
+      "school_osm_id": "361202661",
+      "school_osm_type": "way",
+      "school_name": "Ведренская детский сад-базовая школа",
+      "place_osm_id": "-70746",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Чашникский район",
+      "lon": "29.280521149310875",
+      "lat": "54.90528262290526"
+    },
+    {
+      "school_osm_id": "361202661",
+      "school_osm_type": "way",
+      "school_name": "Ведренская детский сад-базовая школа",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "29.280521149310875",
+      "lat": "54.90528262290526"
+    },
+    {
+      "school_osm_id": "361202661",
+      "school_osm_type": "way",
+      "school_name": "Ведренская детский сад-базовая школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.280521149310875",
+      "lat": "54.90528262290526"
+    }
+  ]
+}

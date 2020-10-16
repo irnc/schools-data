@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Ворониловичи",
+    "osm_id": "-7467627",
+    "hierarchy": [
+      "Ружанский сельский Совет",
+      "Пружанский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.80669692815798",
+    "lon": "24.92604831155464"
+  },
+  "group": [
+    {
+      "school_osm_id": "527768488",
+      "school_osm_type": "way",
+      "school_name": "Ворониловичский УПК д/с — СШ",
+      "place_osm_id": "-8025725",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Ружанский сельский Совет",
+      "lon": "24.92604831155464",
+      "lat": "52.80669692815798"
+    },
+    {
+      "school_osm_id": "527768488",
+      "school_osm_type": "way",
+      "school_name": "Ворониловичский УПК д/с — СШ",
+      "place_osm_id": "-7467627",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Ворониловичи",
+      "lon": "24.92604831155464",
+      "lat": "52.80669692815798"
+    },
+    {
+      "school_osm_id": "527768488",
+      "school_osm_type": "way",
+      "school_name": "Ворониловичский УПК д/с — СШ",
+      "place_osm_id": "-71094",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Пружанский район",
+      "lon": "24.92604831155464",
+      "lat": "52.80669692815798"
+    },
+    {
+      "school_osm_id": "527768488",
+      "school_osm_type": "way",
+      "school_name": "Ворониловичский УПК д/с — СШ",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "24.92604831155464",
+      "lat": "52.80669692815798"
+    },
+    {
+      "school_osm_id": "527768488",
+      "school_osm_type": "way",
+      "school_name": "Ворониловичский УПК д/с — СШ",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "24.92604831155464",
+      "lat": "52.80669692815798"
+    }
+  ]
+}

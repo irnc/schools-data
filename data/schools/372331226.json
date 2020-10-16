@@ -1,0 +1,53 @@
+{
+  "place": "warning-school-without-place",
+  "geo": {
+    "lat": "54.59708042963802",
+    "lon": "29.81852166049373"
+  },
+  "group": [
+    {
+      "school_osm_id": "372331226",
+      "school_osm_type": "way",
+      "school_name": "Оболецкая детский сад – базовая школа",
+      "place_osm_id": "-7975908",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Оболецкий сельский Совет",
+      "lon": "29.81852166049373",
+      "lat": "54.59708042963802"
+    },
+    {
+      "school_osm_id": "372331226",
+      "school_osm_type": "way",
+      "school_name": "Оболецкая детский сад – базовая школа",
+      "place_osm_id": "-70649",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Толочинский район",
+      "lon": "29.81852166049373",
+      "lat": "54.59708042963802"
+    },
+    {
+      "school_osm_id": "372331226",
+      "school_osm_type": "way",
+      "school_name": "Оболецкая детский сад – базовая школа",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "29.81852166049373",
+      "lat": "54.59708042963802"
+    },
+    {
+      "school_osm_id": "372331226",
+      "school_osm_type": "way",
+      "school_name": "Оболецкая детский сад – базовая школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.81852166049373",
+      "lat": "54.59708042963802"
+    }
+  ]
+}

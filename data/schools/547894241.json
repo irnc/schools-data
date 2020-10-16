@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Струбница",
+    "osm_id": "-7522057",
+    "hierarchy": [
+      "Песковский сельский Совет",
+      "Мостовский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.315166929374776",
+    "lon": "24.60353118278565"
+  },
+  "group": [
+    {
+      "school_osm_id": "547894241",
+      "school_osm_type": "way",
+      "school_name": "Детский сад - средняя школа, струбницкий УПК",
+      "place_osm_id": "-8085958",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Песковский сельский Совет",
+      "lon": "24.60353118278565",
+      "lat": "53.315166929374776"
+    },
+    {
+      "school_osm_id": "547894241",
+      "school_osm_type": "way",
+      "school_name": "Детский сад - средняя школа, струбницкий УПК",
+      "place_osm_id": "-7522057",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Струбница",
+      "lon": "24.60353118278565",
+      "lat": "53.315166929374776"
+    },
+    {
+      "school_osm_id": "547894241",
+      "school_osm_type": "way",
+      "school_name": "Детский сад - средняя школа, струбницкий УПК",
+      "place_osm_id": "-70754",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Мостовский район",
+      "lon": "24.60353118278565",
+      "lat": "53.315166929374776"
+    },
+    {
+      "school_osm_id": "547894241",
+      "school_osm_type": "way",
+      "school_name": "Детский сад - средняя школа, струбницкий УПК",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "24.60353118278565",
+      "lat": "53.315166929374776"
+    },
+    {
+      "school_osm_id": "547894241",
+      "school_osm_type": "way",
+      "school_name": "Детский сад - средняя школа, струбницкий УПК",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "24.60353118278565",
+      "lat": "53.315166929374776"
+    }
+  ]
+}

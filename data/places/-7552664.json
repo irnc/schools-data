@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "539817993",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7552664",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Лань",
+    "lon": "26.68516147766972",
+    "lat": "53.14727507706942"
+  },
+  {
+    "school_osm_id": "6091074486",
+    "school_osm_type": "node",
+    "school_name": "Школа",
+    "place_osm_id": "-7552664",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Лань",
+    "lon": "26.685999099999997",
+    "lat": "53.14702849909375"
+  }
+]

@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Берёзовка",
+    "osm_id": "-6722391",
+    "hierarchy": [
+      "Лидский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.72127464852835",
+    "lon": "25.508790117254456"
+  },
+  "group": [
+    {
+      "school_osm_id": "360153071",
+      "school_osm_type": "way",
+      "school_name": "СШ №2",
+      "place_osm_id": "-6722391",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Берёзовка",
+      "lon": "25.508790117254456",
+      "lat": "53.72127464852835"
+    },
+    {
+      "school_osm_id": "360153071",
+      "school_osm_type": "way",
+      "school_name": "СШ №2",
+      "place_osm_id": "-70747",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Лидский район",
+      "lon": "25.508790117254456",
+      "lat": "53.72127464852835"
+    },
+    {
+      "school_osm_id": "360153071",
+      "school_osm_type": "way",
+      "school_name": "СШ №2",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "25.508790117254456",
+      "lat": "53.72127464852835"
+    },
+    {
+      "school_osm_id": "360153071",
+      "school_osm_type": "way",
+      "school_name": "СШ №2",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "25.508790117254456",
+      "lat": "53.72127464852835"
+    }
+  ]
+}

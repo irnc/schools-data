@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Узречье",
+    "osm_id": "-7536603",
+    "hierarchy": [
+      "Добринёвский сельский Совет",
+      "Дзержинский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.60847263589944",
+    "lon": "27.371633860752116"
+  },
+  "group": [
+    {
+      "school_osm_id": "558796468",
+      "school_osm_type": "way",
+      "school_name": "Даниловичский УПК ЯС-СШ",
+      "place_osm_id": "-8139704",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Добринёвский сельский Совет",
+      "lon": "27.371633860752116",
+      "lat": "53.60847263589944"
+    },
+    {
+      "school_osm_id": "558796468",
+      "school_osm_type": "way",
+      "school_name": "Даниловичский УПК ЯС-СШ",
+      "place_osm_id": "-7536603",
+      "place_admin_level": "10",
+      "place_place": "hamlet",
+      "place_name": "Узречье",
+      "lon": "27.371633860752116",
+      "lat": "53.60847263589944"
+    },
+    {
+      "school_osm_id": "558796468",
+      "school_osm_type": "way",
+      "school_name": "Даниловичский УПК ЯС-СШ",
+      "place_osm_id": "-70563",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Дзержинский район",
+      "lon": "27.371633860752116",
+      "lat": "53.60847263589944"
+    },
+    {
+      "school_osm_id": "558796468",
+      "school_osm_type": "way",
+      "school_name": "Даниловичский УПК ЯС-СШ",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.371633860752116",
+      "lat": "53.60847263589944"
+    },
+    {
+      "school_osm_id": "558796468",
+      "school_osm_type": "way",
+      "school_name": "Даниловичский УПК ЯС-СШ",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.371633860752116",
+      "lat": "53.60847263589944"
+    }
+  ]
+}

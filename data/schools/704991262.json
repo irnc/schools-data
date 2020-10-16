@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Пекалин",
+    "osm_id": "-7566039",
+    "hierarchy": [
+      "Пекалинский сельский Совет",
+      "Смолевичский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.904702272109326",
+    "lon": "28.125616972841087"
+  },
+  "group": [
+    {
+      "school_osm_id": "704991262",
+      "school_osm_type": "way",
+      "school_name": "Пекалинская базовая школа",
+      "place_osm_id": "-8144214",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Пекалинский сельский Совет",
+      "lon": "28.125616972841087",
+      "lat": "53.904702272109326"
+    },
+    {
+      "school_osm_id": "704991262",
+      "school_osm_type": "way",
+      "school_name": "Пекалинская базовая школа",
+      "place_osm_id": "-7566039",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Пекалин",
+      "lon": "28.125616972841087",
+      "lat": "53.904702272109326"
+    },
+    {
+      "school_osm_id": "704991262",
+      "school_osm_type": "way",
+      "school_name": "Пекалинская базовая школа",
+      "place_osm_id": "-69554",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Смолевичский район",
+      "lon": "28.125616972841087",
+      "lat": "53.904702272109326"
+    },
+    {
+      "school_osm_id": "704991262",
+      "school_osm_type": "way",
+      "school_name": "Пекалинская базовая школа",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "28.125616972841087",
+      "lat": "53.904702272109326"
+    },
+    {
+      "school_osm_id": "704991262",
+      "school_osm_type": "way",
+      "school_name": "Пекалинская базовая школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.125616972841087",
+      "lat": "53.904702272109326"
+    }
+  ]
+}

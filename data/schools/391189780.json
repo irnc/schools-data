@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Боровая Буда",
+    "osm_id": "-7443706",
+    "hierarchy": [
+      "Боровобудский сельский Совет",
+      "Кормянский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.034972466142555",
+    "lon": "30.623507604181963"
+  },
+  "group": [
+    {
+      "school_osm_id": "391189780",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8107289",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Боровобудский сельский Совет",
+      "lon": "30.623507604181963",
+      "lat": "53.034972466142555"
+    },
+    {
+      "school_osm_id": "391189780",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7443706",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Боровая Буда",
+      "lon": "30.623507604181963",
+      "lat": "53.034972466142555"
+    },
+    {
+      "school_osm_id": "391189780",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "30.623507604181963",
+      "lat": "53.034972466142555"
+    },
+    {
+      "school_osm_id": "391189780",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59149",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Кормянский район",
+      "lon": "30.623507604181963",
+      "lat": "53.034972466142555"
+    },
+    {
+      "school_osm_id": "391189780",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.623507604181963",
+      "lat": "53.034972466142555"
+    }
+  ]
+}

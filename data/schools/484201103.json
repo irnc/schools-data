@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Заславль",
+    "osm_id": "-6722551",
+    "hierarchy": [
+      "Минский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.005923394166814",
+    "lon": "27.29102175134995"
+  },
+  "group": [
+    {
+      "school_osm_id": "484201103",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-6722551",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Заславль",
+      "lon": "27.29102175134995",
+      "lat": "54.005923394166814"
+    },
+    {
+      "school_osm_id": "484201103",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.29102175134995",
+      "lat": "54.005923394166814"
+    },
+    {
+      "school_osm_id": "484201103",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59190",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Минский район",
+      "lon": "27.29102175134995",
+      "lat": "54.005923394166814"
+    },
+    {
+      "school_osm_id": "484201103",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.29102175134995",
+      "lat": "54.005923394166814"
+    }
+  ]
+}

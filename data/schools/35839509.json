@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Миоры",
+    "osm_id": "-1180081",
+    "hierarchy": [
+      "Миорский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.618931878163856",
+    "lon": "27.632484313298647"
+  },
+  "group": [
+    {
+      "school_osm_id": "35839509",
+      "school_osm_type": "way",
+      "school_name": "Спортшкола",
+      "place_osm_id": "-1180081",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Миоры",
+      "lon": "27.632484313298647",
+      "lat": "55.618931878163856"
+    },
+    {
+      "school_osm_id": "35839509",
+      "school_osm_type": "way",
+      "school_name": "Спортшкола",
+      "place_osm_id": "-70690",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Миорский район",
+      "lon": "27.632484313298647",
+      "lat": "55.618931878163856"
+    },
+    {
+      "school_osm_id": "35839509",
+      "school_osm_type": "way",
+      "school_name": "Спортшкола",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "27.632484313298647",
+      "lat": "55.618931878163856"
+    },
+    {
+      "school_osm_id": "35839509",
+      "school_osm_type": "way",
+      "school_name": "Спортшкола",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.632484313298647",
+      "lat": "55.618931878163856"
+    }
+  ]
+}

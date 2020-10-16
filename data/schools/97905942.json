@@ -1,0 +1,46 @@
+{
+  "place": {
+    "name": "Минск",
+    "osm_id": "-59195",
+    "hierarchy": []
+  },
+  "geo": {
+    "lat": "53.82418912262211",
+    "lon": "27.58862989693595"
+  },
+  "group": [
+    {
+      "school_osm_id": "97905942",
+      "school_osm_type": "way",
+      "school_name": "Автошкола ЦАУК. Площадка.",
+      "place_osm_id": "-59199",
+      "place_admin_level": "9",
+      "place_place": "",
+      "place_name": "Октябрьский район",
+      "lon": "27.58862989693595",
+      "lat": "53.82418912262211"
+    },
+    {
+      "school_osm_id": "97905942",
+      "school_osm_type": "way",
+      "school_name": "Автошкола ЦАУК. Площадка.",
+      "place_osm_id": "-59195",
+      "place_admin_level": "4",
+      "place_place": "city",
+      "place_name": "Минск",
+      "lon": "27.58862989693595",
+      "lat": "53.82418912262211"
+    },
+    {
+      "school_osm_id": "97905942",
+      "school_osm_type": "way",
+      "school_name": "Автошкола ЦАУК. Площадка.",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.58862989693595",
+      "lat": "53.82418912262211"
+    }
+  ]
+}

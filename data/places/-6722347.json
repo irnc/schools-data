@@ -1,0 +1,68 @@
+[
+  {
+    "school_osm_id": "159821598",
+    "school_osm_type": "way",
+    "school_name": "Музыкальная школа",
+    "place_osm_id": "-6722347",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Толочин",
+    "lon": "29.692864076260133",
+    "lat": "54.408828965675355"
+  },
+  {
+    "school_osm_id": "159989542",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-6722347",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Толочин",
+    "lon": "29.698749505208248",
+    "lat": "54.40614246208529"
+  },
+  {
+    "school_osm_id": "641906072",
+    "school_osm_type": "way",
+    "school_name": "Школа №1",
+    "place_osm_id": "-6722347",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Толочин",
+    "lon": "29.697154412259085",
+    "lat": "54.41041298721681"
+  },
+  {
+    "school_osm_id": "786195510",
+    "school_osm_type": "way",
+    "school_name": "Толочинская районная гимназия",
+    "place_osm_id": "-6722347",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Толочин",
+    "lon": "29.711557878155947",
+    "lat": "54.40320052415028"
+  },
+  {
+    "school_osm_id": "4986883324",
+    "school_osm_type": "node",
+    "school_name": "СДЮШОР Велоспорт",
+    "place_osm_id": "-6722347",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Толочин",
+    "lon": "29.7016047",
+    "lat": "54.41623599926613"
+  },
+  {
+    "school_osm_id": "4987028523",
+    "school_osm_type": "node",
+    "school_name": "СДЮШОР Секция греко-римской борьбы",
+    "place_osm_id": "-6722347",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Толочин",
+    "lon": "29.6797868",
+    "lat": "54.40173409926291"
+  }
+]

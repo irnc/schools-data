@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Бильдюги",
+    "osm_id": "-7506527",
+    "hierarchy": [
+      "Бильдюгский сельский Совет",
+      "Шарковщинский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.48831802630775",
+    "lon": "27.374561550030727"
+  },
+  "group": [
+    {
+      "school_osm_id": "834297866",
+      "school_osm_type": "way",
+      "school_name": "Бильдюжская средняя школа",
+      "place_osm_id": "-8083048",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Бильдюгский сельский Совет",
+      "lon": "27.374561550030727",
+      "lat": "55.48831802630775"
+    },
+    {
+      "school_osm_id": "834297866",
+      "school_osm_type": "way",
+      "school_name": "Бильдюжская средняя школа",
+      "place_osm_id": "-7506527",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Бильдюги",
+      "lon": "27.374561550030727",
+      "lat": "55.48831802630775"
+    },
+    {
+      "school_osm_id": "834297866",
+      "school_osm_type": "way",
+      "school_name": "Бильдюжская средняя школа",
+      "place_osm_id": "-70701",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Шарковщинский район",
+      "lon": "27.374561550030727",
+      "lat": "55.48831802630775"
+    },
+    {
+      "school_osm_id": "834297866",
+      "school_osm_type": "way",
+      "school_name": "Бильдюжская средняя школа",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "27.374561550030727",
+      "lat": "55.48831802630775"
+    },
+    {
+      "school_osm_id": "834297866",
+      "school_osm_type": "way",
+      "school_name": "Бильдюжская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.374561550030727",
+      "lat": "55.48831802630775"
+    }
+  ]
+}

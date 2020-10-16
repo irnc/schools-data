@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Хотюхово",
+    "osm_id": "-7543165",
+    "hierarchy": [
+      "Хотюховский сельский Совет",
+      "Крупский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.43126455316622",
+    "lon": "28.87923959049431"
+  },
+  "group": [
+    {
+      "school_osm_id": "326830783",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8016692",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Хотюховский сельский Совет",
+      "lon": "28.87923959049431",
+      "lat": "54.43126455316622"
+    },
+    {
+      "school_osm_id": "326830783",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7543165",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Хотюхово",
+      "lon": "28.87923959049431",
+      "lat": "54.43126455316622"
+    },
+    {
+      "school_osm_id": "326830783",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70639",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Крупский район",
+      "lon": "28.87923959049431",
+      "lat": "54.43126455316622"
+    },
+    {
+      "school_osm_id": "326830783",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "28.87923959049431",
+      "lat": "54.43126455316622"
+    },
+    {
+      "school_osm_id": "326830783",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.87923959049431",
+      "lat": "54.43126455316622"
+    }
+  ]
+}

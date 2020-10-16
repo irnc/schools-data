@@ -1,0 +1,59 @@
+{
+  "place": {
+    "name": "Гомель",
+    "osm_id": "-163244",
+    "hierarchy": [
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.44232424744774",
+    "lon": "30.95937904590978"
+  },
+  "group": [
+    {
+      "school_osm_id": "447664988",
+      "school_osm_type": "way",
+      "school_name": "Площадка учебного вождения",
+      "place_osm_id": "-3628812",
+      "place_admin_level": "9",
+      "place_place": "",
+      "place_name": "Железнодорожный район",
+      "lon": "30.95937904590978",
+      "lat": "52.44232424744774"
+    },
+    {
+      "school_osm_id": "447664988",
+      "school_osm_type": "way",
+      "school_name": "Площадка учебного вождения",
+      "place_osm_id": "-163244",
+      "place_admin_level": "6",
+      "place_place": "city",
+      "place_name": "Гомель",
+      "lon": "30.95937904590978",
+      "lat": "52.44232424744774"
+    },
+    {
+      "school_osm_id": "447664988",
+      "school_osm_type": "way",
+      "school_name": "Площадка учебного вождения",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "30.95937904590978",
+      "lat": "52.44232424744774"
+    },
+    {
+      "school_osm_id": "447664988",
+      "school_osm_type": "way",
+      "school_name": "Площадка учебного вождения",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.95937904590978",
+      "lat": "52.44232424744774"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Новицковичи",
+    "osm_id": "-7465563",
+    "hierarchy": [
+      "Новицковичский сельский Совет",
+      "Каменецкий район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.443677422604935",
+    "lon": "23.847263882723713"
+  },
+  "group": [
+    {
+      "school_osm_id": "828926365",
+      "school_osm_type": "way",
+      "school_name": "Новицковичская средняя школа",
+      "place_osm_id": "-8025763",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Новицковичский сельский Совет",
+      "lon": "23.847263882723713",
+      "lat": "52.443677422604935"
+    },
+    {
+      "school_osm_id": "828926365",
+      "school_osm_type": "way",
+      "school_name": "Новицковичская средняя школа",
+      "place_osm_id": "-7465563",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Новицковичи",
+      "lon": "23.847263882723713",
+      "lat": "52.443677422604935"
+    },
+    {
+      "school_osm_id": "828926365",
+      "school_osm_type": "way",
+      "school_name": "Новицковичская средняя школа",
+      "place_osm_id": "-71097",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Каменецкий район",
+      "lon": "23.847263882723713",
+      "lat": "52.443677422604935"
+    },
+    {
+      "school_osm_id": "828926365",
+      "school_osm_type": "way",
+      "school_name": "Новицковичская средняя школа",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "23.847263882723713",
+      "lat": "52.443677422604935"
+    },
+    {
+      "school_osm_id": "828926365",
+      "school_osm_type": "way",
+      "school_name": "Новицковичская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "23.847263882723713",
+      "lat": "52.443677422604935"
+    }
+  ]
+}

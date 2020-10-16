@@ -1,0 +1,68 @@
+[
+  {
+    "school_osm_id": "-10081446",
+    "school_osm_type": "relation",
+    "school_name": "Средняя школа №2",
+    "place_osm_id": "-6722642",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Быхов",
+    "lon": "30.22626552917648",
+    "lat": "53.52874748849632"
+  },
+  {
+    "school_osm_id": "215055674",
+    "school_osm_type": "way",
+    "school_name": "Музыкальная Школа",
+    "place_osm_id": "-6722642",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Быхов",
+    "lon": "30.21091663732063",
+    "lat": "53.52878911218004"
+  },
+  {
+    "school_osm_id": "215056028",
+    "school_osm_type": "way",
+    "school_name": "Лицей №5",
+    "place_osm_id": "-6722642",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Быхов",
+    "lon": "30.214674697213265",
+    "lat": "53.5323624620829"
+  },
+  {
+    "school_osm_id": "405089108",
+    "school_osm_type": "way",
+    "school_name": "СШ №3",
+    "place_osm_id": "-6722642",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Быхов",
+    "lon": "30.249923865494438",
+    "lat": "53.526560916880186"
+  },
+  {
+    "school_osm_id": "556309504",
+    "school_osm_type": "way",
+    "school_name": "Школа № 1",
+    "place_osm_id": "-6722642",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Быхов",
+    "lon": "30.24327579852061",
+    "lat": "53.51701585511996"
+  },
+  {
+    "school_osm_id": "728804239",
+    "school_osm_type": "way",
+    "school_name": "Гимназия г. Быхова",
+    "place_osm_id": "-6722642",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Быхов",
+    "lon": "30.228041258911958",
+    "lat": "53.52372178678028"
+  }
+]

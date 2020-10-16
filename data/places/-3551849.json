@@ -1,0 +1,112 @@
+[
+  {
+    "school_osm_id": "-6322161",
+    "school_osm_type": "relation",
+    "school_name": "Средняя школа №5",
+    "place_osm_id": "-3551849",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Рогачёв",
+    "lon": "30.065824509558542",
+    "lat": "53.100731941543586"
+  },
+  {
+    "school_osm_id": "-2814069",
+    "school_osm_type": "relation",
+    "school_name": "СШ №4",
+    "place_osm_id": "-3551849",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Рогачёв",
+    "lon": "30.039751729260505",
+    "lat": "53.09547898184478"
+  },
+  {
+    "school_osm_id": "262666214",
+    "school_osm_type": "way",
+    "school_name": "Школа № 3",
+    "place_osm_id": "-3551849",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Рогачёв",
+    "lon": "30.018565634962027",
+    "lat": "53.066992667334915"
+  },
+  {
+    "school_osm_id": "388219725",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-3551849",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Рогачёв",
+    "lon": "30.065660366330608",
+    "lat": "53.1009412795452"
+  },
+  {
+    "school_osm_id": "389539113",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-3551849",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Рогачёв",
+    "lon": "30.06254707079843",
+    "lat": "53.095137963634954"
+  },
+  {
+    "school_osm_id": "392741040",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-3551849",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Рогачёв",
+    "lon": "30.046103085335705",
+    "lat": "53.07953961044506"
+  },
+  {
+    "school_osm_id": "577625909",
+    "school_osm_type": "node",
+    "school_name": "Школа №2",
+    "place_osm_id": "-3551849",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Рогачёв",
+    "lon": "30.04646569999999",
+    "lat": "53.07930179909069"
+  },
+  {
+    "school_osm_id": "3095202961",
+    "school_osm_type": "node",
+    "school_name": "СШ №1",
+    "place_osm_id": "-3551849",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Рогачёв",
+    "lon": "30.0597523",
+    "lat": "53.09155049909119"
+  },
+  {
+    "school_osm_id": "3907098348",
+    "school_osm_type": "node",
+    "school_name": "Центр индивидуального обучения",
+    "place_osm_id": "-3551849",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Рогачёв",
+    "lon": "30.0559495",
+    "lat": "53.09181559909119"
+  },
+  {
+    "school_osm_id": "3912878270",
+    "school_osm_type": "node",
+    "school_name": "Образовательный центр Лидер",
+    "place_osm_id": "-3551849",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Рогачёв",
+    "lon": "30.051358799999996",
+    "lat": "53.079885399090706"
+  }
+]

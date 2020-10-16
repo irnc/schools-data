@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Буда-Кошелёво",
+    "osm_id": "-5598431",
+    "hierarchy": [
+      "Буда-Кошелёвский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.71391209908426",
+    "lon": "30.5753792"
+  },
+  "group": [
+    {
+      "school_osm_id": "4401091491",
+      "school_osm_type": "node",
+      "school_name": "школа 1",
+      "place_osm_id": "-5598431",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Буда-Кошелёво",
+      "lon": "30.5753792",
+      "lat": "52.71391209908426"
+    },
+    {
+      "school_osm_id": "4401091491",
+      "school_osm_type": "node",
+      "school_name": "школа 1",
+      "place_osm_id": "-59175",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Буда-Кошелёвский район",
+      "lon": "30.5753792",
+      "lat": "52.71391209908426"
+    },
+    {
+      "school_osm_id": "4401091491",
+      "school_osm_type": "node",
+      "school_name": "школа 1",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "30.5753792",
+      "lat": "52.71391209908426"
+    },
+    {
+      "school_osm_id": "4401091491",
+      "school_osm_type": "node",
+      "school_name": "школа 1",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.5753792",
+      "lat": "52.71391209908426"
+    }
+  ]
+}

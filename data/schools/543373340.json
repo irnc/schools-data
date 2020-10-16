@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Домачево",
+    "osm_id": "-4677322",
+    "hierarchy": [
+      "Домачевский сельский Совет",
+      "Брестский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "51.74339143571907",
+    "lon": "23.60241751693615"
+  },
+  "group": [
+    {
+      "school_osm_id": "543373340",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8025999",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Домачевский сельский Совет",
+      "lon": "23.60241751693615",
+      "lat": "51.74339143571907"
+    },
+    {
+      "school_osm_id": "543373340",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-4677322",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Домачево",
+      "lon": "23.60241751693615",
+      "lat": "51.74339143571907"
+    },
+    {
+      "school_osm_id": "543373340",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "23.60241751693615",
+      "lat": "51.74339143571907"
+    },
+    {
+      "school_osm_id": "543373340",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59188",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Брестский район",
+      "lon": "23.60241751693615",
+      "lat": "51.74339143571907"
+    },
+    {
+      "school_osm_id": "543373340",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "23.60241751693615",
+      "lat": "51.74339143571907"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Хальч",
+    "osm_id": "-7442469",
+    "hierarchy": [
+      "Хальчанский сельский Совет",
+      "Ветковский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.56169402013711",
+    "lon": "31.14310935791727"
+  },
+  "group": [
+    {
+      "school_osm_id": "823592869",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8031177",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Хальчанский сельский Совет",
+      "lon": "31.14310935791727",
+      "lat": "52.56169402013711"
+    },
+    {
+      "school_osm_id": "823592869",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7442469",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Хальч",
+      "lon": "31.14310935791727",
+      "lat": "52.56169402013711"
+    },
+    {
+      "school_osm_id": "823592869",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70795",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Ветковский район",
+      "lon": "31.14310935791727",
+      "lat": "52.56169402013711"
+    },
+    {
+      "school_osm_id": "823592869",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "31.14310935791727",
+      "lat": "52.56169402013711"
+    },
+    {
+      "school_osm_id": "823592869",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "31.14310935791727",
+      "lat": "52.56169402013711"
+    }
+  ]
+}

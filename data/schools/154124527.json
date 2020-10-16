@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Любань",
+    "osm_id": "-6722550",
+    "hierarchy": [
+      "Любанский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.805372625796736",
+    "lon": "28.00690307228916"
+  },
+  "group": [
+    {
+      "school_osm_id": "154124527",
+      "school_osm_type": "way",
+      "school_name": "СШ №3",
+      "place_osm_id": "-6722550",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Любань",
+      "lon": "28.00690307228916",
+      "lat": "52.805372625796736"
+    },
+    {
+      "school_osm_id": "154124527",
+      "school_osm_type": "way",
+      "school_name": "СШ №3",
+      "place_osm_id": "-71140",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Любанский район",
+      "lon": "28.00690307228916",
+      "lat": "52.805372625796736"
+    },
+    {
+      "school_osm_id": "154124527",
+      "school_osm_type": "way",
+      "school_name": "СШ №3",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "28.00690307228916",
+      "lat": "52.805372625796736"
+    },
+    {
+      "school_osm_id": "154124527",
+      "school_osm_type": "way",
+      "school_name": "СШ №3",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.00690307228916",
+      "lat": "52.805372625796736"
+    }
+  ]
+}

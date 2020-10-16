@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "374714788",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7498513",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Камаи",
+    "lon": "26.606223840905827",
+    "lat": "55.0600141542852"
+  },
+  {
+    "school_osm_id": "4316395590",
+    "school_osm_type": "node",
+    "school_name": "ГУО \"Камайская средняя школа\"",
+    "place_osm_id": "-7498513",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Камаи",
+    "lon": "26.606062",
+    "lat": "55.05989619943905"
+  }
+]

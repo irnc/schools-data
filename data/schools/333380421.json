@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Комаровичи",
+    "osm_id": "-7450245",
+    "hierarchy": [
+      "Комаровичский сельский Совет",
+      "Петриковский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.46612052031513",
+    "lon": "28.45913234358353"
+  },
+  "group": [
+    {
+      "school_osm_id": "333380421",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8087876",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Комаровичский сельский Совет",
+      "lon": "28.45913234358353",
+      "lat": "52.46612052031513"
+    },
+    {
+      "school_osm_id": "333380421",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7450245",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Комаровичи",
+      "lon": "28.45913234358353",
+      "lat": "52.46612052031513"
+    },
+    {
+      "school_osm_id": "333380421",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-71145",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Петриковский район",
+      "lon": "28.45913234358353",
+      "lat": "52.46612052031513"
+    },
+    {
+      "school_osm_id": "333380421",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "28.45913234358353",
+      "lat": "52.46612052031513"
+    },
+    {
+      "school_osm_id": "333380421",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.45913234358353",
+      "lat": "52.46612052031513"
+    }
+  ]
+}

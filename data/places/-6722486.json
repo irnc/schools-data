@@ -1,0 +1,35 @@
+[
+  {
+    "school_osm_id": "646518636",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №2",
+    "place_osm_id": "-6722486",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Щучин",
+    "lon": "24.733241274712224",
+    "lat": "53.61366208406335"
+  },
+  {
+    "school_osm_id": "735210360",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №3",
+    "place_osm_id": "-6722486",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Щучин",
+    "lon": "24.727946350084135",
+    "lat": "53.59478915986636"
+  },
+  {
+    "school_osm_id": "1868771127",
+    "school_osm_type": "node",
+    "school_name": "Средняя школа №1",
+    "place_osm_id": "-6722486",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Щучин",
+    "lon": "24.736476299999996",
+    "lat": "53.6030683991302"
+  }
+]

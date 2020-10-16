@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "327284669",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7443246",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Кочищи",
+    "lon": "28.933070829315884",
+    "lat": "51.74192575364448"
+  },
+  {
+    "school_osm_id": "327284670",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7443246",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Кочищи",
+    "lon": "28.93208883174849",
+    "lat": "51.741612004851426"
+  }
+]

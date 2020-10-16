@@ -1,0 +1,46 @@
+[
+  {
+    "school_osm_id": "252094743",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-6722576",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Несвиж",
+    "lon": "26.67757938243356",
+    "lat": "53.22002931394961"
+  },
+  {
+    "school_osm_id": "604982651",
+    "school_osm_type": "way",
+    "school_name": "Школа №4",
+    "place_osm_id": "-6722576",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Несвиж",
+    "lon": "26.66684781266967",
+    "lat": "53.22402453851105"
+  },
+  {
+    "school_osm_id": "660690045",
+    "school_osm_type": "way",
+    "school_name": "Сярэдняя школа №1",
+    "place_osm_id": "-6722576",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Несвиж",
+    "lon": "26.677264257528247",
+    "lat": "53.219539973888914"
+  },
+  {
+    "school_osm_id": "4973726595",
+    "school_osm_type": "node",
+    "school_name": "Средняя школа №3",
+    "place_osm_id": "-6722576",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Несвиж",
+    "lon": "26.695464899999997",
+    "lat": "53.214837999097426"
+  }
+]

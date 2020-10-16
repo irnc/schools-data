@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Лесковичи",
+    "osm_id": "-7506886",
+    "hierarchy": [
+      "Светлосельский сельский Совет",
+      "Шумилинский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.247183180473336",
+    "lon": "29.6366591047469"
+  },
+  "group": [
+    {
+      "school_osm_id": "363568056",
+      "school_osm_type": "way",
+      "school_name": "Шумилинская районная гимназия",
+      "place_osm_id": "-7981157",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Светлосельский сельский Совет",
+      "lon": "29.6366591047469",
+      "lat": "55.247183180473336"
+    },
+    {
+      "school_osm_id": "363568056",
+      "school_osm_type": "way",
+      "school_name": "Шумилинская районная гимназия",
+      "place_osm_id": "-7506886",
+      "place_admin_level": "10",
+      "place_place": "hamlet",
+      "place_name": "Лесковичи",
+      "lon": "29.6366591047469",
+      "lat": "55.247183180473336"
+    },
+    {
+      "school_osm_id": "363568056",
+      "school_osm_type": "way",
+      "school_name": "Шумилинская районная гимназия",
+      "place_osm_id": "-70677",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Шумилинский район",
+      "lon": "29.6366591047469",
+      "lat": "55.247183180473336"
+    },
+    {
+      "school_osm_id": "363568056",
+      "school_osm_type": "way",
+      "school_name": "Шумилинская районная гимназия",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "29.6366591047469",
+      "lat": "55.247183180473336"
+    },
+    {
+      "school_osm_id": "363568056",
+      "school_osm_type": "way",
+      "school_name": "Шумилинская районная гимназия",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.6366591047469",
+      "lat": "55.247183180473336"
+    }
+  ]
+}

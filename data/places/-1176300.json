@@ -1,0 +1,57 @@
+[
+  {
+    "school_osm_id": "152304730",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-1176300",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Глубокое",
+    "lon": "27.692473155271923",
+    "lat": "55.14736146288725"
+  },
+  {
+    "school_osm_id": "152304955",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-1176300",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Глубокое",
+    "lon": "27.6919368204606",
+    "lat": "55.147032096126914"
+  },
+  {
+    "school_osm_id": "303371009",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-1176300",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Глубокое",
+    "lon": "27.690902861205693",
+    "lat": "55.14796421064542"
+  },
+  {
+    "school_osm_id": "328197114",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №1 имени Павла Осиповича Сухого",
+    "place_osm_id": "-1176300",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Глубокое",
+    "lon": "27.690407154334306",
+    "lat": "55.13323376797151"
+  },
+  {
+    "school_osm_id": "328198539",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №3",
+    "place_osm_id": "-1176300",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Глубокое",
+    "lon": "27.669950944381753",
+    "lat": "55.136066856263795"
+  }
+]

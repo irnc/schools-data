@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Речица",
+    "osm_id": "-5598659",
+    "hierarchy": [
+      "Речицкий район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.36806751879187",
+    "lon": "30.379023691379274"
+  },
+  "group": [
+    {
+      "school_osm_id": "476182121",
+      "school_osm_type": "way",
+      "school_name": "Школа № 5",
+      "place_osm_id": "-5598659",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Речица",
+      "lon": "30.379023691379274",
+      "lat": "52.36806751879187"
+    },
+    {
+      "school_osm_id": "476182121",
+      "school_osm_type": "way",
+      "school_name": "Школа № 5",
+      "place_osm_id": "-70812",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Речицкий район",
+      "lon": "30.379023691379274",
+      "lat": "52.36806751879187"
+    },
+    {
+      "school_osm_id": "476182121",
+      "school_osm_type": "way",
+      "school_name": "Школа № 5",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "30.379023691379274",
+      "lat": "52.36806751879187"
+    },
+    {
+      "school_osm_id": "476182121",
+      "school_osm_type": "way",
+      "school_name": "Школа № 5",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.379023691379274",
+      "lat": "52.36806751879187"
+    }
+  ]
+}

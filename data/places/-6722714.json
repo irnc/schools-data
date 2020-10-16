@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "161866677",
+    "school_osm_type": "way",
+    "school_name": "СШ№1",
+    "place_osm_id": "-6722714",
+    "place_admin_level": "8",
+    "place_place": "village",
+    "place_name": "Свислочь",
+    "lon": "27.914044490637576",
+    "lat": "53.646822964048575"
+  },
+  {
+    "school_osm_id": "4326505622",
+    "school_osm_type": "node",
+    "school_name": "",
+    "place_osm_id": "-6722714",
+    "place_admin_level": "8",
+    "place_place": "village",
+    "place_name": "Свислочь",
+    "lon": "27.921651699999998",
+    "lat": "53.644866299134925"
+  }
+]

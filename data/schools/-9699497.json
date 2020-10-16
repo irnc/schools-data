@@ -1,0 +1,97 @@
+{
+  "place": "warning-school-without-place",
+  "geo": {
+    "lat": "53.92901428404279",
+    "lon": "30.31662305222464"
+  },
+  "group": [
+    {
+      "school_osm_id": "-9699497",
+      "school_osm_type": "relation",
+      "school_name": "",
+      "place_osm_id": "-82606",
+      "place_admin_level": "9",
+      "place_place": "",
+      "place_name": "Ленинский район",
+      "lon": "30.31662305222464",
+      "lat": "53.92901428404279"
+    },
+    {
+      "school_osm_id": "-9699497",
+      "school_osm_type": "relation",
+      "school_name": "",
+      "place_osm_id": "-82606",
+      "place_admin_level": "9",
+      "place_place": "",
+      "place_name": "Ленинский район",
+      "lon": "30.317500624134727",
+      "lat": "53.9280333188374"
+    },
+    {
+      "school_osm_id": "-9699497",
+      "school_osm_type": "relation",
+      "school_name": "",
+      "place_osm_id": "-62145",
+      "place_admin_level": "6",
+      "place_place": "city",
+      "place_name": "Могилёв",
+      "lon": "30.31662305222464",
+      "lat": "53.92901428404279"
+    },
+    {
+      "school_osm_id": "-9699497",
+      "school_osm_type": "relation",
+      "school_name": "",
+      "place_osm_id": "-62145",
+      "place_admin_level": "6",
+      "place_place": "city",
+      "place_name": "Могилёв",
+      "lon": "30.317500624134727",
+      "lat": "53.9280333188374"
+    },
+    {
+      "school_osm_id": "-9699497",
+      "school_osm_type": "relation",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "30.31662305222464",
+      "lat": "53.92901428404279"
+    },
+    {
+      "school_osm_id": "-9699497",
+      "school_osm_type": "relation",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "30.317500624134727",
+      "lat": "53.9280333188374"
+    },
+    {
+      "school_osm_id": "-9699497",
+      "school_osm_type": "relation",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.31662305222464",
+      "lat": "53.92901428404279"
+    },
+    {
+      "school_osm_id": "-9699497",
+      "school_osm_type": "relation",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.317500624134727",
+      "lat": "53.9280333188374"
+    }
+  ]
+}

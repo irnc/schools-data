@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Вензовец",
+    "osm_id": "-7512398",
+    "hierarchy": [
+      "Вензовецкий сельский Совет",
+      "Дятловский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.42645306421551",
+    "lon": "25.33246680290602"
+  },
+  "group": [
+    {
+      "school_osm_id": "800675885",
+      "school_osm_type": "way",
+      "school_name": "Вензовецкий детский сад - средняя школа",
+      "place_osm_id": "-8100412",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Вензовецкий сельский Совет",
+      "lon": "25.33246680290602",
+      "lat": "53.42645306421551"
+    },
+    {
+      "school_osm_id": "800675885",
+      "school_osm_type": "way",
+      "school_name": "Вензовецкий детский сад - средняя школа",
+      "place_osm_id": "-7512398",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Вензовец",
+      "lon": "25.33246680290602",
+      "lat": "53.42645306421551"
+    },
+    {
+      "school_osm_id": "800675885",
+      "school_osm_type": "way",
+      "school_name": "Вензовецкий детский сад - средняя школа",
+      "place_osm_id": "-70768",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Дятловский район",
+      "lon": "25.33246680290602",
+      "lat": "53.42645306421551"
+    },
+    {
+      "school_osm_id": "800675885",
+      "school_osm_type": "way",
+      "school_name": "Вензовецкий детский сад - средняя школа",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "25.33246680290602",
+      "lat": "53.42645306421551"
+    },
+    {
+      "school_osm_id": "800675885",
+      "school_osm_type": "way",
+      "school_name": "Вензовецкий детский сад - средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "25.33246680290602",
+      "lat": "53.42645306421551"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+[
+  {
+    "school_osm_id": "403610717",
+    "school_osm_type": "way",
+    "school_name": "Школа №2",
+    "place_osm_id": "-6722635",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Белыничи",
+    "lon": "29.707385960136058",
+    "lat": "53.998741552765736"
+  },
+  {
+    "school_osm_id": "554185431",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-6722635",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Белыничи",
+    "lon": "29.72135082593297",
+    "lat": "53.99108375052413"
+  },
+  {
+    "school_osm_id": "1508547568",
+    "school_osm_type": "node",
+    "school_name": "",
+    "place_osm_id": "-6722635",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Белыничи",
+    "lon": "29.710912999999994",
+    "lat": "53.98835169918306"
+  }
+]

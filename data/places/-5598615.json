@@ -1,0 +1,123 @@
+[
+  {
+    "school_osm_id": "131591751",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-5598615",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Калинковичи",
+    "lon": "29.309894592716724",
+    "lat": "52.12655080481282"
+  },
+  {
+    "school_osm_id": "238562238",
+    "school_osm_type": "way",
+    "school_name": "СШ №8",
+    "place_osm_id": "-5598615",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Калинковичи",
+    "lon": "29.351514518811268",
+    "lat": "52.118185071554244"
+  },
+  {
+    "school_osm_id": "252748159",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-5598615",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Калинковичи",
+    "lon": "29.320165808733144",
+    "lat": "52.122050765433556"
+  },
+  {
+    "school_osm_id": "321101328",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-5598615",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Калинковичи",
+    "lon": "29.336354589830933",
+    "lat": "52.11708139985765"
+  },
+  {
+    "school_osm_id": "333389848",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-5598615",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Калинковичи",
+    "lon": "29.314899705795856",
+    "lat": "52.14496840687122"
+  },
+  {
+    "school_osm_id": "367244039",
+    "school_osm_type": "way",
+    "school_name": "ГУО Средняя школа № 4",
+    "place_osm_id": "-5598615",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Калинковичи",
+    "lon": "29.322716061942685",
+    "lat": "52.13522164561733"
+  },
+  {
+    "school_osm_id": "459643341",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-5598615",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Калинковичи",
+    "lon": "29.346205542502016",
+    "lat": "52.13491648420986"
+  },
+  {
+    "school_osm_id": "460977757",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-5598615",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Калинковичи",
+    "lon": "29.322555806657032",
+    "lat": "52.126171350382826"
+  },
+  {
+    "school_osm_id": "460989382",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-5598615",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Калинковичи",
+    "lon": "29.32884362131064",
+    "lat": "52.12888245176779"
+  },
+  {
+    "school_osm_id": "461381559",
+    "school_osm_type": "way",
+    "school_name": "ГУО СРЕДНЯЯ ШКОЛА N 1",
+    "place_osm_id": "-5598615",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Калинковичи",
+    "lon": "29.335247059031463",
+    "lat": "52.12892566842712"
+  },
+  {
+    "school_osm_id": "461913644",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-5598615",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Калинковичи",
+    "lon": "29.351259351305085",
+    "lat": "52.11788739503036"
+  }
+]

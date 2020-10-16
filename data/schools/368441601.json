@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Махновичи",
+    "osm_id": "-7446880",
+    "hierarchy": [
+      "Махновичский сельский Совет",
+      "Мозырский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "51.877627337271896",
+    "lon": "28.801067566515048"
+  },
+  "group": [
+    {
+      "school_osm_id": "368441601",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8087886",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Махновичский сельский Совет",
+      "lon": "28.801067566515048",
+      "lat": "51.877627337271896"
+    },
+    {
+      "school_osm_id": "368441601",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7446880",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Махновичи",
+      "lon": "28.801067566515048",
+      "lat": "51.877627337271896"
+    },
+    {
+      "school_osm_id": "368441601",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70815",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Мозырский район",
+      "lon": "28.801067566515048",
+      "lat": "51.877627337271896"
+    },
+    {
+      "school_osm_id": "368441601",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "28.801067566515048",
+      "lat": "51.877627337271896"
+    },
+    {
+      "school_osm_id": "368441601",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.801067566515048",
+      "lat": "51.877627337271896"
+    }
+  ]
+}

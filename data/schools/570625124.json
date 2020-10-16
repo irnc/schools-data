@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Подгорная",
+    "osm_id": "-7456745",
+    "hierarchy": [
+      "Подгорновский сельский Совет",
+      "Барановичский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.98903981340198",
+    "lon": "25.582105982205363"
+  },
+  "group": [
+    {
+      "school_osm_id": "570625124",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8096120",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Подгорновский сельский Совет",
+      "lon": "25.582105982205363",
+      "lat": "52.98903981340198"
+    },
+    {
+      "school_osm_id": "570625124",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7456745",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Подгорная",
+      "lon": "25.582105982205363",
+      "lat": "52.98903981340198"
+    },
+    {
+      "school_osm_id": "570625124",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-71116",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Барановичский район",
+      "lon": "25.582105982205363",
+      "lat": "52.98903981340198"
+    },
+    {
+      "school_osm_id": "570625124",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "25.582105982205363",
+      "lat": "52.98903981340198"
+    },
+    {
+      "school_osm_id": "570625124",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "25.582105982205363",
+      "lat": "52.98903981340198"
+    }
+  ]
+}

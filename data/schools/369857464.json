@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Кохановичи",
+    "osm_id": "-7476298",
+    "hierarchy": [
+      "Кохановичский сельский Совет",
+      "Верхнедвинский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.86610653447151",
+    "lon": "28.130463913834383"
+  },
+  "group": [
+    {
+      "school_osm_id": "369857464",
+      "school_osm_type": "way",
+      "school_name": "Кохановичская детский сад - средняя школа",
+      "place_osm_id": "-8075955",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Кохановичский сельский Совет",
+      "lon": "28.130463913834383",
+      "lat": "55.86610653447151"
+    },
+    {
+      "school_osm_id": "369857464",
+      "school_osm_type": "way",
+      "school_name": "Кохановичская детский сад - средняя школа",
+      "place_osm_id": "-7476298",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Кохановичи",
+      "lon": "28.130463913834383",
+      "lat": "55.86610653447151"
+    },
+    {
+      "school_osm_id": "369857464",
+      "school_osm_type": "way",
+      "school_name": "Кохановичская детский сад - средняя школа",
+      "place_osm_id": "-70684",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Верхнедвинский район",
+      "lon": "28.130463913834383",
+      "lat": "55.86610653447151"
+    },
+    {
+      "school_osm_id": "369857464",
+      "school_osm_type": "way",
+      "school_name": "Кохановичская детский сад - средняя школа",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "28.130463913834383",
+      "lat": "55.86610653447151"
+    },
+    {
+      "school_osm_id": "369857464",
+      "school_osm_type": "way",
+      "school_name": "Кохановичская детский сад - средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.130463913834383",
+      "lat": "55.86610653447151"
+    }
+  ]
+}

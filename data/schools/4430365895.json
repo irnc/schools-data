@@ -1,0 +1,59 @@
+{
+  "place": {
+    "name": "Бобруйск",
+    "osm_id": "-167857",
+    "hierarchy": [
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.116678299092285",
+    "lon": "29.220505799999998"
+  },
+  "group": [
+    {
+      "school_osm_id": "4430365895",
+      "school_osm_type": "node",
+      "school_name": "Базовая школа №7",
+      "place_osm_id": "-3629221",
+      "place_admin_level": "9",
+      "place_place": "",
+      "place_name": "Первомайский район",
+      "lon": "29.220505799999998",
+      "lat": "53.116678299092285"
+    },
+    {
+      "school_osm_id": "4430365895",
+      "school_osm_type": "node",
+      "school_name": "Базовая школа №7",
+      "place_osm_id": "-167857",
+      "place_admin_level": "6",
+      "place_place": "city",
+      "place_name": "Бобруйск",
+      "lon": "29.220505799999998",
+      "lat": "53.116678299092285"
+    },
+    {
+      "school_osm_id": "4430365895",
+      "school_osm_type": "node",
+      "school_name": "Базовая школа №7",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "29.220505799999998",
+      "lat": "53.116678299092285"
+    },
+    {
+      "school_osm_id": "4430365895",
+      "school_osm_type": "node",
+      "school_name": "Базовая школа №7",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.220505799999998",
+      "lat": "53.116678299092285"
+    }
+  ]
+}

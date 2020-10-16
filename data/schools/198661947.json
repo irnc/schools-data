@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Ульяновичи",
+    "osm_id": "-7502166",
+    "hierarchy": [
+      "Богдановский сельский Совет",
+      "Сенненский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.79076339961383",
+    "lon": "29.534690050033976"
+  },
+  "group": [
+    {
+      "school_osm_id": "198661947",
+      "school_osm_type": "way",
+      "school_name": "Ульяновическая школа",
+      "place_osm_id": "-7923836",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Богдановский сельский Совет",
+      "lon": "29.534690050033976",
+      "lat": "54.79076339961383"
+    },
+    {
+      "school_osm_id": "198661947",
+      "school_osm_type": "way",
+      "school_name": "Ульяновическая школа",
+      "place_osm_id": "-7502166",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Ульяновичи",
+      "lon": "29.534690050033976",
+      "lat": "54.79076339961383"
+    },
+    {
+      "school_osm_id": "198661947",
+      "school_osm_type": "way",
+      "school_name": "Ульяновическая школа",
+      "place_osm_id": "-70662",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Сенненский район",
+      "lon": "29.534690050033976",
+      "lat": "54.79076339961383"
+    },
+    {
+      "school_osm_id": "198661947",
+      "school_osm_type": "way",
+      "school_name": "Ульяновическая школа",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "29.534690050033976",
+      "lat": "54.79076339961383"
+    },
+    {
+      "school_osm_id": "198661947",
+      "school_osm_type": "way",
+      "school_name": "Ульяновическая школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.534690050033976",
+      "lat": "54.79076339961383"
+    }
+  ]
+}

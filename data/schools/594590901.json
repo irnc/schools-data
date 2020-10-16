@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Копище",
+    "osm_id": "-6891928",
+    "hierarchy": [
+      "Боровлянский сельский Совет",
+      "Минский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.9549839879057",
+    "lon": "27.668683257709443"
+  },
+  "group": [
+    {
+      "school_osm_id": "594590901",
+      "school_osm_type": "way",
+      "school_name": "школа",
+      "place_osm_id": "-8144270",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Боровлянский сельский Совет",
+      "lon": "27.668683257709443",
+      "lat": "53.9549839879057"
+    },
+    {
+      "school_osm_id": "594590901",
+      "school_osm_type": "way",
+      "school_name": "школа",
+      "place_osm_id": "-6891928",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Копище",
+      "lon": "27.668683257709443",
+      "lat": "53.9549839879057"
+    },
+    {
+      "school_osm_id": "594590901",
+      "school_osm_type": "way",
+      "school_name": "школа",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.668683257709443",
+      "lat": "53.9549839879057"
+    },
+    {
+      "school_osm_id": "594590901",
+      "school_osm_type": "way",
+      "school_name": "школа",
+      "place_osm_id": "-59190",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Минский район",
+      "lon": "27.668683257709443",
+      "lat": "53.9549839879057"
+    },
+    {
+      "school_osm_id": "594590901",
+      "school_osm_type": "way",
+      "school_name": "школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.668683257709443",
+      "lat": "53.9549839879057"
+    }
+  ]
+}

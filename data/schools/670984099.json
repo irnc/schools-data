@@ -1,0 +1,53 @@
+{
+  "place": "warning-school-without-place",
+  "geo": {
+    "lat": "52.94748607953528",
+    "lon": "31.159028238169242"
+  },
+  "group": [
+    {
+      "school_osm_id": "670984099",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8031189",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Нисимковичский сельский Совет",
+      "lon": "31.159028238169242",
+      "lat": "52.94748607953528"
+    },
+    {
+      "school_osm_id": "670984099",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59178",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Чечерский район",
+      "lon": "31.159028238169242",
+      "lat": "52.94748607953528"
+    },
+    {
+      "school_osm_id": "670984099",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "31.159028238169242",
+      "lat": "52.94748607953528"
+    },
+    {
+      "school_osm_id": "670984099",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "31.159028238169242",
+      "lat": "52.94748607953528"
+    }
+  ]
+}

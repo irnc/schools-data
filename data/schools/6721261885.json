@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Деревная",
+    "osm_id": "-7567056",
+    "hierarchy": [
+      "Деревнянский сельский Совет",
+      "Столбцовский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.69650029914113",
+    "lon": "26.564223499999997"
+  },
+  "group": [
+    {
+      "school_osm_id": "6721261885",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-8139745",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Деревнянский сельский Совет",
+      "lon": "26.564223499999997",
+      "lat": "53.69650029914113"
+    },
+    {
+      "school_osm_id": "6721261885",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-7567056",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Деревная",
+      "lon": "26.564223499999997",
+      "lat": "53.69650029914113"
+    },
+    {
+      "school_osm_id": "6721261885",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-70752",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Столбцовский район",
+      "lon": "26.564223499999997",
+      "lat": "53.69650029914113"
+    },
+    {
+      "school_osm_id": "6721261885",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "26.564223499999997",
+      "lat": "53.69650029914113"
+    },
+    {
+      "school_osm_id": "6721261885",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.564223499999997",
+      "lat": "53.69650029914113"
+    }
+  ]
+}

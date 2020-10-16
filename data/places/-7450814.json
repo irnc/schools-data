@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "252127813",
+    "school_osm_type": "way",
+    "school_name": "Музыкальная школа",
+    "place_osm_id": "-7450814",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Довск",
+    "lon": "30.454409150024606",
+    "lat": "53.15349309914364"
+  },
+  {
+    "school_osm_id": "328569360",
+    "school_osm_type": "way",
+    "school_name": "Довская гимназия",
+    "place_osm_id": "-7450814",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Довск",
+    "lon": "30.47139007214014",
+    "lat": "53.1578927630525"
+  }
+]

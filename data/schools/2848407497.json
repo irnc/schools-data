@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Магдалин",
+    "osm_id": "-7465862",
+    "hierarchy": [
+      "Киселевецкий сельский Совет",
+      "Кобринский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.18812769910319",
+    "lon": "24.389714399999995"
+  },
+  "group": [
+    {
+      "school_osm_id": "2848407497",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-8028564",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Киселевецкий сельский Совет",
+      "lon": "24.389714399999995",
+      "lat": "52.18812769910319"
+    },
+    {
+      "school_osm_id": "2848407497",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-7465862",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Магдалин",
+      "lon": "24.389714399999995",
+      "lat": "52.18812769910319"
+    },
+    {
+      "school_osm_id": "2848407497",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-71101",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Кобринский район",
+      "lon": "24.389714399999995",
+      "lat": "52.18812769910319"
+    },
+    {
+      "school_osm_id": "2848407497",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "24.389714399999995",
+      "lat": "52.18812769910319"
+    },
+    {
+      "school_osm_id": "2848407497",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "24.389714399999995",
+      "lat": "52.18812769910319"
+    }
+  ]
+}

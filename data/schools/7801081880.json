@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Великие Дольцы",
+    "osm_id": "-7503645",
+    "hierarchy": [
+      "Великодолецкий сельский Совет",
+      "Ушачский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.06280109943993",
+    "lon": "28.4339289"
+  },
+  "group": [
+    {
+      "school_osm_id": "7801081880",
+      "school_osm_type": "node",
+      "school_name": "Великодолецкая детский сад - средняя школа",
+      "place_osm_id": "-7976438",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Великодолецкий сельский Совет",
+      "lon": "28.4339289",
+      "lat": "55.06280109943993"
+    },
+    {
+      "school_osm_id": "7801081880",
+      "school_osm_type": "node",
+      "school_name": "Великодолецкая детский сад - средняя школа",
+      "place_osm_id": "-7503645",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Великие Дольцы",
+      "lon": "28.4339289",
+      "lat": "55.06280109943993"
+    },
+    {
+      "school_osm_id": "7801081880",
+      "school_osm_type": "node",
+      "school_name": "Великодолецкая детский сад - средняя школа",
+      "place_osm_id": "-70669",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Ушачский район",
+      "lon": "28.4339289",
+      "lat": "55.06280109943993"
+    },
+    {
+      "school_osm_id": "7801081880",
+      "school_osm_type": "node",
+      "school_name": "Великодолецкая детский сад - средняя школа",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "28.4339289",
+      "lat": "55.06280109943993"
+    },
+    {
+      "school_osm_id": "7801081880",
+      "school_osm_type": "node",
+      "school_name": "Великодолецкая детский сад - средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.4339289",
+      "lat": "55.06280109943993"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Большие Конюшаны",
+    "osm_id": "-7519492",
+    "hierarchy": [
+      "Тарновский сельский Совет",
+      "Лидский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.75177777849061",
+    "lon": "25.328914150262676"
+  },
+  "group": [
+    {
+      "school_osm_id": "762166732",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8082996",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Тарновский сельский Совет",
+      "lon": "25.328914150262676",
+      "lat": "53.75177777849061"
+    },
+    {
+      "school_osm_id": "762166732",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7519492",
+      "place_admin_level": "10",
+      "place_place": "hamlet",
+      "place_name": "Большие Конюшаны",
+      "lon": "25.328914150262676",
+      "lat": "53.75177777849061"
+    },
+    {
+      "school_osm_id": "762166732",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70747",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Лидский район",
+      "lon": "25.328914150262676",
+      "lat": "53.75177777849061"
+    },
+    {
+      "school_osm_id": "762166732",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "25.328914150262676",
+      "lat": "53.75177777849061"
+    },
+    {
+      "school_osm_id": "762166732",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "25.328914150262676",
+      "lat": "53.75177777849061"
+    }
+  ]
+}

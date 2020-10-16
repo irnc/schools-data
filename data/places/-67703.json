@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "481986092",
+    "school_osm_type": "way",
+    "school_name": "Ждановичская специальная общеобразовательная школа-интернат",
+    "place_osm_id": "-67703",
+    "place_admin_level": "10",
+    "place_place": "town",
+    "place_name": "Ждановичи",
+    "lon": "27.415081912348157",
+    "lat": "53.9384644919976"
+  },
+  {
+    "school_osm_id": "828810553",
+    "school_osm_type": "way",
+    "school_name": "Ждановическая СШ",
+    "place_osm_id": "-67703",
+    "place_admin_level": "10",
+    "place_place": "town",
+    "place_name": "Ждановичи",
+    "lon": "27.430388792517444",
+    "lat": "53.94989998581989"
+  }
+]

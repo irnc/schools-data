@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Перелёвка",
+    "osm_id": "-6064035",
+    "hierarchy": [
+      "Малонемковский сельский Совет",
+      "Ветковский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.888522450736545",
+    "lon": "31.401800092914822"
+  },
+  "group": [
+    {
+      "school_osm_id": "404496626",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8031183",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Малонемковский сельский Совет",
+      "lon": "31.401800092914822",
+      "lat": "52.888522450736545"
+    },
+    {
+      "school_osm_id": "404496626",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-6064035",
+      "place_admin_level": "10",
+      "place_place": "hamlet",
+      "place_name": "Перелёвка",
+      "lon": "31.401800092914822",
+      "lat": "52.888522450736545"
+    },
+    {
+      "school_osm_id": "404496626",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70795",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Ветковский район",
+      "lon": "31.401800092914822",
+      "lat": "52.888522450736545"
+    },
+    {
+      "school_osm_id": "404496626",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "31.401800092914822",
+      "lat": "52.888522450736545"
+    },
+    {
+      "school_osm_id": "404496626",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "31.401800092914822",
+      "lat": "52.888522450736545"
+    }
+  ]
+}

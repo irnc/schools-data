@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Вымно",
+    "osm_id": "-7476914",
+    "hierarchy": [
+      "Вымнянский сельский Совет",
+      "Витебский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.258708304137286",
+    "lon": "30.599708080323143"
+  },
+  "group": [
+    {
+      "school_osm_id": "632000470",
+      "school_osm_type": "way",
+      "school_name": "Вымнянская средняя школа",
+      "place_osm_id": "-7924023",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Вымнянский сельский Совет",
+      "lon": "30.599708080323143",
+      "lat": "55.258708304137286"
+    },
+    {
+      "school_osm_id": "632000470",
+      "school_osm_type": "way",
+      "school_name": "Вымнянская средняя школа",
+      "place_osm_id": "-7476914",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Вымно",
+      "lon": "30.599708080323143",
+      "lat": "55.258708304137286"
+    },
+    {
+      "school_osm_id": "632000470",
+      "school_osm_type": "way",
+      "school_name": "Вымнянская средняя школа",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "30.599708080323143",
+      "lat": "55.258708304137286"
+    },
+    {
+      "school_osm_id": "632000470",
+      "school_osm_type": "way",
+      "school_name": "Вымнянская средняя школа",
+      "place_osm_id": "-59504",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Витебский район",
+      "lon": "30.599708080323143",
+      "lat": "55.258708304137286"
+    },
+    {
+      "school_osm_id": "632000470",
+      "school_osm_type": "way",
+      "school_name": "Вымнянская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.599708080323143",
+      "lat": "55.258708304137286"
+    }
+  ]
+}

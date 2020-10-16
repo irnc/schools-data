@@ -1,0 +1,35 @@
+[
+  {
+    "school_osm_id": "78054989",
+    "school_osm_type": "way",
+    "school_name": "Школа искусств",
+    "place_osm_id": "-6722349",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Шумилино",
+    "lon": "29.613042839221478",
+    "lat": "55.29814805264943"
+  },
+  {
+    "school_osm_id": "155770731",
+    "school_osm_type": "way",
+    "school_name": "Школа № 2",
+    "place_osm_id": "-6722349",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Шумилино",
+    "lon": "29.600913773866854",
+    "lat": "55.290845753564135"
+  },
+  {
+    "school_osm_id": "807965319",
+    "school_osm_type": "way",
+    "school_name": "Школа № 1",
+    "place_osm_id": "-6722349",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Шумилино",
+    "lon": "29.620152688339836",
+    "lat": "55.29639826742524"
+  }
+]

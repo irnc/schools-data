@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Трилесино",
+    "osm_id": "-7578534",
+    "hierarchy": [
+      "Первомайский сельский Совет",
+      "Дрибинский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.050020131867925",
+    "lon": "30.971617555423204"
+  },
+  "group": [
+    {
+      "school_osm_id": "218409226",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8140451",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Первомайский сельский Совет",
+      "lon": "30.971617555423204",
+      "lat": "54.050020131867925"
+    },
+    {
+      "school_osm_id": "218409226",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7578534",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Трилесино",
+      "lon": "30.971617555423204",
+      "lat": "54.050020131867925"
+    },
+    {
+      "school_osm_id": "218409226",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70618",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Дрибинский район",
+      "lon": "30.971617555423204",
+      "lat": "54.050020131867925"
+    },
+    {
+      "school_osm_id": "218409226",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "30.971617555423204",
+      "lat": "54.050020131867925"
+    },
+    {
+      "school_osm_id": "218409226",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.971617555423204",
+      "lat": "54.050020131867925"
+    }
+  ]
+}

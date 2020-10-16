@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Столбцы",
+    "osm_id": "-6722620",
+    "hierarchy": [
+      "Столбцовский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.47709046057448",
+    "lon": "26.733616835799303"
+  },
+  "group": [
+    {
+      "school_osm_id": "48184661",
+      "school_osm_type": "way",
+      "school_name": "СШ №2",
+      "place_osm_id": "-6722620",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Столбцы",
+      "lon": "26.733616835799303",
+      "lat": "53.47709046057448"
+    },
+    {
+      "school_osm_id": "48184661",
+      "school_osm_type": "way",
+      "school_name": "СШ №2",
+      "place_osm_id": "-70752",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Столбцовский район",
+      "lon": "26.733616835799303",
+      "lat": "53.47709046057448"
+    },
+    {
+      "school_osm_id": "48184661",
+      "school_osm_type": "way",
+      "school_name": "СШ №2",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "26.733616835799303",
+      "lat": "53.47709046057448"
+    },
+    {
+      "school_osm_id": "48184661",
+      "school_osm_type": "way",
+      "school_name": "СШ №2",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.733616835799303",
+      "lat": "53.47709046057448"
+    }
+  ]
+}

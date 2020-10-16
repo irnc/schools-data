@@ -1,0 +1,53 @@
+{
+  "place": "warning-school-without-place",
+  "geo": {
+    "lat": "52.96048026554257",
+    "lon": "29.112418237990294"
+  },
+  "group": [
+    {
+      "school_osm_id": "591057232",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8144330",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Брожский сельский Совет",
+      "lon": "29.112418237990294",
+      "lat": "52.96048026554257"
+    },
+    {
+      "school_osm_id": "591057232",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "29.112418237990294",
+      "lat": "52.96048026554257"
+    },
+    {
+      "school_osm_id": "591057232",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59148",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Бобруйский район",
+      "lon": "29.112418237990294",
+      "lat": "52.96048026554257"
+    },
+    {
+      "school_osm_id": "591057232",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.112418237990294",
+      "lat": "52.96048026554257"
+    }
+  ]
+}

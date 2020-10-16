@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Велятичи",
+    "osm_id": "-4728959",
+    "hierarchy": [
+      "Велятичский сельский Совет",
+      "Борисовский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.16413219117228",
+    "lon": "28.89140063424622"
+  },
+  "group": [
+    {
+      "school_osm_id": "688471020",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8016705",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Велятичский сельский Совет",
+      "lon": "28.89140063424622",
+      "lat": "54.16413219117228"
+    },
+    {
+      "school_osm_id": "688471020",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-4728959",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Велятичи",
+      "lon": "28.89140063424622",
+      "lat": "54.16413219117228"
+    },
+    {
+      "school_osm_id": "688471020",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70569",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Борисовский район",
+      "lon": "28.89140063424622",
+      "lat": "54.16413219117228"
+    },
+    {
+      "school_osm_id": "688471020",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "28.89140063424622",
+      "lat": "54.16413219117228"
+    },
+    {
+      "school_osm_id": "688471020",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.89140063424622",
+      "lat": "54.16413219117228"
+    }
+  ]
+}

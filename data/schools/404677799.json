@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Радуга",
+    "osm_id": "-7442467",
+    "hierarchy": [
+      "Радужский сельский Совет",
+      "Ветковский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.58370820097505",
+    "lon": "31.085818372833796"
+  },
+  "group": [
+    {
+      "school_osm_id": "404677799",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8031180",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Радужский сельский Совет",
+      "lon": "31.085818372833796",
+      "lat": "52.58370820097505"
+    },
+    {
+      "school_osm_id": "404677799",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7442467",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Радуга",
+      "lon": "31.085818372833796",
+      "lat": "52.58370820097505"
+    },
+    {
+      "school_osm_id": "404677799",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70795",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Ветковский район",
+      "lon": "31.085818372833796",
+      "lat": "52.58370820097505"
+    },
+    {
+      "school_osm_id": "404677799",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "31.085818372833796",
+      "lat": "52.58370820097505"
+    },
+    {
+      "school_osm_id": "404677799",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "31.085818372833796",
+      "lat": "52.58370820097505"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Цель",
+    "osm_id": "-7589420",
+    "hierarchy": [
+      "Протасевичский сельский Совет",
+      "Осиповичский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.393370816574404",
+    "lon": "28.457834529734946"
+  },
+  "group": [
+    {
+      "school_osm_id": "622253444",
+      "school_osm_type": "way",
+      "school_name": "Цельская средняя школа",
+      "place_osm_id": "-8144286",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Протасевичский сельский Совет",
+      "lon": "28.457834529734946",
+      "lat": "53.393370816574404"
+    },
+    {
+      "school_osm_id": "622253444",
+      "school_osm_type": "way",
+      "school_name": "Цельская средняя школа",
+      "place_osm_id": "-7589420",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Цель",
+      "lon": "28.457834529734946",
+      "lat": "53.393370816574404"
+    },
+    {
+      "school_osm_id": "622253444",
+      "school_osm_type": "way",
+      "school_name": "Цельская средняя школа",
+      "place_osm_id": "-59753",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Осиповичский район",
+      "lon": "28.457834529734946",
+      "lat": "53.393370816574404"
+    },
+    {
+      "school_osm_id": "622253444",
+      "school_osm_type": "way",
+      "school_name": "Цельская средняя школа",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "28.457834529734946",
+      "lat": "53.393370816574404"
+    },
+    {
+      "school_osm_id": "622253444",
+      "school_osm_type": "way",
+      "school_name": "Цельская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.457834529734946",
+      "lat": "53.393370816574404"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Городок",
+    "osm_id": "-1173272",
+    "hierarchy": [
+      "Городокский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.45774580361455",
+    "lon": "29.984126483104422"
+  },
+  "group": [
+    {
+      "school_osm_id": "282402307",
+      "school_osm_type": "way",
+      "school_name": "Школа № 1",
+      "place_osm_id": "-1173272",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Городок",
+      "lon": "29.984126483104422",
+      "lat": "55.45774580361455"
+    },
+    {
+      "school_osm_id": "282402307",
+      "school_osm_type": "way",
+      "school_name": "Школа № 1",
+      "place_osm_id": "-70676",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Городокский район",
+      "lon": "29.984126483104422",
+      "lat": "55.45774580361455"
+    },
+    {
+      "school_osm_id": "282402307",
+      "school_osm_type": "way",
+      "school_name": "Школа № 1",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "29.984126483104422",
+      "lat": "55.45774580361455"
+    },
+    {
+      "school_osm_id": "282402307",
+      "school_osm_type": "way",
+      "school_name": "Школа № 1",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.984126483104422",
+      "lat": "55.45774580361455"
+    }
+  ]
+}

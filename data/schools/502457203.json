@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Коротьки",
+    "osm_id": "-7443679",
+    "hierarchy": [
+      "Коротьковский сельский Совет",
+      "Кормянский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.09048948769107",
+    "lon": "30.78345039150656"
+  },
+  "group": [
+    {
+      "school_osm_id": "502457203",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8107293",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Коротьковский сельский Совет",
+      "lon": "30.78345039150656",
+      "lat": "53.09048948769107"
+    },
+    {
+      "school_osm_id": "502457203",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7443679",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Коротьки",
+      "lon": "30.78345039150656",
+      "lat": "53.09048948769107"
+    },
+    {
+      "school_osm_id": "502457203",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "30.78345039150656",
+      "lat": "53.09048948769107"
+    },
+    {
+      "school_osm_id": "502457203",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59149",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Кормянский район",
+      "lon": "30.78345039150656",
+      "lat": "53.09048948769107"
+    },
+    {
+      "school_osm_id": "502457203",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.78345039150656",
+      "lat": "53.09048948769107"
+    }
+  ]
+}

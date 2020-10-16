@@ -1,0 +1,35 @@
+[
+  {
+    "school_osm_id": "352006358",
+    "school_osm_type": "way",
+    "school_name": "Радошковичская школа-интернат для детей-сирот и детей, оставшихся без попечения родителей",
+    "place_osm_id": "-6722709",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Радошковичи",
+    "lon": "27.231495097015358",
+    "lat": "54.16158704123829"
+  },
+  {
+    "school_osm_id": "736596987",
+    "school_osm_type": "way",
+    "school_name": "Радошковичская средняя школа",
+    "place_osm_id": "-6722709",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Радошковичи",
+    "lon": "27.252899435502833",
+    "lat": "54.14955513028735"
+  },
+  {
+    "school_osm_id": "736610011",
+    "school_osm_type": "way",
+    "school_name": "Школа",
+    "place_osm_id": "-6722709",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Радошковичи",
+    "lon": "27.239334206904285",
+    "lat": "54.158900054694975"
+  }
+]

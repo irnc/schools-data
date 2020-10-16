@@ -1,0 +1,57 @@
+[
+  {
+    "school_osm_id": "504143780",
+    "school_osm_type": "way",
+    "school_name": "Средняя Школа №1",
+    "place_osm_id": "-6722598",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Смолевичи",
+    "lon": "28.096972400235842",
+    "lat": "54.02614304675048"
+  },
+  {
+    "school_osm_id": "554221176",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №2",
+    "place_osm_id": "-6722598",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Смолевичи",
+    "lon": "28.07449778025907",
+    "lat": "54.02600423571181"
+  },
+  {
+    "school_osm_id": "554221179",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-6722598",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Смолевичи",
+    "lon": "28.063545645484645",
+    "lat": "54.018349169252346"
+  },
+  {
+    "school_osm_id": "2131952696",
+    "school_osm_type": "node",
+    "school_name": "Вечерняя школа",
+    "place_osm_id": "-6722598",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Смолевичи",
+    "lon": "28.0869768",
+    "lat": "54.02974599919"
+  },
+  {
+    "school_osm_id": "4119810590",
+    "school_osm_type": "node",
+    "school_name": "школа N3",
+    "place_osm_id": "-6722598",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Смолевичи",
+    "lon": "28.0612307",
+    "lat": "54.01449139918743"
+  }
+]

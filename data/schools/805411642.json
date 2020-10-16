@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Башни",
+    "osm_id": "-7506776",
+    "hierarchy": [
+      "Светлосельский сельский Совет",
+      "Шумилинский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.22058412702191",
+    "lon": "29.675302180709345"
+  },
+  "group": [
+    {
+      "school_osm_id": "805411642",
+      "school_osm_type": "way",
+      "school_name": "Башневская базовая школа",
+      "place_osm_id": "-7981157",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Светлосельский сельский Совет",
+      "lon": "29.675302180709345",
+      "lat": "55.22058412702191"
+    },
+    {
+      "school_osm_id": "805411642",
+      "school_osm_type": "way",
+      "school_name": "Башневская базовая школа",
+      "place_osm_id": "-7506776",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Башни",
+      "lon": "29.675302180709345",
+      "lat": "55.22058412702191"
+    },
+    {
+      "school_osm_id": "805411642",
+      "school_osm_type": "way",
+      "school_name": "Башневская базовая школа",
+      "place_osm_id": "-70677",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Шумилинский район",
+      "lon": "29.675302180709345",
+      "lat": "55.22058412702191"
+    },
+    {
+      "school_osm_id": "805411642",
+      "school_osm_type": "way",
+      "school_name": "Башневская базовая школа",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "29.675302180709345",
+      "lat": "55.22058412702191"
+    },
+    {
+      "school_osm_id": "805411642",
+      "school_osm_type": "way",
+      "school_name": "Башневская базовая школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.675302180709345",
+      "lat": "55.22058412702191"
+    }
+  ]
+}

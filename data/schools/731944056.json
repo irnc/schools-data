@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Дрогичин",
+    "osm_id": "-5602445",
+    "hierarchy": [
+      "Дрогичинский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.185809890737794",
+    "lon": "25.164936443486273"
+  },
+  "group": [
+    {
+      "school_osm_id": "731944056",
+      "school_osm_type": "way",
+      "school_name": "Гимназия г. Дрогичина",
+      "place_osm_id": "-5602445",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Дрогичин",
+      "lon": "25.164936443486273",
+      "lat": "52.185809890737794"
+    },
+    {
+      "school_osm_id": "731944056",
+      "school_osm_type": "way",
+      "school_name": "Гимназия г. Дрогичина",
+      "place_osm_id": "-71105",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Дрогичинский район",
+      "lon": "25.164936443486273",
+      "lat": "52.185809890737794"
+    },
+    {
+      "school_osm_id": "731944056",
+      "school_osm_type": "way",
+      "school_name": "Гимназия г. Дрогичина",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "25.164936443486273",
+      "lat": "52.185809890737794"
+    },
+    {
+      "school_osm_id": "731944056",
+      "school_osm_type": "way",
+      "school_name": "Гимназия г. Дрогичина",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "25.164936443486273",
+      "lat": "52.185809890737794"
+    }
+  ]
+}

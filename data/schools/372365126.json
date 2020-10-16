@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Круглое",
+    "osm_id": "-6722695",
+    "hierarchy": [
+      "Круглянский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.24553891615368",
+    "lon": "29.79893185937487"
+  },
+  "group": [
+    {
+      "school_osm_id": "372365126",
+      "school_osm_type": "way",
+      "school_name": "Школа №2",
+      "place_osm_id": "-6722695",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Круглое",
+      "lon": "29.79893185937487",
+      "lat": "54.24553891615368"
+    },
+    {
+      "school_osm_id": "372365126",
+      "school_osm_type": "way",
+      "school_name": "Школа №2",
+      "place_osm_id": "-70638",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Круглянский район",
+      "lon": "29.79893185937487",
+      "lat": "54.24553891615368"
+    },
+    {
+      "school_osm_id": "372365126",
+      "school_osm_type": "way",
+      "school_name": "Школа №2",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "29.79893185937487",
+      "lat": "54.24553891615368"
+    },
+    {
+      "school_osm_id": "372365126",
+      "school_osm_type": "way",
+      "school_name": "Школа №2",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.79893185937487",
+      "lat": "54.24553891615368"
+    }
+  ]
+}

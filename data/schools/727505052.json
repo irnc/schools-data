@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Городея",
+    "osm_id": "-6722811",
+    "hierarchy": [
+      "Несвижский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.30635648021878",
+    "lon": "26.519388872036647"
+  },
+  "group": [
+    {
+      "school_osm_id": "727505052",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа №2",
+      "place_osm_id": "-6722811",
+      "place_admin_level": "8",
+      "place_place": "village",
+      "place_name": "Городея",
+      "lon": "26.519388872036647",
+      "lat": "53.30635648021878"
+    },
+    {
+      "school_osm_id": "727505052",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа №2",
+      "place_osm_id": "-71128",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Несвижский район",
+      "lon": "26.519388872036647",
+      "lat": "53.30635648021878"
+    },
+    {
+      "school_osm_id": "727505052",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа №2",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "26.519388872036647",
+      "lat": "53.30635648021878"
+    },
+    {
+      "school_osm_id": "727505052",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа №2",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.519388872036647",
+      "lat": "53.30635648021878"
+    }
+  ]
+}

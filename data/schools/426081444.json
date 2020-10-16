@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Потейки",
+    "osm_id": "-7542785",
+    "hierarchy": [
+      "Потейковский сельский Совет",
+      "Копыльский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.17376353149103",
+    "lon": "26.956243877670055"
+  },
+  "group": [
+    {
+      "school_osm_id": "426081444",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8139717",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Потейковский сельский Совет",
+      "lon": "26.956243877670055",
+      "lat": "53.17376353149103"
+    },
+    {
+      "school_osm_id": "426081444",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7542785",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Потейки",
+      "lon": "26.956243877670055",
+      "lat": "53.17376353149103"
+    },
+    {
+      "school_osm_id": "426081444",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-71132",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Копыльский район",
+      "lon": "26.956243877670055",
+      "lat": "53.17376353149103"
+    },
+    {
+      "school_osm_id": "426081444",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "26.956243877670055",
+      "lat": "53.17376353149103"
+    },
+    {
+      "school_osm_id": "426081444",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.956243877670055",
+      "lat": "53.17376353149103"
+    }
+  ]
+}

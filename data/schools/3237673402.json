@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Крупово",
+    "osm_id": "-7528974",
+    "hierarchy": [
+      "Орлевский сельский Совет",
+      "Щучинский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.48336449911791",
+    "lon": "24.8474908"
+  },
+  "group": [
+    {
+      "school_osm_id": "3237673402",
+      "school_osm_type": "node",
+      "school_name": "Круповская средняя школа",
+      "place_osm_id": "-8021148",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Орлевский сельский Совет",
+      "lon": "24.8474908",
+      "lat": "53.48336449911791"
+    },
+    {
+      "school_osm_id": "3237673402",
+      "school_osm_type": "node",
+      "school_name": "Круповская средняя школа",
+      "place_osm_id": "-7528974",
+      "place_admin_level": "10",
+      "place_place": "hamlet",
+      "place_name": "Крупово",
+      "lon": "24.8474908",
+      "lat": "53.48336449911791"
+    },
+    {
+      "school_osm_id": "3237673402",
+      "school_osm_type": "node",
+      "school_name": "Круповская средняя школа",
+      "place_osm_id": "-70748",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Щучинский район",
+      "lon": "24.8474908",
+      "lat": "53.48336449911791"
+    },
+    {
+      "school_osm_id": "3237673402",
+      "school_osm_type": "node",
+      "school_name": "Круповская средняя школа",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "24.8474908",
+      "lat": "53.48336449911791"
+    },
+    {
+      "school_osm_id": "3237673402",
+      "school_osm_type": "node",
+      "school_name": "Круповская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "24.8474908",
+      "lat": "53.48336449911791"
+    }
+  ]
+}

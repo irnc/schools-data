@@ -1,0 +1,46 @@
+[
+  {
+    "school_osm_id": "276264847",
+    "school_osm_type": "way",
+    "school_name": "Гимназия",
+    "place_osm_id": "-5598656",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Петриков",
+    "lon": "28.489052342726502",
+    "lat": "52.134497094113364"
+  },
+  {
+    "school_osm_id": "276276958",
+    "school_osm_type": "way",
+    "school_name": "Школа-интернат",
+    "place_osm_id": "-5598656",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Петриков",
+    "lon": "28.497570962719493",
+    "lat": "52.12530566496385"
+  },
+  {
+    "school_osm_id": "367984587",
+    "school_osm_type": "way",
+    "school_name": "Школа №2",
+    "place_osm_id": "-5598656",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Петриков",
+    "lon": "28.503909182431553",
+    "lat": "52.12492072931341"
+  },
+  {
+    "school_osm_id": "368328626",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-5598656",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Петриков",
+    "lon": "28.486443641751976",
+    "lat": "52.1195929287172"
+  }
+]

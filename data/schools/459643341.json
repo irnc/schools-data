@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Калинковичи",
+    "osm_id": "-5598615",
+    "hierarchy": [
+      "Калинковичский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.13491648420986",
+    "lon": "29.346205542502016"
+  },
+  "group": [
+    {
+      "school_osm_id": "459643341",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-5598615",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Калинковичи",
+      "lon": "29.346205542502016",
+      "lat": "52.13491648420986"
+    },
+    {
+      "school_osm_id": "459643341",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70814",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Калинковичский район",
+      "lon": "29.346205542502016",
+      "lat": "52.13491648420986"
+    },
+    {
+      "school_osm_id": "459643341",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "29.346205542502016",
+      "lat": "52.13491648420986"
+    },
+    {
+      "school_osm_id": "459643341",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.346205542502016",
+      "lat": "52.13491648420986"
+    }
+  ]
+}

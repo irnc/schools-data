@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Дербичи",
+    "osm_id": "-7440034",
+    "hierarchy": [
+      "Рогинский сельский Совет",
+      "Буда-Кошелёвский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.893078371433965",
+    "lon": "30.669711329455044"
+  },
+  "group": [
+    {
+      "school_osm_id": "403224326",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8100452",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Рогинский сельский Совет",
+      "lon": "30.669711329455044",
+      "lat": "52.893078371433965"
+    },
+    {
+      "school_osm_id": "403224326",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7440034",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Дербичи",
+      "lon": "30.669711329455044",
+      "lat": "52.893078371433965"
+    },
+    {
+      "school_osm_id": "403224326",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59175",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Буда-Кошелёвский район",
+      "lon": "30.669711329455044",
+      "lat": "52.893078371433965"
+    },
+    {
+      "school_osm_id": "403224326",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "30.669711329455044",
+      "lat": "52.893078371433965"
+    },
+    {
+      "school_osm_id": "403224326",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.669711329455044",
+      "lat": "52.893078371433965"
+    }
+  ]
+}

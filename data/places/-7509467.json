@@ -1,0 +1,35 @@
+[
+  {
+    "school_osm_id": "-3292472",
+    "school_osm_type": "relation",
+    "school_name": "",
+    "place_osm_id": "-7509467",
+    "place_admin_level": "8",
+    "place_place": "village",
+    "place_name": "Радунь",
+    "lon": "24.989163545332858",
+    "lat": "54.046269744752095"
+  },
+  {
+    "school_osm_id": "815774148",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7509467",
+    "place_admin_level": "8",
+    "place_place": "village",
+    "place_name": "Радунь",
+    "lon": "24.986556419357647",
+    "lat": "54.050467898961706"
+  },
+  {
+    "school_osm_id": "4603589002",
+    "school_osm_type": "node",
+    "school_name": "",
+    "place_osm_id": "-7509467",
+    "place_admin_level": "8",
+    "place_place": "village",
+    "place_name": "Радунь",
+    "lon": "24.989616899999998",
+    "lat": "54.05090459919361"
+  }
+]

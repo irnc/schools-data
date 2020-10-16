@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Рованичи",
+    "osm_id": "-7570436",
+    "hierarchy": [
+      "Рованичский сельский Совет",
+      "Червенский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.882659030066954",
+    "lon": "28.59875769066844"
+  },
+  "group": [
+    {
+      "school_osm_id": "295403721",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8144242",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Рованичский сельский Совет",
+      "lon": "28.59875769066844",
+      "lat": "53.882659030066954"
+    },
+    {
+      "school_osm_id": "295403721",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7570436",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Рованичи",
+      "lon": "28.59875769066844",
+      "lat": "53.882659030066954"
+    },
+    {
+      "school_osm_id": "295403721",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "28.59875769066844",
+      "lat": "53.882659030066954"
+    },
+    {
+      "school_osm_id": "295403721",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59751",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Червенский район",
+      "lon": "28.59875769066844",
+      "lat": "53.882659030066954"
+    },
+    {
+      "school_osm_id": "295403721",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.59875769066844",
+      "lat": "53.882659030066954"
+    }
+  ]
+}

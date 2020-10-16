@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Немержа",
+    "osm_id": "-4718530",
+    "hierarchy": [
+      "Немержанский сельский Совет",
+      "Дрогичинский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.29636441682081",
+    "lon": "25.055568559938937"
+  },
+  "group": [
+    {
+      "school_osm_id": "625275340",
+      "school_osm_type": "way",
+      "school_name": "Немержанская средняя школа",
+      "place_osm_id": "-7927915",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Немержанский сельский Совет",
+      "lon": "25.055568559938937",
+      "lat": "52.29636441682081"
+    },
+    {
+      "school_osm_id": "625275340",
+      "school_osm_type": "way",
+      "school_name": "Немержанская средняя школа",
+      "place_osm_id": "-4718530",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Немержа",
+      "lon": "25.055568559938937",
+      "lat": "52.29636441682081"
+    },
+    {
+      "school_osm_id": "625275340",
+      "school_osm_type": "way",
+      "school_name": "Немержанская средняя школа",
+      "place_osm_id": "-71105",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Дрогичинский район",
+      "lon": "25.055568559938937",
+      "lat": "52.29636441682081"
+    },
+    {
+      "school_osm_id": "625275340",
+      "school_osm_type": "way",
+      "school_name": "Немержанская средняя школа",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "25.055568559938937",
+      "lat": "52.29636441682081"
+    },
+    {
+      "school_osm_id": "625275340",
+      "school_osm_type": "way",
+      "school_name": "Немержанская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "25.055568559938937",
+      "lat": "52.29636441682081"
+    }
+  ]
+}

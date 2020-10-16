@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Привольный",
+    "osm_id": "-7547071",
+    "hierarchy": [
+      "Луговослободской сельский Совет",
+      "Минский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.794747906944075",
+    "lon": "27.795527495029546"
+  },
+  "group": [
+    {
+      "school_osm_id": "-3280980",
+      "school_osm_type": "relation",
+      "school_name": "",
+      "place_osm_id": "-8144308",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Луговослободской сельский Совет",
+      "lon": "27.795527495029546",
+      "lat": "53.794747906944075"
+    },
+    {
+      "school_osm_id": "-3280980",
+      "school_osm_type": "relation",
+      "school_name": "",
+      "place_osm_id": "-7547071",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Привольный",
+      "lon": "27.795527495029546",
+      "lat": "53.794747906944075"
+    },
+    {
+      "school_osm_id": "-3280980",
+      "school_osm_type": "relation",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.795527495029546",
+      "lat": "53.794747906944075"
+    },
+    {
+      "school_osm_id": "-3280980",
+      "school_osm_type": "relation",
+      "school_name": "",
+      "place_osm_id": "-59190",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Минский район",
+      "lon": "27.795527495029546",
+      "lat": "53.794747906944075"
+    },
+    {
+      "school_osm_id": "-3280980",
+      "school_osm_type": "relation",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.795527495029546",
+      "lat": "53.794747906944075"
+    }
+  ]
+}

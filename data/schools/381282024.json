@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Сокольники",
+    "osm_id": "-5677109",
+    "hierarchy": [
+      "Порозовский сельский Совет",
+      "Свислочский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.95920333877126",
+    "lon": "24.252255396588275"
+  },
+  "group": [
+    {
+      "school_osm_id": "381282024",
+      "school_osm_type": "way",
+      "school_name": "Сокольникский детский сад - базовая школа",
+      "place_osm_id": "-8025383",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Порозовский сельский Совет",
+      "lon": "24.252255396588275",
+      "lat": "52.95920333877126"
+    },
+    {
+      "school_osm_id": "381282024",
+      "school_osm_type": "way",
+      "school_name": "Сокольникский детский сад - базовая школа",
+      "place_osm_id": "-5677109",
+      "place_admin_level": "10",
+      "place_place": "hamlet",
+      "place_name": "Сокольники",
+      "lon": "24.252255396588275",
+      "lat": "52.95920333877126"
+    },
+    {
+      "school_osm_id": "381282024",
+      "school_osm_type": "way",
+      "school_name": "Сокольникский детский сад - базовая школа",
+      "place_osm_id": "-71093",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Свислочский район",
+      "lon": "24.252255396588275",
+      "lat": "52.95920333877126"
+    },
+    {
+      "school_osm_id": "381282024",
+      "school_osm_type": "way",
+      "school_name": "Сокольникский детский сад - базовая школа",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "24.252255396588275",
+      "lat": "52.95920333877126"
+    },
+    {
+      "school_osm_id": "381282024",
+      "school_osm_type": "way",
+      "school_name": "Сокольникский детский сад - базовая школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "24.252255396588275",
+      "lat": "52.95920333877126"
+    }
+  ]
+}

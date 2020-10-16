@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Белая",
+    "osm_id": "-7446901",
+    "hierarchy": [
+      "Скрыгаловский сельский Совет",
+      "Мозырский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.067302052021894",
+    "lon": "28.89607140436725"
+  },
+  "group": [
+    {
+      "school_osm_id": "406734338",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8087882",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Скрыгаловский сельский Совет",
+      "lon": "28.89607140436725",
+      "lat": "52.067302052021894"
+    },
+    {
+      "school_osm_id": "406734338",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7446901",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Белая",
+      "lon": "28.89607140436725",
+      "lat": "52.067302052021894"
+    },
+    {
+      "school_osm_id": "406734338",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70815",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Мозырский район",
+      "lon": "28.89607140436725",
+      "lat": "52.067302052021894"
+    },
+    {
+      "school_osm_id": "406734338",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "28.89607140436725",
+      "lat": "52.067302052021894"
+    },
+    {
+      "school_osm_id": "406734338",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.89607140436725",
+      "lat": "52.067302052021894"
+    }
+  ]
+}

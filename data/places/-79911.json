@@ -1,0 +1,123 @@
+[
+  {
+    "school_osm_id": "306065500",
+    "school_osm_type": "node",
+    "school_name": "",
+    "place_osm_id": "-79911",
+    "place_admin_level": "6",
+    "place_place": "town",
+    "place_name": "Жодино",
+    "lon": "28.3567076",
+    "lat": "54.107906399203706"
+  },
+  {
+    "school_osm_id": "306065532",
+    "school_osm_type": "node",
+    "school_name": "СШ № 2",
+    "place_osm_id": "-79911",
+    "place_admin_level": "6",
+    "place_place": "town",
+    "place_name": "Жодино",
+    "lon": "28.324346499999997",
+    "lat": "54.093490999201116"
+  },
+  {
+    "school_osm_id": "306065575",
+    "school_osm_type": "node",
+    "school_name": "СШ №1",
+    "place_osm_id": "-79911",
+    "place_admin_level": "6",
+    "place_place": "town",
+    "place_name": "Жодино",
+    "lon": "28.3647127",
+    "lat": "54.09823129920198"
+  },
+  {
+    "school_osm_id": "366010941",
+    "school_osm_type": "way",
+    "school_name": "СШ №8",
+    "place_osm_id": "-79911",
+    "place_admin_level": "6",
+    "place_place": "town",
+    "place_name": "Жодино",
+    "lon": "28.315168719079836",
+    "lat": "54.10644169115902"
+  },
+  {
+    "school_osm_id": "386910174",
+    "school_osm_type": "way",
+    "school_name": "СШ № 4",
+    "place_osm_id": "-79911",
+    "place_admin_level": "6",
+    "place_place": "town",
+    "place_name": "Жодино",
+    "lon": "28.313970595924772",
+    "lat": "54.096177930045144"
+  },
+  {
+    "school_osm_id": "386929557",
+    "school_osm_type": "way",
+    "school_name": "СШ №6",
+    "place_osm_id": "-79911",
+    "place_admin_level": "6",
+    "place_place": "town",
+    "place_name": "Жодино",
+    "lon": "28.30347347689099",
+    "lat": "54.0906295232891"
+  },
+  {
+    "school_osm_id": "431909509",
+    "school_osm_type": "way",
+    "school_name": "СШ №9",
+    "place_osm_id": "-79911",
+    "place_admin_level": "6",
+    "place_place": "town",
+    "place_name": "Жодино",
+    "lon": "28.362648719917523",
+    "lat": "54.1065966207567"
+  },
+  {
+    "school_osm_id": "432210336",
+    "school_osm_type": "way",
+    "school_name": "Гимназия №1",
+    "place_osm_id": "-79911",
+    "place_admin_level": "6",
+    "place_place": "town",
+    "place_name": "Жодино",
+    "lon": "28.293875174851372",
+    "lat": "54.09253755606793"
+  },
+  {
+    "school_osm_id": "645464393",
+    "school_osm_type": "way",
+    "school_name": "СШ №5",
+    "place_osm_id": "-79911",
+    "place_admin_level": "6",
+    "place_place": "town",
+    "place_name": "Жодино",
+    "lon": "28.29809153806337",
+    "lat": "54.09352034210055"
+  },
+  {
+    "school_osm_id": "4384984189",
+    "school_osm_type": "node",
+    "school_name": "Жодинская женская гимназия",
+    "place_osm_id": "-79911",
+    "place_admin_level": "6",
+    "place_place": "town",
+    "place_name": "Жодино",
+    "lon": "28.362506399999997",
+    "lat": "54.10876939920388"
+  },
+  {
+    "school_osm_id": "5731652922",
+    "school_osm_type": "node",
+    "school_name": "СШ",
+    "place_osm_id": "-79911",
+    "place_admin_level": "6",
+    "place_place": "town",
+    "place_name": "Жодино",
+    "lon": "28.302907699999995",
+    "lat": "54.09011949920049"
+  }
+]

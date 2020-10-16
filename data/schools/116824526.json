@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Слобода",
+    "osm_id": "-7566127",
+    "hierarchy": [
+      "Озерицко-Слободской сельский Совет",
+      "Смолевичский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.00972414872275",
+    "lon": "27.875369263800312"
+  },
+  "group": [
+    {
+      "school_osm_id": "116824526",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8144283",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Озерицко-Слободской сельский Совет",
+      "lon": "27.875369263800312",
+      "lat": "54.00972414872275"
+    },
+    {
+      "school_osm_id": "116824526",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7566127",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Слобода",
+      "lon": "27.875369263800312",
+      "lat": "54.00972414872275"
+    },
+    {
+      "school_osm_id": "116824526",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-69554",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Смолевичский район",
+      "lon": "27.875369263800312",
+      "lat": "54.00972414872275"
+    },
+    {
+      "school_osm_id": "116824526",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.875369263800312",
+      "lat": "54.00972414872275"
+    },
+    {
+      "school_osm_id": "116824526",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.875369263800312",
+      "lat": "54.00972414872275"
+    }
+  ]
+}

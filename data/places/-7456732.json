@@ -1,0 +1,46 @@
+[
+  {
+    "school_osm_id": "225991667",
+    "school_osm_type": "way",
+    "school_name": "Миловидская средняя школа",
+    "place_osm_id": "-7456732",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Миловиды",
+    "lon": "25.85208180068548",
+    "lat": "52.89125810042549"
+  },
+  {
+    "school_osm_id": "225992933",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7456732",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Миловиды",
+    "lon": "25.853358760295794",
+    "lat": "52.891993406861324"
+  },
+  {
+    "school_osm_id": "225998041",
+    "school_osm_type": "way",
+    "school_name": "УПК",
+    "place_osm_id": "-7456732",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Миловиды",
+    "lon": "25.85133092909792",
+    "lat": "52.89153147186744"
+  },
+  {
+    "school_osm_id": "2349798079",
+    "school_osm_type": "node",
+    "school_name": "Миловидская средняя школа",
+    "place_osm_id": "-7456732",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Миловиды",
+    "lon": "25.8524481",
+    "lat": "52.89127459908529"
+  }
+]

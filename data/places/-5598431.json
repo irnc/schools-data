@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "1583248291",
+    "school_osm_type": "node",
+    "school_name": "СШ №2",
+    "place_osm_id": "-5598431",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Буда-Кошелёво",
+    "lon": "30.571818400000005",
+    "lat": "52.72080439908423"
+  },
+  {
+    "school_osm_id": "4401091491",
+    "school_osm_type": "node",
+    "school_name": "школа 1",
+    "place_osm_id": "-5598431",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Буда-Кошелёво",
+    "lon": "30.5753792",
+    "lat": "52.71391209908426"
+  }
+]

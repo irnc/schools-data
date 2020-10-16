@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Туховичи",
+    "osm_id": "-7467102",
+    "hierarchy": [
+      "Островский сельский Совет",
+      "Ляховичский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.80868919908434",
+    "lon": "25.9673425"
+  },
+  "group": [
+    {
+      "school_osm_id": "1511473660",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-8096131",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Островский сельский Совет",
+      "lon": "25.9673425",
+      "lat": "52.80868919908434"
+    },
+    {
+      "school_osm_id": "1511473660",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-7467102",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Туховичи",
+      "lon": "25.9673425",
+      "lat": "52.80868919908434"
+    },
+    {
+      "school_osm_id": "1511473660",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-71117",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Ляховичский район",
+      "lon": "25.9673425",
+      "lat": "52.80868919908434"
+    },
+    {
+      "school_osm_id": "1511473660",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "25.9673425",
+      "lat": "52.80868919908434"
+    },
+    {
+      "school_osm_id": "1511473660",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "25.9673425",
+      "lat": "52.80868919908434"
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+[
+  {
+    "school_osm_id": "-10101083",
+    "school_osm_type": "relation",
+    "school_name": "Средняя школа №2",
+    "place_osm_id": "-6722368",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Волковыск",
+    "lon": "24.476524176165118",
+    "lat": "53.159904727086456"
+  },
+  {
+    "school_osm_id": "192941629",
+    "school_osm_type": "way",
+    "school_name": "Районный центр туризма и краеведения детей и юношества",
+    "place_osm_id": "-6722368",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Волковыск",
+    "lon": "24.465553150220575",
+    "lat": "53.16453168250247"
+  },
+  {
+    "school_osm_id": "197149959",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №7",
+    "place_osm_id": "-6722368",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Волковыск",
+    "lon": "24.43825869879191",
+    "lat": "53.1650021209707"
+  },
+  {
+    "school_osm_id": "197157169",
+    "school_osm_type": "way",
+    "school_name": "Вспомогательная школа-интернат",
+    "place_osm_id": "-6722368",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Волковыск",
+    "lon": "24.48574549675507",
+    "lat": "53.166287200122945"
+  },
+  {
+    "school_osm_id": "197157170",
+    "school_osm_type": "way",
+    "school_name": "Гимназия №1",
+    "place_osm_id": "-6722368",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Волковыск",
+    "lon": "24.456574907240746",
+    "lat": "53.16762689969599"
+  },
+  {
+    "school_osm_id": "197157172",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №4",
+    "place_osm_id": "-6722368",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Волковыск",
+    "lon": "24.421573557648287",
+    "lat": "53.137689932839386"
+  },
+  {
+    "school_osm_id": "198341833",
+    "school_osm_type": "way",
+    "school_name": "Гимназия №2",
+    "place_osm_id": "-6722368",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Волковыск",
+    "lon": "24.448577361339968",
+    "lat": "53.1643194807779"
+  },
+  {
+    "school_osm_id": "198511496",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №3",
+    "place_osm_id": "-6722368",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Волковыск",
+    "lon": "24.46892290340478",
+    "lat": "53.16376985043991"
+  },
+  {
+    "school_osm_id": "199105868",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №8 с польским языком обучения",
+    "place_osm_id": "-6722368",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Волковыск",
+    "lon": "24.45739418905777",
+    "lat": "53.1639159832857"
+  },
+  {
+    "school_osm_id": "648596515",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №5",
+    "place_osm_id": "-6722368",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Волковыск",
+    "lon": "24.435101996596018",
+    "lat": "53.15235817924673"
+  },
+  {
+    "school_osm_id": "684552574",
+    "school_osm_type": "way",
+    "school_name": "СДЮШОР №2",
+    "place_osm_id": "-6722368",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Волковыск",
+    "lon": "24.43831569519425",
+    "lat": "53.15450887920829"
+  },
+  {
+    "school_osm_id": "687315244",
+    "school_osm_type": "way",
+    "school_name": "СДЮШОР №1",
+    "place_osm_id": "-6722368",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Волковыск",
+    "lon": "24.477747020742104",
+    "lat": "53.16131460326543"
+  },
+  {
+    "school_osm_id": "2061662506",
+    "school_osm_type": "node",
+    "school_name": "Районный эколого-биологический центр детей и юношества",
+    "place_osm_id": "-6722368",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Волковыск",
+    "lon": "24.4545108",
+    "lat": "53.16212029909452"
+  },
+  {
+    "school_osm_id": "2078717164",
+    "school_osm_type": "node",
+    "school_name": "Музыкальная школа",
+    "place_osm_id": "-6722368",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Волковыск",
+    "lon": "24.4586479",
+    "lat": "53.16404889909461"
+  },
+  {
+    "school_osm_id": "2078717172",
+    "school_osm_type": "node",
+    "school_name": "Школа искусств",
+    "place_osm_id": "-6722368",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Волковыск",
+    "lon": "24.4608646",
+    "lat": "53.16326269909458"
+  }
+]

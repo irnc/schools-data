@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Гатово",
+    "osm_id": "-7547117",
+    "hierarchy": [
+      "Новодворский сельский Совет",
+      "Минский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.784004999152465",
+    "lon": "27.631269499999995"
+  },
+  "group": [
+    {
+      "school_osm_id": "3858945637",
+      "school_osm_type": "node",
+      "school_name": "Гатовская СШ",
+      "place_osm_id": "-8144273",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Новодворский сельский Совет",
+      "lon": "27.631269499999995",
+      "lat": "53.784004999152465"
+    },
+    {
+      "school_osm_id": "3858945637",
+      "school_osm_type": "node",
+      "school_name": "Гатовская СШ",
+      "place_osm_id": "-7547117",
+      "place_admin_level": "10",
+      "place_place": "town",
+      "place_name": "Гатово",
+      "lon": "27.631269499999995",
+      "lat": "53.784004999152465"
+    },
+    {
+      "school_osm_id": "3858945637",
+      "school_osm_type": "node",
+      "school_name": "Гатовская СШ",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.631269499999995",
+      "lat": "53.784004999152465"
+    },
+    {
+      "school_osm_id": "3858945637",
+      "school_osm_type": "node",
+      "school_name": "Гатовская СШ",
+      "place_osm_id": "-59190",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Минский район",
+      "lon": "27.631269499999995",
+      "lat": "53.784004999152465"
+    },
+    {
+      "school_osm_id": "3858945637",
+      "school_osm_type": "node",
+      "school_name": "Гатовская СШ",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.631269499999995",
+      "lat": "53.784004999152465"
+    }
+  ]
+}

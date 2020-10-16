@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Королёв Стан",
+    "osm_id": "-7547063",
+    "hierarchy": [
+      "Боровлянский сельский Совет",
+      "Минский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.98918333674175",
+    "lon": "27.794424526147253"
+  },
+  "group": [
+    {
+      "school_osm_id": "465501794",
+      "school_osm_type": "way",
+      "school_name": "УПК Базовая школа",
+      "place_osm_id": "-8144270",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Боровлянский сельский Совет",
+      "lon": "27.794424526147253",
+      "lat": "53.98918333674175"
+    },
+    {
+      "school_osm_id": "465501794",
+      "school_osm_type": "way",
+      "school_name": "УПК Базовая школа",
+      "place_osm_id": "-7547063",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Королёв Стан",
+      "lon": "27.794424526147253",
+      "lat": "53.98918333674175"
+    },
+    {
+      "school_osm_id": "465501794",
+      "school_osm_type": "way",
+      "school_name": "УПК Базовая школа",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.794424526147253",
+      "lat": "53.98918333674175"
+    },
+    {
+      "school_osm_id": "465501794",
+      "school_osm_type": "way",
+      "school_name": "УПК Базовая школа",
+      "place_osm_id": "-59190",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Минский район",
+      "lon": "27.794424526147253",
+      "lat": "53.98918333674175"
+    },
+    {
+      "school_osm_id": "465501794",
+      "school_osm_type": "way",
+      "school_name": "УПК Базовая школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.794424526147253",
+      "lat": "53.98918333674175"
+    }
+  ]
+}

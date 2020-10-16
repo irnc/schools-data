@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Лука",
+    "osm_id": "-7609382",
+    "hierarchy": [
+      "Остромичский сельский Совет",
+      "Кобринский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.37758823425972",
+    "lon": "24.68295417544353"
+  },
+  "group": [
+    {
+      "school_osm_id": "665326264",
+      "school_osm_type": "way",
+      "school_name": "Лукская средняя школа",
+      "place_osm_id": "-8028562",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Остромичский сельский Совет",
+      "lon": "24.68295417544353",
+      "lat": "52.37758823425972"
+    },
+    {
+      "school_osm_id": "665326264",
+      "school_osm_type": "way",
+      "school_name": "Лукская средняя школа",
+      "place_osm_id": "-7609382",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Лука",
+      "lon": "24.68295417544353",
+      "lat": "52.37758823425972"
+    },
+    {
+      "school_osm_id": "665326264",
+      "school_osm_type": "way",
+      "school_name": "Лукская средняя школа",
+      "place_osm_id": "-71101",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Кобринский район",
+      "lon": "24.68295417544353",
+      "lat": "52.37758823425972"
+    },
+    {
+      "school_osm_id": "665326264",
+      "school_osm_type": "way",
+      "school_name": "Лукская средняя школа",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "24.68295417544353",
+      "lat": "52.37758823425972"
+    },
+    {
+      "school_osm_id": "665326264",
+      "school_osm_type": "way",
+      "school_name": "Лукская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "24.68295417544353",
+      "lat": "52.37758823425972"
+    }
+  ]
+}

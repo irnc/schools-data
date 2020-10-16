@@ -1,0 +1,35 @@
+[
+  {
+    "school_osm_id": "206083856",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-6722643",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Глуск",
+    "lon": "28.6875471654102",
+    "lat": "52.90771857095745"
+  },
+  {
+    "school_osm_id": "206227962",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-6722643",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Глуск",
+    "lon": "28.685891669029946",
+    "lat": "52.91303077589096"
+  },
+  {
+    "school_osm_id": "794323361",
+    "school_osm_type": "way",
+    "school_name": "Гимназия Глуска",
+    "place_osm_id": "-6722643",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Глуск",
+    "lon": "28.68034125482637",
+    "lat": "52.891786554309476"
+  }
+]

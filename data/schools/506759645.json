@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Лунинец",
+    "osm_id": "-6722245",
+    "hierarchy": [
+      "Лунинецкий район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.24931506493661",
+    "lon": "26.85011188172273"
+  },
+  "group": [
+    {
+      "school_osm_id": "506759645",
+      "school_osm_type": "way",
+      "school_name": "Автодром",
+      "place_osm_id": "-6722245",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Лунинец",
+      "lon": "26.85011188172273",
+      "lat": "52.24931506493661"
+    },
+    {
+      "school_osm_id": "506759645",
+      "school_osm_type": "way",
+      "school_name": "Автодром",
+      "place_osm_id": "-71124",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Лунинецкий район",
+      "lon": "26.85011188172273",
+      "lat": "52.24931506493661"
+    },
+    {
+      "school_osm_id": "506759645",
+      "school_osm_type": "way",
+      "school_name": "Автодром",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "26.85011188172273",
+      "lat": "52.24931506493661"
+    },
+    {
+      "school_osm_id": "506759645",
+      "school_osm_type": "way",
+      "school_name": "Автодром",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.85011188172273",
+      "lat": "52.24931506493661"
+    }
+  ]
+}

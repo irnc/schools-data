@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Бобовка",
+    "osm_id": "-7439807",
+    "hierarchy": [
+      "Кировский сельский Совет",
+      "Жлобинский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.90017827638516",
+    "lon": "30.20847099635368"
+  },
+  "group": [
+    {
+      "school_osm_id": "544245257",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7439807",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Бобовка",
+      "lon": "30.20847099635368",
+      "lat": "52.90017827638516"
+    },
+    {
+      "school_osm_id": "544245257",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-6322095",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Кировский сельский Совет",
+      "lon": "30.20847099635368",
+      "lat": "52.90017827638516"
+    },
+    {
+      "school_osm_id": "544245257",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59167",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Жлобинский район",
+      "lon": "30.20847099635368",
+      "lat": "52.90017827638516"
+    },
+    {
+      "school_osm_id": "544245257",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "30.20847099635368",
+      "lat": "52.90017827638516"
+    },
+    {
+      "school_osm_id": "544245257",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.20847099635368",
+      "lat": "52.90017827638516"
+    }
+  ]
+}

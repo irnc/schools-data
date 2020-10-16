@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Большой Полсвиж",
+    "osm_id": "-7486135",
+    "hierarchy": [
+      "Лепельский сельский Совет",
+      "Лепельский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.855450695963484",
+    "lon": "28.735827185309645"
+  },
+  "group": [
+    {
+      "school_osm_id": "273274937",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7486135",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Большой Полсвиж",
+      "lon": "28.735827185309645",
+      "lat": "54.855450695963484"
+    },
+    {
+      "school_osm_id": "273274937",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-6826056",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Лепельский сельский Совет",
+      "lon": "28.735827185309645",
+      "lat": "54.855450695963484"
+    },
+    {
+      "school_osm_id": "273274937",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70679",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Лепельский район",
+      "lon": "28.735827185309645",
+      "lat": "54.855450695963484"
+    },
+    {
+      "school_osm_id": "273274937",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "28.735827185309645",
+      "lat": "54.855450695963484"
+    },
+    {
+      "school_osm_id": "273274937",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.735827185309645",
+      "lat": "54.855450695963484"
+    }
+  ]
+}

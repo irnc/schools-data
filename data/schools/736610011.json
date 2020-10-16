@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Радошковичи",
+    "osm_id": "-6722709",
+    "hierarchy": [
+      "Молодечненский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.158900054694975",
+    "lon": "27.239334206904285"
+  },
+  "group": [
+    {
+      "school_osm_id": "736610011",
+      "school_osm_type": "way",
+      "school_name": "Школа",
+      "place_osm_id": "-6722709",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Радошковичи",
+      "lon": "27.239334206904285",
+      "lat": "54.158900054694975"
+    },
+    {
+      "school_osm_id": "736610011",
+      "school_osm_type": "way",
+      "school_name": "Школа",
+      "place_osm_id": "-70566",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Молодечненский район",
+      "lon": "27.239334206904285",
+      "lat": "54.158900054694975"
+    },
+    {
+      "school_osm_id": "736610011",
+      "school_osm_type": "way",
+      "school_name": "Школа",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.239334206904285",
+      "lat": "54.158900054694975"
+    },
+    {
+      "school_osm_id": "736610011",
+      "school_osm_type": "way",
+      "school_name": "Школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.239334206904285",
+      "lat": "54.158900054694975"
+    }
+  ]
+}

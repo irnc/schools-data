@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Старые Дороги",
+    "osm_id": "-6722616",
+    "hierarchy": [
+      "Стародорожский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.03939699908918",
+    "lon": "28.264389399999995"
+  },
+  "group": [
+    {
+      "school_osm_id": "1760413906",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-6722616",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Старые Дороги",
+      "lon": "28.264389399999995",
+      "lat": "53.03939699908918"
+    },
+    {
+      "school_osm_id": "1760413906",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-71135",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Стародорожский район",
+      "lon": "28.264389399999995",
+      "lat": "53.03939699908918"
+    },
+    {
+      "school_osm_id": "1760413906",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "28.264389399999995",
+      "lat": "53.03939699908918"
+    },
+    {
+      "school_osm_id": "1760413906",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.264389399999995",
+      "lat": "53.03939699908918"
+    }
+  ]
+}

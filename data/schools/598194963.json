@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Сидоровичи",
+    "osm_id": "-7586337",
+    "hierarchy": [
+      "Сидоровичский сельский Совет",
+      "Могилёвский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.685371475242896",
+    "lon": "30.37579113344838"
+  },
+  "group": [
+    {
+      "school_osm_id": "598194963",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8144206",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Сидоровичский сельский Совет",
+      "lon": "30.37579113344838",
+      "lat": "53.685371475242896"
+    },
+    {
+      "school_osm_id": "598194963",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7586337",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Сидоровичи",
+      "lon": "30.37579113344838",
+      "lat": "53.685371475242896"
+    },
+    {
+      "school_osm_id": "598194963",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-62147",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Могилёвский район",
+      "lon": "30.37579113344838",
+      "lat": "53.685371475242896"
+    },
+    {
+      "school_osm_id": "598194963",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "30.37579113344838",
+      "lat": "53.685371475242896"
+    },
+    {
+      "school_osm_id": "598194963",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.37579113344838",
+      "lat": "53.685371475242896"
+    }
+  ]
+}

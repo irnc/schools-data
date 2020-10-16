@@ -1,0 +1,46 @@
+[
+  {
+    "school_osm_id": "188608538",
+    "school_osm_type": "way",
+    "school_name": "Базовая школа",
+    "place_osm_id": "-1180571",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Чашники",
+    "lon": "29.195906788890444",
+    "lat": "54.84184211316719"
+  },
+  {
+    "school_osm_id": "337258597",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа № 1",
+    "place_osm_id": "-1180571",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Чашники",
+    "lon": "29.158765923422134",
+    "lat": "54.861481467830394"
+  },
+  {
+    "school_osm_id": "337258598",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа № 4",
+    "place_osm_id": "-1180571",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Чашники",
+    "lon": "29.16415537677512",
+    "lat": "54.85401038017376"
+  },
+  {
+    "school_osm_id": "338049016",
+    "school_osm_type": "way",
+    "school_name": "Чашникская гимназия",
+    "place_osm_id": "-1180571",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Чашники",
+    "lon": "29.164668942246312",
+    "lat": "54.85981510802241"
+  }
+]

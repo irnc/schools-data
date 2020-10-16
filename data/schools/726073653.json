@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Мильки",
+    "osm_id": "-7470677",
+    "hierarchy": [
+      "Тетерковский сельский Совет",
+      "Браславский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.52158714537214",
+    "lon": "27.311603320656644"
+  },
+  "group": [
+    {
+      "school_osm_id": "726073653",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7976851",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Тетерковский сельский Совет",
+      "lon": "27.311603320656644",
+      "lat": "55.52158714537214"
+    },
+    {
+      "school_osm_id": "726073653",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7470677",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Мильки",
+      "lon": "27.311603320656644",
+      "lat": "55.52158714537214"
+    },
+    {
+      "school_osm_id": "726073653",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70691",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Браславский район",
+      "lon": "27.311603320656644",
+      "lat": "55.52158714537214"
+    },
+    {
+      "school_osm_id": "726073653",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "27.311603320656644",
+      "lat": "55.52158714537214"
+    },
+    {
+      "school_osm_id": "726073653",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.311603320656644",
+      "lat": "55.52158714537214"
+    }
+  ]
+}

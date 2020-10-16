@@ -1,0 +1,200 @@
+[
+  {
+    "school_osm_id": "262312931",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-5598659",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Речица",
+    "lon": "30.395772180192758",
+    "lat": "52.369082962976655"
+  },
+  {
+    "school_osm_id": "262492435",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-5598659",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Речица",
+    "lon": "30.39574546960265",
+    "lat": "52.36870302431717"
+  },
+  {
+    "school_osm_id": "270843669",
+    "school_osm_type": "way",
+    "school_name": "Школа № 4",
+    "place_osm_id": "-5598659",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Речица",
+    "lon": "30.41331297864409",
+    "lat": "52.35735315297476"
+  },
+  {
+    "school_osm_id": "306064379",
+    "school_osm_type": "node",
+    "school_name": "Упк №1",
+    "place_osm_id": "-5598659",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Речица",
+    "lon": "30.4261048",
+    "lat": "52.36666929909321"
+  },
+  {
+    "school_osm_id": "306064405",
+    "school_osm_type": "node",
+    "school_name": "Школа-Интернат",
+    "place_osm_id": "-5598659",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Речица",
+    "lon": "30.382097699999996",
+    "lat": "52.36639579909323"
+  },
+  {
+    "school_osm_id": "307458351",
+    "school_osm_type": "way",
+    "school_name": "Школа № 8",
+    "place_osm_id": "-5598659",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Речица",
+    "lon": "30.42593891979711",
+    "lat": "52.35694517235935"
+  },
+  {
+    "school_osm_id": "307458353",
+    "school_osm_type": "way",
+    "school_name": "Школа № 6",
+    "place_osm_id": "-5598659",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Речица",
+    "lon": "30.40812299083495",
+    "lat": "52.3560476738624"
+  },
+  {
+    "school_osm_id": "307469511",
+    "school_osm_type": "way",
+    "school_name": "Речицкая районная гимназия №1",
+    "place_osm_id": "-5598659",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Речица",
+    "lon": "30.408922681413284",
+    "lat": "52.367235971879936"
+  },
+  {
+    "school_osm_id": "307469512",
+    "school_osm_type": "way",
+    "school_name": "Школа № 10",
+    "place_osm_id": "-5598659",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Речица",
+    "lon": "30.411227741984398",
+    "lat": "52.367165247235405"
+  },
+  {
+    "school_osm_id": "307469513",
+    "school_osm_type": "way",
+    "school_name": "Школа №2",
+    "place_osm_id": "-5598659",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Речица",
+    "lon": "30.394728765103967",
+    "lat": "52.36334360294893"
+  },
+  {
+    "school_osm_id": "307490438",
+    "school_osm_type": "way",
+    "school_name": "Школа № 11",
+    "place_osm_id": "-5598659",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Речица",
+    "lon": "30.34761751188648",
+    "lat": "52.37137195756082"
+  },
+  {
+    "school_osm_id": "307490439",
+    "school_osm_type": "way",
+    "school_name": "Школа № 7",
+    "place_osm_id": "-5598659",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Речица",
+    "lon": "30.350947923080508",
+    "lat": "52.37037553704009"
+  },
+  {
+    "school_osm_id": "307520517",
+    "school_osm_type": "way",
+    "school_name": "Детский сад-средняя школа № 1",
+    "place_osm_id": "-5598659",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Речица",
+    "lon": "30.430848729134244",
+    "lat": "52.349815417050955"
+  },
+  {
+    "school_osm_id": "476178938",
+    "school_osm_type": "way",
+    "school_name": "Школа № 9",
+    "place_osm_id": "-5598659",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Речица",
+    "lon": "30.368921378942584",
+    "lat": "52.37732928375891"
+  },
+  {
+    "school_osm_id": "476182121",
+    "school_osm_type": "way",
+    "school_name": "Школа № 5",
+    "place_osm_id": "-5598659",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Речица",
+    "lon": "30.379023691379274",
+    "lat": "52.36806751879187"
+  },
+  {
+    "school_osm_id": "2460418304",
+    "school_osm_type": "node",
+    "school_name": "Центр Детского творчества",
+    "place_osm_id": "-5598659",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Речица",
+    "lon": "30.404179200000005",
+    "lat": "52.36585449909326"
+  },
+  {
+    "school_osm_id": "2680783323",
+    "school_osm_type": "node",
+    "school_name": "Речицкий районный лицей",
+    "place_osm_id": "-5598659",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Речица",
+    "lon": "30.3955288",
+    "lat": "52.36827009909313"
+  },
+  {
+    "school_osm_id": "6946492185",
+    "school_osm_type": "node",
+    "school_name": "СОШ",
+    "place_osm_id": "-5598659",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Речица",
+    "lon": "30.3949606",
+    "lat": "52.36299189909337"
+  }
+]

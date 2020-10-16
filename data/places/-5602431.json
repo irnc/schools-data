@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "560092069",
+    "school_osm_type": "way",
+    "school_name": "СШ №3",
+    "place_osm_id": "-5602431",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Белоозёрск",
+    "lon": "25.174131185519133",
+    "lat": "52.475758705385644"
+  },
+  {
+    "school_osm_id": "658699095",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №1",
+    "place_osm_id": "-5602431",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Белоозёрск",
+    "lon": "25.17545156967581",
+    "lat": "52.467910041746904"
+  }
+]

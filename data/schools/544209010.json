@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Озёры",
+    "osm_id": "-5598309",
+    "hierarchy": [
+      "Озёрский сельский Совет",
+      "Гродненский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.719900198311926",
+    "lon": "24.17979912888628"
+  },
+  "group": [
+    {
+      "school_osm_id": "544209010",
+      "school_osm_type": "way",
+      "school_name": "Озёрская средняя школа",
+      "place_osm_id": "-8025352",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Озёрский сельский Совет",
+      "lon": "24.17979912888628",
+      "lat": "53.719900198311926"
+    },
+    {
+      "school_osm_id": "544209010",
+      "school_osm_type": "way",
+      "school_name": "Озёрская средняя школа",
+      "place_osm_id": "-5598309",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Озёры",
+      "lon": "24.17979912888628",
+      "lat": "53.719900198311926"
+    },
+    {
+      "school_osm_id": "544209010",
+      "school_osm_type": "way",
+      "school_name": "Озёрская средняя школа",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "24.17979912888628",
+      "lat": "53.719900198311926"
+    },
+    {
+      "school_osm_id": "544209010",
+      "school_osm_type": "way",
+      "school_name": "Озёрская средняя школа",
+      "place_osm_id": "-59273",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Гродненский район",
+      "lon": "24.17979912888628",
+      "lat": "53.719900198311926"
+    },
+    {
+      "school_osm_id": "544209010",
+      "school_osm_type": "way",
+      "school_name": "Озёрская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "24.17979912888628",
+      "lat": "53.719900198311926"
+    }
+  ]
+}

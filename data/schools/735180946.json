@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Шарейки",
+    "osm_id": "-7585515",
+    "hierarchy": [
+      "Пролетарский сельский Совет",
+      "Костюковичский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.415267512525446",
+    "lon": "32.16460001329652"
+  },
+  "group": [
+    {
+      "school_osm_id": "735180946",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8067518",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Пролетарский сельский Совет",
+      "lon": "32.16460001329652",
+      "lat": "53.415267512525446"
+    },
+    {
+      "school_osm_id": "735180946",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7585515",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Шарейки",
+      "lon": "32.16460001329652",
+      "lat": "53.415267512525446"
+    },
+    {
+      "school_osm_id": "735180946",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70604",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Костюковичский район",
+      "lon": "32.16460001329652",
+      "lat": "53.415267512525446"
+    },
+    {
+      "school_osm_id": "735180946",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "32.16460001329652",
+      "lat": "53.415267512525446"
+    },
+    {
+      "school_osm_id": "735180946",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "32.16460001329652",
+      "lat": "53.415267512525446"
+    }
+  ]
+}

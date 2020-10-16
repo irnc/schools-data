@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "343961188",
+    "school_osm_type": "way",
+    "school_name": "Старосельская средняя школа",
+    "place_osm_id": "-7450720",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Старое Село",
+    "lon": "30.076787193867624",
+    "lat": "53.17793342220849"
+  },
+  {
+    "school_osm_id": "392044543",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7450720",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Старое Село",
+    "lon": "30.077076075338706",
+    "lat": "53.177621465742746"
+  }
+]

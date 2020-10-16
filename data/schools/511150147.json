@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Новый Двор",
+    "osm_id": "-7526239",
+    "hierarchy": [
+      "Новодворский сельский Совет",
+      "Свислочский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.83149912263091",
+    "lon": "24.348043506729432"
+  },
+  "group": [
+    {
+      "school_osm_id": "511150147",
+      "school_osm_type": "way",
+      "school_name": "Новодворская средняя школа",
+      "place_osm_id": "-8025379",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Новодворский сельский Совет",
+      "lon": "24.348043506729432",
+      "lat": "52.83149912263091"
+    },
+    {
+      "school_osm_id": "511150147",
+      "school_osm_type": "way",
+      "school_name": "Новодворская средняя школа",
+      "place_osm_id": "-7526239",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Новый Двор",
+      "lon": "24.348043506729432",
+      "lat": "52.83149912263091"
+    },
+    {
+      "school_osm_id": "511150147",
+      "school_osm_type": "way",
+      "school_name": "Новодворская средняя школа",
+      "place_osm_id": "-71093",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Свислочский район",
+      "lon": "24.348043506729432",
+      "lat": "52.83149912263091"
+    },
+    {
+      "school_osm_id": "511150147",
+      "school_osm_type": "way",
+      "school_name": "Новодворская средняя школа",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "24.348043506729432",
+      "lat": "52.83149912263091"
+    },
+    {
+      "school_osm_id": "511150147",
+      "school_osm_type": "way",
+      "school_name": "Новодворская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "24.348043506729432",
+      "lat": "52.83149912263091"
+    }
+  ]
+}

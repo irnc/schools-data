@@ -1,0 +1,35 @@
+[
+  {
+    "school_osm_id": "291812421",
+    "school_osm_type": "way",
+    "school_name": "ГУ \"СШ №1\"",
+    "place_osm_id": "-6722388",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Кореличи",
+    "lon": "26.133674716437813",
+    "lat": "53.571918320912545"
+  },
+  {
+    "school_osm_id": "445412109",
+    "school_osm_type": "node",
+    "school_name": "",
+    "place_osm_id": "-6722388",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Кореличи",
+    "lon": "26.1359671",
+    "lat": "53.567267199126285"
+  },
+  {
+    "school_osm_id": "755589675",
+    "school_osm_type": "way",
+    "school_name": "ГУО \"Средняя школа № 2 г.п. Кореличи\"",
+    "place_osm_id": "-6722388",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Кореличи",
+    "lon": "26.142545673736972",
+    "lat": "53.56226335155362"
+  }
+]

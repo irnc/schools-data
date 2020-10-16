@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Сиротино",
+    "osm_id": "-7506862",
+    "hierarchy": [
+      "Сиротинский сельский Совет",
+      "Шумилинский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.37027886449911",
+    "lon": "29.624727684225824"
+  },
+  "group": [
+    {
+      "school_osm_id": "311353389",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7981158",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Сиротинский сельский Совет",
+      "lon": "29.624727684225824",
+      "lat": "55.37027886449911"
+    },
+    {
+      "school_osm_id": "311353389",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7506862",
+      "place_admin_level": "10",
+      "place_place": "hamlet",
+      "place_name": "Сиротино",
+      "lon": "29.624727684225824",
+      "lat": "55.37027886449911"
+    },
+    {
+      "school_osm_id": "311353389",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70677",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Шумилинский район",
+      "lon": "29.624727684225824",
+      "lat": "55.37027886449911"
+    },
+    {
+      "school_osm_id": "311353389",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "29.624727684225824",
+      "lat": "55.37027886449911"
+    },
+    {
+      "school_osm_id": "311353389",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.624727684225824",
+      "lat": "55.37027886449911"
+    }
+  ]
+}

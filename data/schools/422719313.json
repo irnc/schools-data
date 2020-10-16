@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Плещеницы",
+    "osm_id": "-6346544",
+    "hierarchy": [
+      "Логойский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.41829909228309",
+    "lon": "27.816395871444826"
+  },
+  "group": [
+    {
+      "school_osm_id": "422719313",
+      "school_osm_type": "way",
+      "school_name": "Школа № 2",
+      "place_osm_id": "-6346544",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Плещеницы",
+      "lon": "27.816395871444826",
+      "lat": "54.41829909228309"
+    },
+    {
+      "school_osm_id": "422719313",
+      "school_osm_type": "way",
+      "school_name": "Школа № 2",
+      "place_osm_id": "-70542",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Логойский район",
+      "lon": "27.816395871444826",
+      "lat": "54.41829909228309"
+    },
+    {
+      "school_osm_id": "422719313",
+      "school_osm_type": "way",
+      "school_name": "Школа № 2",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.816395871444826",
+      "lat": "54.41829909228309"
+    },
+    {
+      "school_osm_id": "422719313",
+      "school_osm_type": "way",
+      "school_name": "Школа № 2",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.816395871444826",
+      "lat": "54.41829909228309"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Червень",
+    "osm_id": "-6722634",
+    "hierarchy": [
+      "Червенский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.71479639914341",
+    "lon": "28.4181935"
+  },
+  "group": [
+    {
+      "school_osm_id": "1559608214",
+      "school_osm_type": "node",
+      "school_name": "Музыкальная школа",
+      "place_osm_id": "-6722634",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Червень",
+      "lon": "28.4181935",
+      "lat": "53.71479639914341"
+    },
+    {
+      "school_osm_id": "1559608214",
+      "school_osm_type": "node",
+      "school_name": "Музыкальная школа",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "28.4181935",
+      "lat": "53.71479639914341"
+    },
+    {
+      "school_osm_id": "1559608214",
+      "school_osm_type": "node",
+      "school_name": "Музыкальная школа",
+      "place_osm_id": "-59751",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Червенский район",
+      "lon": "28.4181935",
+      "lat": "53.71479639914341"
+    },
+    {
+      "school_osm_id": "1559608214",
+      "school_osm_type": "node",
+      "school_name": "Музыкальная школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.4181935",
+      "lat": "53.71479639914341"
+    }
+  ]
+}

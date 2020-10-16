@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Бабыничи",
+    "osm_id": "-6801953",
+    "hierarchy": [
+      "Бабыничский сельский Совет",
+      "Полоцкий район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.28558924969162",
+    "lon": "28.410413192650278"
+  },
+  "group": [
+    {
+      "school_osm_id": "546501842",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8075979",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Бабыничский сельский Совет",
+      "lon": "28.410413192650278",
+      "lat": "55.28558924969162"
+    },
+    {
+      "school_osm_id": "546501842",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-6801953",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Бабыничи",
+      "lon": "28.410413192650278",
+      "lat": "55.28558924969162"
+    },
+    {
+      "school_osm_id": "546501842",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70671",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Полоцкий район",
+      "lon": "28.410413192650278",
+      "lat": "55.28558924969162"
+    },
+    {
+      "school_osm_id": "546501842",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "28.410413192650278",
+      "lat": "55.28558924969162"
+    },
+    {
+      "school_osm_id": "546501842",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.410413192650278",
+      "lat": "55.28558924969162"
+    }
+  ]
+}

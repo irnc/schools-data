@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "526430397",
+    "school_osm_type": "way",
+    "school_name": "Малечский ясли-сад-средняя школа",
+    "place_osm_id": "-7459242",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Малеч",
+    "lon": "24.702659556074273",
+    "lat": "52.487683655839824"
+  },
+  {
+    "school_osm_id": "526430400",
+    "school_osm_type": "way",
+    "school_name": "Малечская санаторная школа-интернат",
+    "place_osm_id": "-7459242",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Малеч",
+    "lon": "24.69866265068026",
+    "lat": "52.48627671963603"
+  }
+]

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Каменка",
+    "osm_id": "-7578186",
+    "hierarchy": [
+      "Горский сельский Совет",
+      "Горецкий район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.32208867127464",
+    "lon": "31.2312020986205"
+  },
+  "group": [
+    {
+      "school_osm_id": "470853380",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8076003",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Горский сельский Совет",
+      "lon": "31.2312020986205",
+      "lat": "54.32208867127464"
+    },
+    {
+      "school_osm_id": "470853380",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7578186",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Каменка",
+      "lon": "31.2312020986205",
+      "lat": "54.32208867127464"
+    },
+    {
+      "school_osm_id": "470853380",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70620",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Горецкий район",
+      "lon": "31.2312020986205",
+      "lat": "54.32208867127464"
+    },
+    {
+      "school_osm_id": "470853380",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "31.2312020986205",
+      "lat": "54.32208867127464"
+    },
+    {
+      "school_osm_id": "470853380",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "31.2312020986205",
+      "lat": "54.32208867127464"
+    }
+  ]
+}

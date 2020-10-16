@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Несвиж",
+    "osm_id": "-6722576",
+    "hierarchy": [
+      "Несвижский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.214837999097426",
+    "lon": "26.695464899999997"
+  },
+  "group": [
+    {
+      "school_osm_id": "4973726595",
+      "school_osm_type": "node",
+      "school_name": "Средняя школа №3",
+      "place_osm_id": "-6722576",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Несвиж",
+      "lon": "26.695464899999997",
+      "lat": "53.214837999097426"
+    },
+    {
+      "school_osm_id": "4973726595",
+      "school_osm_type": "node",
+      "school_name": "Средняя школа №3",
+      "place_osm_id": "-71128",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Несвижский район",
+      "lon": "26.695464899999997",
+      "lat": "53.214837999097426"
+    },
+    {
+      "school_osm_id": "4973726595",
+      "school_osm_type": "node",
+      "school_name": "Средняя школа №3",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "26.695464899999997",
+      "lat": "53.214837999097426"
+    },
+    {
+      "school_osm_id": "4973726595",
+      "school_osm_type": "node",
+      "school_name": "Средняя школа №3",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.695464899999997",
+      "lat": "53.214837999097426"
+    }
+  ]
+}

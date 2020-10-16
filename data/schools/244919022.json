@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Неговка",
+    "osm_id": "-7440441",
+    "hierarchy": [
+      "Липиничский сельский Совет",
+      "Буда-Кошелёвский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.859557747019345",
+    "lon": "30.517478373048135"
+  },
+  "group": [
+    {
+      "school_osm_id": "244919022",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8100454",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Липиничский сельский Совет",
+      "lon": "30.517478373048135",
+      "lat": "52.859557747019345"
+    },
+    {
+      "school_osm_id": "244919022",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7440441",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Неговка",
+      "lon": "30.517478373048135",
+      "lat": "52.859557747019345"
+    },
+    {
+      "school_osm_id": "244919022",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59175",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Буда-Кошелёвский район",
+      "lon": "30.517478373048135",
+      "lat": "52.859557747019345"
+    },
+    {
+      "school_osm_id": "244919022",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "30.517478373048135",
+      "lat": "52.859557747019345"
+    },
+    {
+      "school_osm_id": "244919022",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.517478373048135",
+      "lat": "52.859557747019345"
+    }
+  ]
+}

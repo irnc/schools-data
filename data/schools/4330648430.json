@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Туров",
+    "osm_id": "-5598584",
+    "hierarchy": [
+      "Житковичский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.06979079911173",
+    "lon": "27.728215199999998"
+  },
+  "group": [
+    {
+      "school_osm_id": "4330648430",
+      "school_osm_type": "node",
+      "school_name": "Дом детского творчества",
+      "place_osm_id": "-5598584",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Туров",
+      "lon": "27.728215199999998",
+      "lat": "52.06979079911173"
+    },
+    {
+      "school_osm_id": "4330648430",
+      "school_osm_type": "node",
+      "school_name": "Дом детского творчества",
+      "place_osm_id": "-71149",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Житковичский район",
+      "lon": "27.728215199999998",
+      "lat": "52.06979079911173"
+    },
+    {
+      "school_osm_id": "4330648430",
+      "school_osm_type": "node",
+      "school_name": "Дом детского творчества",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "27.728215199999998",
+      "lat": "52.06979079911173"
+    },
+    {
+      "school_osm_id": "4330648430",
+      "school_osm_type": "node",
+      "school_name": "Дом детского творчества",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.728215199999998",
+      "lat": "52.06979079911173"
+    }
+  ]
+}

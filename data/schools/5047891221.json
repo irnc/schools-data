@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Мядель",
+    "osm_id": "-6722574",
+    "hierarchy": [
+      "Мядельский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.88347119938601",
+    "lon": "26.924525799999998"
+  },
+  "group": [
+    {
+      "school_osm_id": "5047891221",
+      "school_osm_type": "node",
+      "school_name": "Средняя школа №2",
+      "place_osm_id": "-6722574",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Мядель",
+      "lon": "26.924525799999998",
+      "lat": "54.88347119938601"
+    },
+    {
+      "school_osm_id": "5047891221",
+      "school_osm_type": "node",
+      "school_name": "Средняя школа №2",
+      "place_osm_id": "-70719",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Мядельский район",
+      "lon": "26.924525799999998",
+      "lat": "54.88347119938601"
+    },
+    {
+      "school_osm_id": "5047891221",
+      "school_osm_type": "node",
+      "school_name": "Средняя школа №2",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "26.924525799999998",
+      "lat": "54.88347119938601"
+    },
+    {
+      "school_osm_id": "5047891221",
+      "school_osm_type": "node",
+      "school_name": "Средняя школа №2",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.924525799999998",
+      "lat": "54.88347119938601"
+    }
+  ]
+}

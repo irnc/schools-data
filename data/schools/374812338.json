@@ -1,0 +1,53 @@
+{
+  "place": "warning-school-without-place",
+  "geo": {
+    "lat": "54.918858463285254",
+    "lon": "26.69532631053721"
+  },
+  "group": [
+    {
+      "school_osm_id": "374812338",
+      "school_osm_type": "way",
+      "school_name": "Нарочская средняя школа № 2",
+      "place_osm_id": "-8016471",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Нарочский сельский Совет",
+      "lon": "26.69532631053721",
+      "lat": "54.918858463285254"
+    },
+    {
+      "school_osm_id": "374812338",
+      "school_osm_type": "way",
+      "school_name": "Нарочская средняя школа № 2",
+      "place_osm_id": "-70719",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Мядельский район",
+      "lon": "26.69532631053721",
+      "lat": "54.918858463285254"
+    },
+    {
+      "school_osm_id": "374812338",
+      "school_osm_type": "way",
+      "school_name": "Нарочская средняя школа № 2",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "26.69532631053721",
+      "lat": "54.918858463285254"
+    },
+    {
+      "school_osm_id": "374812338",
+      "school_osm_type": "way",
+      "school_name": "Нарочская средняя школа № 2",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.69532631053721",
+      "lat": "54.918858463285254"
+    }
+  ]
+}

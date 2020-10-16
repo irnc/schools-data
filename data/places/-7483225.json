@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "456405080",
+    "school_osm_type": "way",
+    "school_name": "Бегомольская школа-интернат",
+    "place_osm_id": "-7483225",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Бегомль",
+    "lon": "28.064751698064967",
+    "lat": "54.72754764902847"
+  },
+  {
+    "school_osm_id": "456406924",
+    "school_osm_type": "way",
+    "school_name": "Бегомльская средняя школа",
+    "place_osm_id": "-7483225",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Бегомль",
+    "lon": "28.05221754190577",
+    "lat": "54.733142936258744"
+  }
+]

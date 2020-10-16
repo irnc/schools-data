@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "304074702",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7450137",
+    "place_admin_level": "10",
+    "place_place": "hamlet",
+    "place_name": "Секеричи",
+    "lon": "28.92350890545722",
+    "lat": "52.4669351856363"
+  },
+  {
+    "school_osm_id": "330327609",
+    "school_osm_type": "way",
+    "school_name": "Сякерыцкая Базавая школа",
+    "place_osm_id": "-7450137",
+    "place_admin_level": "10",
+    "place_place": "hamlet",
+    "place_name": "Секеричи",
+    "lon": "28.923868165191244",
+    "lat": "52.46668232343027"
+  }
+]

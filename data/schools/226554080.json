@@ -1,0 +1,46 @@
+{
+  "place": {
+    "name": "Минск",
+    "osm_id": "-59195",
+    "hierarchy": []
+  },
+  "geo": {
+    "lat": "53.896712702447935",
+    "lon": "27.565797176332367"
+  },
+  "group": [
+    {
+      "school_osm_id": "226554080",
+      "school_osm_type": "way",
+      "school_name": "Лицей БГУ",
+      "place_osm_id": "-59202",
+      "place_admin_level": "9",
+      "place_place": "",
+      "place_name": "Ленинский район",
+      "lon": "27.565797176332367",
+      "lat": "53.896712702447935"
+    },
+    {
+      "school_osm_id": "226554080",
+      "school_osm_type": "way",
+      "school_name": "Лицей БГУ",
+      "place_osm_id": "-59195",
+      "place_admin_level": "4",
+      "place_place": "city",
+      "place_name": "Минск",
+      "lon": "27.565797176332367",
+      "lat": "53.896712702447935"
+    },
+    {
+      "school_osm_id": "226554080",
+      "school_osm_type": "way",
+      "school_name": "Лицей БГУ",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.565797176332367",
+      "lat": "53.896712702447935"
+    }
+  ]
+}

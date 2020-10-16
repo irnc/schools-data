@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Заводская Слобода",
+    "osm_id": "-7586441",
+    "hierarchy": [
+      "Заводскослободский сельский Совет",
+      "Могилёвский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.77951829796953",
+    "lon": "30.006768826595987"
+  },
+  "group": [
+    {
+      "school_osm_id": "225651683",
+      "school_osm_type": "way",
+      "school_name": "Школа",
+      "place_osm_id": "-8144203",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Заводскослободский сельский Совет",
+      "lon": "30.006768826595987",
+      "lat": "53.77951829796953"
+    },
+    {
+      "school_osm_id": "225651683",
+      "school_osm_type": "way",
+      "school_name": "Школа",
+      "place_osm_id": "-7586441",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Заводская Слобода",
+      "lon": "30.006768826595987",
+      "lat": "53.77951829796953"
+    },
+    {
+      "school_osm_id": "225651683",
+      "school_osm_type": "way",
+      "school_name": "Школа",
+      "place_osm_id": "-62147",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Могилёвский район",
+      "lon": "30.006768826595987",
+      "lat": "53.77951829796953"
+    },
+    {
+      "school_osm_id": "225651683",
+      "school_osm_type": "way",
+      "school_name": "Школа",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "30.006768826595987",
+      "lat": "53.77951829796953"
+    },
+    {
+      "school_osm_id": "225651683",
+      "school_osm_type": "way",
+      "school_name": "Школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.006768826595987",
+      "lat": "53.77951829796953"
+    }
+  ]
+}

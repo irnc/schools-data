@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Вертелишки",
+    "osm_id": "-7511898",
+    "hierarchy": [
+      "Вертелишковский сельский Совет",
+      "Гродненский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.700562828193874",
+    "lon": "24.004744236884854"
+  },
+  "group": [
+    {
+      "school_osm_id": "283406325",
+      "school_osm_type": "way",
+      "school_name": "Вертелишковская средняя школа",
+      "place_osm_id": "-8025359",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Вертелишковский сельский Совет",
+      "lon": "24.004744236884854",
+      "lat": "53.700562828193874"
+    },
+    {
+      "school_osm_id": "283406325",
+      "school_osm_type": "way",
+      "school_name": "Вертелишковская средняя школа",
+      "place_osm_id": "-7511898",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Вертелишки",
+      "lon": "24.004744236884854",
+      "lat": "53.700562828193874"
+    },
+    {
+      "school_osm_id": "283406325",
+      "school_osm_type": "way",
+      "school_name": "Вертелишковская средняя школа",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "24.004744236884854",
+      "lat": "53.700562828193874"
+    },
+    {
+      "school_osm_id": "283406325",
+      "school_osm_type": "way",
+      "school_name": "Вертелишковская средняя школа",
+      "place_osm_id": "-59273",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Гродненский район",
+      "lon": "24.004744236884854",
+      "lat": "53.700562828193874"
+    },
+    {
+      "school_osm_id": "283406325",
+      "school_osm_type": "way",
+      "school_name": "Вертелишковская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "24.004744236884854",
+      "lat": "53.700562828193874"
+    }
+  ]
+}

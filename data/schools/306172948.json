@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Путришки",
+    "osm_id": "-7511483",
+    "hierarchy": [
+      "Путришковский сельский Совет",
+      "Гродненский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.69970966294546",
+    "lon": "23.947413021964955"
+  },
+  "group": [
+    {
+      "school_osm_id": "306172948",
+      "school_osm_type": "way",
+      "school_name": "Путришковская средняя школа",
+      "place_osm_id": "-8025360",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Путришковский сельский Совет",
+      "lon": "23.947413021964955",
+      "lat": "53.69970966294546"
+    },
+    {
+      "school_osm_id": "306172948",
+      "school_osm_type": "way",
+      "school_name": "Путришковская средняя школа",
+      "place_osm_id": "-7511483",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Путришки",
+      "lon": "23.947413021964955",
+      "lat": "53.69970966294546"
+    },
+    {
+      "school_osm_id": "306172948",
+      "school_osm_type": "way",
+      "school_name": "Путришковская средняя школа",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "23.947413021964955",
+      "lat": "53.69970966294546"
+    },
+    {
+      "school_osm_id": "306172948",
+      "school_osm_type": "way",
+      "school_name": "Путришковская средняя школа",
+      "place_osm_id": "-59273",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Гродненский район",
+      "lon": "23.947413021964955",
+      "lat": "53.69970966294546"
+    },
+    {
+      "school_osm_id": "306172948",
+      "school_osm_type": "way",
+      "school_name": "Путришковская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "23.947413021964955",
+      "lat": "53.69970966294546"
+    }
+  ]
+}

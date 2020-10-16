@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Ректа",
+    "osm_id": "-7439894",
+    "hierarchy": [
+      "Лукский сельский Совет",
+      "Жлобинский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.98223396649483",
+    "lon": "29.931076555050062"
+  },
+  "group": [
+    {
+      "school_osm_id": "296654880",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7439894",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Ректа",
+      "lon": "29.931076555050062",
+      "lat": "52.98223396649483"
+    },
+    {
+      "school_osm_id": "296654880",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-6152156",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Лукский сельский Совет",
+      "lon": "29.931076555050062",
+      "lat": "52.98223396649483"
+    },
+    {
+      "school_osm_id": "296654880",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59167",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Жлобинский район",
+      "lon": "29.931076555050062",
+      "lat": "52.98223396649483"
+    },
+    {
+      "school_osm_id": "296654880",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "29.931076555050062",
+      "lat": "52.98223396649483"
+    },
+    {
+      "school_osm_id": "296654880",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.931076555050062",
+      "lat": "52.98223396649483"
+    }
+  ]
+}

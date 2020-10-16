@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Вердомичи",
+    "osm_id": "-7526125",
+    "hierarchy": [
+      "Вердомичский сельский Совет",
+      "Свислочский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.02866509235271",
+    "lon": "24.268374151537227"
+  },
+  "group": [
+    {
+      "school_osm_id": "316364774",
+      "school_osm_type": "way",
+      "school_name": "СШ",
+      "place_osm_id": "-8025382",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Вердомичский сельский Совет",
+      "lon": "24.268374151537227",
+      "lat": "53.02866509235271"
+    },
+    {
+      "school_osm_id": "316364774",
+      "school_osm_type": "way",
+      "school_name": "СШ",
+      "place_osm_id": "-7526125",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Вердомичи",
+      "lon": "24.268374151537227",
+      "lat": "53.02866509235271"
+    },
+    {
+      "school_osm_id": "316364774",
+      "school_osm_type": "way",
+      "school_name": "СШ",
+      "place_osm_id": "-71093",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Свислочский район",
+      "lon": "24.268374151537227",
+      "lat": "53.02866509235271"
+    },
+    {
+      "school_osm_id": "316364774",
+      "school_osm_type": "way",
+      "school_name": "СШ",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "24.268374151537227",
+      "lat": "53.02866509235271"
+    },
+    {
+      "school_osm_id": "316364774",
+      "school_osm_type": "way",
+      "school_name": "СШ",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "24.268374151537227",
+      "lat": "53.02866509235271"
+    }
+  ]
+}

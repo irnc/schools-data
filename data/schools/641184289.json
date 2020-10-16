@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Сёмково",
+    "osm_id": "-7548908",
+    "hierarchy": [
+      "Папернянский сельский Совет",
+      "Минский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.02752930210224",
+    "lon": "27.43712401343402"
+  },
+  "group": [
+    {
+      "school_osm_id": "641184289",
+      "school_osm_type": "way",
+      "school_name": "Школа",
+      "place_osm_id": "-8144207",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Папернянский сельский Совет",
+      "lon": "27.43712401343402",
+      "lat": "54.02752930210224"
+    },
+    {
+      "school_osm_id": "641184289",
+      "school_osm_type": "way",
+      "school_name": "Школа",
+      "place_osm_id": "-7548908",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Сёмково",
+      "lon": "27.43712401343402",
+      "lat": "54.02752930210224"
+    },
+    {
+      "school_osm_id": "641184289",
+      "school_osm_type": "way",
+      "school_name": "Школа",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.43712401343402",
+      "lat": "54.02752930210224"
+    },
+    {
+      "school_osm_id": "641184289",
+      "school_osm_type": "way",
+      "school_name": "Школа",
+      "place_osm_id": "-59190",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Минский район",
+      "lon": "27.43712401343402",
+      "lat": "54.02752930210224"
+    },
+    {
+      "school_osm_id": "641184289",
+      "school_osm_type": "way",
+      "school_name": "Школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.43712401343402",
+      "lat": "54.02752930210224"
+    }
+  ]
+}

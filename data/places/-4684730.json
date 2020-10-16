@@ -1,0 +1,57 @@
+[
+  {
+    "school_osm_id": "-11153083",
+    "school_osm_type": "relation",
+    "school_name": "Школа № 4",
+    "place_osm_id": "-4684730",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Шклов",
+    "lon": "30.285658874206216",
+    "lat": "54.217535648914"
+  },
+  {
+    "school_osm_id": "74741587",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-4684730",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Шклов",
+    "lon": "30.2946686778246",
+    "lat": "54.20524184391245"
+  },
+  {
+    "school_osm_id": "74749492",
+    "school_osm_type": "way",
+    "school_name": "Школа искусств",
+    "place_osm_id": "-4684730",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Шклов",
+    "lon": "30.296715821017525",
+    "lat": "54.20312413478838"
+  },
+  {
+    "school_osm_id": "636361796",
+    "school_osm_type": "way",
+    "school_name": "Гимназия г. Шклова",
+    "place_osm_id": "-4684730",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Шклов",
+    "lon": "30.29990153415844",
+    "lat": "54.20013469620333"
+  },
+  {
+    "school_osm_id": "639466739",
+    "school_osm_type": "way",
+    "school_name": "Школа-интернат для детей с нарушениями зрения",
+    "place_osm_id": "-4684730",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Шклов",
+    "lon": "30.300336628777185",
+    "lat": "54.2026863586589"
+  }
+]

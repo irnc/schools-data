@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Постаринье",
+    "osm_id": "-6882799",
+    "hierarchy": [
+      "Новомышский сельский Совет",
+      "Барановичский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.21766189909757",
+    "lon": "25.925355399999997"
+  },
+  "group": [
+    {
+      "school_osm_id": "5698540334",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-8096121",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Новомышский сельский Совет",
+      "lon": "25.925355399999997",
+      "lat": "53.21766189909757"
+    },
+    {
+      "school_osm_id": "5698540334",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-6882799",
+      "place_admin_level": "10",
+      "place_place": "hamlet",
+      "place_name": "Постаринье",
+      "lon": "25.925355399999997",
+      "lat": "53.21766189909757"
+    },
+    {
+      "school_osm_id": "5698540334",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-71116",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Барановичский район",
+      "lon": "25.925355399999997",
+      "lat": "53.21766189909757"
+    },
+    {
+      "school_osm_id": "5698540334",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "25.925355399999997",
+      "lat": "53.21766189909757"
+    },
+    {
+      "school_osm_id": "5698540334",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "25.925355399999997",
+      "lat": "53.21766189909757"
+    }
+  ]
+}

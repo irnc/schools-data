@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Дуброва",
+    "osm_id": "-7453483",
+    "hierarchy": [
+      "Николаевский сельский Совет",
+      "Светлогорский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.62995624679993",
+    "lon": "29.384964370465624"
+  },
+  "group": [
+    {
+      "school_osm_id": "373782271",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8107316",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Николаевский сельский Совет",
+      "lon": "29.384964370465624",
+      "lat": "52.62995624679993"
+    },
+    {
+      "school_osm_id": "373782271",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7453483",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Дуброва",
+      "lon": "29.384964370465624",
+      "lat": "52.62995624679993"
+    },
+    {
+      "school_osm_id": "373782271",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "29.384964370465624",
+      "lat": "52.62995624679993"
+    },
+    {
+      "school_osm_id": "373782271",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59137",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Светлогорский район",
+      "lon": "29.384964370465624",
+      "lat": "52.62995624679993"
+    },
+    {
+      "school_osm_id": "373782271",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.384964370465624",
+      "lat": "52.62995624679993"
+    }
+  ]
+}

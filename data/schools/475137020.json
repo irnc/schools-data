@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Грамоще",
+    "osm_id": "-7496115",
+    "hierarchy": [
+      "Азинский сельский Совет",
+      "Полоцкий район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.663313806662416",
+    "lon": "28.462784444134222"
+  },
+  "group": [
+    {
+      "school_osm_id": "475137020",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8075980",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Азинский сельский Совет",
+      "lon": "28.462784444134222",
+      "lat": "55.663313806662416"
+    },
+    {
+      "school_osm_id": "475137020",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7496115",
+      "place_admin_level": "10",
+      "place_place": "hamlet",
+      "place_name": "Грамоще",
+      "lon": "28.462784444134222",
+      "lat": "55.663313806662416"
+    },
+    {
+      "school_osm_id": "475137020",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70671",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Полоцкий район",
+      "lon": "28.462784444134222",
+      "lat": "55.663313806662416"
+    },
+    {
+      "school_osm_id": "475137020",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "28.462784444134222",
+      "lat": "55.663313806662416"
+    },
+    {
+      "school_osm_id": "475137020",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.462784444134222",
+      "lat": "55.663313806662416"
+    }
+  ]
+}

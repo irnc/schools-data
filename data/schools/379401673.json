@@ -1,0 +1,46 @@
+{
+  "place": {
+    "name": "Минск",
+    "osm_id": "-59195",
+    "hierarchy": []
+  },
+  "geo": {
+    "lat": "53.9129931644491",
+    "lon": "27.589006176383112"
+  },
+  "group": [
+    {
+      "school_osm_id": "379401673",
+      "school_osm_type": "way",
+      "school_name": "СШ №19 им. Янки Купалы",
+      "place_osm_id": "-59250",
+      "place_admin_level": "9",
+      "place_place": "",
+      "place_name": "Советский район",
+      "lon": "27.589006176383112",
+      "lat": "53.9129931644491"
+    },
+    {
+      "school_osm_id": "379401673",
+      "school_osm_type": "way",
+      "school_name": "СШ №19 им. Янки Купалы",
+      "place_osm_id": "-59195",
+      "place_admin_level": "4",
+      "place_place": "city",
+      "place_name": "Минск",
+      "lon": "27.589006176383112",
+      "lat": "53.9129931644491"
+    },
+    {
+      "school_osm_id": "379401673",
+      "school_osm_type": "way",
+      "school_name": "СШ №19 им. Янки Купалы",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.589006176383112",
+      "lat": "53.9129931644491"
+    }
+  ]
+}

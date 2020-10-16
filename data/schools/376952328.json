@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Снов",
+    "osm_id": "-5615168",
+    "hierarchy": [
+      "Сновский сельский Совет",
+      "Несвижский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.22351340125665",
+    "lon": "26.404585010967757"
+  },
+  "group": [
+    {
+      "school_osm_id": "376952328",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8139733",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Сновский сельский Совет",
+      "lon": "26.404585010967757",
+      "lat": "53.22351340125665"
+    },
+    {
+      "school_osm_id": "376952328",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-5615168",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Снов",
+      "lon": "26.404585010967757",
+      "lat": "53.22351340125665"
+    },
+    {
+      "school_osm_id": "376952328",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-71128",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Несвижский район",
+      "lon": "26.404585010967757",
+      "lat": "53.22351340125665"
+    },
+    {
+      "school_osm_id": "376952328",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "26.404585010967757",
+      "lat": "53.22351340125665"
+    },
+    {
+      "school_osm_id": "376952328",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.404585010967757",
+      "lat": "53.22351340125665"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Калиновка",
+    "osm_id": "-7485635",
+    "hierarchy": [
+      "Волевковский сельский Совет",
+      "Дубровенский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.60055910130562",
+    "lon": "30.99189627653163"
+  },
+  "group": [
+    {
+      "school_osm_id": "682292410",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8075994",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Волевковский сельский Совет",
+      "lon": "30.99189627653163",
+      "lat": "54.60055910130562"
+    },
+    {
+      "school_osm_id": "682292410",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7485635",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Калиновка",
+      "lon": "30.99189627653163",
+      "lat": "54.60055910130562"
+    },
+    {
+      "school_osm_id": "682292410",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70656",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Дубровенский район",
+      "lon": "30.99189627653163",
+      "lat": "54.60055910130562"
+    },
+    {
+      "school_osm_id": "682292410",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "30.99189627653163",
+      "lat": "54.60055910130562"
+    },
+    {
+      "school_osm_id": "682292410",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.99189627653163",
+      "lat": "54.60055910130562"
+    }
+  ]
+}

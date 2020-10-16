@@ -1,0 +1,35 @@
+[
+  {
+    "school_osm_id": "210176709",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-6722646",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Дрибин",
+    "lon": "31.088250624958718",
+    "lat": "54.11777241879322"
+  },
+  {
+    "school_osm_id": "210182766",
+    "school_osm_type": "way",
+    "school_name": "детская школа искусств",
+    "place_osm_id": "-6722646",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Дрибин",
+    "lon": "31.093873299782395",
+    "lat": "54.11839173218969"
+  },
+  {
+    "school_osm_id": "373037776",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-6722646",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Дрибин",
+    "lon": "31.087678767020986",
+    "lat": "54.11626459566082"
+  }
+]

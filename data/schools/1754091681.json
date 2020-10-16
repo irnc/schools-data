@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Турец",
+    "osm_id": "-7570588",
+    "hierarchy": [
+      "Клинокский сельский Совет",
+      "Червенский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.6659119991374",
+    "lon": "28.075970799999997"
+  },
+  "group": [
+    {
+      "school_osm_id": "1754091681",
+      "school_osm_type": "node",
+      "school_name": "СШ№1",
+      "place_osm_id": "-8144348",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Клинокский сельский Совет",
+      "lon": "28.075970799999997",
+      "lat": "53.6659119991374"
+    },
+    {
+      "school_osm_id": "1754091681",
+      "school_osm_type": "node",
+      "school_name": "СШ№1",
+      "place_osm_id": "-7570588",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Турец",
+      "lon": "28.075970799999997",
+      "lat": "53.6659119991374"
+    },
+    {
+      "school_osm_id": "1754091681",
+      "school_osm_type": "node",
+      "school_name": "СШ№1",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "28.075970799999997",
+      "lat": "53.6659119991374"
+    },
+    {
+      "school_osm_id": "1754091681",
+      "school_osm_type": "node",
+      "school_name": "СШ№1",
+      "place_osm_id": "-59751",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Червенский район",
+      "lon": "28.075970799999997",
+      "lat": "53.6659119991374"
+    },
+    {
+      "school_osm_id": "1754091681",
+      "school_osm_type": "node",
+      "school_name": "СШ№1",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.075970799999997",
+      "lat": "53.6659119991374"
+    }
+  ]
+}

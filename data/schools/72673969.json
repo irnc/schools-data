@@ -1,0 +1,48 @@
+{
+  "place": {
+    "name": "Пинск",
+    "osm_id": "-1749248",
+    "hierarchy": [
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.114590048075705",
+    "lon": "26.071464647616438"
+  },
+  "group": [
+    {
+      "school_osm_id": "72673969",
+      "school_osm_type": "way",
+      "school_name": "Гимназия №3",
+      "place_osm_id": "-1749248",
+      "place_admin_level": "6",
+      "place_place": "city",
+      "place_name": "Пинск",
+      "lon": "26.071464647616438",
+      "lat": "52.114590048075705"
+    },
+    {
+      "school_osm_id": "72673969",
+      "school_osm_type": "way",
+      "school_name": "Гимназия №3",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "26.071464647616438",
+      "lat": "52.114590048075705"
+    },
+    {
+      "school_osm_id": "72673969",
+      "school_osm_type": "way",
+      "school_name": "Гимназия №3",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.071464647616438",
+      "lat": "52.114590048075705"
+    }
+  ]
+}

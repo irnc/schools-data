@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Корени",
+    "osm_id": "-7453499",
+    "hierarchy": [
+      "Давыдовский сельский Совет",
+      "Светлогорский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.4538256596736",
+    "lon": "29.432194040206866"
+  },
+  "group": [
+    {
+      "school_osm_id": "352528823",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8107318",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Давыдовский сельский Совет",
+      "lon": "29.432194040206866",
+      "lat": "52.4538256596736"
+    },
+    {
+      "school_osm_id": "352528823",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7453499",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Корени",
+      "lon": "29.432194040206866",
+      "lat": "52.4538256596736"
+    },
+    {
+      "school_osm_id": "352528823",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "29.432194040206866",
+      "lat": "52.4538256596736"
+    },
+    {
+      "school_osm_id": "352528823",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59137",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Светлогорский район",
+      "lon": "29.432194040206866",
+      "lat": "52.4538256596736"
+    },
+    {
+      "school_osm_id": "352528823",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.432194040206866",
+      "lat": "52.4538256596736"
+    }
+  ]
+}

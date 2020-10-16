@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Дещенка",
+    "osm_id": "-7570259",
+    "hierarchy": [
+      "Дещенский сельский Совет",
+      "Узденский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.57906089912756",
+    "lon": "27.464131299999995"
+  },
+  "group": [
+    {
+      "school_osm_id": "4239981604",
+      "school_osm_type": "node",
+      "school_name": "Дещенский детский сад-средняя школа",
+      "place_osm_id": "-8139713",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Дещенский сельский Совет",
+      "lon": "27.464131299999995",
+      "lat": "53.57906089912756"
+    },
+    {
+      "school_osm_id": "4239981604",
+      "school_osm_type": "node",
+      "school_name": "Дещенский детский сад-средняя школа",
+      "place_osm_id": "-7570259",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Дещенка",
+      "lon": "27.464131299999995",
+      "lat": "53.57906089912756"
+    },
+    {
+      "school_osm_id": "4239981604",
+      "school_osm_type": "node",
+      "school_name": "Дещенский детский сад-средняя школа",
+      "place_osm_id": "-70561",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Узденский район",
+      "lon": "27.464131299999995",
+      "lat": "53.57906089912756"
+    },
+    {
+      "school_osm_id": "4239981604",
+      "school_osm_type": "node",
+      "school_name": "Дещенский детский сад-средняя школа",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.464131299999995",
+      "lat": "53.57906089912756"
+    },
+    {
+      "school_osm_id": "4239981604",
+      "school_osm_type": "node",
+      "school_name": "Дещенский детский сад-средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.464131299999995",
+      "lat": "53.57906089912756"
+    }
+  ]
+}

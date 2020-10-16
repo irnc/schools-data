@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "371108423",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7586027",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Комсеничи",
+    "lon": "29.876033940472787",
+    "lat": "54.14203164839354"
+  },
+  {
+    "school_osm_id": "371108424",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7586027",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Комсеничи",
+    "lon": "29.875239193373275",
+    "lat": "54.14208725471387"
+  }
+]

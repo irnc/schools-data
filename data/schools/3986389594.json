@@ -1,0 +1,46 @@
+{
+  "place": {
+    "name": "Минск",
+    "osm_id": "-59195",
+    "hierarchy": []
+  },
+  "geo": {
+    "lat": "53.863717199163716",
+    "lon": "27.563272499999997"
+  },
+  "group": [
+    {
+      "school_osm_id": "3986389594",
+      "school_osm_type": "node",
+      "school_name": "Минская школа киноискусства",
+      "place_osm_id": "-59202",
+      "place_admin_level": "9",
+      "place_place": "",
+      "place_name": "Ленинский район",
+      "lon": "27.563272499999997",
+      "lat": "53.863717199163716"
+    },
+    {
+      "school_osm_id": "3986389594",
+      "school_osm_type": "node",
+      "school_name": "Минская школа киноискусства",
+      "place_osm_id": "-59195",
+      "place_admin_level": "4",
+      "place_place": "city",
+      "place_name": "Минск",
+      "lon": "27.563272499999997",
+      "lat": "53.863717199163716"
+    },
+    {
+      "school_osm_id": "3986389594",
+      "school_osm_type": "node",
+      "school_name": "Минская школа киноискусства",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.563272499999997",
+      "lat": "53.863717199163716"
+    }
+  ]
+}

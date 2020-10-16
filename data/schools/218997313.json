@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Турья",
+    "osm_id": "-7585750",
+    "hierarchy": [
+      "Турьевской сельский Совет",
+      "Краснопольский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.29998375475282",
+    "lon": "31.42804523923132"
+  },
+  "group": [
+    {
+      "school_osm_id": "218997313",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8031194",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Турьевской сельский Совет",
+      "lon": "31.42804523923132",
+      "lat": "53.29998375475282"
+    },
+    {
+      "school_osm_id": "218997313",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7585750",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Турья",
+      "lon": "31.42804523923132",
+      "lat": "53.29998375475282"
+    },
+    {
+      "school_osm_id": "218997313",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70602",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Краснопольский район",
+      "lon": "31.42804523923132",
+      "lat": "53.29998375475282"
+    },
+    {
+      "school_osm_id": "218997313",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "31.42804523923132",
+      "lat": "53.29998375475282"
+    },
+    {
+      "school_osm_id": "218997313",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "31.42804523923132",
+      "lat": "53.29998375475282"
+    }
+  ]
+}

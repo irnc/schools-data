@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Городная",
+    "osm_id": "-7468533",
+    "hierarchy": [
+      "Городнянский сельский Совет",
+      "Столинский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "51.865083675528005",
+    "lon": "26.51089730544398"
+  },
+  "group": [
+    {
+      "school_osm_id": "313935893",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8028517",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Городнянский сельский Совет",
+      "lon": "26.51089730544398",
+      "lat": "51.865083675528005"
+    },
+    {
+      "school_osm_id": "313935893",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7468533",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Городная",
+      "lon": "26.51089730544398",
+      "lat": "51.865083675528005"
+    },
+    {
+      "school_osm_id": "313935893",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-71125",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Столинский район",
+      "lon": "26.51089730544398",
+      "lat": "51.865083675528005"
+    },
+    {
+      "school_osm_id": "313935893",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "26.51089730544398",
+      "lat": "51.865083675528005"
+    },
+    {
+      "school_osm_id": "313935893",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.51089730544398",
+      "lat": "51.865083675528005"
+    }
+  ]
+}

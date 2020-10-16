@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Барсуки",
+    "osm_id": "-4777558",
+    "hierarchy": [
+      "Павловичский сельский Совет",
+      "Кировский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.19858976069621",
+    "lon": "29.560817635355516"
+  },
+  "group": [
+    {
+      "school_osm_id": "325138894",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7622196",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Павловичский сельский Совет",
+      "lon": "29.560817635355516",
+      "lat": "53.19858976069621"
+    },
+    {
+      "school_osm_id": "325138894",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-4777558",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Барсуки",
+      "lon": "29.560817635355516",
+      "lat": "53.19858976069621"
+    },
+    {
+      "school_osm_id": "325138894",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70580",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Кировский район",
+      "lon": "29.560817635355516",
+      "lat": "53.19858976069621"
+    },
+    {
+      "school_osm_id": "325138894",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "29.560817635355516",
+      "lat": "53.19858976069621"
+    },
+    {
+      "school_osm_id": "325138894",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.560817635355516",
+      "lat": "53.19858976069621"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Грозово",
+    "osm_id": "-7537272",
+    "hierarchy": [
+      "Грозовский сельский Совет",
+      "Копыльский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.16785319778816",
+    "lon": "27.329993601364453"
+  },
+  "group": [
+    {
+      "school_osm_id": "376698895",
+      "school_osm_type": "way",
+      "school_name": "Грозовская средняя школа",
+      "place_osm_id": "-8139720",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Грозовский сельский Совет",
+      "lon": "27.329993601364453",
+      "lat": "53.16785319778816"
+    },
+    {
+      "school_osm_id": "376698895",
+      "school_osm_type": "way",
+      "school_name": "Грозовская средняя школа",
+      "place_osm_id": "-7537272",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Грозово",
+      "lon": "27.329993601364453",
+      "lat": "53.16785319778816"
+    },
+    {
+      "school_osm_id": "376698895",
+      "school_osm_type": "way",
+      "school_name": "Грозовская средняя школа",
+      "place_osm_id": "-71132",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Копыльский район",
+      "lon": "27.329993601364453",
+      "lat": "53.16785319778816"
+    },
+    {
+      "school_osm_id": "376698895",
+      "school_osm_type": "way",
+      "school_name": "Грозовская средняя школа",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.329993601364453",
+      "lat": "53.16785319778816"
+    },
+    {
+      "school_osm_id": "376698895",
+      "school_osm_type": "way",
+      "school_name": "Грозовская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.329993601364453",
+      "lat": "53.16785319778816"
+    }
+  ]
+}

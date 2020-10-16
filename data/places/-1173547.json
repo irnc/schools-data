@@ -1,0 +1,57 @@
+[
+  {
+    "school_osm_id": "-3350180",
+    "school_osm_type": "relation",
+    "school_name": "",
+    "place_osm_id": "-1173547",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Лиозно",
+    "lon": "30.80259716722202",
+    "lat": "55.02550878427631"
+  },
+  {
+    "school_osm_id": "248954080",
+    "school_osm_type": "way",
+    "school_name": "Школа № 1",
+    "place_osm_id": "-1173547",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Лиозно",
+    "lon": "30.803708010068622",
+    "lat": "55.025627254269814"
+  },
+  {
+    "school_osm_id": "279931598",
+    "school_osm_type": "way",
+    "school_name": "Школа № 2",
+    "place_osm_id": "-1173547",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Лиозно",
+    "lon": "30.798907729500797",
+    "lat": "55.03179335669415"
+  },
+  {
+    "school_osm_id": "4326087091",
+    "school_osm_type": "node",
+    "school_name": "Музыкальная школа",
+    "place_osm_id": "-1173547",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Лиозно",
+    "lon": "30.7957296",
+    "lat": "55.0216722994272"
+  },
+  {
+    "school_osm_id": "4326903197",
+    "school_osm_type": "node",
+    "school_name": "Учебно-курсовой комбинат управления сельского хозяйства и производства",
+    "place_osm_id": "-1173547",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Лиозно",
+    "lon": "30.7885177",
+    "lat": "55.010644099423814"
+  }
+]

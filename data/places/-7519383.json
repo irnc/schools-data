@@ -1,0 +1,35 @@
+[
+  {
+    "school_osm_id": "377583102",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7519383",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Бердовка",
+    "lon": "25.508773290467882",
+    "lat": "53.925650029982066"
+  },
+  {
+    "school_osm_id": "589063244",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7519383",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Бердовка",
+    "lon": "25.512038335989832",
+    "lat": "53.926346696210274"
+  },
+  {
+    "school_osm_id": "6380216459",
+    "school_osm_type": "node",
+    "school_name": "Бердовский учебно-педагогический комплекс детский сад-средняя школа",
+    "place_osm_id": "-7519383",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Бердовка",
+    "lon": "25.508252999999996",
+    "lat": "53.92632219917318"
+  }
+]

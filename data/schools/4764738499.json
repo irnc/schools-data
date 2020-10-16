@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Горбацевичи",
+    "osm_id": "-7572988",
+    "hierarchy": [
+      "Горбацевичский сельский Совет",
+      "Бобруйский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.09558799909139",
+    "lon": "29.0074387"
+  },
+  "group": [
+    {
+      "school_osm_id": "4764738499",
+      "school_osm_type": "node",
+      "school_name": "Горбацевичская средняя школа",
+      "place_osm_id": "-8144259",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Горбацевичский сельский Совет",
+      "lon": "29.0074387",
+      "lat": "53.09558799909139"
+    },
+    {
+      "school_osm_id": "4764738499",
+      "school_osm_type": "node",
+      "school_name": "Горбацевичская средняя школа",
+      "place_osm_id": "-7572988",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Горбацевичи",
+      "lon": "29.0074387",
+      "lat": "53.09558799909139"
+    },
+    {
+      "school_osm_id": "4764738499",
+      "school_osm_type": "node",
+      "school_name": "Горбацевичская средняя школа",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "29.0074387",
+      "lat": "53.09558799909139"
+    },
+    {
+      "school_osm_id": "4764738499",
+      "school_osm_type": "node",
+      "school_name": "Горбацевичская средняя школа",
+      "place_osm_id": "-59148",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Бобруйский район",
+      "lon": "29.0074387",
+      "lat": "53.09558799909139"
+    },
+    {
+      "school_osm_id": "4764738499",
+      "school_osm_type": "node",
+      "school_name": "Горбацевичская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.0074387",
+      "lat": "53.09558799909139"
+    }
+  ]
+}

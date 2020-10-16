@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Мерецкие",
+    "osm_id": "-7482220",
+    "hierarchy": [
+      "Уделовский сельский Совет",
+      "Глубокский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.1967348018247",
+    "lon": "27.63470666012746"
+  },
+  "group": [
+    {
+      "school_osm_id": "784677038",
+      "school_osm_type": "way",
+      "school_name": "Мерецковская детский сад - базовая школа",
+      "place_osm_id": "-7980396",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Уделовский сельский Совет",
+      "lon": "27.63470666012746",
+      "lat": "55.1967348018247"
+    },
+    {
+      "school_osm_id": "784677038",
+      "school_osm_type": "way",
+      "school_name": "Мерецковская детский сад - базовая школа",
+      "place_osm_id": "-7482220",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Мерецкие",
+      "lon": "27.63470666012746",
+      "lat": "55.1967348018247"
+    },
+    {
+      "school_osm_id": "784677038",
+      "school_osm_type": "way",
+      "school_name": "Мерецковская детский сад - базовая школа",
+      "place_osm_id": "-70703",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Глубокский район",
+      "lon": "27.63470666012746",
+      "lat": "55.1967348018247"
+    },
+    {
+      "school_osm_id": "784677038",
+      "school_osm_type": "way",
+      "school_name": "Мерецковская детский сад - базовая школа",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "27.63470666012746",
+      "lat": "55.1967348018247"
+    },
+    {
+      "school_osm_id": "784677038",
+      "school_osm_type": "way",
+      "school_name": "Мерецковская детский сад - базовая школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.63470666012746",
+      "lat": "55.1967348018247"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Толочин",
+    "osm_id": "-6722347",
+    "hierarchy": [
+      "Толочинский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.41041298721681",
+    "lon": "29.697154412259085"
+  },
+  "group": [
+    {
+      "school_osm_id": "641906072",
+      "school_osm_type": "way",
+      "school_name": "Школа №1",
+      "place_osm_id": "-6722347",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Толочин",
+      "lon": "29.697154412259085",
+      "lat": "54.41041298721681"
+    },
+    {
+      "school_osm_id": "641906072",
+      "school_osm_type": "way",
+      "school_name": "Школа №1",
+      "place_osm_id": "-70649",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Толочинский район",
+      "lon": "29.697154412259085",
+      "lat": "54.41041298721681"
+    },
+    {
+      "school_osm_id": "641906072",
+      "school_osm_type": "way",
+      "school_name": "Школа №1",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "29.697154412259085",
+      "lat": "54.41041298721681"
+    },
+    {
+      "school_osm_id": "641906072",
+      "school_osm_type": "way",
+      "school_name": "Школа №1",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.697154412259085",
+      "lat": "54.41041298721681"
+    }
+  ]
+}

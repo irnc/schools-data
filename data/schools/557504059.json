@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Сущёво",
+    "osm_id": "-7477013",
+    "hierarchy": [
+      "Мазоловский сельский Совет",
+      "Витебский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.349356634927624",
+    "lon": "30.233190532609996"
+  },
+  "group": [
+    {
+      "school_osm_id": "557504059",
+      "school_osm_type": "way",
+      "school_name": "Сущёвская средняя школа",
+      "place_osm_id": "-7924017",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Мазоловский сельский Совет",
+      "lon": "30.233190532609996",
+      "lat": "55.349356634927624"
+    },
+    {
+      "school_osm_id": "557504059",
+      "school_osm_type": "way",
+      "school_name": "Сущёвская средняя школа",
+      "place_osm_id": "-7477013",
+      "place_admin_level": "10",
+      "place_place": "hamlet",
+      "place_name": "Сущёво",
+      "lon": "30.233190532609996",
+      "lat": "55.349356634927624"
+    },
+    {
+      "school_osm_id": "557504059",
+      "school_osm_type": "way",
+      "school_name": "Сущёвская средняя школа",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "30.233190532609996",
+      "lat": "55.349356634927624"
+    },
+    {
+      "school_osm_id": "557504059",
+      "school_osm_type": "way",
+      "school_name": "Сущёвская средняя школа",
+      "place_osm_id": "-59504",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Витебский район",
+      "lon": "30.233190532609996",
+      "lat": "55.349356634927624"
+    },
+    {
+      "school_osm_id": "557504059",
+      "school_osm_type": "way",
+      "school_name": "Сущёвская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.233190532609996",
+      "lat": "55.349356634927624"
+    }
+  ]
+}

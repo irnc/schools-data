@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Вселюб",
+    "osm_id": "-7522287",
+    "hierarchy": [
+      "Вселюбский сельский Совет",
+      "Новогрудский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.721041153934955",
+    "lon": "25.796448635360406"
+  },
+  "group": [
+    {
+      "school_osm_id": "397778760",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8100420",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Вселюбский сельский Совет",
+      "lon": "25.796448635360406",
+      "lat": "53.721041153934955"
+    },
+    {
+      "school_osm_id": "397778760",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7522287",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Вселюб",
+      "lon": "25.796448635360406",
+      "lat": "53.721041153934955"
+    },
+    {
+      "school_osm_id": "397778760",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70749",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Новогрудский район",
+      "lon": "25.796448635360406",
+      "lat": "53.721041153934955"
+    },
+    {
+      "school_osm_id": "397778760",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "25.796448635360406",
+      "lat": "53.721041153934955"
+    },
+    {
+      "school_osm_id": "397778760",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "25.796448635360406",
+      "lat": "53.721041153934955"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Тараски",
+    "osm_id": "-7506079",
+    "hierarchy": [
+      "Проземлянский сельский Совет",
+      "Чашникский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.8651352572435",
+    "lon": "28.98339639557296"
+  },
+  "group": [
+    {
+      "school_osm_id": "764554935",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7506079",
+      "place_admin_level": "10",
+      "place_place": "hamlet",
+      "place_name": "Тараски",
+      "lon": "28.98339639557296",
+      "lat": "54.8651352572435"
+    },
+    {
+      "school_osm_id": "764554935",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-4850389",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Проземлянский сельский Совет",
+      "lon": "28.98339639557296",
+      "lat": "54.8651352572435"
+    },
+    {
+      "school_osm_id": "764554935",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70746",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Чашникский район",
+      "lon": "28.98339639557296",
+      "lat": "54.8651352572435"
+    },
+    {
+      "school_osm_id": "764554935",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "28.98339639557296",
+      "lat": "54.8651352572435"
+    },
+    {
+      "school_osm_id": "764554935",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.98339639557296",
+      "lat": "54.8651352572435"
+    }
+  ]
+}

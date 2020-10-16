@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Остромичи",
+    "osm_id": "-4719186",
+    "hierarchy": [
+      "Остромичский сельский Совет",
+      "Кобринский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.27664165279134",
+    "lon": "24.46890973743723"
+  },
+  "group": [
+    {
+      "school_osm_id": "380296327",
+      "school_osm_type": "way",
+      "school_name": "Остромичская средняя школа",
+      "place_osm_id": "-8028562",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Остромичский сельский Совет",
+      "lon": "24.46890973743723",
+      "lat": "52.27664165279134"
+    },
+    {
+      "school_osm_id": "380296327",
+      "school_osm_type": "way",
+      "school_name": "Остромичская средняя школа",
+      "place_osm_id": "-4719186",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Остромичи",
+      "lon": "24.46890973743723",
+      "lat": "52.27664165279134"
+    },
+    {
+      "school_osm_id": "380296327",
+      "school_osm_type": "way",
+      "school_name": "Остромичская средняя школа",
+      "place_osm_id": "-71101",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Кобринский район",
+      "lon": "24.46890973743723",
+      "lat": "52.27664165279134"
+    },
+    {
+      "school_osm_id": "380296327",
+      "school_osm_type": "way",
+      "school_name": "Остромичская средняя школа",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "24.46890973743723",
+      "lat": "52.27664165279134"
+    },
+    {
+      "school_osm_id": "380296327",
+      "school_osm_type": "way",
+      "school_name": "Остромичская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "24.46890973743723",
+      "lat": "52.27664165279134"
+    }
+  ]
+}

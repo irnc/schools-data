@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Александровка",
+    "osm_id": "-7443688",
+    "hierarchy": [
+      "Лужковский сельский Совет",
+      "Кормянский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.0112949766226",
+    "lon": "30.796356454700092"
+  },
+  "group": [
+    {
+      "school_osm_id": "401910988",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8107291",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Лужковский сельский Совет",
+      "lon": "30.796356454700092",
+      "lat": "53.0112949766226"
+    },
+    {
+      "school_osm_id": "401910988",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7443688",
+      "place_admin_level": "10",
+      "place_place": "hamlet",
+      "place_name": "Александровка",
+      "lon": "30.796356454700092",
+      "lat": "53.0112949766226"
+    },
+    {
+      "school_osm_id": "401910988",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "30.796356454700092",
+      "lat": "53.0112949766226"
+    },
+    {
+      "school_osm_id": "401910988",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59149",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Кормянский район",
+      "lon": "30.796356454700092",
+      "lat": "53.0112949766226"
+    },
+    {
+      "school_osm_id": "401910988",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.796356454700092",
+      "lat": "53.0112949766226"
+    }
+  ]
+}

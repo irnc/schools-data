@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Шепелевичи",
+    "osm_id": "-7586165",
+    "hierarchy": [
+      "Тетеринский сельский Совет",
+      "Круглянский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.128558832468464",
+    "lon": "29.556463951008283"
+  },
+  "group": [
+    {
+      "school_osm_id": "372396550",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8144331",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Тетеринский сельский Совет",
+      "lon": "29.556463951008283",
+      "lat": "54.128558832468464"
+    },
+    {
+      "school_osm_id": "372396550",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7586165",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Шепелевичи",
+      "lon": "29.556463951008283",
+      "lat": "54.128558832468464"
+    },
+    {
+      "school_osm_id": "372396550",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70638",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Круглянский район",
+      "lon": "29.556463951008283",
+      "lat": "54.128558832468464"
+    },
+    {
+      "school_osm_id": "372396550",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "29.556463951008283",
+      "lat": "54.128558832468464"
+    },
+    {
+      "school_osm_id": "372396550",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.556463951008283",
+      "lat": "54.128558832468464"
+    }
+  ]
+}

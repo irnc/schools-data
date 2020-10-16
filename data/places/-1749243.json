@@ -1,0 +1,233 @@
+[
+  {
+    "school_osm_id": "-3761128",
+    "school_osm_type": "relation",
+    "school_name": "",
+    "place_osm_id": "-1749243",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Полоцк",
+    "lon": "28.766310709298445",
+    "lat": "55.47365268817466"
+  },
+  {
+    "school_osm_id": "101500433",
+    "school_osm_type": "way",
+    "school_name": "Школа №6",
+    "place_osm_id": "-1749243",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Полоцк",
+    "lon": "28.758499680191704",
+    "lat": "55.469559712835476"
+  },
+  {
+    "school_osm_id": "101500434",
+    "school_osm_type": "way",
+    "school_name": "Школа №8",
+    "place_osm_id": "-1749243",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Полоцк",
+    "lon": "28.76043067777446",
+    "lat": "55.46810202641722"
+  },
+  {
+    "school_osm_id": "277589409",
+    "school_osm_type": "way",
+    "school_name": "Школа №2",
+    "place_osm_id": "-1749243",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Полоцк",
+    "lon": "28.76922203169884",
+    "lat": "55.51262169553421"
+  },
+  {
+    "school_osm_id": "279347812",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №3",
+    "place_osm_id": "-1749243",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Полоцк",
+    "lon": "28.773830846117093",
+    "lat": "55.47767078175228"
+  },
+  {
+    "school_osm_id": "279350307",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №11",
+    "place_osm_id": "-1749243",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Полоцк",
+    "lon": "28.79386316201552",
+    "lat": "55.47624752526258"
+  },
+  {
+    "school_osm_id": "294601796",
+    "school_osm_type": "way",
+    "school_name": "Школа №9",
+    "place_osm_id": "-1749243",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Полоцк",
+    "lon": "28.770955233231106",
+    "lat": "55.496599491708466"
+  },
+  {
+    "school_osm_id": "307929885",
+    "school_osm_type": "way",
+    "school_name": "Базовая школа №5",
+    "place_osm_id": "-1749243",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Полоцк",
+    "lon": "28.800902199711082",
+    "lat": "55.49174935673261"
+  },
+  {
+    "school_osm_id": "307929888",
+    "school_osm_type": "way",
+    "school_name": "Школа №12",
+    "place_osm_id": "-1749243",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Полоцк",
+    "lon": "28.818707428995825",
+    "lat": "55.49167563696133"
+  },
+  {
+    "school_osm_id": "340172042",
+    "school_osm_type": "way",
+    "school_name": "Полоцкая государственная гимназия N1 имени Франциска Скорины",
+    "place_osm_id": "-1749243",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Полоцк",
+    "lon": "28.77391191246753",
+    "lat": "55.48703283577411"
+  },
+  {
+    "school_osm_id": "340172044",
+    "school_osm_type": "way",
+    "school_name": "Гимназия № 2",
+    "place_osm_id": "-1749243",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Полоцк",
+    "lon": "28.784081258495817",
+    "lat": "55.48483813007084"
+  },
+  {
+    "school_osm_id": "340172051",
+    "school_osm_type": "way",
+    "school_name": "СШ №10 им. В.М.Азина",
+    "place_osm_id": "-1749243",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Полоцк",
+    "lon": "28.773920226847764",
+    "lat": "55.48893341218509"
+  },
+  {
+    "school_osm_id": "340172054",
+    "school_osm_type": "way",
+    "school_name": "Школа № 1",
+    "place_osm_id": "-1749243",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Полоцк",
+    "lon": "28.784590564816188",
+    "lat": "55.48620944174832"
+  },
+  {
+    "school_osm_id": "361715534",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №11",
+    "place_osm_id": "-1749243",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Полоцк",
+    "lon": "28.794023978141624",
+    "lat": "55.47627623442758"
+  },
+  {
+    "school_osm_id": "387386669",
+    "school_osm_type": "way",
+    "school_name": "Школа №16",
+    "place_osm_id": "-1749243",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Полоцк",
+    "lon": "28.75561927716417",
+    "lat": "55.49519472745488"
+  },
+  {
+    "school_osm_id": "387701424",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №18 имени Евфросинии Полоцкой",
+    "place_osm_id": "-1749243",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Полоцк",
+    "lon": "28.74933329180286",
+    "lat": "55.49895961131034"
+  },
+  {
+    "school_osm_id": "410630901",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №14",
+    "place_osm_id": "-1749243",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Полоцк",
+    "lon": "28.814744504692353",
+    "lat": "55.495818303140496"
+  },
+  {
+    "school_osm_id": "410630915",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №13",
+    "place_osm_id": "-1749243",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Полоцк",
+    "lon": "28.829911022867435",
+    "lat": "55.4780625472319"
+  },
+  {
+    "school_osm_id": "410630917",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №4",
+    "place_osm_id": "-1749243",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Полоцк",
+    "lon": "28.766462728015675",
+    "lat": "55.474018417097"
+  },
+  {
+    "school_osm_id": "427879247",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №15",
+    "place_osm_id": "-1749243",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Полоцк",
+    "lon": "28.798299764086686",
+    "lat": "55.537275299726"
+  },
+  {
+    "school_osm_id": "4040110468",
+    "school_osm_type": "node",
+    "school_name": "Детская школа искусств",
+    "place_osm_id": "-1749243",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Полоцк",
+    "lon": "28.7697783",
+    "lat": "55.48733649958442"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "school_osm_id": "380937397",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №2",
+    "place_osm_id": "-5599322",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Берёза",
+    "lon": "24.97352362679124",
+    "lat": "52.52711499878089"
+  },
+  {
+    "school_osm_id": "510433852",
+    "school_osm_type": "way",
+    "school_name": "Берёзовская начальная школа",
+    "place_osm_id": "-5599322",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Берёза",
+    "lon": "24.974538912413653",
+    "lat": "52.53981268157067"
+  },
+  {
+    "school_osm_id": "517951269",
+    "school_osm_type": "way",
+    "school_name": "Школа №1",
+    "place_osm_id": "-5599322",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Берёза",
+    "lon": "24.9806522246264",
+    "lat": "52.53847998269678"
+  },
+  {
+    "school_osm_id": "617379025",
+    "school_osm_type": "way",
+    "school_name": "Берёзовская базовая школа имени А.Н.Заставного",
+    "place_osm_id": "-5599322",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Берёза",
+    "lon": "24.962499490224957",
+    "lat": "52.552749704175426"
+  },
+  {
+    "school_osm_id": "624337999",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №3",
+    "place_osm_id": "-5599322",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Берёза",
+    "lon": "24.98297239333555",
+    "lat": "52.53099570602438"
+  }
+]

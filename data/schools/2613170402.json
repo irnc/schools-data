@@ -1,0 +1,46 @@
+{
+  "place": {
+    "name": "Минск",
+    "osm_id": "-59195",
+    "hierarchy": []
+  },
+  "geo": {
+    "lat": "53.9298095991737",
+    "lon": "27.597175599999996"
+  },
+  "group": [
+    {
+      "school_osm_id": "2613170402",
+      "school_osm_type": "node",
+      "school_name": "ГУО \"ЦДО ДиМ \"Светоч\" г.Минска\"",
+      "place_osm_id": "-59250",
+      "place_admin_level": "9",
+      "place_place": "",
+      "place_name": "Советский район",
+      "lon": "27.597175599999996",
+      "lat": "53.9298095991737"
+    },
+    {
+      "school_osm_id": "2613170402",
+      "school_osm_type": "node",
+      "school_name": "ГУО \"ЦДО ДиМ \"Светоч\" г.Минска\"",
+      "place_osm_id": "-59195",
+      "place_admin_level": "4",
+      "place_place": "city",
+      "place_name": "Минск",
+      "lon": "27.597175599999996",
+      "lat": "53.9298095991737"
+    },
+    {
+      "school_osm_id": "2613170402",
+      "school_osm_type": "node",
+      "school_name": "ГУО \"ЦДО ДиМ \"Светоч\" г.Минска\"",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.597175599999996",
+      "lat": "53.9298095991737"
+    }
+  ]
+}

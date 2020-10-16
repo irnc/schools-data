@@ -1,0 +1,35 @@
+[
+  {
+    "school_osm_id": "243964267",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-5603385",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Высокое",
+    "lon": "23.367265164051336",
+    "lat": "52.3701280083706"
+  },
+  {
+    "school_osm_id": "380726841",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-5603385",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Высокое",
+    "lon": "23.365760345106192",
+    "lat": "52.372019581583906"
+  },
+  {
+    "school_osm_id": "696011874",
+    "school_osm_type": "way",
+    "school_name": "Автодром",
+    "place_osm_id": "-5603385",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Высокое",
+    "lon": "23.3548776623365",
+    "lat": "52.375855015155764"
+  }
+]

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Крынки",
+    "osm_id": "-7487468",
+    "hierarchy": [
+      "Крынковский сельский Совет",
+      "Лиозненский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.02706191177552",
+    "lon": "30.432445796918543"
+  },
+  "group": [
+    {
+      "school_osm_id": "424211913",
+      "school_osm_type": "way",
+      "school_name": "Крынковская средняя школа им. М.Т. Лынькова",
+      "place_osm_id": "-8075984",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Крынковский сельский Совет",
+      "lon": "30.432445796918543",
+      "lat": "55.02706191177552"
+    },
+    {
+      "school_osm_id": "424211913",
+      "school_osm_type": "way",
+      "school_name": "Крынковская средняя школа им. М.Т. Лынькова",
+      "place_osm_id": "-7487468",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Крынки",
+      "lon": "30.432445796918543",
+      "lat": "55.02706191177552"
+    },
+    {
+      "school_osm_id": "424211913",
+      "school_osm_type": "way",
+      "school_name": "Крынковская средняя школа им. М.Т. Лынькова",
+      "place_osm_id": "-70665",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Лиозненский район",
+      "lon": "30.432445796918543",
+      "lat": "55.02706191177552"
+    },
+    {
+      "school_osm_id": "424211913",
+      "school_osm_type": "way",
+      "school_name": "Крынковская средняя школа им. М.Т. Лынькова",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "30.432445796918543",
+      "lat": "55.02706191177552"
+    },
+    {
+      "school_osm_id": "424211913",
+      "school_osm_type": "way",
+      "school_name": "Крынковская средняя школа им. М.Т. Лынькова",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.432445796918543",
+      "lat": "55.02706191177552"
+    }
+  ]
+}

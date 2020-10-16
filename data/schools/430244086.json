@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Мстиславль",
+    "osm_id": "-6722696",
+    "hierarchy": [
+      "Мстиславский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.01134753118264",
+    "lon": "31.71058426648582"
+  },
+  "group": [
+    {
+      "school_osm_id": "430244086",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-6722696",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Мстиславль",
+      "lon": "31.71058426648582",
+      "lat": "54.01134753118264"
+    },
+    {
+      "school_osm_id": "430244086",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70616",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Мстиславский район",
+      "lon": "31.71058426648582",
+      "lat": "54.01134753118264"
+    },
+    {
+      "school_osm_id": "430244086",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "31.71058426648582",
+      "lat": "54.01134753118264"
+    },
+    {
+      "school_osm_id": "430244086",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "31.71058426648582",
+      "lat": "54.01134753118264"
+    }
+  ]
+}

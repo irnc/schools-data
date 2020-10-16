@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "332227966",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-5598651",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Октябрьский",
+    "lon": "28.88870485766852",
+    "lat": "52.64832983568977"
+  },
+  {
+    "school_osm_id": "4152882489",
+    "school_osm_type": "node",
+    "school_name": "Средняя школа №1 г.п. Октябрьский имени А.Р.Соловья",
+    "place_osm_id": "-5598651",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Октябрьский",
+    "lon": "28.881127399999997",
+    "lat": "52.63671739908503"
+  }
+]

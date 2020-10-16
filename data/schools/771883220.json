@@ -1,0 +1,59 @@
+{
+  "place": {
+    "name": "Бобруйск",
+    "osm_id": "-167857",
+    "hierarchy": [
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.15514195324644",
+    "lon": "29.22196286241174"
+  },
+  "group": [
+    {
+      "school_osm_id": "771883220",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-3629220",
+      "place_admin_level": "9",
+      "place_place": "",
+      "place_name": "Ленинский район",
+      "lon": "29.22196286241174",
+      "lat": "53.15514195324644"
+    },
+    {
+      "school_osm_id": "771883220",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-167857",
+      "place_admin_level": "6",
+      "place_place": "city",
+      "place_name": "Бобруйск",
+      "lon": "29.22196286241174",
+      "lat": "53.15514195324644"
+    },
+    {
+      "school_osm_id": "771883220",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "29.22196286241174",
+      "lat": "53.15514195324644"
+    },
+    {
+      "school_osm_id": "771883220",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.22196286241174",
+      "lat": "53.15514195324644"
+    }
+  ]
+}

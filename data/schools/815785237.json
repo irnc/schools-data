@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Переганцы",
+    "osm_id": "-7509250",
+    "hierarchy": [
+      "Переганцевский сельский Совет",
+      "Вороновский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.10873885773484",
+    "lon": "25.45591156125627"
+  },
+  "group": [
+    {
+      "school_osm_id": "815785237",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8021158",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Переганцевский сельский Совет",
+      "lon": "25.45591156125627",
+      "lat": "54.10873885773484"
+    },
+    {
+      "school_osm_id": "815785237",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7509250",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Переганцы",
+      "lon": "25.45591156125627",
+      "lat": "54.10873885773484"
+    },
+    {
+      "school_osm_id": "815785237",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70737",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Вороновский район",
+      "lon": "25.45591156125627",
+      "lat": "54.10873885773484"
+    },
+    {
+      "school_osm_id": "815785237",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "25.45591156125627",
+      "lat": "54.10873885773484"
+    },
+    {
+      "school_osm_id": "815785237",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "25.45591156125627",
+      "lat": "54.10873885773484"
+    }
+  ]
+}

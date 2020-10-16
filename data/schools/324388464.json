@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Заполье",
+    "osm_id": "-7450818",
+    "hierarchy": [
+      "Запольский сельский Совет",
+      "Рогачёвский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.11656980587938",
+    "lon": "29.96301616170385"
+  },
+  "group": [
+    {
+      "school_osm_id": "324388464",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8107306",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Запольский сельский Совет",
+      "lon": "29.96301616170385",
+      "lat": "53.11656980587938"
+    },
+    {
+      "school_osm_id": "324388464",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7450818",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Заполье",
+      "lon": "29.96301616170385",
+      "lat": "53.11656980587938"
+    },
+    {
+      "school_osm_id": "324388464",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59174",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Рогачёвский район",
+      "lon": "29.96301616170385",
+      "lat": "53.11656980587938"
+    },
+    {
+      "school_osm_id": "324388464",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "29.96301616170385",
+      "lat": "53.11656980587938"
+    },
+    {
+      "school_osm_id": "324388464",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.96301616170385",
+      "lat": "53.11656980587938"
+    }
+  ]
+}

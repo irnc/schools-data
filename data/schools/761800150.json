@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Шерстин",
+    "osm_id": "-7442476",
+    "hierarchy": [
+      "Шерстинский сельский Совет",
+      "Ветковский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.65337451231633",
+    "lon": "31.055430196606082"
+  },
+  "group": [
+    {
+      "school_osm_id": "761800150",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8031176",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Шерстинский сельский Совет",
+      "lon": "31.055430196606082",
+      "lat": "52.65337451231633"
+    },
+    {
+      "school_osm_id": "761800150",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7442476",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Шерстин",
+      "lon": "31.055430196606082",
+      "lat": "52.65337451231633"
+    },
+    {
+      "school_osm_id": "761800150",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70795",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Ветковский район",
+      "lon": "31.055430196606082",
+      "lat": "52.65337451231633"
+    },
+    {
+      "school_osm_id": "761800150",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "31.055430196606082",
+      "lat": "52.65337451231633"
+    },
+    {
+      "school_osm_id": "761800150",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "31.055430196606082",
+      "lat": "52.65337451231633"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Осинторф",
+    "osm_id": "-6889175",
+    "hierarchy": [
+      "Осинторфский сельский Совет",
+      "Дубровенский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.716682847919756",
+    "lon": "30.653899255108474"
+  },
+  "group": [
+    {
+      "school_osm_id": "544194085",
+      "school_osm_type": "way",
+      "school_name": "Осинторфская средняя школа",
+      "place_osm_id": "-8075989",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Осинторфский сельский Совет",
+      "lon": "30.653899255108474",
+      "lat": "54.716682847919756"
+    },
+    {
+      "school_osm_id": "544194085",
+      "school_osm_type": "way",
+      "school_name": "Осинторфская средняя школа",
+      "place_osm_id": "-6889175",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Осинторф",
+      "lon": "30.653899255108474",
+      "lat": "54.716682847919756"
+    },
+    {
+      "school_osm_id": "544194085",
+      "school_osm_type": "way",
+      "school_name": "Осинторфская средняя школа",
+      "place_osm_id": "-70656",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Дубровенский район",
+      "lon": "30.653899255108474",
+      "lat": "54.716682847919756"
+    },
+    {
+      "school_osm_id": "544194085",
+      "school_osm_type": "way",
+      "school_name": "Осинторфская средняя школа",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "30.653899255108474",
+      "lat": "54.716682847919756"
+    },
+    {
+      "school_osm_id": "544194085",
+      "school_osm_type": "way",
+      "school_name": "Осинторфская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.653899255108474",
+      "lat": "54.716682847919756"
+    }
+  ]
+}

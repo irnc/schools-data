@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Бронное",
+    "osm_id": "-7450384",
+    "hierarchy": [
+      "Жмуровский сельский Совет",
+      "Речицкий район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.31895216539",
+    "lon": "30.473646832121233"
+  },
+  "group": [
+    {
+      "school_osm_id": "368461855",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8083019",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Жмуровский сельский Совет",
+      "lon": "30.473646832121233",
+      "lat": "52.31895216539"
+    },
+    {
+      "school_osm_id": "368461855",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7450384",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Бронное",
+      "lon": "30.473646832121233",
+      "lat": "52.31895216539"
+    },
+    {
+      "school_osm_id": "368461855",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70812",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Речицкий район",
+      "lon": "30.473646832121233",
+      "lat": "52.31895216539"
+    },
+    {
+      "school_osm_id": "368461855",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "30.473646832121233",
+      "lat": "52.31895216539"
+    },
+    {
+      "school_osm_id": "368461855",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.473646832121233",
+      "lat": "52.31895216539"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Белыничи",
+    "osm_id": "-6722635",
+    "hierarchy": [
+      "Белыничский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.99108375052413",
+    "lon": "29.72135082593297"
+  },
+  "group": [
+    {
+      "school_osm_id": "554185431",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-6722635",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Белыничи",
+      "lon": "29.72135082593297",
+      "lat": "53.99108375052413"
+    },
+    {
+      "school_osm_id": "554185431",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70637",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Белыничский район",
+      "lon": "29.72135082593297",
+      "lat": "53.99108375052413"
+    },
+    {
+      "school_osm_id": "554185431",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "29.72135082593297",
+      "lat": "53.99108375052413"
+    },
+    {
+      "school_osm_id": "554185431",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.72135082593297",
+      "lat": "53.99108375052413"
+    }
+  ]
+}

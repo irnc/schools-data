@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Хорошевка",
+    "osm_id": "-7442986",
+    "hierarchy": [
+      "Кормянский сельский Совет",
+      "Добрушский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.34936395617509",
+    "lon": "31.60174442129469"
+  },
+  "group": [
+    {
+      "school_osm_id": "264431538",
+      "school_osm_type": "way",
+      "school_name": "Хорошевская СШ",
+      "place_osm_id": "-8065403",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Кормянский сельский Совет",
+      "lon": "31.60174442129469",
+      "lat": "52.34936395617509"
+    },
+    {
+      "school_osm_id": "264431538",
+      "school_osm_type": "way",
+      "school_name": "Хорошевская СШ",
+      "place_osm_id": "-7442986",
+      "place_admin_level": "10",
+      "place_place": "hamlet",
+      "place_name": "Хорошевка",
+      "lon": "31.60174442129469",
+      "lat": "52.34936395617509"
+    },
+    {
+      "school_osm_id": "264431538",
+      "school_osm_type": "way",
+      "school_name": "Хорошевская СШ",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "31.60174442129469",
+      "lat": "52.34936395617509"
+    },
+    {
+      "school_osm_id": "264431538",
+      "school_osm_type": "way",
+      "school_name": "Хорошевская СШ",
+      "place_osm_id": "-59092",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Добрушский район",
+      "lon": "31.60174442129469",
+      "lat": "52.34936395617509"
+    },
+    {
+      "school_osm_id": "264431538",
+      "school_osm_type": "way",
+      "school_name": "Хорошевская СШ",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "31.60174442129469",
+      "lat": "52.34936395617509"
+    }
+  ]
+}

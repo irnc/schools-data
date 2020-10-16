@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Лютня",
+    "osm_id": "-7589078",
+    "hierarchy": [
+      "Копачёвский сельский Совет",
+      "Мстиславский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.05036309944334",
+    "lon": "31.686072349998"
+  },
+  "group": [
+    {
+      "school_osm_id": "213092390",
+      "school_osm_type": "way",
+      "school_name": "начальная школа",
+      "place_osm_id": "-8076010",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Копачёвский сельский Совет",
+      "lon": "31.686072349998",
+      "lat": "54.05036309944334"
+    },
+    {
+      "school_osm_id": "213092390",
+      "school_osm_type": "way",
+      "school_name": "начальная школа",
+      "place_osm_id": "-7589078",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Лютня",
+      "lon": "31.686072349998",
+      "lat": "54.05036309944334"
+    },
+    {
+      "school_osm_id": "213092390",
+      "school_osm_type": "way",
+      "school_name": "начальная школа",
+      "place_osm_id": "-70616",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Мстиславский район",
+      "lon": "31.686072349998",
+      "lat": "54.05036309944334"
+    },
+    {
+      "school_osm_id": "213092390",
+      "school_osm_type": "way",
+      "school_name": "начальная школа",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "31.686072349998",
+      "lat": "54.05036309944334"
+    },
+    {
+      "school_osm_id": "213092390",
+      "school_osm_type": "way",
+      "school_name": "начальная школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "31.686072349998",
+      "lat": "54.05036309944334"
+    }
+  ]
+}

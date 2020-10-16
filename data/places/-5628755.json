@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "247009029",
+    "school_osm_type": "way",
+    "school_name": "Словеньская средняя школа им. П.А. Галецкого.",
+    "place_osm_id": "-5628755",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Ламинщина",
+    "lon": "29.527316826906095",
+    "lat": "54.34910203938062"
+  },
+  {
+    "school_osm_id": "643452585",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-5628755",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Ламинщина",
+    "lon": "29.527375547073685",
+    "lat": "54.34900140756661"
+  }
+]

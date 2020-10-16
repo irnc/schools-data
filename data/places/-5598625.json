@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "333037133",
+    "school_osm_type": "way",
+    "school_name": "Гимназия",
+    "place_osm_id": "-5598625",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Лельчицы",
+    "lon": "28.322765316098764",
+    "lat": "51.783176274599725"
+  },
+  {
+    "school_osm_id": "532404626",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-5598625",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Лельчицы",
+    "lon": "28.329826547312873",
+    "lat": "51.79141647176348"
+  }
+]

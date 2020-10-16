@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Бездеж",
+    "osm_id": "-7463801",
+    "hierarchy": [
+      "Бездежский сельский Совет",
+      "Дрогичинский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.311363492681515",
+    "lon": "25.31109390768275"
+  },
+  "group": [
+    {
+      "school_osm_id": "380047196",
+      "school_osm_type": "way",
+      "school_name": "Бездежская средняя школа",
+      "place_osm_id": "-7927921",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Бездежский сельский Совет",
+      "lon": "25.31109390768275",
+      "lat": "52.311363492681515"
+    },
+    {
+      "school_osm_id": "380047196",
+      "school_osm_type": "way",
+      "school_name": "Бездежская средняя школа",
+      "place_osm_id": "-7463801",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Бездеж",
+      "lon": "25.31109390768275",
+      "lat": "52.311363492681515"
+    },
+    {
+      "school_osm_id": "380047196",
+      "school_osm_type": "way",
+      "school_name": "Бездежская средняя школа",
+      "place_osm_id": "-71105",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Дрогичинский район",
+      "lon": "25.31109390768275",
+      "lat": "52.311363492681515"
+    },
+    {
+      "school_osm_id": "380047196",
+      "school_osm_type": "way",
+      "school_name": "Бездежская средняя школа",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "25.31109390768275",
+      "lat": "52.311363492681515"
+    },
+    {
+      "school_osm_id": "380047196",
+      "school_osm_type": "way",
+      "school_name": "Бездежская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "25.31109390768275",
+      "lat": "52.311363492681515"
+    }
+  ]
+}

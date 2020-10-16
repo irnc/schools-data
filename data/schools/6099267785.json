@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Крутиловичи",
+    "osm_id": "-7512323",
+    "hierarchy": [
+      "Даниловичский сельский Совет",
+      "Дятловский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.458432799115585",
+    "lon": "25.660321599999996"
+  },
+  "group": [
+    {
+      "school_osm_id": "6099267785",
+      "school_osm_type": "node",
+      "school_name": "Крутиловичская школа-сад",
+      "place_osm_id": "-8100410",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Даниловичский сельский Совет",
+      "lon": "25.660321599999996",
+      "lat": "53.458432799115585"
+    },
+    {
+      "school_osm_id": "6099267785",
+      "school_osm_type": "node",
+      "school_name": "Крутиловичская школа-сад",
+      "place_osm_id": "-7512323",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Крутиловичи",
+      "lon": "25.660321599999996",
+      "lat": "53.458432799115585"
+    },
+    {
+      "school_osm_id": "6099267785",
+      "school_osm_type": "node",
+      "school_name": "Крутиловичская школа-сад",
+      "place_osm_id": "-70768",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Дятловский район",
+      "lon": "25.660321599999996",
+      "lat": "53.458432799115585"
+    },
+    {
+      "school_osm_id": "6099267785",
+      "school_osm_type": "node",
+      "school_name": "Крутиловичская школа-сад",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "25.660321599999996",
+      "lat": "53.458432799115585"
+    },
+    {
+      "school_osm_id": "6099267785",
+      "school_osm_type": "node",
+      "school_name": "Крутиловичская школа-сад",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "25.660321599999996",
+      "lat": "53.458432799115585"
+    }
+  ]
+}

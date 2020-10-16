@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Белая",
+    "osm_id": "-6924163",
+    "hierarchy": [
+      "Черневский сельский Совет",
+      "Дрибинский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.11435056208624",
+    "lon": "30.806863833312704"
+  },
+  "group": [
+    {
+      "school_osm_id": "468563214",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8140449",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Черневский сельский Совет",
+      "lon": "30.806863833312704",
+      "lat": "54.11435056208624"
+    },
+    {
+      "school_osm_id": "468563214",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-6924163",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Белая",
+      "lon": "30.806863833312704",
+      "lat": "54.11435056208624"
+    },
+    {
+      "school_osm_id": "468563214",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70618",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Дрибинский район",
+      "lon": "30.806863833312704",
+      "lat": "54.11435056208624"
+    },
+    {
+      "school_osm_id": "468563214",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "30.806863833312704",
+      "lat": "54.11435056208624"
+    },
+    {
+      "school_osm_id": "468563214",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.806863833312704",
+      "lat": "54.11435056208624"
+    }
+  ]
+}

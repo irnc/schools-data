@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Большая Рогозница",
+    "osm_id": "-7522042",
+    "hierarchy": [
+      "Песковский сельский Совет",
+      "Мостовский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.265417453006386",
+    "lon": "24.684566774690666"
+  },
+  "group": [
+    {
+      "school_osm_id": "514195905",
+      "school_osm_type": "way",
+      "school_name": "Рогозницкая средняя школа",
+      "place_osm_id": "-8085958",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Песковский сельский Совет",
+      "lon": "24.684566774690666",
+      "lat": "53.265417453006386"
+    },
+    {
+      "school_osm_id": "514195905",
+      "school_osm_type": "way",
+      "school_name": "Рогозницкая средняя школа",
+      "place_osm_id": "-7522042",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Большая Рогозница",
+      "lon": "24.684566774690666",
+      "lat": "53.265417453006386"
+    },
+    {
+      "school_osm_id": "514195905",
+      "school_osm_type": "way",
+      "school_name": "Рогозницкая средняя школа",
+      "place_osm_id": "-70754",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Мостовский район",
+      "lon": "24.684566774690666",
+      "lat": "53.265417453006386"
+    },
+    {
+      "school_osm_id": "514195905",
+      "school_osm_type": "way",
+      "school_name": "Рогозницкая средняя школа",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "24.684566774690666",
+      "lat": "53.265417453006386"
+    },
+    {
+      "school_osm_id": "514195905",
+      "school_osm_type": "way",
+      "school_name": "Рогозницкая средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "24.684566774690666",
+      "lat": "53.265417453006386"
+    }
+  ]
+}

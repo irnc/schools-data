@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Дуброва",
+    "osm_id": "-7443255",
+    "hierarchy": [
+      "Старовысоковский сельский Совет",
+      "Ельский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "51.77580158723792",
+    "lon": "28.784781230972133"
+  },
+  "group": [
+    {
+      "school_osm_id": "327941216",
+      "school_osm_type": "way",
+      "school_name": "Школа",
+      "place_osm_id": "-8030865",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Старовысоковский сельский Совет",
+      "lon": "28.784781230972133",
+      "lat": "51.77580158723792"
+    },
+    {
+      "school_osm_id": "327941216",
+      "school_osm_type": "way",
+      "school_name": "Школа",
+      "place_osm_id": "-7443255",
+      "place_admin_level": "10",
+      "place_place": "hamlet",
+      "place_name": "Дуброва",
+      "lon": "28.784781230972133",
+      "lat": "51.77580158723792"
+    },
+    {
+      "school_osm_id": "327941216",
+      "school_osm_type": "way",
+      "school_name": "Школа",
+      "place_osm_id": "-70810",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Ельский район",
+      "lon": "28.784781230972133",
+      "lat": "51.77580158723792"
+    },
+    {
+      "school_osm_id": "327941216",
+      "school_osm_type": "way",
+      "school_name": "Школа",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "28.784781230972133",
+      "lat": "51.77580158723792"
+    },
+    {
+      "school_osm_id": "327941216",
+      "school_osm_type": "way",
+      "school_name": "Школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.784781230972133",
+      "lat": "51.77580158723792"
+    }
+  ]
+}

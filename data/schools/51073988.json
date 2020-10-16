@@ -1,0 +1,59 @@
+{
+  "place": {
+    "name": "Гомель",
+    "osm_id": "-163244",
+    "hierarchy": [
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.46376685660076",
+    "lon": "30.983721172657745"
+  },
+  "group": [
+    {
+      "school_osm_id": "51073988",
+      "school_osm_type": "way",
+      "school_name": "СОШ №34",
+      "place_osm_id": "-3628812",
+      "place_admin_level": "9",
+      "place_place": "",
+      "place_name": "Железнодорожный район",
+      "lon": "30.983721172657745",
+      "lat": "52.46376685660076"
+    },
+    {
+      "school_osm_id": "51073988",
+      "school_osm_type": "way",
+      "school_name": "СОШ №34",
+      "place_osm_id": "-163244",
+      "place_admin_level": "6",
+      "place_place": "city",
+      "place_name": "Гомель",
+      "lon": "30.983721172657745",
+      "lat": "52.46376685660076"
+    },
+    {
+      "school_osm_id": "51073988",
+      "school_osm_type": "way",
+      "school_name": "СОШ №34",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "30.983721172657745",
+      "lat": "52.46376685660076"
+    },
+    {
+      "school_osm_id": "51073988",
+      "school_osm_type": "way",
+      "school_name": "СОШ №34",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.983721172657745",
+      "lat": "52.46376685660076"
+    }
+  ]
+}

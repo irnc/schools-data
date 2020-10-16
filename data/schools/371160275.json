@@ -1,0 +1,53 @@
+{
+  "place": "warning-school-without-place",
+  "geo": {
+    "lat": "54.261575663125974",
+    "lon": "30.164537703599567"
+  },
+  "group": [
+    {
+      "school_osm_id": "371160275",
+      "school_osm_type": "way",
+      "school_name": "Детский озоровительный лагерь \"Космос\"",
+      "place_osm_id": "-8144307",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Александрийский сельский Совет",
+      "lon": "30.164537703599567",
+      "lat": "54.261575663125974"
+    },
+    {
+      "school_osm_id": "371160275",
+      "school_osm_type": "way",
+      "school_name": "Детский озоровительный лагерь \"Космос\"",
+      "place_osm_id": "-70626",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Шкловский район",
+      "lon": "30.164537703599567",
+      "lat": "54.261575663125974"
+    },
+    {
+      "school_osm_id": "371160275",
+      "school_osm_type": "way",
+      "school_name": "Детский озоровительный лагерь \"Космос\"",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "30.164537703599567",
+      "lat": "54.261575663125974"
+    },
+    {
+      "school_osm_id": "371160275",
+      "school_osm_type": "way",
+      "school_name": "Детский озоровительный лагерь \"Космос\"",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.164537703599567",
+      "lat": "54.261575663125974"
+    }
+  ]
+}

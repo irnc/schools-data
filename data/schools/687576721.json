@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Гринки",
+    "osm_id": "-7526299",
+    "hierarchy": [
+      "Незбодичский сельский Совет",
+      "Свислочский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.956063757950325",
+    "lon": "24.131522981615824"
+  },
+  "group": [
+    {
+      "school_osm_id": "687576721",
+      "school_osm_type": "way",
+      "school_name": "Гринковский детский сад - средняя школа",
+      "place_osm_id": "-8025380",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Незбодичский сельский Совет",
+      "lon": "24.131522981615824",
+      "lat": "52.956063757950325"
+    },
+    {
+      "school_osm_id": "687576721",
+      "school_osm_type": "way",
+      "school_name": "Гринковский детский сад - средняя школа",
+      "place_osm_id": "-7526299",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Гринки",
+      "lon": "24.131522981615824",
+      "lat": "52.956063757950325"
+    },
+    {
+      "school_osm_id": "687576721",
+      "school_osm_type": "way",
+      "school_name": "Гринковский детский сад - средняя школа",
+      "place_osm_id": "-71093",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Свислочский район",
+      "lon": "24.131522981615824",
+      "lat": "52.956063757950325"
+    },
+    {
+      "school_osm_id": "687576721",
+      "school_osm_type": "way",
+      "school_name": "Гринковский детский сад - средняя школа",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "24.131522981615824",
+      "lat": "52.956063757950325"
+    },
+    {
+      "school_osm_id": "687576721",
+      "school_osm_type": "way",
+      "school_name": "Гринковский детский сад - средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "24.131522981615824",
+      "lat": "52.956063757950325"
+    }
+  ]
+}

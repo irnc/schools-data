@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Хатовня",
+    "osm_id": "-7450812",
+    "hierarchy": [
+      "Журавичский сельский Совет",
+      "Рогачёвский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.281024742324746",
+    "lon": "30.530282369234985"
+  },
+  "group": [
+    {
+      "school_osm_id": "327757995",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8107308",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Журавичский сельский Совет",
+      "lon": "30.530282369234985",
+      "lat": "53.281024742324746"
+    },
+    {
+      "school_osm_id": "327757995",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7450812",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Хатовня",
+      "lon": "30.530282369234985",
+      "lat": "53.281024742324746"
+    },
+    {
+      "school_osm_id": "327757995",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59174",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Рогачёвский район",
+      "lon": "30.530282369234985",
+      "lat": "53.281024742324746"
+    },
+    {
+      "school_osm_id": "327757995",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "30.530282369234985",
+      "lat": "53.281024742324746"
+    },
+    {
+      "school_osm_id": "327757995",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.530282369234985",
+      "lat": "53.281024742324746"
+    }
+  ]
+}

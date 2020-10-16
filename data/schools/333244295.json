@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Перетрутовский Воротын",
+    "osm_id": "-7443641",
+    "hierarchy": [
+      "Савичский сельский Совет",
+      "Калинковичский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.34782410552194",
+    "lon": "29.011221356083052"
+  },
+  "group": [
+    {
+      "school_osm_id": "333244295",
+      "school_osm_type": "way",
+      "school_name": "Воротынский детский сад-средняя школа",
+      "place_osm_id": "-8087895",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Савичский сельский Совет",
+      "lon": "29.011221356083052",
+      "lat": "52.34782410552194"
+    },
+    {
+      "school_osm_id": "333244295",
+      "school_osm_type": "way",
+      "school_name": "Воротынский детский сад-средняя школа",
+      "place_osm_id": "-7443641",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Перетрутовский Воротын",
+      "lon": "29.011221356083052",
+      "lat": "52.34782410552194"
+    },
+    {
+      "school_osm_id": "333244295",
+      "school_osm_type": "way",
+      "school_name": "Воротынский детский сад-средняя школа",
+      "place_osm_id": "-70814",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Калинковичский район",
+      "lon": "29.011221356083052",
+      "lat": "52.34782410552194"
+    },
+    {
+      "school_osm_id": "333244295",
+      "school_osm_type": "way",
+      "school_name": "Воротынский детский сад-средняя школа",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "29.011221356083052",
+      "lat": "52.34782410552194"
+    },
+    {
+      "school_osm_id": "333244295",
+      "school_osm_type": "way",
+      "school_name": "Воротынский детский сад-средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.011221356083052",
+      "lat": "52.34782410552194"
+    }
+  ]
+}

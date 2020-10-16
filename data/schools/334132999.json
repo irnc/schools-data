@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Бороньки",
+    "osm_id": "-7585616",
+    "hierarchy": [
+      "Бороньковский сельский Совет",
+      "Костюковичский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.14307904266168",
+    "lon": "32.139093518349675"
+  },
+  "group": [
+    {
+      "school_osm_id": "334132999",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8067521",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Бороньковский сельский Совет",
+      "lon": "32.139093518349675",
+      "lat": "53.14307904266168"
+    },
+    {
+      "school_osm_id": "334132999",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7585616",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Бороньки",
+      "lon": "32.139093518349675",
+      "lat": "53.14307904266168"
+    },
+    {
+      "school_osm_id": "334132999",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70604",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Костюковичский район",
+      "lon": "32.139093518349675",
+      "lat": "53.14307904266168"
+    },
+    {
+      "school_osm_id": "334132999",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "32.139093518349675",
+      "lat": "53.14307904266168"
+    },
+    {
+      "school_osm_id": "334132999",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "32.139093518349675",
+      "lat": "53.14307904266168"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Переволока",
+    "osm_id": "-7450479",
+    "hierarchy": [
+      "Короватичский сельский Совет",
+      "Речицкий район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.20909604944456",
+    "lon": "30.213649599897526"
+  },
+  "group": [
+    {
+      "school_osm_id": "262005768",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8083013",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Короватичский сельский Совет",
+      "lon": "30.213649599897526",
+      "lat": "52.20909604944456"
+    },
+    {
+      "school_osm_id": "262005768",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7450479",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Переволока",
+      "lon": "30.213649599897526",
+      "lat": "52.20909604944456"
+    },
+    {
+      "school_osm_id": "262005768",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70812",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Речицкий район",
+      "lon": "30.213649599897526",
+      "lat": "52.20909604944456"
+    },
+    {
+      "school_osm_id": "262005768",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "30.213649599897526",
+      "lat": "52.20909604944456"
+    },
+    {
+      "school_osm_id": "262005768",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.213649599897526",
+      "lat": "52.20909604944456"
+    }
+  ]
+}

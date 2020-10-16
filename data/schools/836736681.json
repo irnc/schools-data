@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Улуковье",
+    "osm_id": "-7442921",
+    "hierarchy": [
+      "Улуковский сельский Совет",
+      "Гомельский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.39901148091849",
+    "lon": "31.125572129955202"
+  },
+  "group": [
+    {
+      "school_osm_id": "836736681",
+      "school_osm_type": "way",
+      "school_name": "Головинская средняя школа",
+      "place_osm_id": "-8031159",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Улуковский сельский Совет",
+      "lon": "31.125572129955202",
+      "lat": "52.39901148091849"
+    },
+    {
+      "school_osm_id": "836736681",
+      "school_osm_type": "way",
+      "school_name": "Головинская средняя школа",
+      "place_osm_id": "-7442921",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Улуковье",
+      "lon": "31.125572129955202",
+      "lat": "52.39901148091849"
+    },
+    {
+      "school_osm_id": "836736681",
+      "school_osm_type": "way",
+      "school_name": "Головинская средняя школа",
+      "place_osm_id": "-1469691",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Гомельский район",
+      "lon": "31.125572129955202",
+      "lat": "52.39901148091849"
+    },
+    {
+      "school_osm_id": "836736681",
+      "school_osm_type": "way",
+      "school_name": "Головинская средняя школа",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "31.125572129955202",
+      "lat": "52.39901148091849"
+    },
+    {
+      "school_osm_id": "836736681",
+      "school_osm_type": "way",
+      "school_name": "Головинская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "31.125572129955202",
+      "lat": "52.39901148091849"
+    }
+  ]
+}

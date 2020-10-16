@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Коханово",
+    "osm_id": "-7502419",
+    "hierarchy": [
+      "Кохановский сельский Совет",
+      "Толочинский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.46304766307869",
+    "lon": "30.005643153001362"
+  },
+  "group": [
+    {
+      "school_osm_id": "732160281",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7975909",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Кохановский сельский Совет",
+      "lon": "30.005643153001362",
+      "lat": "54.46304766307869"
+    },
+    {
+      "school_osm_id": "732160281",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7502419",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Коханово",
+      "lon": "30.005643153001362",
+      "lat": "54.46304766307869"
+    },
+    {
+      "school_osm_id": "732160281",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70649",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Толочинский район",
+      "lon": "30.005643153001362",
+      "lat": "54.46304766307869"
+    },
+    {
+      "school_osm_id": "732160281",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "30.005643153001362",
+      "lat": "54.46304766307869"
+    },
+    {
+      "school_osm_id": "732160281",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.005643153001362",
+      "lat": "54.46304766307869"
+    }
+  ]
+}

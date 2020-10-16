@@ -1,0 +1,46 @@
+[
+  {
+    "school_osm_id": "152852482",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-6722373",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Дятлово",
+    "lon": "25.410906068296843",
+    "lat": "53.46544660747853"
+  },
+  {
+    "school_osm_id": "674736217",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №3",
+    "place_osm_id": "-6722373",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Дятлово",
+    "lon": "25.410511962863602",
+    "lat": "53.468375190291034"
+  },
+  {
+    "school_osm_id": "674736235",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №1",
+    "place_osm_id": "-6722373",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Дятлово",
+    "lon": "25.398040081819552",
+    "lat": "53.46541160518441"
+  },
+  {
+    "school_osm_id": "678957763",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-6722373",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Дятлово",
+    "lon": "25.40286469732733",
+    "lat": "53.46360736039934"
+  }
+]

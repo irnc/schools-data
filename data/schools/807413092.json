@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Зазерье",
+    "osm_id": "-7555823",
+    "hierarchy": [
+      "Голоцкий сельский Совет",
+      "Пуховичский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.661715808757926",
+    "lon": "27.806204026764544"
+  },
+  "group": [
+    {
+      "school_osm_id": "807413092",
+      "school_osm_type": "way",
+      "school_name": "Зазерская средняя школа",
+      "place_osm_id": "-8144226",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Голоцкий сельский Совет",
+      "lon": "27.806204026764544",
+      "lat": "53.661715808757926"
+    },
+    {
+      "school_osm_id": "807413092",
+      "school_osm_type": "way",
+      "school_name": "Зазерская средняя школа",
+      "place_osm_id": "-7555823",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Зазерье",
+      "lon": "27.806204026764544",
+      "lat": "53.661715808757926"
+    },
+    {
+      "school_osm_id": "807413092",
+      "school_osm_type": "way",
+      "school_name": "Зазерская средняя школа",
+      "place_osm_id": "-70549",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Пуховичский район",
+      "lon": "27.806204026764544",
+      "lat": "53.661715808757926"
+    },
+    {
+      "school_osm_id": "807413092",
+      "school_osm_type": "way",
+      "school_name": "Зазерская средняя школа",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.806204026764544",
+      "lat": "53.661715808757926"
+    },
+    {
+      "school_osm_id": "807413092",
+      "school_osm_type": "way",
+      "school_name": "Зазерская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.806204026764544",
+      "lat": "53.661715808757926"
+    }
+  ]
+}

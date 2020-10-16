@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Заямное",
+    "osm_id": "-5652939",
+    "hierarchy": [
+      "Заямновский сельский Совет",
+      "Столбцовский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.51833585209684",
+    "lon": "26.72192146057675"
+  },
+  "group": [
+    {
+      "school_osm_id": "549892657",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8139742",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Заямновский сельский Совет",
+      "lon": "26.72192146057675",
+      "lat": "53.51833585209684"
+    },
+    {
+      "school_osm_id": "549892657",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-5652939",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Заямное",
+      "lon": "26.72192146057675",
+      "lat": "53.51833585209684"
+    },
+    {
+      "school_osm_id": "549892657",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70752",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Столбцовский район",
+      "lon": "26.72192146057675",
+      "lat": "53.51833585209684"
+    },
+    {
+      "school_osm_id": "549892657",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "26.72192146057675",
+      "lat": "53.51833585209684"
+    },
+    {
+      "school_osm_id": "549892657",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.72192146057675",
+      "lat": "53.51833585209684"
+    }
+  ]
+}

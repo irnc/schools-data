@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Некрашевичи",
+    "osm_id": "-7518409",
+    "hierarchy": [
+      "Турецкий сельский Совет",
+      "Кореличский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.498506129288366",
+    "lon": "26.219060502770013"
+  },
+  "group": [
+    {
+      "school_osm_id": "279991724",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8100430",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Турецкий сельский Совет",
+      "lon": "26.219060502770013",
+      "lat": "53.498506129288366"
+    },
+    {
+      "school_osm_id": "279991724",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7518409",
+      "place_admin_level": "10",
+      "place_place": "hamlet",
+      "place_name": "Некрашевичи",
+      "lon": "26.219060502770013",
+      "lat": "53.498506129288366"
+    },
+    {
+      "school_osm_id": "279991724",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70751",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Кореличский район",
+      "lon": "26.219060502770013",
+      "lat": "53.498506129288366"
+    },
+    {
+      "school_osm_id": "279991724",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "26.219060502770013",
+      "lat": "53.498506129288366"
+    },
+    {
+      "school_osm_id": "279991724",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.219060502770013",
+      "lat": "53.498506129288366"
+    }
+  ]
+}

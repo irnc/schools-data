@@ -1,0 +1,35 @@
+[
+  {
+    "school_osm_id": "479310190",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-6722720",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Старобин",
+    "lon": "27.44984629437663",
+    "lat": "52.73263152146985"
+  },
+  {
+    "school_osm_id": "587895198",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-6722720",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Старобин",
+    "lon": "27.457593151235873",
+    "lat": "52.724005396970824"
+  },
+  {
+    "school_osm_id": "4837481221",
+    "school_osm_type": "node",
+    "school_name": "Начальная школа пгт. Старобин",
+    "place_osm_id": "-6722720",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Старобин",
+    "lon": "27.4510126",
+    "lat": "52.73075899908419"
+  }
+]

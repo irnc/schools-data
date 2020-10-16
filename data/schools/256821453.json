@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Козелужье",
+    "osm_id": "-7453588",
+    "hierarchy": [
+      "Судковский сельский Совет",
+      "Хойникский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "51.893286195883555",
+    "lon": "29.908136974777403"
+  },
+  "group": [
+    {
+      "school_osm_id": "256821453",
+      "school_osm_type": "way",
+      "school_name": "Козелужская средняя школа",
+      "place_osm_id": "-8031213",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Судковский сельский Совет",
+      "lon": "29.908136974777403",
+      "lat": "51.893286195883555"
+    },
+    {
+      "school_osm_id": "256821453",
+      "school_osm_type": "way",
+      "school_name": "Козелужская средняя школа",
+      "place_osm_id": "-7453588",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Козелужье",
+      "lon": "29.908136974777403",
+      "lat": "51.893286195883555"
+    },
+    {
+      "school_osm_id": "256821453",
+      "school_osm_type": "way",
+      "school_name": "Козелужская средняя школа",
+      "place_osm_id": "-70802",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Хойникский район",
+      "lon": "29.908136974777403",
+      "lat": "51.893286195883555"
+    },
+    {
+      "school_osm_id": "256821453",
+      "school_osm_type": "way",
+      "school_name": "Козелужская средняя школа",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "29.908136974777403",
+      "lat": "51.893286195883555"
+    },
+    {
+      "school_osm_id": "256821453",
+      "school_osm_type": "way",
+      "school_name": "Козелужская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.908136974777403",
+      "lat": "51.893286195883555"
+    }
+  ]
+}

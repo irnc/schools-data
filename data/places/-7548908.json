@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "504972604",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа деревни Сёмково",
+    "place_osm_id": "-7548908",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Сёмково",
+    "lon": "27.432348999335545",
+    "lat": "54.023515852224996"
+  },
+  {
+    "school_osm_id": "641184289",
+    "school_osm_type": "way",
+    "school_name": "Школа",
+    "place_osm_id": "-7548908",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Сёмково",
+    "lon": "27.43712401343402",
+    "lat": "54.02752930210224"
+  }
+]

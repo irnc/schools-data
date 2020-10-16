@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Геранёны",
+    "osm_id": "-7515552",
+    "hierarchy": [
+      "Геранёнский сельский Совет",
+      "Ивьевский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.1128556080541",
+    "lon": "25.577145764520356"
+  },
+  "group": [
+    {
+      "school_osm_id": "293174169",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7515552",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Геранёны",
+      "lon": "25.577145764520356",
+      "lat": "54.1128556080541"
+    },
+    {
+      "school_osm_id": "293174169",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-3798403",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Геранёнский сельский Совет",
+      "lon": "25.577145764520356",
+      "lat": "54.1128556080541"
+    },
+    {
+      "school_osm_id": "293174169",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70732",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Ивьевский район",
+      "lon": "25.577145764520356",
+      "lat": "54.1128556080541"
+    },
+    {
+      "school_osm_id": "293174169",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "25.577145764520356",
+      "lat": "54.1128556080541"
+    },
+    {
+      "school_osm_id": "293174169",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "25.577145764520356",
+      "lat": "54.1128556080541"
+    }
+  ]
+}

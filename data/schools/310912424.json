@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Нивы",
+    "osm_id": "-7439905",
+    "hierarchy": [
+      "Солонский сельский Совет",
+      "Жлобинский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.80775496013221",
+    "lon": "29.950750830792142"
+  },
+  "group": [
+    {
+      "school_osm_id": "310912424",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7439905",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Нивы",
+      "lon": "29.950750830792142",
+      "lat": "52.80775496013221"
+    },
+    {
+      "school_osm_id": "310912424",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-6154764",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Солонский сельский Совет",
+      "lon": "29.950750830792142",
+      "lat": "52.80775496013221"
+    },
+    {
+      "school_osm_id": "310912424",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59167",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Жлобинский район",
+      "lon": "29.950750830792142",
+      "lat": "52.80775496013221"
+    },
+    {
+      "school_osm_id": "310912424",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "29.950750830792142",
+      "lat": "52.80775496013221"
+    },
+    {
+      "school_osm_id": "310912424",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.950750830792142",
+      "lat": "52.80775496013221"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Мозырь",
+    "osm_id": "-5598638",
+    "hierarchy": [
+      "Мозырский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.02726330771486",
+    "lon": "29.20861716302686"
+  },
+  "group": [
+    {
+      "school_osm_id": "498651379",
+      "school_osm_type": "way",
+      "school_name": "Школа № 16",
+      "place_osm_id": "-5598638",
+      "place_admin_level": "8",
+      "place_place": "city",
+      "place_name": "Мозырь",
+      "lon": "29.20861716302686",
+      "lat": "52.02726330771486"
+    },
+    {
+      "school_osm_id": "498651379",
+      "school_osm_type": "way",
+      "school_name": "Школа № 16",
+      "place_osm_id": "-70815",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Мозырский район",
+      "lon": "29.20861716302686",
+      "lat": "52.02726330771486"
+    },
+    {
+      "school_osm_id": "498651379",
+      "school_osm_type": "way",
+      "school_name": "Школа № 16",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "29.20861716302686",
+      "lat": "52.02726330771486"
+    },
+    {
+      "school_osm_id": "498651379",
+      "school_osm_type": "way",
+      "school_name": "Школа № 16",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.20861716302686",
+      "lat": "52.02726330771486"
+    }
+  ]
+}

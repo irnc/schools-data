@@ -1,0 +1,68 @@
+[
+  {
+    "school_osm_id": "134530976",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №5",
+    "place_osm_id": "-6722278",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Пружаны",
+    "lon": "24.461727515168167",
+    "lat": "52.568269278128895"
+  },
+  {
+    "school_osm_id": "551698926",
+    "school_osm_type": "way",
+    "school_name": "Гимназия г. Пружаны",
+    "place_osm_id": "-6722278",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Пружаны",
+    "lon": "24.46022117977619",
+    "lat": "52.5559807295227"
+  },
+  {
+    "school_osm_id": "551699876",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №4",
+    "place_osm_id": "-6722278",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Пружаны",
+    "lon": "24.47105204870188",
+    "lat": "52.55273028023968"
+  },
+  {
+    "school_osm_id": "551701018",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №3",
+    "place_osm_id": "-6722278",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Пружаны",
+    "lon": "24.471472926203457",
+    "lat": "52.55986453917951"
+  },
+  {
+    "school_osm_id": "668464835",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №1",
+    "place_osm_id": "-6722278",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Пружаны",
+    "lon": "24.446222319646708",
+    "lat": "52.556557837225185"
+  },
+  {
+    "school_osm_id": "4263416462",
+    "school_osm_type": "node",
+    "school_name": "Музыкальная школа",
+    "place_osm_id": "-6722278",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Пружаны",
+    "lon": "24.4639124",
+    "lat": "52.55428529908662"
+  }
+]

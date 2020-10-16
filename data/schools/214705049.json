@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Мишни",
+    "osm_id": "-7589199",
+    "hierarchy": [
+      "Ракшинский сельский Совет",
+      "Мстиславский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.0069564425406",
+    "lon": "31.326099205127022"
+  },
+  "group": [
+    {
+      "school_osm_id": "214705049",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8076011",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Ракшинский сельский Совет",
+      "lon": "31.326099205127022",
+      "lat": "54.0069564425406"
+    },
+    {
+      "school_osm_id": "214705049",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7589199",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Мишни",
+      "lon": "31.326099205127022",
+      "lat": "54.0069564425406"
+    },
+    {
+      "school_osm_id": "214705049",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70616",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Мстиславский район",
+      "lon": "31.326099205127022",
+      "lat": "54.0069564425406"
+    },
+    {
+      "school_osm_id": "214705049",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "31.326099205127022",
+      "lat": "54.0069564425406"
+    },
+    {
+      "school_osm_id": "214705049",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "31.326099205127022",
+      "lat": "54.0069564425406"
+    }
+  ]
+}

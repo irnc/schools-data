@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Ляды",
+    "osm_id": "-7570477",
+    "hierarchy": [
+      "Ляденский сельский Совет",
+      "Червенский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.61534544923611",
+    "lon": "28.690834383107447"
+  },
+  "group": [
+    {
+      "school_osm_id": "640277120",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8144276",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Ляденский сельский Совет",
+      "lon": "28.690834383107447",
+      "lat": "53.61534544923611"
+    },
+    {
+      "school_osm_id": "640277120",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7570477",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Ляды",
+      "lon": "28.690834383107447",
+      "lat": "53.61534544923611"
+    },
+    {
+      "school_osm_id": "640277120",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "28.690834383107447",
+      "lat": "53.61534544923611"
+    },
+    {
+      "school_osm_id": "640277120",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59751",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Червенский район",
+      "lon": "28.690834383107447",
+      "lat": "53.61534544923611"
+    },
+    {
+      "school_osm_id": "640277120",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.690834383107447",
+      "lat": "53.61534544923611"
+    }
+  ]
+}

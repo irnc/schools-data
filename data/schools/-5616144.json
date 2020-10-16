@@ -1,0 +1,108 @@
+{
+  "place": "warning-school-without-place",
+  "geo": {
+    "lat": "53.90005987765897",
+    "lon": "27.58327862278966"
+  },
+  "group": [
+    {
+      "school_osm_id": "-5616144",
+      "school_osm_type": "relation",
+      "school_name": "Гимназия №7",
+      "place_osm_id": "-59257",
+      "place_admin_level": "9",
+      "place_place": "",
+      "place_name": "Партизанский район",
+      "lon": "27.58327862278966",
+      "lat": "53.90005987765897"
+    },
+    {
+      "school_osm_id": "-5616144",
+      "school_osm_type": "relation",
+      "school_name": "Гимназия №7",
+      "place_osm_id": "-59257",
+      "place_admin_level": "9",
+      "place_place": "",
+      "place_name": "Партизанский район",
+      "lon": "27.584141224107288",
+      "lat": "53.89913385686953"
+    },
+    {
+      "school_osm_id": "-5616144",
+      "school_osm_type": "relation",
+      "school_name": "Гимназия №7",
+      "place_osm_id": "-59257",
+      "place_admin_level": "9",
+      "place_place": "",
+      "place_name": "Партизанский район",
+      "lon": "27.589858976172458",
+      "lat": "53.89828557681401"
+    },
+    {
+      "school_osm_id": "-5616144",
+      "school_osm_type": "relation",
+      "school_name": "Гимназия №7",
+      "place_osm_id": "-59195",
+      "place_admin_level": "4",
+      "place_place": "city",
+      "place_name": "Минск",
+      "lon": "27.58327862278966",
+      "lat": "53.90005987765897"
+    },
+    {
+      "school_osm_id": "-5616144",
+      "school_osm_type": "relation",
+      "school_name": "Гимназия №7",
+      "place_osm_id": "-59195",
+      "place_admin_level": "4",
+      "place_place": "city",
+      "place_name": "Минск",
+      "lon": "27.584141224107288",
+      "lat": "53.89913385686953"
+    },
+    {
+      "school_osm_id": "-5616144",
+      "school_osm_type": "relation",
+      "school_name": "Гимназия №7",
+      "place_osm_id": "-59195",
+      "place_admin_level": "4",
+      "place_place": "city",
+      "place_name": "Минск",
+      "lon": "27.589858976172458",
+      "lat": "53.89828557681401"
+    },
+    {
+      "school_osm_id": "-5616144",
+      "school_osm_type": "relation",
+      "school_name": "Гимназия №7",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.58327862278966",
+      "lat": "53.90005987765897"
+    },
+    {
+      "school_osm_id": "-5616144",
+      "school_osm_type": "relation",
+      "school_name": "Гимназия №7",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.584141224107288",
+      "lat": "53.89913385686953"
+    },
+    {
+      "school_osm_id": "-5616144",
+      "school_osm_type": "relation",
+      "school_name": "Гимназия №7",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.589858976172458",
+      "lat": "53.89828557681401"
+    }
+  ]
+}

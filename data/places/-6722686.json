@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "559605202",
+    "school_osm_type": "way",
+    "school_name": "Школа № 2",
+    "place_osm_id": "-6722686",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Краснополье",
+    "lon": "31.383518146912078",
+    "lat": "53.3306475289105"
+  },
+  {
+    "school_osm_id": "559605208",
+    "school_osm_type": "way",
+    "school_name": "Гимназия №1",
+    "place_osm_id": "-6722686",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Краснополье",
+    "lon": "31.39596517920465",
+    "lat": "53.33121338925278"
+  }
+]

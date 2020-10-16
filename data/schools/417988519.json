@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Молодечно",
+    "osm_id": "-6722552",
+    "hierarchy": [
+      "Молодечненский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.311372479639004",
+    "lon": "26.84340518137096"
+  },
+  "group": [
+    {
+      "school_osm_id": "417988519",
+      "school_osm_type": "way",
+      "school_name": "Школа №4",
+      "place_osm_id": "-6722552",
+      "place_admin_level": "8",
+      "place_place": "city",
+      "place_name": "Молодечно",
+      "lon": "26.84340518137096",
+      "lat": "54.311372479639004"
+    },
+    {
+      "school_osm_id": "417988519",
+      "school_osm_type": "way",
+      "school_name": "Школа №4",
+      "place_osm_id": "-70566",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Молодечненский район",
+      "lon": "26.84340518137096",
+      "lat": "54.311372479639004"
+    },
+    {
+      "school_osm_id": "417988519",
+      "school_osm_type": "way",
+      "school_name": "Школа №4",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "26.84340518137096",
+      "lat": "54.311372479639004"
+    },
+    {
+      "school_osm_id": "417988519",
+      "school_osm_type": "way",
+      "school_name": "Школа №4",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.84340518137096",
+      "lat": "54.311372479639004"
+    }
+  ]
+}

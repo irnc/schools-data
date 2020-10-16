@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Чечерск",
+    "osm_id": "-5598993",
+    "hierarchy": [
+      "Чечерский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.91646275815254",
+    "lon": "30.90739622169138"
+  },
+  "group": [
+    {
+      "school_osm_id": "241020213",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-5598993",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Чечерск",
+      "lon": "30.90739622169138",
+      "lat": "52.91646275815254"
+    },
+    {
+      "school_osm_id": "241020213",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59178",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Чечерский район",
+      "lon": "30.90739622169138",
+      "lat": "52.91646275815254"
+    },
+    {
+      "school_osm_id": "241020213",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "30.90739622169138",
+      "lat": "52.91646275815254"
+    },
+    {
+      "school_osm_id": "241020213",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.90739622169138",
+      "lat": "52.91646275815254"
+    }
+  ]
+}

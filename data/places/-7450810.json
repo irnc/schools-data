@@ -1,0 +1,46 @@
+[
+  {
+    "school_osm_id": "288287347",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7450810",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Заболотье",
+    "lon": "29.919852357016648",
+    "lat": "53.042614314865325"
+  },
+  {
+    "school_osm_id": "288300346",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7450810",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Заболотье",
+    "lon": "29.916440025571262",
+    "lat": "53.04232931216015"
+  },
+  {
+    "school_osm_id": "2918472481",
+    "school_osm_type": "node",
+    "school_name": "",
+    "place_osm_id": "-7450810",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Заболотье",
+    "lon": "29.919850599999993",
+    "lat": "53.04260379908931"
+  },
+  {
+    "school_osm_id": "2918603905",
+    "school_osm_type": "node",
+    "school_name": "",
+    "place_osm_id": "-7450810",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Заболотье",
+    "lon": "29.9164001",
+    "lat": "53.04226979908929"
+  }
+]

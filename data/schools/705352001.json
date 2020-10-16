@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Кострица",
+    "osm_id": "-7532104",
+    "hierarchy": [
+      "Пригородный сельский Совет",
+      "Борисовский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.359292649267786",
+    "lon": "28.621941550006778"
+  },
+  "group": [
+    {
+      "school_osm_id": "705352001",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8016710",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Пригородный сельский Совет",
+      "lon": "28.621941550006778",
+      "lat": "54.359292649267786"
+    },
+    {
+      "school_osm_id": "705352001",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7532104",
+      "place_admin_level": "10",
+      "place_place": "hamlet",
+      "place_name": "Кострица",
+      "lon": "28.621941550006778",
+      "lat": "54.359292649267786"
+    },
+    {
+      "school_osm_id": "705352001",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70569",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Борисовский район",
+      "lon": "28.621941550006778",
+      "lat": "54.359292649267786"
+    },
+    {
+      "school_osm_id": "705352001",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "28.621941550006778",
+      "lat": "54.359292649267786"
+    },
+    {
+      "school_osm_id": "705352001",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.621941550006778",
+      "lat": "54.359292649267786"
+    }
+  ]
+}

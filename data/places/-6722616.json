@@ -1,0 +1,46 @@
+[
+  {
+    "school_osm_id": "760709537",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-6722616",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Старые Дороги",
+    "lon": "28.26071020966392",
+    "lat": "53.040958896062996"
+  },
+  {
+    "school_osm_id": "760713537",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-6722616",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Старые Дороги",
+    "lon": "28.254731384747746",
+    "lat": "53.036644370981435"
+  },
+  {
+    "school_osm_id": "762271936",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа номер 1",
+    "place_osm_id": "-6722616",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Старые Дороги",
+    "lon": "28.277152009839913",
+    "lat": "53.040805330048144"
+  },
+  {
+    "school_osm_id": "1760413906",
+    "school_osm_type": "node",
+    "school_name": "",
+    "place_osm_id": "-6722616",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Старые Дороги",
+    "lon": "28.264389399999995",
+    "lat": "53.03939699908918"
+  }
+]

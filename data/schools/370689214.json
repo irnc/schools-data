@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Нача",
+    "osm_id": "-7543148",
+    "hierarchy": [
+      "Хотюховский сельский Совет",
+      "Крупский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.286523757798825",
+    "lon": "28.962234694430034"
+  },
+  "group": [
+    {
+      "school_osm_id": "370689214",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8016692",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Хотюховский сельский Совет",
+      "lon": "28.962234694430034",
+      "lat": "54.286523757798825"
+    },
+    {
+      "school_osm_id": "370689214",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7543148",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Нача",
+      "lon": "28.962234694430034",
+      "lat": "54.286523757798825"
+    },
+    {
+      "school_osm_id": "370689214",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70639",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Крупский район",
+      "lon": "28.962234694430034",
+      "lat": "54.286523757798825"
+    },
+    {
+      "school_osm_id": "370689214",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "28.962234694430034",
+      "lat": "54.286523757798825"
+    },
+    {
+      "school_osm_id": "370689214",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.962234694430034",
+      "lat": "54.286523757798825"
+    }
+  ]
+}

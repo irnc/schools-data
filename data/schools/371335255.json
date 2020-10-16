@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Езёры",
+    "osm_id": "-6804216",
+    "hierarchy": [
+      "Езёрский сельский Совет",
+      "Чериковский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.56149790781582",
+    "lon": "31.25092751898919"
+  },
+  "group": [
+    {
+      "school_osm_id": "371335255",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8140445",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Езёрский сельский Совет",
+      "lon": "31.25092751898919",
+      "lat": "53.56149790781582"
+    },
+    {
+      "school_osm_id": "371335255",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-6804216",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Езёры",
+      "lon": "31.25092751898919",
+      "lat": "53.56149790781582"
+    },
+    {
+      "school_osm_id": "371335255",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70595",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Чериковский район",
+      "lon": "31.25092751898919",
+      "lat": "53.56149790781582"
+    },
+    {
+      "school_osm_id": "371335255",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "31.25092751898919",
+      "lat": "53.56149790781582"
+    },
+    {
+      "school_osm_id": "371335255",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "31.25092751898919",
+      "lat": "53.56149790781582"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Мядель",
+    "osm_id": "-6722574",
+    "hierarchy": [
+      "Мядельский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.87016749938218",
+    "lon": "26.9255958"
+  },
+  "group": [
+    {
+      "school_osm_id": "7670811926",
+      "school_osm_type": "node",
+      "school_name": "Школа гребли",
+      "place_osm_id": "-6722574",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Мядель",
+      "lon": "26.9255958",
+      "lat": "54.87016749938218"
+    },
+    {
+      "school_osm_id": "7670811926",
+      "school_osm_type": "node",
+      "school_name": "Школа гребли",
+      "place_osm_id": "-70719",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Мядельский район",
+      "lon": "26.9255958",
+      "lat": "54.87016749938218"
+    },
+    {
+      "school_osm_id": "7670811926",
+      "school_osm_type": "node",
+      "school_name": "Школа гребли",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "26.9255958",
+      "lat": "54.87016749938218"
+    },
+    {
+      "school_osm_id": "7670811926",
+      "school_osm_type": "node",
+      "school_name": "Школа гребли",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.9255958",
+      "lat": "54.87016749938218"
+    }
+  ]
+}

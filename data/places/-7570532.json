@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "181733057",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7570532",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Рудня",
+    "lon": "28.375208849850722",
+    "lat": "53.885853647596775"
+  },
+  {
+    "school_osm_id": "512104516",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7570532",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Рудня",
+    "lon": "28.376132662915534",
+    "lat": "53.88605975125491"
+  }
+]

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Заслоново",
+    "osm_id": "-7486311",
+    "hierarchy": [
+      "Горский сельский Совет",
+      "Лепельский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.88845313452615",
+    "lon": "28.922001169998364"
+  },
+  "group": [
+    {
+      "school_osm_id": "456243736",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7486311",
+      "place_admin_level": "10",
+      "place_place": "hamlet",
+      "place_name": "Заслоново",
+      "lon": "28.922001169998364",
+      "lat": "54.88845313452615"
+    },
+    {
+      "school_osm_id": "456243736",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-6826049",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Горский сельский Совет",
+      "lon": "28.922001169998364",
+      "lat": "54.88845313452615"
+    },
+    {
+      "school_osm_id": "456243736",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70679",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Лепельский район",
+      "lon": "28.922001169998364",
+      "lat": "54.88845313452615"
+    },
+    {
+      "school_osm_id": "456243736",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "28.922001169998364",
+      "lat": "54.88845313452615"
+    },
+    {
+      "school_osm_id": "456243736",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.922001169998364",
+      "lat": "54.88845313452615"
+    }
+  ]
+}

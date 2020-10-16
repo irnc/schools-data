@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Яново",
+    "osm_id": "-7501839",
+    "hierarchy": [
+      "Коковчинский сельский Совет",
+      "Сенненский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.7600436246962",
+    "lon": "30.098368950345677"
+  },
+  "group": [
+    {
+      "school_osm_id": "190863022",
+      "school_osm_type": "way",
+      "school_name": "Яновская средняя школа",
+      "place_osm_id": "-7923834",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Коковчинский сельский Совет",
+      "lon": "30.098368950345677",
+      "lat": "54.7600436246962"
+    },
+    {
+      "school_osm_id": "190863022",
+      "school_osm_type": "way",
+      "school_name": "Яновская средняя школа",
+      "place_osm_id": "-7501839",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Яново",
+      "lon": "30.098368950345677",
+      "lat": "54.7600436246962"
+    },
+    {
+      "school_osm_id": "190863022",
+      "school_osm_type": "way",
+      "school_name": "Яновская средняя школа",
+      "place_osm_id": "-70662",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Сенненский район",
+      "lon": "30.098368950345677",
+      "lat": "54.7600436246962"
+    },
+    {
+      "school_osm_id": "190863022",
+      "school_osm_type": "way",
+      "school_name": "Яновская средняя школа",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "30.098368950345677",
+      "lat": "54.7600436246962"
+    },
+    {
+      "school_osm_id": "190863022",
+      "school_osm_type": "way",
+      "school_name": "Яновская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.098368950345677",
+      "lat": "54.7600436246962"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Рясно",
+    "osm_id": "-5549618",
+    "hierarchy": [
+      "Рясненский сельский Совет",
+      "Дрибинский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.014136253875066",
+    "lon": "31.21010852694423"
+  },
+  "group": [
+    {
+      "school_osm_id": "373079567",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8140450",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Рясненский сельский Совет",
+      "lon": "31.21010852694423",
+      "lat": "54.014136253875066"
+    },
+    {
+      "school_osm_id": "373079567",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-5549618",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Рясно",
+      "lon": "31.21010852694423",
+      "lat": "54.014136253875066"
+    },
+    {
+      "school_osm_id": "373079567",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70618",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Дрибинский район",
+      "lon": "31.21010852694423",
+      "lat": "54.014136253875066"
+    },
+    {
+      "school_osm_id": "373079567",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "31.21010852694423",
+      "lat": "54.014136253875066"
+    },
+    {
+      "school_osm_id": "373079567",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "31.21010852694423",
+      "lat": "54.014136253875066"
+    }
+  ]
+}

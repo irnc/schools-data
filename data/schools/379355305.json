@@ -1,0 +1,46 @@
+{
+  "place": {
+    "name": "Минск",
+    "osm_id": "-59195",
+    "hierarchy": []
+  },
+  "geo": {
+    "lat": "53.88796777645481",
+    "lon": "27.58601507318689"
+  },
+  "group": [
+    {
+      "school_osm_id": "379355305",
+      "school_osm_type": "way",
+      "school_name": "Музыкальная школа №18",
+      "place_osm_id": "-59202",
+      "place_admin_level": "9",
+      "place_place": "",
+      "place_name": "Ленинский район",
+      "lon": "27.58601507318689",
+      "lat": "53.88796777645481"
+    },
+    {
+      "school_osm_id": "379355305",
+      "school_osm_type": "way",
+      "school_name": "Музыкальная школа №18",
+      "place_osm_id": "-59195",
+      "place_admin_level": "4",
+      "place_place": "city",
+      "place_name": "Минск",
+      "lon": "27.58601507318689",
+      "lat": "53.88796777645481"
+    },
+    {
+      "school_osm_id": "379355305",
+      "school_osm_type": "way",
+      "school_name": "Музыкальная школа №18",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.58601507318689",
+      "lat": "53.88796777645481"
+    }
+  ]
+}

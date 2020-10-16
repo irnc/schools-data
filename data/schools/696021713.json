@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Андроны",
+    "osm_id": "-7498322",
+    "hierarchy": [
+      "Куропольский сельский Совет",
+      "Поставский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.23234244965866",
+    "lon": "26.982273200094237"
+  },
+  "group": [
+    {
+      "school_osm_id": "696021713",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8016495",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Куропольский сельский Совет",
+      "lon": "26.982273200094237",
+      "lat": "55.23234244965866"
+    },
+    {
+      "school_osm_id": "696021713",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7498322",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Андроны",
+      "lon": "26.982273200094237",
+      "lat": "55.23234244965866"
+    },
+    {
+      "school_osm_id": "696021713",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70707",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Поставский район",
+      "lon": "26.982273200094237",
+      "lat": "55.23234244965866"
+    },
+    {
+      "school_osm_id": "696021713",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "26.982273200094237",
+      "lat": "55.23234244965866"
+    },
+    {
+      "school_osm_id": "696021713",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.982273200094237",
+      "lat": "55.23234244965866"
+    }
+  ]
+}

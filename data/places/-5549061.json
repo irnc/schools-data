@@ -1,0 +1,79 @@
+[
+  {
+    "school_osm_id": "308022055",
+    "school_osm_type": "way",
+    "school_name": "Гимназия №1 «Логос»",
+    "place_osm_id": "-5549061",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Вилейка",
+    "lon": "26.918088678063995",
+    "lat": "54.496782179869484"
+  },
+  {
+    "school_osm_id": "317617345",
+    "school_osm_type": "way",
+    "school_name": "Школа №1",
+    "place_osm_id": "-5549061",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Вилейка",
+    "lon": "26.89665767183494",
+    "lat": "54.48828683274892"
+  },
+  {
+    "school_osm_id": "318033954",
+    "school_osm_type": "way",
+    "school_name": "Вилейская СШ № 3",
+    "place_osm_id": "-5549061",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Вилейка",
+    "lon": "26.90151541517956",
+    "lat": "54.48292671050095"
+  },
+  {
+    "school_osm_id": "318034059",
+    "school_osm_type": "way",
+    "school_name": "Школа №5",
+    "place_osm_id": "-5549061",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Вилейка",
+    "lon": "26.933877393166902",
+    "lat": "54.50748249152994"
+  },
+  {
+    "school_osm_id": "370078915",
+    "school_osm_type": "way",
+    "school_name": "Школа-интернат",
+    "place_osm_id": "-5549061",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Вилейка",
+    "lon": "26.915222558148056",
+    "lat": "54.493179533921996"
+  },
+  {
+    "school_osm_id": "442032026",
+    "school_osm_type": "way",
+    "school_name": "Вилейский районный образовательно-интеллектуальный центр",
+    "place_osm_id": "-5549061",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Вилейка",
+    "lon": "26.919465913186613",
+    "lat": "54.49456422612282"
+  },
+  {
+    "school_osm_id": "442187238",
+    "school_osm_type": "way",
+    "school_name": "Гимназия №2",
+    "place_osm_id": "-5549061",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Вилейка",
+    "lon": "26.898121548931584",
+    "lat": "54.479444219838506"
+  }
+]

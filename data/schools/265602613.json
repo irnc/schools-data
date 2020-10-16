@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Торкачи",
+    "osm_id": "-4784455",
+    "hierarchy": [
+      "Даниловичский сельский Совет",
+      "Дятловский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.505887092847374",
+    "lon": "25.617865572933844"
+  },
+  "group": [
+    {
+      "school_osm_id": "265602613",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8100410",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Даниловичский сельский Совет",
+      "lon": "25.617865572933844",
+      "lat": "53.505887092847374"
+    },
+    {
+      "school_osm_id": "265602613",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-4784455",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Торкачи",
+      "lon": "25.617865572933844",
+      "lat": "53.505887092847374"
+    },
+    {
+      "school_osm_id": "265602613",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70768",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Дятловский район",
+      "lon": "25.617865572933844",
+      "lat": "53.505887092847374"
+    },
+    {
+      "school_osm_id": "265602613",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "25.617865572933844",
+      "lat": "53.505887092847374"
+    },
+    {
+      "school_osm_id": "265602613",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "25.617865572933844",
+      "lat": "53.505887092847374"
+    }
+  ]
+}

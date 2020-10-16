@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Дудичи",
+    "osm_id": "-7443594",
+    "hierarchy": [
+      "Дудичский сельский Совет",
+      "Калинковичский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.179327642689465",
+    "lon": "29.34426303697774"
+  },
+  "group": [
+    {
+      "school_osm_id": "326189212",
+      "school_osm_type": "way",
+      "school_name": "Дудичская средняя школа",
+      "place_osm_id": "-8087904",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Дудичский сельский Совет",
+      "lon": "29.34426303697774",
+      "lat": "52.179327642689465"
+    },
+    {
+      "school_osm_id": "326189212",
+      "school_osm_type": "way",
+      "school_name": "Дудичская средняя школа",
+      "place_osm_id": "-7443594",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Дудичи",
+      "lon": "29.34426303697774",
+      "lat": "52.179327642689465"
+    },
+    {
+      "school_osm_id": "326189212",
+      "school_osm_type": "way",
+      "school_name": "Дудичская средняя школа",
+      "place_osm_id": "-70814",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Калинковичский район",
+      "lon": "29.34426303697774",
+      "lat": "52.179327642689465"
+    },
+    {
+      "school_osm_id": "326189212",
+      "school_osm_type": "way",
+      "school_name": "Дудичская средняя школа",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "29.34426303697774",
+      "lat": "52.179327642689465"
+    },
+    {
+      "school_osm_id": "326189212",
+      "school_osm_type": "way",
+      "school_name": "Дудичская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.34426303697774",
+      "lat": "52.179327642689465"
+    }
+  ]
+}

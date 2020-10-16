@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Бабичи",
+    "osm_id": "-7453624",
+    "hierarchy": [
+      "Нисимковичский сельский Совет",
+      "Чечерский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.87899764279708",
+    "lon": "31.17459776884683"
+  },
+  "group": [
+    {
+      "school_osm_id": "401745242",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8031189",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Нисимковичский сельский Совет",
+      "lon": "31.17459776884683",
+      "lat": "52.87899764279708"
+    },
+    {
+      "school_osm_id": "401745242",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7453624",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Бабичи",
+      "lon": "31.17459776884683",
+      "lat": "52.87899764279708"
+    },
+    {
+      "school_osm_id": "401745242",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59178",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Чечерский район",
+      "lon": "31.17459776884683",
+      "lat": "52.87899764279708"
+    },
+    {
+      "school_osm_id": "401745242",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "31.17459776884683",
+      "lat": "52.87899764279708"
+    },
+    {
+      "school_osm_id": "401745242",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "31.17459776884683",
+      "lat": "52.87899764279708"
+    }
+  ]
+}

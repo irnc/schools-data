@@ -1,0 +1,119 @@
+{
+  "place": "warning-school-without-place",
+  "geo": {
+    "lat": "53.01273242506498",
+    "lon": "24.777759151494706"
+  },
+  "group": [
+    {
+      "school_osm_id": "-8356993",
+      "school_osm_type": "relation",
+      "school_name": "Теглевичский детский сад-средняя школа",
+      "place_osm_id": "-8100436",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Доброселецкий сельский Совет",
+      "lon": "24.777759151494706",
+      "lat": "53.01273242506498"
+    },
+    {
+      "school_osm_id": "-8356993",
+      "school_osm_type": "relation",
+      "school_name": "Теглевичский детский сад-средняя школа",
+      "place_osm_id": "-8100436",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Доброселецкий сельский Совет",
+      "lon": "24.779775495693542",
+      "lat": "53.01376075355295"
+    },
+    {
+      "school_osm_id": "-8356993",
+      "school_osm_type": "relation",
+      "school_name": "Теглевичский детский сад-средняя школа",
+      "place_osm_id": "-7514878",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Теглевичи",
+      "lon": "24.777759151494706",
+      "lat": "53.01273242506498"
+    },
+    {
+      "school_osm_id": "-8356993",
+      "school_osm_type": "relation",
+      "school_name": "Теглевичский детский сад-средняя школа",
+      "place_osm_id": "-7514878",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Теглевичи",
+      "lon": "24.779775495693542",
+      "lat": "53.01376075355295"
+    },
+    {
+      "school_osm_id": "-8356993",
+      "school_osm_type": "relation",
+      "school_name": "Теглевичский детский сад-средняя школа",
+      "place_osm_id": "-70772",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Зельвенский район",
+      "lon": "24.777759151494706",
+      "lat": "53.01273242506498"
+    },
+    {
+      "school_osm_id": "-8356993",
+      "school_osm_type": "relation",
+      "school_name": "Теглевичский детский сад-средняя школа",
+      "place_osm_id": "-70772",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Зельвенский район",
+      "lon": "24.779775495693542",
+      "lat": "53.01376075355295"
+    },
+    {
+      "school_osm_id": "-8356993",
+      "school_osm_type": "relation",
+      "school_name": "Теглевичский детский сад-средняя школа",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "24.777759151494706",
+      "lat": "53.01273242506498"
+    },
+    {
+      "school_osm_id": "-8356993",
+      "school_osm_type": "relation",
+      "school_name": "Теглевичский детский сад-средняя школа",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "24.779775495693542",
+      "lat": "53.01376075355295"
+    },
+    {
+      "school_osm_id": "-8356993",
+      "school_osm_type": "relation",
+      "school_name": "Теглевичский детский сад-средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "24.777759151494706",
+      "lat": "53.01273242506498"
+    },
+    {
+      "school_osm_id": "-8356993",
+      "school_osm_type": "relation",
+      "school_name": "Теглевичский детский сад-средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "24.779775495693542",
+      "lat": "53.01376075355295"
+    }
+  ]
+}

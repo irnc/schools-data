@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Криничный",
+    "osm_id": "-7446621",
+    "hierarchy": [
+      "Криничный сельский Совет",
+      "Мозырский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "51.99545072894155",
+    "lon": "29.324227727335895"
+  },
+  "group": [
+    {
+      "school_osm_id": "570671308",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8087887",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Криничный сельский Совет",
+      "lon": "29.324227727335895",
+      "lat": "51.99545072894155"
+    },
+    {
+      "school_osm_id": "570671308",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7446621",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Криничный",
+      "lon": "29.324227727335895",
+      "lat": "51.99545072894155"
+    },
+    {
+      "school_osm_id": "570671308",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70815",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Мозырский район",
+      "lon": "29.324227727335895",
+      "lat": "51.99545072894155"
+    },
+    {
+      "school_osm_id": "570671308",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "29.324227727335895",
+      "lat": "51.99545072894155"
+    },
+    {
+      "school_osm_id": "570671308",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.324227727335895",
+      "lat": "51.99545072894155"
+    }
+  ]
+}

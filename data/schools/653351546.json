@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Шиловичи",
+    "osm_id": "-7509129",
+    "hierarchy": [
+      "Шиловичский сельский Совет",
+      "Волковысский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.16745814545934",
+    "lon": "24.24516045616282"
+  },
+  "group": [
+    {
+      "school_osm_id": "653351546",
+      "school_osm_type": "way",
+      "school_name": "Шиловичская средняя школа",
+      "place_osm_id": "-8085948",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Шиловичский сельский Совет",
+      "lon": "24.24516045616282",
+      "lat": "53.16745814545934"
+    },
+    {
+      "school_osm_id": "653351546",
+      "school_osm_type": "way",
+      "school_name": "Шиловичская средняя школа",
+      "place_osm_id": "-7509129",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Шиловичи",
+      "lon": "24.24516045616282",
+      "lat": "53.16745814545934"
+    },
+    {
+      "school_osm_id": "653351546",
+      "school_osm_type": "way",
+      "school_name": "Шиловичская средняя школа",
+      "place_osm_id": "-70771",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Волковысский район",
+      "lon": "24.24516045616282",
+      "lat": "53.16745814545934"
+    },
+    {
+      "school_osm_id": "653351546",
+      "school_osm_type": "way",
+      "school_name": "Шиловичская средняя школа",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "24.24516045616282",
+      "lat": "53.16745814545934"
+    },
+    {
+      "school_osm_id": "653351546",
+      "school_osm_type": "way",
+      "school_name": "Шиловичская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "24.24516045616282",
+      "lat": "53.16745814545934"
+    }
+  ]
+}

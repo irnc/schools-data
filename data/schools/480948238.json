@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Горки",
+    "osm_id": "-6722644",
+    "hierarchy": [
+      "Горецкий район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.29014813369439",
+    "lon": "30.977794338318763"
+  },
+  "group": [
+    {
+      "school_osm_id": "480948238",
+      "school_osm_type": "way",
+      "school_name": "СШ №2",
+      "place_osm_id": "-6722644",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Горки",
+      "lon": "30.977794338318763",
+      "lat": "54.29014813369439"
+    },
+    {
+      "school_osm_id": "480948238",
+      "school_osm_type": "way",
+      "school_name": "СШ №2",
+      "place_osm_id": "-70620",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Горецкий район",
+      "lon": "30.977794338318763",
+      "lat": "54.29014813369439"
+    },
+    {
+      "school_osm_id": "480948238",
+      "school_osm_type": "way",
+      "school_name": "СШ №2",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "30.977794338318763",
+      "lat": "54.29014813369439"
+    },
+    {
+      "school_osm_id": "480948238",
+      "school_osm_type": "way",
+      "school_name": "СШ №2",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.977794338318763",
+      "lat": "54.29014813369439"
+    }
+  ]
+}

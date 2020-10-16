@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Любашево",
+    "osm_id": "-7463765",
+    "hierarchy": [
+      "Любашевский сельский Совет",
+      "Ганцевичский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.7781276990842",
+    "lon": "26.422873999999997"
+  },
+  "group": [
+    {
+      "school_osm_id": "7175479441",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-8096145",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Любашевский сельский Совет",
+      "lon": "26.422873999999997",
+      "lat": "52.7781276990842"
+    },
+    {
+      "school_osm_id": "7175479441",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-7463765",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Любашево",
+      "lon": "26.422873999999997",
+      "lat": "52.7781276990842"
+    },
+    {
+      "school_osm_id": "7175479441",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-71121",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Ганцевичский район",
+      "lon": "26.422873999999997",
+      "lat": "52.7781276990842"
+    },
+    {
+      "school_osm_id": "7175479441",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "26.422873999999997",
+      "lat": "52.7781276990842"
+    },
+    {
+      "school_osm_id": "7175479441",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.422873999999997",
+      "lat": "52.7781276990842"
+    }
+  ]
+}

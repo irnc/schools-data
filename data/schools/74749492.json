@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Шклов",
+    "osm_id": "-4684730",
+    "hierarchy": [
+      "Шкловский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.20312413478838",
+    "lon": "30.296715821017525"
+  },
+  "group": [
+    {
+      "school_osm_id": "74749492",
+      "school_osm_type": "way",
+      "school_name": "Школа искусств",
+      "place_osm_id": "-4684730",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Шклов",
+      "lon": "30.296715821017525",
+      "lat": "54.20312413478838"
+    },
+    {
+      "school_osm_id": "74749492",
+      "school_osm_type": "way",
+      "school_name": "Школа искусств",
+      "place_osm_id": "-70626",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Шкловский район",
+      "lon": "30.296715821017525",
+      "lat": "54.20312413478838"
+    },
+    {
+      "school_osm_id": "74749492",
+      "school_osm_type": "way",
+      "school_name": "Школа искусств",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "30.296715821017525",
+      "lat": "54.20312413478838"
+    },
+    {
+      "school_osm_id": "74749492",
+      "school_osm_type": "way",
+      "school_name": "Школа искусств",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.296715821017525",
+      "lat": "54.20312413478838"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Выверы",
+    "osm_id": "-7549401",
+    "hierarchy": [
+      "Мясотский сельский Совет",
+      "Молодечненский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.275326913298166",
+    "lon": "26.94290577670482"
+  },
+  "group": [
+    {
+      "school_osm_id": "375720367",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8013924",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Мясотский сельский Совет",
+      "lon": "26.94290577670482",
+      "lat": "54.275326913298166"
+    },
+    {
+      "school_osm_id": "375720367",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7549401",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Выверы",
+      "lon": "26.94290577670482",
+      "lat": "54.275326913298166"
+    },
+    {
+      "school_osm_id": "375720367",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70566",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Молодечненский район",
+      "lon": "26.94290577670482",
+      "lat": "54.275326913298166"
+    },
+    {
+      "school_osm_id": "375720367",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "26.94290577670482",
+      "lat": "54.275326913298166"
+    },
+    {
+      "school_osm_id": "375720367",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.94290577670482",
+      "lat": "54.275326913298166"
+    }
+  ]
+}

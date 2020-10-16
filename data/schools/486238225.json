@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Жлобин",
+    "osm_id": "-5598358",
+    "hierarchy": [
+      "Жлобинский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.903414630178546",
+    "lon": "30.041993662763268"
+  },
+  "group": [
+    {
+      "school_osm_id": "486238225",
+      "school_osm_type": "way",
+      "school_name": "Школа №10",
+      "place_osm_id": "-5598358",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Жлобин",
+      "lon": "30.041993662763268",
+      "lat": "52.903414630178546"
+    },
+    {
+      "school_osm_id": "486238225",
+      "school_osm_type": "way",
+      "school_name": "Школа №10",
+      "place_osm_id": "-59167",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Жлобинский район",
+      "lon": "30.041993662763268",
+      "lat": "52.903414630178546"
+    },
+    {
+      "school_osm_id": "486238225",
+      "school_osm_type": "way",
+      "school_name": "Школа №10",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "30.041993662763268",
+      "lat": "52.903414630178546"
+    },
+    {
+      "school_osm_id": "486238225",
+      "school_osm_type": "way",
+      "school_name": "Школа №10",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.041993662763268",
+      "lat": "52.903414630178546"
+    }
+  ]
+}

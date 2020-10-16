@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Малая Берестовица",
+    "osm_id": "-7507294",
+    "hierarchy": [
+      "Малоберестовицкий сельский Совет",
+      "Берестовицкий район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.28474038268319",
+    "lon": "23.939579292668622"
+  },
+  "group": [
+    {
+      "school_osm_id": "690159687",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8025373",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Малоберестовицкий сельский Совет",
+      "lon": "23.939579292668622",
+      "lat": "53.28474038268319"
+    },
+    {
+      "school_osm_id": "690159687",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7507294",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Малая Берестовица",
+      "lon": "23.939579292668622",
+      "lat": "53.28474038268319"
+    },
+    {
+      "school_osm_id": "690159687",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70790",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Берестовицкий район",
+      "lon": "23.939579292668622",
+      "lat": "53.28474038268319"
+    },
+    {
+      "school_osm_id": "690159687",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "23.939579292668622",
+      "lat": "53.28474038268319"
+    },
+    {
+      "school_osm_id": "690159687",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "23.939579292668622",
+      "lat": "53.28474038268319"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Болота",
+    "osm_id": "-7465834",
+    "hierarchy": [
+      "Киселевецкий сельский Совет",
+      "Кобринский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.14095387726295",
+    "lon": "24.51980453153161"
+  },
+  "group": [
+    {
+      "school_osm_id": "380450618",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8028564",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Киселевецкий сельский Совет",
+      "lon": "24.51980453153161",
+      "lat": "52.14095387726295"
+    },
+    {
+      "school_osm_id": "380450618",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7465834",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Болота",
+      "lon": "24.51980453153161",
+      "lat": "52.14095387726295"
+    },
+    {
+      "school_osm_id": "380450618",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-71101",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Кобринский район",
+      "lon": "24.51980453153161",
+      "lat": "52.14095387726295"
+    },
+    {
+      "school_osm_id": "380450618",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "24.51980453153161",
+      "lat": "52.14095387726295"
+    },
+    {
+      "school_osm_id": "380450618",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "24.51980453153161",
+      "lat": "52.14095387726295"
+    }
+  ]
+}

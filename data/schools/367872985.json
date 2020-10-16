@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Барбаров",
+    "osm_id": "-7446613",
+    "hierarchy": [
+      "Барбаровский сельский Совет",
+      "Мозырский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "51.908149436105084",
+    "lon": "29.48038018494429"
+  },
+  "group": [
+    {
+      "school_osm_id": "367872985",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8087890",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Барбаровский сельский Совет",
+      "lon": "29.48038018494429",
+      "lat": "51.908149436105084"
+    },
+    {
+      "school_osm_id": "367872985",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7446613",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Барбаров",
+      "lon": "29.48038018494429",
+      "lat": "51.908149436105084"
+    },
+    {
+      "school_osm_id": "367872985",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70815",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Мозырский район",
+      "lon": "29.48038018494429",
+      "lat": "51.908149436105084"
+    },
+    {
+      "school_osm_id": "367872985",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "29.48038018494429",
+      "lat": "51.908149436105084"
+    },
+    {
+      "school_osm_id": "367872985",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.48038018494429",
+      "lat": "51.908149436105084"
+    }
+  ]
+}

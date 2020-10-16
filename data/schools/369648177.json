@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Язно",
+    "osm_id": "-7491702",
+    "hierarchy": [
+      "Язненский сельский Совет",
+      "Миорский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.41954294355301",
+    "lon": "28.159700057314694"
+  },
+  "group": [
+    {
+      "school_osm_id": "369648177",
+      "school_osm_type": "way",
+      "school_name": "Язненская средняя школа",
+      "place_osm_id": "-8075943",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Язненский сельский Совет",
+      "lon": "28.159700057314694",
+      "lat": "55.41954294355301"
+    },
+    {
+      "school_osm_id": "369648177",
+      "school_osm_type": "way",
+      "school_name": "Язненская средняя школа",
+      "place_osm_id": "-7491702",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Язно",
+      "lon": "28.159700057314694",
+      "lat": "55.41954294355301"
+    },
+    {
+      "school_osm_id": "369648177",
+      "school_osm_type": "way",
+      "school_name": "Язненская средняя школа",
+      "place_osm_id": "-70690",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Миорский район",
+      "lon": "28.159700057314694",
+      "lat": "55.41954294355301"
+    },
+    {
+      "school_osm_id": "369648177",
+      "school_osm_type": "way",
+      "school_name": "Язненская средняя школа",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "28.159700057314694",
+      "lat": "55.41954294355301"
+    },
+    {
+      "school_osm_id": "369648177",
+      "school_osm_type": "way",
+      "school_name": "Язненская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.159700057314694",
+      "lat": "55.41954294355301"
+    }
+  ]
+}

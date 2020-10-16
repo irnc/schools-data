@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Лошаны",
+    "osm_id": "-5651211",
+    "hierarchy": [
+      "Лошанский сельский Совет",
+      "Минский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.04190107970335",
+    "lon": "27.30140152398371"
+  },
+  "group": [
+    {
+      "school_osm_id": "664070703",
+      "school_osm_type": "way",
+      "school_name": "Лошанский детский сад - средняя школа",
+      "place_osm_id": "-8144262",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Лошанский сельский Совет",
+      "lon": "27.30140152398371",
+      "lat": "54.04190107970335"
+    },
+    {
+      "school_osm_id": "664070703",
+      "school_osm_type": "way",
+      "school_name": "Лошанский детский сад - средняя школа",
+      "place_osm_id": "-5651211",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Лошаны",
+      "lon": "27.30140152398371",
+      "lat": "54.04190107970335"
+    },
+    {
+      "school_osm_id": "664070703",
+      "school_osm_type": "way",
+      "school_name": "Лошанский детский сад - средняя школа",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.30140152398371",
+      "lat": "54.04190107970335"
+    },
+    {
+      "school_osm_id": "664070703",
+      "school_osm_type": "way",
+      "school_name": "Лошанский детский сад - средняя школа",
+      "place_osm_id": "-59190",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Минский район",
+      "lon": "27.30140152398371",
+      "lat": "54.04190107970335"
+    },
+    {
+      "school_osm_id": "664070703",
+      "school_osm_type": "way",
+      "school_name": "Лошанский детский сад - средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.30140152398371",
+      "lat": "54.04190107970335"
+    }
+  ]
+}

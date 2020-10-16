@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Матырино",
+    "osm_id": "-7486020",
+    "hierarchy": [
+      "Бобровский сельский Совет",
+      "Лепельский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.96191576958334",
+    "lon": "28.9414989638748"
+  },
+  "group": [
+    {
+      "school_osm_id": "721527599",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7486020",
+      "place_admin_level": "10",
+      "place_place": "hamlet",
+      "place_name": "Матырино",
+      "lon": "28.9414989638748",
+      "lat": "54.96191576958334"
+    },
+    {
+      "school_osm_id": "721527599",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-6826051",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Бобровский сельский Совет",
+      "lon": "28.9414989638748",
+      "lat": "54.96191576958334"
+    },
+    {
+      "school_osm_id": "721527599",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70679",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Лепельский район",
+      "lon": "28.9414989638748",
+      "lat": "54.96191576958334"
+    },
+    {
+      "school_osm_id": "721527599",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "28.9414989638748",
+      "lat": "54.96191576958334"
+    },
+    {
+      "school_osm_id": "721527599",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.9414989638748",
+      "lat": "54.96191576958334"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Высокая Липа",
+    "osm_id": "-7552714",
+    "hierarchy": [
+      "Липский сельский Совет",
+      "Несвижский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.23942816132195",
+    "lon": "26.47652424895037"
+  },
+  "group": [
+    {
+      "school_osm_id": "376940032",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8139736",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Липский сельский Совет",
+      "lon": "26.47652424895037",
+      "lat": "53.23942816132195"
+    },
+    {
+      "school_osm_id": "376940032",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7552714",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Высокая Липа",
+      "lon": "26.47652424895037",
+      "lat": "53.23942816132195"
+    },
+    {
+      "school_osm_id": "376940032",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-71128",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Несвижский район",
+      "lon": "26.47652424895037",
+      "lat": "53.23942816132195"
+    },
+    {
+      "school_osm_id": "376940032",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "26.47652424895037",
+      "lat": "53.23942816132195"
+    },
+    {
+      "school_osm_id": "376940032",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.47652424895037",
+      "lat": "53.23942816132195"
+    }
+  ]
+}

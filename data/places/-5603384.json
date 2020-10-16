@@ -1,0 +1,46 @@
+[
+  {
+    "school_osm_id": "55635514",
+    "school_osm_type": "way",
+    "school_name": "СШ №2",
+    "place_osm_id": "-5603384",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Каменец",
+    "lon": "23.82304223208224",
+    "lat": "52.39475731049916"
+  },
+  {
+    "school_osm_id": "55687994",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-5603384",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Каменец",
+    "lon": "23.825858799407786",
+    "lat": "52.393097396493985"
+  },
+  {
+    "school_osm_id": "90275111",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №1",
+    "place_osm_id": "-5603384",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Каменец",
+    "lon": "23.819215225135792",
+    "lat": "52.40406204298762"
+  },
+  {
+    "school_osm_id": "4689552292",
+    "school_osm_type": "node",
+    "school_name": "СДЮШОР",
+    "place_osm_id": "-5603384",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Каменец",
+    "lon": "23.8214372",
+    "lat": "52.39507239909196"
+  }
+]

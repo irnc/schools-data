@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Иговка",
+    "osm_id": "-7443016",
+    "hierarchy": [
+      "Рассветовский сельский Совет",
+      "Добрушский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.3517994966759",
+    "lon": "31.430655691003754"
+  },
+  "group": [
+    {
+      "school_osm_id": "181081909",
+      "school_osm_type": "way",
+      "school_name": "Иговская СШ",
+      "place_osm_id": "-8065396",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Рассветовский сельский Совет",
+      "lon": "31.430655691003754",
+      "lat": "52.3517994966759"
+    },
+    {
+      "school_osm_id": "181081909",
+      "school_osm_type": "way",
+      "school_name": "Иговская СШ",
+      "place_osm_id": "-7443016",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Иговка",
+      "lon": "31.430655691003754",
+      "lat": "52.3517994966759"
+    },
+    {
+      "school_osm_id": "181081909",
+      "school_osm_type": "way",
+      "school_name": "Иговская СШ",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "31.430655691003754",
+      "lat": "52.3517994966759"
+    },
+    {
+      "school_osm_id": "181081909",
+      "school_osm_type": "way",
+      "school_name": "Иговская СШ",
+      "place_osm_id": "-59092",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Добрушский район",
+      "lon": "31.430655691003754",
+      "lat": "52.3517994966759"
+    },
+    {
+      "school_osm_id": "181081909",
+      "school_osm_type": "way",
+      "school_name": "Иговская СШ",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "31.430655691003754",
+      "lat": "52.3517994966759"
+    }
+  ]
+}

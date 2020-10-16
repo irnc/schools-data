@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Быхов",
+    "osm_id": "-6722642",
+    "hierarchy": [
+      "Быховский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.52878911218004",
+    "lon": "30.21091663732063"
+  },
+  "group": [
+    {
+      "school_osm_id": "215055674",
+      "school_osm_type": "way",
+      "school_name": "Музыкальная Школа",
+      "place_osm_id": "-6722642",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Быхов",
+      "lon": "30.21091663732063",
+      "lat": "53.52878911218004"
+    },
+    {
+      "school_osm_id": "215055674",
+      "school_osm_type": "way",
+      "school_name": "Музыкальная Школа",
+      "place_osm_id": "-70586",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Быховский район",
+      "lon": "30.21091663732063",
+      "lat": "53.52878911218004"
+    },
+    {
+      "school_osm_id": "215055674",
+      "school_osm_type": "way",
+      "school_name": "Музыкальная Школа",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "30.21091663732063",
+      "lat": "53.52878911218004"
+    },
+    {
+      "school_osm_id": "215055674",
+      "school_osm_type": "way",
+      "school_name": "Музыкальная Школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.21091663732063",
+      "lat": "53.52878911218004"
+    }
+  ]
+}

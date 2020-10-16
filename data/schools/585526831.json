@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Синявка",
+    "osm_id": "-7537056",
+    "hierarchy": [
+      "Синявский сельский Совет",
+      "Клецкий район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.96593338125624",
+    "lon": "26.462634582403236"
+  },
+  "group": [
+    {
+      "school_osm_id": "585526831",
+      "school_osm_type": "way",
+      "school_name": "Синявская средняя школа",
+      "place_osm_id": "-8139725",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Синявский сельский Совет",
+      "lon": "26.462634582403236",
+      "lat": "52.96593338125624"
+    },
+    {
+      "school_osm_id": "585526831",
+      "school_osm_type": "way",
+      "school_name": "Синявская средняя школа",
+      "place_osm_id": "-7537056",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Синявка",
+      "lon": "26.462634582403236",
+      "lat": "52.96593338125624"
+    },
+    {
+      "school_osm_id": "585526831",
+      "school_osm_type": "way",
+      "school_name": "Синявская средняя школа",
+      "place_osm_id": "-71130",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Клецкий район",
+      "lon": "26.462634582403236",
+      "lat": "52.96593338125624"
+    },
+    {
+      "school_osm_id": "585526831",
+      "school_osm_type": "way",
+      "school_name": "Синявская средняя школа",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "26.462634582403236",
+      "lat": "52.96593338125624"
+    },
+    {
+      "school_osm_id": "585526831",
+      "school_osm_type": "way",
+      "school_name": "Синявская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.462634582403236",
+      "lat": "52.96593338125624"
+    }
+  ]
+}

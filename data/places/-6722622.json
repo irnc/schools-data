@@ -1,0 +1,79 @@
+[
+  {
+    "school_osm_id": "393428762",
+    "school_osm_type": "way",
+    "school_name": "Узденская районная гимназия",
+    "place_osm_id": "-6722622",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Узда",
+    "lon": "27.21823093299689",
+    "lat": "53.46782558392831"
+  },
+  {
+    "school_osm_id": "428447246",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-6722622",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Узда",
+    "lon": "27.21099492702037",
+    "lat": "53.46716508325976"
+  },
+  {
+    "school_osm_id": "443450080",
+    "school_osm_type": "way",
+    "school_name": "Школа-санаторий",
+    "place_osm_id": "-6722622",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Узда",
+    "lon": "27.212056482351468",
+    "lat": "53.46058556837111"
+  },
+  {
+    "school_osm_id": "815852892",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-6722622",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Узда",
+    "lon": "27.220664983413105",
+    "lat": "53.460098733992304"
+  },
+  {
+    "school_osm_id": "1528347551",
+    "school_osm_type": "node",
+    "school_name": "СШ №2 им. К.Крапивы",
+    "place_osm_id": "-6722622",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Узда",
+    "lon": "27.210931700000003",
+    "lat": "53.46677929911636"
+  },
+  {
+    "school_osm_id": "1528347553",
+    "school_osm_type": "node",
+    "school_name": "ДЮСШ",
+    "place_osm_id": "-6722622",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Узда",
+    "lon": "27.211870799999996",
+    "lat": "53.46689319911639"
+  },
+  {
+    "school_osm_id": "4898117869",
+    "school_osm_type": "node",
+    "school_name": "Школа №1 им. А.С.Пушкина",
+    "place_osm_id": "-6722622",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Узда",
+    "lon": "27.219887499999995",
+    "lat": "53.45966059911569"
+  }
+]

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Пелище",
+    "osm_id": "-7465513",
+    "hierarchy": [
+      "Пелищенский сельский Совет",
+      "Каменецкий район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.320442591155754",
+    "lon": "23.932179760285493"
+  },
+  "group": [
+    {
+      "school_osm_id": "695719933",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8025759",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Пелищенский сельский Совет",
+      "lon": "23.932179760285493",
+      "lat": "52.320442591155754"
+    },
+    {
+      "school_osm_id": "695719933",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7465513",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Пелище",
+      "lon": "23.932179760285493",
+      "lat": "52.320442591155754"
+    },
+    {
+      "school_osm_id": "695719933",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-71097",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Каменецкий район",
+      "lon": "23.932179760285493",
+      "lat": "52.320442591155754"
+    },
+    {
+      "school_osm_id": "695719933",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "23.932179760285493",
+      "lat": "52.320442591155754"
+    },
+    {
+      "school_osm_id": "695719933",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "23.932179760285493",
+      "lat": "52.320442591155754"
+    }
+  ]
+}

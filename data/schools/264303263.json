@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Корма",
+    "osm_id": "-7442993",
+    "hierarchy": [
+      "Кормянский сельский Совет",
+      "Добрушский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.343907759846296",
+    "lon": "31.511211963691462"
+  },
+  "group": [
+    {
+      "school_osm_id": "264303263",
+      "school_osm_type": "way",
+      "school_name": "Кормянская СШ",
+      "place_osm_id": "-8065403",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Кормянский сельский Совет",
+      "lon": "31.511211963691462",
+      "lat": "52.343907759846296"
+    },
+    {
+      "school_osm_id": "264303263",
+      "school_osm_type": "way",
+      "school_name": "Кормянская СШ",
+      "place_osm_id": "-7442993",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Корма",
+      "lon": "31.511211963691462",
+      "lat": "52.343907759846296"
+    },
+    {
+      "school_osm_id": "264303263",
+      "school_osm_type": "way",
+      "school_name": "Кормянская СШ",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "31.511211963691462",
+      "lat": "52.343907759846296"
+    },
+    {
+      "school_osm_id": "264303263",
+      "school_osm_type": "way",
+      "school_name": "Кормянская СШ",
+      "place_osm_id": "-59092",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Добрушский район",
+      "lon": "31.511211963691462",
+      "lat": "52.343907759846296"
+    },
+    {
+      "school_osm_id": "264303263",
+      "school_osm_type": "way",
+      "school_name": "Кормянская СШ",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "31.511211963691462",
+      "lat": "52.343907759846296"
+    }
+  ]
+}

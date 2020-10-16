@@ -1,0 +1,211 @@
+[
+  {
+    "school_osm_id": "41681456",
+    "school_osm_type": "way",
+    "school_name": "Гимназия №2",
+    "place_osm_id": "-6722606",
+    "place_admin_level": "8",
+    "place_place": "city",
+    "place_name": "Солигорск",
+    "lon": "27.50697683735537",
+    "lat": "52.78749158547952"
+  },
+  {
+    "school_osm_id": "41683505",
+    "school_osm_type": "way",
+    "school_name": "Школа №10",
+    "place_osm_id": "-6722606",
+    "place_admin_level": "8",
+    "place_place": "city",
+    "place_name": "Солигорск",
+    "lon": "27.513105056002008",
+    "lat": "52.78851094802523"
+  },
+  {
+    "school_osm_id": "41687355",
+    "school_osm_type": "way",
+    "school_name": "Школа №11",
+    "place_osm_id": "-6722606",
+    "place_admin_level": "8",
+    "place_place": "city",
+    "place_name": "Солигорск",
+    "lon": "27.507064244456277",
+    "lat": "52.78561472753666"
+  },
+  {
+    "school_osm_id": "41738316",
+    "school_osm_type": "way",
+    "school_name": "Школа №1",
+    "place_osm_id": "-6722606",
+    "place_admin_level": "8",
+    "place_place": "city",
+    "place_name": "Солигорск",
+    "lon": "27.52563175889859",
+    "lat": "52.78971853541719"
+  },
+  {
+    "school_osm_id": "42115148",
+    "school_osm_type": "way",
+    "school_name": "Школа №5",
+    "place_osm_id": "-6722606",
+    "place_admin_level": "8",
+    "place_place": "city",
+    "place_name": "Солигорск",
+    "lon": "27.531097346841737",
+    "lat": "52.78600619414249"
+  },
+  {
+    "school_osm_id": "42115152",
+    "school_osm_type": "way",
+    "school_name": "Школа №4",
+    "place_osm_id": "-6722606",
+    "place_admin_level": "8",
+    "place_place": "city",
+    "place_name": "Солигорск",
+    "lon": "27.533678606310065",
+    "lat": "52.786534469454985"
+  },
+  {
+    "school_osm_id": "42330679",
+    "school_osm_type": "way",
+    "school_name": "Гимназия №1",
+    "place_osm_id": "-6722606",
+    "place_admin_level": "8",
+    "place_place": "city",
+    "place_name": "Солигорск",
+    "lon": "27.546577639596634",
+    "lat": "52.78223948171073"
+  },
+  {
+    "school_osm_id": "42330680",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №6",
+    "place_osm_id": "-6722606",
+    "place_admin_level": "8",
+    "place_place": "city",
+    "place_name": "Солигорск",
+    "lon": "27.547782778432875",
+    "lat": "52.783531898709086"
+  },
+  {
+    "school_osm_id": "42956978",
+    "school_osm_type": "way",
+    "school_name": "Школа №2",
+    "place_osm_id": "-6722606",
+    "place_admin_level": "8",
+    "place_place": "city",
+    "place_name": "Солигорск",
+    "lon": "27.548656338236235",
+    "lat": "52.79026612246268"
+  },
+  {
+    "school_osm_id": "71183155",
+    "school_osm_type": "way",
+    "school_name": "Гимназия №3",
+    "place_osm_id": "-6722606",
+    "place_admin_level": "8",
+    "place_place": "city",
+    "place_name": "Солигорск",
+    "lon": "27.5347452721079",
+    "lat": "52.77662780427142"
+  },
+  {
+    "school_osm_id": "71183167",
+    "school_osm_type": "way",
+    "school_name": "Школа №8",
+    "place_osm_id": "-6722606",
+    "place_admin_level": "8",
+    "place_place": "city",
+    "place_name": "Солигорск",
+    "lon": "27.53972700419002",
+    "lat": "52.778030365845304"
+  },
+  {
+    "school_osm_id": "72502110",
+    "school_osm_type": "way",
+    "school_name": "Центр туризма и краеведения",
+    "place_osm_id": "-6722606",
+    "place_admin_level": "8",
+    "place_place": "city",
+    "place_name": "Солигорск",
+    "lon": "27.529145125783398",
+    "lat": "52.77270407506347"
+  },
+  {
+    "school_osm_id": "260061650",
+    "school_osm_type": "way",
+    "school_name": "Школа №14",
+    "place_osm_id": "-6722606",
+    "place_admin_level": "8",
+    "place_place": "city",
+    "place_name": "Солигорск",
+    "lon": "27.497965675759886",
+    "lat": "52.788554915778754"
+  },
+  {
+    "school_osm_id": "336882573",
+    "school_osm_type": "way",
+    "school_name": "Школа №3",
+    "place_osm_id": "-6722606",
+    "place_admin_level": "8",
+    "place_place": "city",
+    "place_name": "Солигорск",
+    "lon": "27.541567329941213",
+    "lat": "52.788932240152285"
+  },
+  {
+    "school_osm_id": "494490918",
+    "school_osm_type": "way",
+    "school_name": "Турбаза",
+    "place_osm_id": "-6722606",
+    "place_admin_level": "8",
+    "place_place": "city",
+    "place_name": "Солигорск",
+    "lon": "27.531844210340154",
+    "lat": "52.769529692029835"
+  },
+  {
+    "school_osm_id": "2621535606",
+    "school_osm_type": "node",
+    "school_name": "Детская музыкальная школа",
+    "place_osm_id": "-6722606",
+    "place_admin_level": "8",
+    "place_place": "city",
+    "place_name": "Солигорск",
+    "lon": "27.5466108",
+    "lat": "52.7793822990842"
+  },
+  {
+    "school_osm_id": "2624615074",
+    "school_osm_type": "node",
+    "school_name": "кружок \"юных натуралистов\"",
+    "place_osm_id": "-6722606",
+    "place_admin_level": "8",
+    "place_place": "city",
+    "place_name": "Солигорск",
+    "lon": "27.534323199999996",
+    "lat": "52.78595929908421"
+  },
+  {
+    "school_osm_id": "4143362089",
+    "school_osm_type": "node",
+    "school_name": "Воскресная школа церкви \"Христос для всех\"",
+    "place_osm_id": "-6722606",
+    "place_admin_level": "8",
+    "place_place": "city",
+    "place_name": "Солигорск",
+    "lon": "27.5354275",
+    "lat": "52.79289059908424"
+  },
+  {
+    "school_osm_id": "7129350159",
+    "school_osm_type": "node",
+    "school_name": "Центр технического творчества",
+    "place_osm_id": "-6722606",
+    "place_admin_level": "8",
+    "place_place": "city",
+    "place_name": "Солигорск",
+    "lon": "27.5474481",
+    "lat": "52.77898849908417"
+  }
+]

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Замосточье",
+    "osm_id": "-7547041",
+    "hierarchy": [
+      "Луговослободской сельский Совет",
+      "Минский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.82197837124423",
+    "lon": "27.861732893253304"
+  },
+  "group": [
+    {
+      "school_osm_id": "704992796",
+      "school_osm_type": "way",
+      "school_name": "Замосточская средняя школа",
+      "place_osm_id": "-8144308",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Луговослободской сельский Совет",
+      "lon": "27.861732893253304",
+      "lat": "53.82197837124423"
+    },
+    {
+      "school_osm_id": "704992796",
+      "school_osm_type": "way",
+      "school_name": "Замосточская средняя школа",
+      "place_osm_id": "-7547041",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Замосточье",
+      "lon": "27.861732893253304",
+      "lat": "53.82197837124423"
+    },
+    {
+      "school_osm_id": "704992796",
+      "school_osm_type": "way",
+      "school_name": "Замосточская средняя школа",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.861732893253304",
+      "lat": "53.82197837124423"
+    },
+    {
+      "school_osm_id": "704992796",
+      "school_osm_type": "way",
+      "school_name": "Замосточская средняя школа",
+      "place_osm_id": "-59190",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Минский район",
+      "lon": "27.861732893253304",
+      "lat": "53.82197837124423"
+    },
+    {
+      "school_osm_id": "704992796",
+      "school_osm_type": "way",
+      "school_name": "Замосточская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.861732893253304",
+      "lat": "53.82197837124423"
+    }
+  ]
+}

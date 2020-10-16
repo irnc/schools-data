@@ -1,0 +1,46 @@
+[
+  {
+    "school_osm_id": "667841265",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-6722510",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Копыль",
+    "lon": "27.089322705487742",
+    "lat": "53.14959953874093"
+  },
+  {
+    "school_osm_id": "731968422",
+    "school_osm_type": "way",
+    "school_name": "Гимназия 1",
+    "place_osm_id": "-6722510",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Копыль",
+    "lon": "27.079831495115503",
+    "lat": "53.14920212837286"
+  },
+  {
+    "school_osm_id": "787328533",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-6722510",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Копыль",
+    "lon": "27.111276128260997",
+    "lat": "53.14638235763373"
+  },
+  {
+    "school_osm_id": "6269203789",
+    "school_osm_type": "node",
+    "school_name": "СШ2",
+    "place_osm_id": "-6722510",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Копыль",
+    "lon": "27.088746999999998",
+    "lat": "53.149524499093864"
+  }
+]

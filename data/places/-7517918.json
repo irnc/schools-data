@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "200583252",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7517918",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Еремичи",
+    "lon": "26.341253580335096",
+    "lat": "53.568428094756946"
+  },
+  {
+    "school_osm_id": "6128743403",
+    "school_osm_type": "node",
+    "school_name": "Школьное учреждение",
+    "place_osm_id": "-7517918",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Еремичи",
+    "lon": "26.341317299999996",
+    "lat": "53.568410399126414"
+  }
+]

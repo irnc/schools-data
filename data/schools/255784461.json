@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Веремейки",
+    "osm_id": "-7589954",
+    "hierarchy": [
+      "Веремейский сельский Совет",
+      "Чериковский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.75715650393509",
+    "lon": "31.281894201028468"
+  },
+  "group": [
+    {
+      "school_osm_id": "255784461",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8140444",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Веремейский сельский Совет",
+      "lon": "31.281894201028468",
+      "lat": "53.75715650393509"
+    },
+    {
+      "school_osm_id": "255784461",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7589954",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Веремейки",
+      "lon": "31.281894201028468",
+      "lat": "53.75715650393509"
+    },
+    {
+      "school_osm_id": "255784461",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70595",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Чериковский район",
+      "lon": "31.281894201028468",
+      "lat": "53.75715650393509"
+    },
+    {
+      "school_osm_id": "255784461",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "31.281894201028468",
+      "lat": "53.75715650393509"
+    },
+    {
+      "school_osm_id": "255784461",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "31.281894201028468",
+      "lat": "53.75715650393509"
+    }
+  ]
+}

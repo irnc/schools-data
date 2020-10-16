@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Ветка",
+    "osm_id": "-4679831",
+    "hierarchy": [
+      "Ветковский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.56358806789995",
+    "lon": "31.175824529150095"
+  },
+  "group": [
+    {
+      "school_osm_id": "241248841",
+      "school_osm_type": "way",
+      "school_name": "СШ-1",
+      "place_osm_id": "-4679831",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Ветка",
+      "lon": "31.175824529150095",
+      "lat": "52.56358806789995"
+    },
+    {
+      "school_osm_id": "241248841",
+      "school_osm_type": "way",
+      "school_name": "СШ-1",
+      "place_osm_id": "-70795",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Ветковский район",
+      "lon": "31.175824529150095",
+      "lat": "52.56358806789995"
+    },
+    {
+      "school_osm_id": "241248841",
+      "school_osm_type": "way",
+      "school_name": "СШ-1",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "31.175824529150095",
+      "lat": "52.56358806789995"
+    },
+    {
+      "school_osm_id": "241248841",
+      "school_osm_type": "way",
+      "school_name": "СШ-1",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "31.175824529150095",
+      "lat": "52.56358806789995"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Сморгонь",
+    "osm_id": "-6722463",
+    "hierarchy": [
+      "Сморгонский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.477964377259816",
+    "lon": "26.381073604392654"
+  },
+  "group": [
+    {
+      "school_osm_id": "340370346",
+      "school_osm_type": "way",
+      "school_name": "Школа № 3",
+      "place_osm_id": "-6722463",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Сморгонь",
+      "lon": "26.381073604392654",
+      "lat": "54.477964377259816"
+    },
+    {
+      "school_osm_id": "340370346",
+      "school_osm_type": "way",
+      "school_name": "Школа № 3",
+      "place_osm_id": "-70725",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Сморгонский район",
+      "lon": "26.381073604392654",
+      "lat": "54.477964377259816"
+    },
+    {
+      "school_osm_id": "340370346",
+      "school_osm_type": "way",
+      "school_name": "Школа № 3",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "26.381073604392654",
+      "lat": "54.477964377259816"
+    },
+    {
+      "school_osm_id": "340370346",
+      "school_osm_type": "way",
+      "school_name": "Школа № 3",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.381073604392654",
+      "lat": "54.477964377259816"
+    }
+  ]
+}

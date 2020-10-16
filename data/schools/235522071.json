@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Лещанка",
+    "osm_id": "-7529077",
+    "hierarchy": [
+      "Лядский сельский Совет",
+      "Щучинский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.64365989705158",
+    "lon": "24.659106374572183"
+  },
+  "group": [
+    {
+      "school_osm_id": "235522071",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8021151",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Лядский сельский Совет",
+      "lon": "24.659106374572183",
+      "lat": "53.64365989705158"
+    },
+    {
+      "school_osm_id": "235522071",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7529077",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Лещанка",
+      "lon": "24.659106374572183",
+      "lat": "53.64365989705158"
+    },
+    {
+      "school_osm_id": "235522071",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70748",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Щучинский район",
+      "lon": "24.659106374572183",
+      "lat": "53.64365989705158"
+    },
+    {
+      "school_osm_id": "235522071",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "24.659106374572183",
+      "lat": "53.64365989705158"
+    },
+    {
+      "school_osm_id": "235522071",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "24.659106374572183",
+      "lat": "53.64365989705158"
+    }
+  ]
+}

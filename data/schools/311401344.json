@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Домановичи",
+    "osm_id": "-7443579",
+    "hierarchy": [
+      "Домановичский сельский Совет",
+      "Калинковичский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.34413679813884",
+    "lon": "29.401952388356207"
+  },
+  "group": [
+    {
+      "school_osm_id": "311401344",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8087903",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Домановичский сельский Совет",
+      "lon": "29.401952388356207",
+      "lat": "52.34413679813884"
+    },
+    {
+      "school_osm_id": "311401344",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7443579",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Домановичи",
+      "lon": "29.401952388356207",
+      "lat": "52.34413679813884"
+    },
+    {
+      "school_osm_id": "311401344",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70814",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Калинковичский район",
+      "lon": "29.401952388356207",
+      "lat": "52.34413679813884"
+    },
+    {
+      "school_osm_id": "311401344",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "29.401952388356207",
+      "lat": "52.34413679813884"
+    },
+    {
+      "school_osm_id": "311401344",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.401952388356207",
+      "lat": "52.34413679813884"
+    }
+  ]
+}

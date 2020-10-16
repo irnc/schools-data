@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Милашово",
+    "osm_id": "-7491889",
+    "hierarchy": [
+      "Повятский сельский Совет",
+      "Миорский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.717880299672245",
+    "lon": "27.5773767"
+  },
+  "group": [
+    {
+      "school_osm_id": "660172529",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-8075945",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Повятский сельский Совет",
+      "lon": "27.5773767",
+      "lat": "55.717880299672245"
+    },
+    {
+      "school_osm_id": "660172529",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-7491889",
+      "place_admin_level": "10",
+      "place_place": "hamlet",
+      "place_name": "Милашово",
+      "lon": "27.5773767",
+      "lat": "55.717880299672245"
+    },
+    {
+      "school_osm_id": "660172529",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-70690",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Миорский район",
+      "lon": "27.5773767",
+      "lat": "55.717880299672245"
+    },
+    {
+      "school_osm_id": "660172529",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "27.5773767",
+      "lat": "55.717880299672245"
+    },
+    {
+      "school_osm_id": "660172529",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.5773767",
+      "lat": "55.717880299672245"
+    }
+  ]
+}

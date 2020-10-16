@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Большая Зимница",
+    "osm_id": "-7589498",
+    "hierarchy": [
+      "Свенский сельский Совет",
+      "Славгородский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.327799358339234",
+    "lon": "30.622393455202563"
+  },
+  "group": [
+    {
+      "school_osm_id": "241204031",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8140432",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Свенский сельский Совет",
+      "lon": "30.622393455202563",
+      "lat": "53.327799358339234"
+    },
+    {
+      "school_osm_id": "241204031",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7589498",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Большая Зимница",
+      "lon": "30.622393455202563",
+      "lat": "53.327799358339234"
+    },
+    {
+      "school_osm_id": "241204031",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70589",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Славгородский район",
+      "lon": "30.622393455202563",
+      "lat": "53.327799358339234"
+    },
+    {
+      "school_osm_id": "241204031",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "30.622393455202563",
+      "lat": "53.327799358339234"
+    },
+    {
+      "school_osm_id": "241204031",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.622393455202563",
+      "lat": "53.327799358339234"
+    }
+  ]
+}

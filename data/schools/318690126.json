@@ -1,0 +1,53 @@
+{
+  "place": "warning-school-without-place",
+  "geo": {
+    "lat": "51.980822659775114",
+    "lon": "29.238444137844617"
+  },
+  "group": [
+    {
+      "school_osm_id": "318690126",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8087887",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Криничный сельский Совет",
+      "lon": "29.238444137844617",
+      "lat": "51.980822659775114"
+    },
+    {
+      "school_osm_id": "318690126",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70815",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Мозырский район",
+      "lon": "29.238444137844617",
+      "lat": "51.980822659775114"
+    },
+    {
+      "school_osm_id": "318690126",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "29.238444137844617",
+      "lat": "51.980822659775114"
+    },
+    {
+      "school_osm_id": "318690126",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.238444137844617",
+      "lat": "51.980822659775114"
+    }
+  ]
+}

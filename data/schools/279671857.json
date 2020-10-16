@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Вороны",
+    "osm_id": "-7476995",
+    "hierarchy": [
+      "Вороновский сельский Совет",
+      "Витебский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.150125963370066",
+    "lon": "30.392536469066407"
+  },
+  "group": [
+    {
+      "school_osm_id": "279671857",
+      "school_osm_type": "way",
+      "school_name": "Вороновская школа",
+      "place_osm_id": "-7924024",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Вороновский сельский Совет",
+      "lon": "30.392536469066407",
+      "lat": "55.150125963370066"
+    },
+    {
+      "school_osm_id": "279671857",
+      "school_osm_type": "way",
+      "school_name": "Вороновская школа",
+      "place_osm_id": "-7476995",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Вороны",
+      "lon": "30.392536469066407",
+      "lat": "55.150125963370066"
+    },
+    {
+      "school_osm_id": "279671857",
+      "school_osm_type": "way",
+      "school_name": "Вороновская школа",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "30.392536469066407",
+      "lat": "55.150125963370066"
+    },
+    {
+      "school_osm_id": "279671857",
+      "school_osm_type": "way",
+      "school_name": "Вороновская школа",
+      "place_osm_id": "-59504",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Витебский район",
+      "lon": "30.392536469066407",
+      "lat": "55.150125963370066"
+    },
+    {
+      "school_osm_id": "279671857",
+      "school_osm_type": "way",
+      "school_name": "Вороновская школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.392536469066407",
+      "lat": "55.150125963370066"
+    }
+  ]
+}

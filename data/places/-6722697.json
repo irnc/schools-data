@@ -1,0 +1,68 @@
+[
+  {
+    "school_osm_id": "376561371",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-6722697",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Осиповичи",
+    "lon": "28.63675801642709",
+    "lat": "53.31837753791683"
+  },
+  {
+    "school_osm_id": "666431916",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-6722697",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Осиповичи",
+    "lon": "28.644833761524076",
+    "lat": "53.3123835910527"
+  },
+  {
+    "school_osm_id": "842841301",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-6722697",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Осиповичи",
+    "lon": "28.643237189362353",
+    "lat": "53.29834612949875"
+  },
+  {
+    "school_osm_id": "842841341",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-6722697",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Осиповичи",
+    "lon": "28.63409039120203",
+    "lat": "53.29746924474223"
+  },
+  {
+    "school_osm_id": "842852958",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-6722697",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Осиповичи",
+    "lon": "28.647011977949187",
+    "lat": "53.29675638022249"
+  },
+  {
+    "school_osm_id": "4411246692",
+    "school_osm_type": "node",
+    "school_name": "музыкальная школа",
+    "place_osm_id": "-6722697",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Осиповичи",
+    "lon": "28.6374588",
+    "lat": "53.308643799103486"
+  }
+]

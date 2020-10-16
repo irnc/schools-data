@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Хоростово",
+    "osm_id": "-7566707",
+    "hierarchy": [
+      "Хоростовский сельский Совет",
+      "Солигорский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.49658830476418",
+    "lon": "27.27708040758986"
+  },
+  "group": [
+    {
+      "school_osm_id": "154359737",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8144247",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Хоростовский сельский Совет",
+      "lon": "27.27708040758986",
+      "lat": "52.49658830476418"
+    },
+    {
+      "school_osm_id": "154359737",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7566707",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Хоростово",
+      "lon": "27.27708040758986",
+      "lat": "52.49658830476418"
+    },
+    {
+      "school_osm_id": "154359737",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-71133",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Солигорский район",
+      "lon": "27.27708040758986",
+      "lat": "52.49658830476418"
+    },
+    {
+      "school_osm_id": "154359737",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.27708040758986",
+      "lat": "52.49658830476418"
+    },
+    {
+      "school_osm_id": "154359737",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.27708040758986",
+      "lat": "52.49658830476418"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "159289878",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7535602",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Богданов",
+    "lon": "26.147709504819534",
+    "lat": "54.17235511849788"
+  },
+  {
+    "school_osm_id": "587873562",
+    "school_osm_type": "way",
+    "school_name": "Богдановский УПК детский сад – средняя школа",
+    "place_osm_id": "-7535602",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Богданов",
+    "lon": "26.14804206620528",
+    "lat": "54.17289240434349"
+  }
+]

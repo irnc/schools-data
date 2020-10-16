@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Красновка",
+    "osm_id": "-7453294",
+    "hierarchy": [
+      "Красновский сельский Совет",
+      "Светлогорский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.87243633959178",
+    "lon": "29.325230024945053"
+  },
+  "group": [
+    {
+      "school_osm_id": "339538777",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8107317",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Красновский сельский Совет",
+      "lon": "29.325230024945053",
+      "lat": "52.87243633959178"
+    },
+    {
+      "school_osm_id": "339538777",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7453294",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Красновка",
+      "lon": "29.325230024945053",
+      "lat": "52.87243633959178"
+    },
+    {
+      "school_osm_id": "339538777",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "29.325230024945053",
+      "lat": "52.87243633959178"
+    },
+    {
+      "school_osm_id": "339538777",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59137",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Светлогорский район",
+      "lon": "29.325230024945053",
+      "lat": "52.87243633959178"
+    },
+    {
+      "school_osm_id": "339538777",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.325230024945053",
+      "lat": "52.87243633959178"
+    }
+  ]
+}

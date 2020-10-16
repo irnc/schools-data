@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Мачулищи",
+    "osm_id": "-4755556",
+    "hierarchy": [
+      "Минский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.78503697139601",
+    "lon": "27.595638790852696"
+  },
+  "group": [
+    {
+      "school_osm_id": "104716947",
+      "school_osm_type": "way",
+      "school_name": "Мачулищанская средняя школа",
+      "place_osm_id": "-4755556",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Мачулищи",
+      "lon": "27.595638790852696",
+      "lat": "53.78503697139601"
+    },
+    {
+      "school_osm_id": "104716947",
+      "school_osm_type": "way",
+      "school_name": "Мачулищанская средняя школа",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.595638790852696",
+      "lat": "53.78503697139601"
+    },
+    {
+      "school_osm_id": "104716947",
+      "school_osm_type": "way",
+      "school_name": "Мачулищанская средняя школа",
+      "place_osm_id": "-59190",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Минский район",
+      "lon": "27.595638790852696",
+      "lat": "53.78503697139601"
+    },
+    {
+      "school_osm_id": "104716947",
+      "school_osm_type": "way",
+      "school_name": "Мачулищанская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.595638790852696",
+      "lat": "53.78503697139601"
+    }
+  ]
+}

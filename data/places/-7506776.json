@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "805411642",
+    "school_osm_type": "way",
+    "school_name": "Башневская базовая школа",
+    "place_osm_id": "-7506776",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Башни",
+    "lon": "29.675302180709345",
+    "lat": "55.22058412702191"
+  },
+  {
+    "school_osm_id": "3676916238",
+    "school_osm_type": "node",
+    "school_name": "Школа искусств",
+    "place_osm_id": "-7506776",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Башни",
+    "lon": "29.6684285",
+    "lat": "55.22212159949146"
+  }
+]

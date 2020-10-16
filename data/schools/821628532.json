@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Лучин",
+    "osm_id": "-7450727",
+    "hierarchy": [
+      "Заболотский сельский Совет",
+      "Рогачёвский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.01230836017669",
+    "lon": "30.02110645306752"
+  },
+  "group": [
+    {
+      "school_osm_id": "821628532",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8107307",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Заболотский сельский Совет",
+      "lon": "30.02110645306752",
+      "lat": "53.01230836017669"
+    },
+    {
+      "school_osm_id": "821628532",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7450727",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Лучин",
+      "lon": "30.02110645306752",
+      "lat": "53.01230836017669"
+    },
+    {
+      "school_osm_id": "821628532",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59174",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Рогачёвский район",
+      "lon": "30.02110645306752",
+      "lat": "53.01230836017669"
+    },
+    {
+      "school_osm_id": "821628532",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "30.02110645306752",
+      "lat": "53.01230836017669"
+    },
+    {
+      "school_osm_id": "821628532",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.02110645306752",
+      "lat": "53.01230836017669"
+    }
+  ]
+}

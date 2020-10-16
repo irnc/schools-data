@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Валевачи",
+    "osm_id": "-7570573",
+    "hierarchy": [
+      "Валевачский сельский Совет",
+      "Червенский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.763415976248076",
+    "lon": "28.15799970736836"
+  },
+  "group": [
+    {
+      "school_osm_id": "319083660",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8144216",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Валевачский сельский Совет",
+      "lon": "28.15799970736836",
+      "lat": "53.763415976248076"
+    },
+    {
+      "school_osm_id": "319083660",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7570573",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Валевачи",
+      "lon": "28.15799970736836",
+      "lat": "53.763415976248076"
+    },
+    {
+      "school_osm_id": "319083660",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "28.15799970736836",
+      "lat": "53.763415976248076"
+    },
+    {
+      "school_osm_id": "319083660",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59751",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Червенский район",
+      "lon": "28.15799970736836",
+      "lat": "53.763415976248076"
+    },
+    {
+      "school_osm_id": "319083660",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.15799970736836",
+      "lat": "53.763415976248076"
+    }
+  ]
+}

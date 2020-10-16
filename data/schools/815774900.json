@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Погородно",
+    "osm_id": "-7509456",
+    "hierarchy": [
+      "Погородненский сельский Совет",
+      "Вороновский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.0974088830282",
+    "lon": "25.146545403822067"
+  },
+  "group": [
+    {
+      "school_osm_id": "815774900",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8021157",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Погородненский сельский Совет",
+      "lon": "25.146545403822067",
+      "lat": "54.0974088830282"
+    },
+    {
+      "school_osm_id": "815774900",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7509456",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Погородно",
+      "lon": "25.146545403822067",
+      "lat": "54.0974088830282"
+    },
+    {
+      "school_osm_id": "815774900",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70737",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Вороновский район",
+      "lon": "25.146545403822067",
+      "lat": "54.0974088830282"
+    },
+    {
+      "school_osm_id": "815774900",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "25.146545403822067",
+      "lat": "54.0974088830282"
+    },
+    {
+      "school_osm_id": "815774900",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "25.146545403822067",
+      "lat": "54.0974088830282"
+    }
+  ]
+}

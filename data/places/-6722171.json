@@ -1,0 +1,101 @@
+[
+  {
+    "school_osm_id": "44519417",
+    "school_osm_type": "way",
+    "school_name": "СРЕДНЯЯ Школа №2",
+    "place_osm_id": "-6722171",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Кобрин",
+    "lon": "24.369497724156066",
+    "lat": "52.21273899020062"
+  },
+  {
+    "school_osm_id": "382734246",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №9",
+    "place_osm_id": "-6722171",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Кобрин",
+    "lon": "24.35241288957731",
+    "lat": "52.19502329643717"
+  },
+  {
+    "school_osm_id": "565082090",
+    "school_osm_type": "way",
+    "school_name": "Школа №8",
+    "place_osm_id": "-6722171",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Кобрин",
+    "lon": "24.34618038571764",
+    "lat": "52.19700025573202"
+  },
+  {
+    "school_osm_id": "565082103",
+    "school_osm_type": "way",
+    "school_name": "Школа №7",
+    "place_osm_id": "-6722171",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Кобрин",
+    "lon": "24.344374704565105",
+    "lat": "52.2024728774254"
+  },
+  {
+    "school_osm_id": "730199311",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №4",
+    "place_osm_id": "-6722171",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Кобрин",
+    "lon": "24.378074410658424",
+    "lat": "52.23013802357826"
+  },
+  {
+    "school_osm_id": "4415378990",
+    "school_osm_type": "node",
+    "school_name": "СШ 3",
+    "place_osm_id": "-6722171",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Кобрин",
+    "lon": "24.346278999999996",
+    "lat": "52.218890599101236"
+  },
+  {
+    "school_osm_id": "4500455796",
+    "school_osm_type": "node",
+    "school_name": "Школа искусств",
+    "place_osm_id": "-6722171",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Кобрин",
+    "lon": "24.349317399999997",
+    "lat": "52.204054199102174"
+  },
+  {
+    "school_osm_id": "4727666898",
+    "school_osm_type": "node",
+    "school_name": "Средняя школа 6",
+    "place_osm_id": "-6722171",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Кобрин",
+    "lon": "24.361182099999997",
+    "lat": "52.22003899910116"
+  },
+  {
+    "school_osm_id": "7119391578",
+    "school_osm_type": "node",
+    "school_name": "Развитие",
+    "place_osm_id": "-6722171",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Кобрин",
+    "lon": "24.348925899999998",
+    "lat": "52.19361139910286"
+  }
+]

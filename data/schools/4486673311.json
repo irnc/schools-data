@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Жлобин",
+    "osm_id": "-5598358",
+    "hierarchy": [
+      "Жлобинский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.89444299908535",
+    "lon": "30.058712000000003"
+  },
+  "group": [
+    {
+      "school_osm_id": "4486673311",
+      "school_osm_type": "node",
+      "school_name": "Жлобинская ДЮСШ",
+      "place_osm_id": "-5598358",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Жлобин",
+      "lon": "30.058712000000003",
+      "lat": "52.89444299908535"
+    },
+    {
+      "school_osm_id": "4486673311",
+      "school_osm_type": "node",
+      "school_name": "Жлобинская ДЮСШ",
+      "place_osm_id": "-59167",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Жлобинский район",
+      "lon": "30.058712000000003",
+      "lat": "52.89444299908535"
+    },
+    {
+      "school_osm_id": "4486673311",
+      "school_osm_type": "node",
+      "school_name": "Жлобинская ДЮСШ",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "30.058712000000003",
+      "lat": "52.89444299908535"
+    },
+    {
+      "school_osm_id": "4486673311",
+      "school_osm_type": "node",
+      "school_name": "Жлобинская ДЮСШ",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.058712000000003",
+      "lat": "52.89444299908535"
+    }
+  ]
+}

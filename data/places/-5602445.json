@@ -1,0 +1,57 @@
+[
+  {
+    "school_osm_id": "39636581",
+    "school_osm_type": "way",
+    "school_name": "Дом Творчества",
+    "place_osm_id": "-5602445",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Дрогичин",
+    "lon": "25.152527720255314",
+    "lat": "52.18392357313548"
+  },
+  {
+    "school_osm_id": "380087402",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-5602445",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Дрогичин",
+    "lon": "25.149527179152432",
+    "lat": "52.1881654727946"
+  },
+  {
+    "school_osm_id": "731944056",
+    "school_osm_type": "way",
+    "school_name": "Гимназия г. Дрогичина",
+    "place_osm_id": "-5602445",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Дрогичин",
+    "lon": "25.164936443486273",
+    "lat": "52.185809890737794"
+  },
+  {
+    "school_osm_id": "731944058",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №1",
+    "place_osm_id": "-5602445",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Дрогичин",
+    "lon": "25.157473919110416",
+    "lat": "52.1881939480831"
+  },
+  {
+    "school_osm_id": "4357419389",
+    "school_osm_type": "node",
+    "school_name": "ГУО\" СШ N2 г.Дрогичина\"",
+    "place_osm_id": "-5602445",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Дрогичин",
+    "lon": "25.1495324",
+    "lat": "52.18782209910323"
+  }
+]

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Слобудка",
+    "osm_id": "-7467797",
+    "hierarchy": [
+      "Пружанский сельский Совет",
+      "Пружанский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.520857877568965",
+    "lon": "24.513034843435662"
+  },
+  "group": [
+    {
+      "school_osm_id": "549707020",
+      "school_osm_type": "way",
+      "school_name": "Слободская средняя школа",
+      "place_osm_id": "-8025731",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Пружанский сельский Совет",
+      "lon": "24.513034843435662",
+      "lat": "52.520857877568965"
+    },
+    {
+      "school_osm_id": "549707020",
+      "school_osm_type": "way",
+      "school_name": "Слободская средняя школа",
+      "place_osm_id": "-7467797",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Слобудка",
+      "lon": "24.513034843435662",
+      "lat": "52.520857877568965"
+    },
+    {
+      "school_osm_id": "549707020",
+      "school_osm_type": "way",
+      "school_name": "Слободская средняя школа",
+      "place_osm_id": "-71094",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Пружанский район",
+      "lon": "24.513034843435662",
+      "lat": "52.520857877568965"
+    },
+    {
+      "school_osm_id": "549707020",
+      "school_osm_type": "way",
+      "school_name": "Слободская средняя школа",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "24.513034843435662",
+      "lat": "52.520857877568965"
+    },
+    {
+      "school_osm_id": "549707020",
+      "school_osm_type": "way",
+      "school_name": "Слободская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "24.513034843435662",
+      "lat": "52.520857877568965"
+    }
+  ]
+}

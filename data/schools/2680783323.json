@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Речица",
+    "osm_id": "-5598659",
+    "hierarchy": [
+      "Речицкий район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.36827009909313",
+    "lon": "30.3955288"
+  },
+  "group": [
+    {
+      "school_osm_id": "2680783323",
+      "school_osm_type": "node",
+      "school_name": "Речицкий районный лицей",
+      "place_osm_id": "-5598659",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Речица",
+      "lon": "30.3955288",
+      "lat": "52.36827009909313"
+    },
+    {
+      "school_osm_id": "2680783323",
+      "school_osm_type": "node",
+      "school_name": "Речицкий районный лицей",
+      "place_osm_id": "-70812",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Речицкий район",
+      "lon": "30.3955288",
+      "lat": "52.36827009909313"
+    },
+    {
+      "school_osm_id": "2680783323",
+      "school_osm_type": "node",
+      "school_name": "Речицкий районный лицей",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "30.3955288",
+      "lat": "52.36827009909313"
+    },
+    {
+      "school_osm_id": "2680783323",
+      "school_osm_type": "node",
+      "school_name": "Речицкий районный лицей",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.3955288",
+      "lat": "52.36827009909313"
+    }
+  ]
+}

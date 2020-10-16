@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Заболотье",
+    "osm_id": "-7450810",
+    "hierarchy": [
+      "Заболотский сельский Совет",
+      "Рогачёвский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.04260379908931",
+    "lon": "29.919850599999993"
+  },
+  "group": [
+    {
+      "school_osm_id": "2918472481",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-8107307",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Заболотский сельский Совет",
+      "lon": "29.919850599999993",
+      "lat": "53.04260379908931"
+    },
+    {
+      "school_osm_id": "2918472481",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-7450810",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Заболотье",
+      "lon": "29.919850599999993",
+      "lat": "53.04260379908931"
+    },
+    {
+      "school_osm_id": "2918472481",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-59174",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Рогачёвский район",
+      "lon": "29.919850599999993",
+      "lat": "53.04260379908931"
+    },
+    {
+      "school_osm_id": "2918472481",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "29.919850599999993",
+      "lat": "53.04260379908931"
+    },
+    {
+      "school_osm_id": "2918472481",
+      "school_osm_type": "node",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.919850599999993",
+      "lat": "53.04260379908931"
+    }
+  ]
+}

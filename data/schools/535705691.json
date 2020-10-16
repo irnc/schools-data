@@ -1,0 +1,53 @@
+{
+  "place": "warning-school-without-place",
+  "geo": {
+    "lat": "51.85598891059491",
+    "lon": "26.886032997562364"
+  },
+  "group": [
+    {
+      "school_osm_id": "535705691",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8028507",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Стружский сельский Совет",
+      "lon": "26.886032997562364",
+      "lat": "51.85598891059491"
+    },
+    {
+      "school_osm_id": "535705691",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-71125",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Столинский район",
+      "lon": "26.886032997562364",
+      "lat": "51.85598891059491"
+    },
+    {
+      "school_osm_id": "535705691",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "26.886032997562364",
+      "lat": "51.85598891059491"
+    },
+    {
+      "school_osm_id": "535705691",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.886032997562364",
+      "lat": "51.85598891059491"
+    }
+  ]
+}

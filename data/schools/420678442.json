@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Дуброва",
+    "osm_id": "-7443364",
+    "hierarchy": [
+      "Морохоровский сельский Совет",
+      "Житковичский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.33400191913316",
+    "lon": "28.01568851284929"
+  },
+  "group": [
+    {
+      "school_osm_id": "420678442",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8087858",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Морохоровский сельский Совет",
+      "lon": "28.01568851284929",
+      "lat": "52.33400191913316"
+    },
+    {
+      "school_osm_id": "420678442",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7443364",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Дуброва",
+      "lon": "28.01568851284929",
+      "lat": "52.33400191913316"
+    },
+    {
+      "school_osm_id": "420678442",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-71149",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Житковичский район",
+      "lon": "28.01568851284929",
+      "lat": "52.33400191913316"
+    },
+    {
+      "school_osm_id": "420678442",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "28.01568851284929",
+      "lat": "52.33400191913316"
+    },
+    {
+      "school_osm_id": "420678442",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.01568851284929",
+      "lat": "52.33400191913316"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Руденск",
+    "osm_id": "-7555706",
+    "hierarchy": [
+      "Пуховичский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.591157899128866",
+    "lon": "27.865746999999995"
+  },
+  "group": [
+    {
+      "school_osm_id": "4349412090",
+      "school_osm_type": "node",
+      "school_name": "Рудзенская сярэдняя школа",
+      "place_osm_id": "-7555706",
+      "place_admin_level": "8",
+      "place_place": "village",
+      "place_name": "Руденск",
+      "lon": "27.865746999999995",
+      "lat": "53.591157899128866"
+    },
+    {
+      "school_osm_id": "4349412090",
+      "school_osm_type": "node",
+      "school_name": "Рудзенская сярэдняя школа",
+      "place_osm_id": "-70549",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Пуховичский район",
+      "lon": "27.865746999999995",
+      "lat": "53.591157899128866"
+    },
+    {
+      "school_osm_id": "4349412090",
+      "school_osm_type": "node",
+      "school_name": "Рудзенская сярэдняя школа",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.865746999999995",
+      "lat": "53.591157899128866"
+    },
+    {
+      "school_osm_id": "4349412090",
+      "school_osm_type": "node",
+      "school_name": "Рудзенская сярэдняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.865746999999995",
+      "lat": "53.591157899128866"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Индура",
+    "osm_id": "-7511714",
+    "hierarchy": [
+      "Индурский сельский Совет",
+      "Гродненский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.4657346334061",
+    "lon": "23.881116804629098"
+  },
+  "group": [
+    {
+      "school_osm_id": "569923172",
+      "school_osm_type": "way",
+      "school_name": "Индурская средняя школа",
+      "place_osm_id": "-8025357",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Индурский сельский Совет",
+      "lon": "23.881116804629098",
+      "lat": "53.4657346334061"
+    },
+    {
+      "school_osm_id": "569923172",
+      "school_osm_type": "way",
+      "school_name": "Индурская средняя школа",
+      "place_osm_id": "-7511714",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Индура",
+      "lon": "23.881116804629098",
+      "lat": "53.4657346334061"
+    },
+    {
+      "school_osm_id": "569923172",
+      "school_osm_type": "way",
+      "school_name": "Индурская средняя школа",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "23.881116804629098",
+      "lat": "53.4657346334061"
+    },
+    {
+      "school_osm_id": "569923172",
+      "school_osm_type": "way",
+      "school_name": "Индурская средняя школа",
+      "place_osm_id": "-59273",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Гродненский район",
+      "lon": "23.881116804629098",
+      "lat": "53.4657346334061"
+    },
+    {
+      "school_osm_id": "569923172",
+      "school_osm_type": "way",
+      "school_name": "Индурская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "23.881116804629098",
+      "lat": "53.4657346334061"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+[
+  {
+    "school_osm_id": "188513223",
+    "school_osm_type": "way",
+    "school_name": "Музыкальная школа",
+    "place_osm_id": "-6722391",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Берёзовка",
+    "lon": "25.501241194581834",
+    "lat": "53.717104562319165"
+  },
+  {
+    "school_osm_id": "360153071",
+    "school_osm_type": "way",
+    "school_name": "СШ №2",
+    "place_osm_id": "-6722391",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Берёзовка",
+    "lon": "25.508790117254456",
+    "lat": "53.72127464852835"
+  },
+  {
+    "school_osm_id": "816749245",
+    "school_osm_type": "way",
+    "school_name": "Гимназия №1",
+    "place_osm_id": "-6722391",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Берёзовка",
+    "lon": "25.503916062165807",
+    "lat": "53.71550187530303"
+  },
+  {
+    "school_osm_id": "816749246",
+    "school_osm_type": "way",
+    "school_name": "СШ №3",
+    "place_osm_id": "-6722391",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Берёзовка",
+    "lon": "25.503756925395464",
+    "lat": "53.711883174579576"
+  }
+]

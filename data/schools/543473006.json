@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Андреевщина",
+    "osm_id": "-7492451",
+    "hierarchy": [
+      "Андреевщинский сельский Совет",
+      "Оршанский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.57186904645185",
+    "lon": "30.44666992609976"
+  },
+  "group": [
+    {
+      "school_osm_id": "543473006",
+      "school_osm_type": "way",
+      "school_name": "Андреевский детский дом",
+      "place_osm_id": "-8083042",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Андреевщинский сельский Совет",
+      "lon": "30.44666992609976",
+      "lat": "54.57186904645185"
+    },
+    {
+      "school_osm_id": "543473006",
+      "school_osm_type": "way",
+      "school_name": "Андреевский детский дом",
+      "place_osm_id": "-7492451",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Андреевщина",
+      "lon": "30.44666992609976",
+      "lat": "54.57186904645185"
+    },
+    {
+      "school_osm_id": "543473006",
+      "school_osm_type": "way",
+      "school_name": "Андреевский детский дом",
+      "place_osm_id": "-70660",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Оршанский район",
+      "lon": "30.44666992609976",
+      "lat": "54.57186904645185"
+    },
+    {
+      "school_osm_id": "543473006",
+      "school_osm_type": "way",
+      "school_name": "Андреевский детский дом",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "30.44666992609976",
+      "lat": "54.57186904645185"
+    },
+    {
+      "school_osm_id": "543473006",
+      "school_osm_type": "way",
+      "school_name": "Андреевский детский дом",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.44666992609976",
+      "lat": "54.57186904645185"
+    }
+  ]
+}

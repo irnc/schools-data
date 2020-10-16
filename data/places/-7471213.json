@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "576449546",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7471213",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Опса",
+    "lon": "26.828641972783696",
+    "lat": "55.55133357421224"
+  },
+  {
+    "school_osm_id": "825803594",
+    "school_osm_type": "way",
+    "school_name": "Опсовская ясли-сад-средняя школа",
+    "place_osm_id": "-7471213",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Опса",
+    "lon": "26.82789177754437",
+    "lat": "55.54218993162904"
+  }
+]

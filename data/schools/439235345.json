@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Светлогорск",
+    "osm_id": "-5598676",
+    "hierarchy": [
+      "Светлогорский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.635939249204014",
+    "lon": "29.745108972879684"
+  },
+  "group": [
+    {
+      "school_osm_id": "439235345",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-5598676",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Светлогорск",
+      "lon": "29.745108972879684",
+      "lat": "52.635939249204014"
+    },
+    {
+      "school_osm_id": "439235345",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "29.745108972879684",
+      "lat": "52.635939249204014"
+    },
+    {
+      "school_osm_id": "439235345",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59137",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Светлогорский район",
+      "lon": "29.745108972879684",
+      "lat": "52.635939249204014"
+    },
+    {
+      "school_osm_id": "439235345",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.745108972879684",
+      "lat": "52.635939249204014"
+    }
+  ]
+}

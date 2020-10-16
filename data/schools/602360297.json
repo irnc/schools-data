@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Новый Двор",
+    "osm_id": "-7548838",
+    "hierarchy": [
+      "Шершунский сельский Совет",
+      "Минский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.12471262730419",
+    "lon": "27.3589863350755"
+  },
+  "group": [
+    {
+      "school_osm_id": "602360297",
+      "school_osm_type": "way",
+      "school_name": "Роговский УПК детский сад-средняя школа",
+      "place_osm_id": "-8144305",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Шершунский сельский Совет",
+      "lon": "27.3589863350755",
+      "lat": "54.12471262730419"
+    },
+    {
+      "school_osm_id": "602360297",
+      "school_osm_type": "way",
+      "school_name": "Роговский УПК детский сад-средняя школа",
+      "place_osm_id": "-7548838",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Новый Двор",
+      "lon": "27.3589863350755",
+      "lat": "54.12471262730419"
+    },
+    {
+      "school_osm_id": "602360297",
+      "school_osm_type": "way",
+      "school_name": "Роговский УПК детский сад-средняя школа",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.3589863350755",
+      "lat": "54.12471262730419"
+    },
+    {
+      "school_osm_id": "602360297",
+      "school_osm_type": "way",
+      "school_name": "Роговский УПК детский сад-средняя школа",
+      "place_osm_id": "-59190",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Минский район",
+      "lon": "27.3589863350755",
+      "lat": "54.12471262730419"
+    },
+    {
+      "school_osm_id": "602360297",
+      "school_osm_type": "way",
+      "school_name": "Роговский УПК детский сад-средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.3589863350755",
+      "lat": "54.12471262730419"
+    }
+  ]
+}

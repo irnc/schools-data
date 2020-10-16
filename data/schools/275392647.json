@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Богушевск",
+    "osm_id": "-6807938",
+    "hierarchy": [
+      "Сенненский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.84002891475575",
+    "lon": "30.220830984894803"
+  },
+  "group": [
+    {
+      "school_osm_id": "275392647",
+      "school_osm_type": "way",
+      "school_name": "Богушевская средняя школа имени А.Э. Марфицкого",
+      "place_osm_id": "-6807938",
+      "place_admin_level": "8",
+      "place_place": "village",
+      "place_name": "Богушевск",
+      "lon": "30.220830984894803",
+      "lat": "54.84002891475575"
+    },
+    {
+      "school_osm_id": "275392647",
+      "school_osm_type": "way",
+      "school_name": "Богушевская средняя школа имени А.Э. Марфицкого",
+      "place_osm_id": "-70662",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Сенненский район",
+      "lon": "30.220830984894803",
+      "lat": "54.84002891475575"
+    },
+    {
+      "school_osm_id": "275392647",
+      "school_osm_type": "way",
+      "school_name": "Богушевская средняя школа имени А.Э. Марфицкого",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "30.220830984894803",
+      "lat": "54.84002891475575"
+    },
+    {
+      "school_osm_id": "275392647",
+      "school_osm_type": "way",
+      "school_name": "Богушевская средняя школа имени А.Э. Марфицкого",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.220830984894803",
+      "lat": "54.84002891475575"
+    }
+  ]
+}

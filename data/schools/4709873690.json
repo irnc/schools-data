@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Боровляны",
+    "osm_id": "-6878686",
+    "hierarchy": [
+      "Боровлянский сельский Совет",
+      "Минский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.989262699183236",
+    "lon": "27.6677222"
+  },
+  "group": [
+    {
+      "school_osm_id": "4709873690",
+      "school_osm_type": "node",
+      "school_name": "Студия \"Познайка\"",
+      "place_osm_id": "-8144270",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Боровлянский сельский Совет",
+      "lon": "27.6677222",
+      "lat": "53.989262699183236"
+    },
+    {
+      "school_osm_id": "4709873690",
+      "school_osm_type": "node",
+      "school_name": "Студия \"Познайка\"",
+      "place_osm_id": "-6878686",
+      "place_admin_level": "10",
+      "place_place": "town",
+      "place_name": "Боровляны",
+      "lon": "27.6677222",
+      "lat": "53.989262699183236"
+    },
+    {
+      "school_osm_id": "4709873690",
+      "school_osm_type": "node",
+      "school_name": "Студия \"Познайка\"",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.6677222",
+      "lat": "53.989262699183236"
+    },
+    {
+      "school_osm_id": "4709873690",
+      "school_osm_type": "node",
+      "school_name": "Студия \"Познайка\"",
+      "place_osm_id": "-59190",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Минский район",
+      "lon": "27.6677222",
+      "lat": "53.989262699183236"
+    },
+    {
+      "school_osm_id": "4709873690",
+      "school_osm_type": "node",
+      "school_name": "Студия \"Познайка\"",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.6677222",
+      "lat": "53.989262699183236"
+    }
+  ]
+}

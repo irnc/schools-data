@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Новополье",
+    "osm_id": "-7555932",
+    "hierarchy": [
+      "Новопольский сельский Совет",
+      "Пуховичский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.609301980202375",
+    "lon": "27.635106613879536"
+  },
+  "group": [
+    {
+      "school_osm_id": "848469953",
+      "school_osm_type": "way",
+      "school_name": "Гребенская базовая школа",
+      "place_osm_id": "-8144296",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Новопольский сельский Совет",
+      "lon": "27.635106613879536",
+      "lat": "53.609301980202375"
+    },
+    {
+      "school_osm_id": "848469953",
+      "school_osm_type": "way",
+      "school_name": "Гребенская базовая школа",
+      "place_osm_id": "-7555932",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Новополье",
+      "lon": "27.635106613879536",
+      "lat": "53.609301980202375"
+    },
+    {
+      "school_osm_id": "848469953",
+      "school_osm_type": "way",
+      "school_name": "Гребенская базовая школа",
+      "place_osm_id": "-70549",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Пуховичский район",
+      "lon": "27.635106613879536",
+      "lat": "53.609301980202375"
+    },
+    {
+      "school_osm_id": "848469953",
+      "school_osm_type": "way",
+      "school_name": "Гребенская базовая школа",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.635106613879536",
+      "lat": "53.609301980202375"
+    },
+    {
+      "school_osm_id": "848469953",
+      "school_osm_type": "way",
+      "school_name": "Гребенская базовая школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.635106613879536",
+      "lat": "53.609301980202375"
+    }
+  ]
+}

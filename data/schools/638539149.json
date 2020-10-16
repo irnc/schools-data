@@ -1,0 +1,59 @@
+{
+  "place": {
+    "name": "Гомель",
+    "osm_id": "-163244",
+    "hierarchy": [
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.539530699087",
+    "lon": "30.907177500000003"
+  },
+  "group": [
+    {
+      "school_osm_id": "638539149",
+      "school_osm_type": "node",
+      "school_name": "СШ №42",
+      "place_osm_id": "-3628812",
+      "place_admin_level": "9",
+      "place_place": "",
+      "place_name": "Железнодорожный район",
+      "lon": "30.907177500000003",
+      "lat": "52.539530699087"
+    },
+    {
+      "school_osm_id": "638539149",
+      "school_osm_type": "node",
+      "school_name": "СШ №42",
+      "place_osm_id": "-163244",
+      "place_admin_level": "6",
+      "place_place": "city",
+      "place_name": "Гомель",
+      "lon": "30.907177500000003",
+      "lat": "52.539530699087"
+    },
+    {
+      "school_osm_id": "638539149",
+      "school_osm_type": "node",
+      "school_name": "СШ №42",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "30.907177500000003",
+      "lat": "52.539530699087"
+    },
+    {
+      "school_osm_id": "638539149",
+      "school_osm_type": "node",
+      "school_name": "СШ №42",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.907177500000003",
+      "lat": "52.539530699087"
+    }
+  ]
+}

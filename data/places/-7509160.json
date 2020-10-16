@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "286483323",
+    "school_osm_type": "way",
+    "school_name": "Красносельская средняя школа",
+    "place_osm_id": "-7509160",
+    "place_admin_level": "10",
+    "place_place": "town",
+    "place_name": "Красносельский",
+    "lon": "24.414811402628615",
+    "lat": "53.26084675166272"
+  },
+  {
+    "school_osm_id": "286643660",
+    "school_osm_type": "way",
+    "school_name": "Красносельская начальная школа",
+    "place_osm_id": "-7509160",
+    "place_admin_level": "10",
+    "place_place": "town",
+    "place_name": "Красносельский",
+    "lon": "24.426631988251277",
+    "lat": "53.26052581777136"
+  }
+]

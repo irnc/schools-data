@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Петриков",
+    "osm_id": "-5598656",
+    "hierarchy": [
+      "Петриковский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.134497094113364",
+    "lon": "28.489052342726502"
+  },
+  "group": [
+    {
+      "school_osm_id": "276264847",
+      "school_osm_type": "way",
+      "school_name": "Гимназия",
+      "place_osm_id": "-5598656",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Петриков",
+      "lon": "28.489052342726502",
+      "lat": "52.134497094113364"
+    },
+    {
+      "school_osm_id": "276264847",
+      "school_osm_type": "way",
+      "school_name": "Гимназия",
+      "place_osm_id": "-71145",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Петриковский район",
+      "lon": "28.489052342726502",
+      "lat": "52.134497094113364"
+    },
+    {
+      "school_osm_id": "276264847",
+      "school_osm_type": "way",
+      "school_name": "Гимназия",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "28.489052342726502",
+      "lat": "52.134497094113364"
+    },
+    {
+      "school_osm_id": "276264847",
+      "school_osm_type": "way",
+      "school_name": "Гимназия",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.489052342726502",
+      "lat": "52.134497094113364"
+    }
+  ]
+}

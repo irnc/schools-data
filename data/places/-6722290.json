@@ -1,0 +1,46 @@
+[
+  {
+    "school_osm_id": "147135908",
+    "school_osm_type": "way",
+    "school_name": "Детская школа искусств",
+    "place_osm_id": "-6722290",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Бешенковичи",
+    "lon": "29.46314727317661",
+    "lat": "55.044960552947835"
+  },
+  {
+    "school_osm_id": "273727391",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа № 1",
+    "place_osm_id": "-6722290",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Бешенковичи",
+    "lon": "29.44674017558429",
+    "lat": "55.04077997046347"
+  },
+  {
+    "school_osm_id": "273814445",
+    "school_osm_type": "way",
+    "school_name": "Бешенковичская гимназия-интернат",
+    "place_osm_id": "-6722290",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Бешенковичи",
+    "lon": "29.47318559791204",
+    "lat": "55.052051217886145"
+  },
+  {
+    "school_osm_id": "273814451",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа № 2",
+    "place_osm_id": "-6722290",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Бешенковичи",
+    "lon": "29.463634118369995",
+    "lat": "55.045920875253074"
+  }
+]

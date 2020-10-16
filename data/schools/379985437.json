@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Ополь",
+    "osm_id": "-7465191",
+    "hierarchy": [
+      "Опольский сельский Совет",
+      "Ивановский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.320379144348856",
+    "lon": "25.410272911073264"
+  },
+  "group": [
+    {
+      "school_osm_id": "379985437",
+      "school_osm_type": "way",
+      "school_name": "Опольская средняя школа",
+      "place_osm_id": "-8028553",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Опольский сельский Совет",
+      "lon": "25.410272911073264",
+      "lat": "52.320379144348856"
+    },
+    {
+      "school_osm_id": "379985437",
+      "school_osm_type": "way",
+      "school_name": "Опольская средняя школа",
+      "place_osm_id": "-7465191",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Ополь",
+      "lon": "25.410272911073264",
+      "lat": "52.320379144348856"
+    },
+    {
+      "school_osm_id": "379985437",
+      "school_osm_type": "way",
+      "school_name": "Опольская средняя школа",
+      "place_osm_id": "-71118",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Ивановский район",
+      "lon": "25.410272911073264",
+      "lat": "52.320379144348856"
+    },
+    {
+      "school_osm_id": "379985437",
+      "school_osm_type": "way",
+      "school_name": "Опольская средняя школа",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "25.410272911073264",
+      "lat": "52.320379144348856"
+    },
+    {
+      "school_osm_id": "379985437",
+      "school_osm_type": "way",
+      "school_name": "Опольская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "25.410272911073264",
+      "lat": "52.320379144348856"
+    }
+  ]
+}

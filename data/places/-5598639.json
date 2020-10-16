@@ -1,0 +1,35 @@
+[
+  {
+    "school_osm_id": "440586253",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №2",
+    "place_osm_id": "-5598639",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Наровля",
+    "lon": "29.49601408532222",
+    "lat": "51.80389221193168"
+  },
+  {
+    "school_osm_id": "440586254",
+    "school_osm_type": "way",
+    "school_name": "Гимназия",
+    "place_osm_id": "-5598639",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Наровля",
+    "lon": "29.505663456491412",
+    "lat": "51.79692524369233"
+  },
+  {
+    "school_osm_id": "440586263",
+    "school_osm_type": "way",
+    "school_name": "Школа № 3",
+    "place_osm_id": "-5598639",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Наровля",
+    "lon": "29.503713625960913",
+    "lat": "51.785692667751185"
+  }
+]

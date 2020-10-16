@@ -1,0 +1,57 @@
+[
+  {
+    "school_osm_id": "150597523",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-6722322",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Барань",
+    "lon": "30.311382557466047",
+    "lat": "54.47971223991151"
+  },
+  {
+    "school_osm_id": "150597548",
+    "school_osm_type": "way",
+    "school_name": "ДШИ №3",
+    "place_osm_id": "-6722322",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Барань",
+    "lon": "30.312303717022512",
+    "lat": "54.48011017807724"
+  },
+  {
+    "school_osm_id": "150741504",
+    "school_osm_type": "way",
+    "school_name": "Гимназия г. Барани",
+    "place_osm_id": "-6722322",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Барань",
+    "lon": "30.316750986121715",
+    "lat": "54.47560443949308"
+  },
+  {
+    "school_osm_id": "198435003",
+    "school_osm_type": "way",
+    "school_name": "Школа № 15",
+    "place_osm_id": "-6722322",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Барань",
+    "lon": "30.310919685604922",
+    "lat": "54.481901251451966"
+  },
+  {
+    "school_osm_id": "225140986",
+    "school_osm_type": "way",
+    "school_name": "Школа № 18",
+    "place_osm_id": "-6722322",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Барань",
+    "lon": "30.323738240986785",
+    "lat": "54.483535197263066"
+  }
+]

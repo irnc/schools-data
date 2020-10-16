@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Никитиха",
+    "osm_id": "-7506994",
+    "hierarchy": [
+      "Ловжанский сельский Совет",
+      "Шумилинский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.317660503106886",
+    "lon": "29.43274948083167"
+  },
+  "group": [
+    {
+      "school_osm_id": "808548995",
+      "school_osm_type": "way",
+      "school_name": "Школа № 1",
+      "place_osm_id": "-7981153",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Ловжанский сельский Совет",
+      "lon": "29.43274948083167",
+      "lat": "55.317660503106886"
+    },
+    {
+      "school_osm_id": "808548995",
+      "school_osm_type": "way",
+      "school_name": "Школа № 1",
+      "place_osm_id": "-7506994",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Никитиха",
+      "lon": "29.43274948083167",
+      "lat": "55.317660503106886"
+    },
+    {
+      "school_osm_id": "808548995",
+      "school_osm_type": "way",
+      "school_name": "Школа № 1",
+      "place_osm_id": "-70677",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Шумилинский район",
+      "lon": "29.43274948083167",
+      "lat": "55.317660503106886"
+    },
+    {
+      "school_osm_id": "808548995",
+      "school_osm_type": "way",
+      "school_name": "Школа № 1",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "29.43274948083167",
+      "lat": "55.317660503106886"
+    },
+    {
+      "school_osm_id": "808548995",
+      "school_osm_type": "way",
+      "school_name": "Школа № 1",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.43274948083167",
+      "lat": "55.317660503106886"
+    }
+  ]
+}

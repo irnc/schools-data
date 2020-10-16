@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "499228212",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7504792",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Озерница",
+    "lon": "25.014134924179224",
+    "lat": "53.07100397605479"
+  },
+  {
+    "school_osm_id": "518308740",
+    "school_osm_type": "way",
+    "school_name": "Озерницкая средняя школа",
+    "place_osm_id": "-7504792",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Озерница",
+    "lon": "25.01374090392098",
+    "lat": "53.07179749921931"
+  }
+]

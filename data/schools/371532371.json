@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Столбун",
+    "osm_id": "-7442458",
+    "hierarchy": [
+      "Столбунский сельский Совет",
+      "Ветковский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.79663067596216",
+    "lon": "31.409837876053423"
+  },
+  "group": [
+    {
+      "school_osm_id": "371532371",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8031178",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Столбунский сельский Совет",
+      "lon": "31.409837876053423",
+      "lat": "52.79663067596216"
+    },
+    {
+      "school_osm_id": "371532371",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7442458",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Столбун",
+      "lon": "31.409837876053423",
+      "lat": "52.79663067596216"
+    },
+    {
+      "school_osm_id": "371532371",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70795",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Ветковский район",
+      "lon": "31.409837876053423",
+      "lat": "52.79663067596216"
+    },
+    {
+      "school_osm_id": "371532371",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "31.409837876053423",
+      "lat": "52.79663067596216"
+    },
+    {
+      "school_osm_id": "371532371",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "31.409837876053423",
+      "lat": "52.79663067596216"
+    }
+  ]
+}

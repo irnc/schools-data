@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Вишнёвка",
+    "osm_id": "-7547099",
+    "hierarchy": [
+      "Папернянский сельский Совет",
+      "Минский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.058096374791674",
+    "lon": "27.554740191377427"
+  },
+  "group": [
+    {
+      "school_osm_id": "343943726",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8144207",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Папернянский сельский Совет",
+      "lon": "27.554740191377427",
+      "lat": "54.058096374791674"
+    },
+    {
+      "school_osm_id": "343943726",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7547099",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Вишнёвка",
+      "lon": "27.554740191377427",
+      "lat": "54.058096374791674"
+    },
+    {
+      "school_osm_id": "343943726",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.554740191377427",
+      "lat": "54.058096374791674"
+    },
+    {
+      "school_osm_id": "343943726",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59190",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Минский район",
+      "lon": "27.554740191377427",
+      "lat": "54.058096374791674"
+    },
+    {
+      "school_osm_id": "343943726",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.554740191377427",
+      "lat": "54.058096374791674"
+    }
+  ]
+}

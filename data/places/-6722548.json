@@ -1,0 +1,46 @@
+[
+  {
+    "school_osm_id": "370698266",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-6722548",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Крупки",
+    "lon": "29.129443512649818",
+    "lat": "54.31935210301504"
+  },
+  {
+    "school_osm_id": "851924862",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-6722548",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Крупки",
+    "lon": "29.140760967686628",
+    "lat": "54.32043187903122"
+  },
+  {
+    "school_osm_id": "4219635400",
+    "school_osm_type": "node",
+    "school_name": "Гимназия",
+    "place_osm_id": "-6722548",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Крупки",
+    "lon": "29.143482599999995",
+    "lat": "54.32519949924633"
+  },
+  {
+    "school_osm_id": "4219641597",
+    "school_osm_type": "node",
+    "school_name": "Музыкальная школа",
+    "place_osm_id": "-6722548",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Крупки",
+    "lon": "29.139945899999997",
+    "lat": "54.31773839924476"
+  }
+]

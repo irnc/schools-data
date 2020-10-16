@@ -1,0 +1,59 @@
+{
+  "place": {
+    "name": "Гродно",
+    "osm_id": "-130921",
+    "hierarchy": [
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.67431689763138",
+    "lon": "23.832337617423715"
+  },
+  "group": [
+    {
+      "school_osm_id": "288947152",
+      "school_osm_type": "way",
+      "school_name": "Гродненская городская гимназия",
+      "place_osm_id": "-2888067",
+      "place_admin_level": "9",
+      "place_place": "",
+      "place_name": "Ленинский район",
+      "lon": "23.832337617423715",
+      "lat": "53.67431689763138"
+    },
+    {
+      "school_osm_id": "288947152",
+      "school_osm_type": "way",
+      "school_name": "Гродненская городская гимназия",
+      "place_osm_id": "-130921",
+      "place_admin_level": "6",
+      "place_place": "city",
+      "place_name": "Гродно",
+      "lon": "23.832337617423715",
+      "lat": "53.67431689763138"
+    },
+    {
+      "school_osm_id": "288947152",
+      "school_osm_type": "way",
+      "school_name": "Гродненская городская гимназия",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "23.832337617423715",
+      "lat": "53.67431689763138"
+    },
+    {
+      "school_osm_id": "288947152",
+      "school_osm_type": "way",
+      "school_name": "Гродненская городская гимназия",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "23.832337617423715",
+      "lat": "53.67431689763138"
+    }
+  ]
+}

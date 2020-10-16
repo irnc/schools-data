@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Кировск",
+    "osm_id": "-6722647",
+    "hierarchy": [
+      "Кировский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.28007435039955",
+    "lon": "29.463337438170225"
+  },
+  "group": [
+    {
+      "school_osm_id": "667333729",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-6722647",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Кировск",
+      "lon": "29.463337438170225",
+      "lat": "53.28007435039955"
+    },
+    {
+      "school_osm_id": "667333729",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70580",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Кировский район",
+      "lon": "29.463337438170225",
+      "lat": "53.28007435039955"
+    },
+    {
+      "school_osm_id": "667333729",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "29.463337438170225",
+      "lat": "53.28007435039955"
+    },
+    {
+      "school_osm_id": "667333729",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.463337438170225",
+      "lat": "53.28007435039955"
+    }
+  ]
+}

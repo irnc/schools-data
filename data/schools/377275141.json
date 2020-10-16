@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Мир",
+    "osm_id": "-7517901",
+    "hierarchy": [
+      "Мирский сельский Совет",
+      "Кореличский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.46002285146415",
+    "lon": "26.46527907901943"
+  },
+  "group": [
+    {
+      "school_osm_id": "377275141",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа г.п.Мир",
+      "place_osm_id": "-8100426",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Мирский сельский Совет",
+      "lon": "26.46527907901943",
+      "lat": "53.46002285146415"
+    },
+    {
+      "school_osm_id": "377275141",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа г.п.Мир",
+      "place_osm_id": "-7517901",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Мир",
+      "lon": "26.46527907901943",
+      "lat": "53.46002285146415"
+    },
+    {
+      "school_osm_id": "377275141",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа г.п.Мир",
+      "place_osm_id": "-70751",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Кореличский район",
+      "lon": "26.46527907901943",
+      "lat": "53.46002285146415"
+    },
+    {
+      "school_osm_id": "377275141",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа г.п.Мир",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "26.46527907901943",
+      "lat": "53.46002285146415"
+    },
+    {
+      "school_osm_id": "377275141",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа г.п.Мир",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.46527907901943",
+      "lat": "53.46002285146415"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Усполье",
+    "osm_id": "-7589204",
+    "hierarchy": [
+      "Ходосовский сельский Совет",
+      "Мстиславский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.92286654321233",
+    "lon": "31.40093147307182"
+  },
+  "group": [
+    {
+      "school_osm_id": "384278176",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8076004",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Ходосовский сельский Совет",
+      "lon": "31.40093147307182",
+      "lat": "53.92286654321233"
+    },
+    {
+      "school_osm_id": "384278176",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7589204",
+      "place_admin_level": "10",
+      "place_place": "hamlet",
+      "place_name": "Усполье",
+      "lon": "31.40093147307182",
+      "lat": "53.92286654321233"
+    },
+    {
+      "school_osm_id": "384278176",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70616",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Мстиславский район",
+      "lon": "31.40093147307182",
+      "lat": "53.92286654321233"
+    },
+    {
+      "school_osm_id": "384278176",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "31.40093147307182",
+      "lat": "53.92286654321233"
+    },
+    {
+      "school_osm_id": "384278176",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "31.40093147307182",
+      "lat": "53.92286654321233"
+    }
+  ]
+}

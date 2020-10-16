@@ -1,0 +1,68 @@
+[
+  {
+    "school_osm_id": "144898030",
+    "school_osm_type": "way",
+    "school_name": "Музыкальная школа",
+    "place_osm_id": "-6722695",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Круглое",
+    "lon": "29.79564652516107",
+    "lat": "54.24858579152318"
+  },
+  {
+    "school_osm_id": "209994673",
+    "school_osm_type": "way",
+    "school_name": "Воскресная школа",
+    "place_osm_id": "-6722695",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Круглое",
+    "lon": "29.797188239273382",
+    "lat": "54.24383982153296"
+  },
+  {
+    "school_osm_id": "210010740",
+    "school_osm_type": "way",
+    "school_name": "Школа-ДЮСШ",
+    "place_osm_id": "-6722695",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Круглое",
+    "lon": "29.797774370341877",
+    "lat": "54.23588187589995"
+  },
+  {
+    "school_osm_id": "372365126",
+    "school_osm_type": "way",
+    "school_name": "Школа №2",
+    "place_osm_id": "-6722695",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Круглое",
+    "lon": "29.79893185937487",
+    "lat": "54.24553891615368"
+  },
+  {
+    "school_osm_id": "637286759",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-6722695",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Круглое",
+    "lon": "29.799465139933968",
+    "lat": "54.252604531586066"
+  },
+  {
+    "school_osm_id": "839762444",
+    "school_osm_type": "way",
+    "school_name": "Школа-интернат",
+    "place_osm_id": "-6722695",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Круглое",
+    "lon": "29.799841676988663",
+    "lat": "54.234910610425736"
+  }
+]

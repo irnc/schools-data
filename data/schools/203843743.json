@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Амбросовичи",
+    "osm_id": "-7506778",
+    "hierarchy": [
+      "Добейский сельский Совет",
+      "Шумилинский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.198187812987726",
+    "lon": "29.653608503427797"
+  },
+  "group": [
+    {
+      "school_osm_id": "203843743",
+      "school_osm_type": "way",
+      "school_name": "школа № 1",
+      "place_osm_id": "-7981151",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Добейский сельский Совет",
+      "lon": "29.653608503427797",
+      "lat": "55.198187812987726"
+    },
+    {
+      "school_osm_id": "203843743",
+      "school_osm_type": "way",
+      "school_name": "школа № 1",
+      "place_osm_id": "-7506778",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Амбросовичи",
+      "lon": "29.653608503427797",
+      "lat": "55.198187812987726"
+    },
+    {
+      "school_osm_id": "203843743",
+      "school_osm_type": "way",
+      "school_name": "школа № 1",
+      "place_osm_id": "-70677",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Шумилинский район",
+      "lon": "29.653608503427797",
+      "lat": "55.198187812987726"
+    },
+    {
+      "school_osm_id": "203843743",
+      "school_osm_type": "way",
+      "school_name": "школа № 1",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "29.653608503427797",
+      "lat": "55.198187812987726"
+    },
+    {
+      "school_osm_id": "203843743",
+      "school_osm_type": "way",
+      "school_name": "школа № 1",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.653608503427797",
+      "lat": "55.198187812987726"
+    }
+  ]
+}

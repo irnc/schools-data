@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Засулье",
+    "osm_id": "-5496836",
+    "hierarchy": [
+      "Рубежевичский сельский Совет",
+      "Столбцовский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.57869138934022",
+    "lon": "26.83080015314529"
+  },
+  "group": [
+    {
+      "school_osm_id": "380426150",
+      "school_osm_type": "way",
+      "school_name": "Засульская средняя школа",
+      "place_osm_id": "-8139746",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Рубежевичский сельский Совет",
+      "lon": "26.83080015314529",
+      "lat": "53.57869138934022"
+    },
+    {
+      "school_osm_id": "380426150",
+      "school_osm_type": "way",
+      "school_name": "Засульская средняя школа",
+      "place_osm_id": "-5496836",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Засулье",
+      "lon": "26.83080015314529",
+      "lat": "53.57869138934022"
+    },
+    {
+      "school_osm_id": "380426150",
+      "school_osm_type": "way",
+      "school_name": "Засульская средняя школа",
+      "place_osm_id": "-70752",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Столбцовский район",
+      "lon": "26.83080015314529",
+      "lat": "53.57869138934022"
+    },
+    {
+      "school_osm_id": "380426150",
+      "school_osm_type": "way",
+      "school_name": "Засульская средняя школа",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "26.83080015314529",
+      "lat": "53.57869138934022"
+    },
+    {
+      "school_osm_id": "380426150",
+      "school_osm_type": "way",
+      "school_name": "Засульская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.83080015314529",
+      "lat": "53.57869138934022"
+    }
+  ]
+}

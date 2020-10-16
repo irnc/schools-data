@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Пески",
+    "osm_id": "-7459145",
+    "hierarchy": [
+      "Песковский сельский Совет",
+      "Берёзовский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.49991292858853",
+    "lon": "25.19240410018006"
+  },
+  "group": [
+    {
+      "school_osm_id": "617352247",
+      "school_osm_type": "way",
+      "school_name": "Песковская средняя школа",
+      "place_osm_id": "-8085941",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Песковский сельский Совет",
+      "lon": "25.19240410018006",
+      "lat": "52.49991292858853"
+    },
+    {
+      "school_osm_id": "617352247",
+      "school_osm_type": "way",
+      "school_name": "Песковская средняя школа",
+      "place_osm_id": "-7459145",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Пески",
+      "lon": "25.19240410018006",
+      "lat": "52.49991292858853"
+    },
+    {
+      "school_osm_id": "617352247",
+      "school_osm_type": "way",
+      "school_name": "Песковская средняя школа",
+      "place_osm_id": "-71107",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Берёзовский район",
+      "lon": "25.19240410018006",
+      "lat": "52.49991292858853"
+    },
+    {
+      "school_osm_id": "617352247",
+      "school_osm_type": "way",
+      "school_name": "Песковская средняя школа",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "25.19240410018006",
+      "lat": "52.49991292858853"
+    },
+    {
+      "school_osm_id": "617352247",
+      "school_osm_type": "way",
+      "school_name": "Песковская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "25.19240410018006",
+      "lat": "52.49991292858853"
+    }
+  ]
+}

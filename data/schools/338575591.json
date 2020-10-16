@@ -1,0 +1,59 @@
+{
+  "place": {
+    "name": "Гомель",
+    "osm_id": "-163244",
+    "hierarchy": [
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.40210579676566",
+    "lon": "30.925831670556377"
+  },
+  "group": [
+    {
+      "school_osm_id": "338575591",
+      "school_osm_type": "way",
+      "school_name": "69",
+      "place_osm_id": "-3628814",
+      "place_admin_level": "9",
+      "place_place": "",
+      "place_name": "Советский район",
+      "lon": "30.925831670556377",
+      "lat": "52.40210579676566"
+    },
+    {
+      "school_osm_id": "338575591",
+      "school_osm_type": "way",
+      "school_name": "69",
+      "place_osm_id": "-163244",
+      "place_admin_level": "6",
+      "place_place": "city",
+      "place_name": "Гомель",
+      "lon": "30.925831670556377",
+      "lat": "52.40210579676566"
+    },
+    {
+      "school_osm_id": "338575591",
+      "school_osm_type": "way",
+      "school_name": "69",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "30.925831670556377",
+      "lat": "52.40210579676566"
+    },
+    {
+      "school_osm_id": "338575591",
+      "school_osm_type": "way",
+      "school_name": "69",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.925831670556377",
+      "lat": "52.40210579676566"
+    }
+  ]
+}

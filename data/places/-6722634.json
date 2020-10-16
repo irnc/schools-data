@@ -1,0 +1,57 @@
+[
+  {
+    "school_osm_id": "129116262",
+    "school_osm_type": "way",
+    "school_name": "Школа №2",
+    "place_osm_id": "-6722634",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Червень",
+    "lon": "28.42173292143378",
+    "lat": "53.71232751542996"
+  },
+  {
+    "school_osm_id": "130125165",
+    "school_osm_type": "way",
+    "school_name": "Гимназия",
+    "place_osm_id": "-6722634",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Червень",
+    "lon": "28.424165124785183",
+    "lat": "53.71081634702954"
+  },
+  {
+    "school_osm_id": "505105666",
+    "school_osm_type": "way",
+    "school_name": "Школа №3",
+    "place_osm_id": "-6722634",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Червень",
+    "lon": "28.43874348736716",
+    "lat": "53.70498499944973"
+  },
+  {
+    "school_osm_id": "667469740",
+    "school_osm_type": "way",
+    "school_name": "Школа №4",
+    "place_osm_id": "-6722634",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Червень",
+    "lon": "28.419539045058446",
+    "lat": "53.70302995029256"
+  },
+  {
+    "school_osm_id": "1559608214",
+    "school_osm_type": "node",
+    "school_name": "Музыкальная школа",
+    "place_osm_id": "-6722634",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Червень",
+    "lon": "28.4181935",
+    "lat": "53.71479639914341"
+  }
+]

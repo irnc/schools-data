@@ -1,0 +1,53 @@
+{
+  "place": "warning-school-without-place",
+  "geo": {
+    "lat": "53.95600798496344",
+    "lon": "27.645813159580438"
+  },
+  "group": [
+    {
+      "school_osm_id": "397171699",
+      "school_osm_type": "way",
+      "school_name": "Минское городское кадетское училище №2",
+      "place_osm_id": "-8144270",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Боровлянский сельский Совет",
+      "lon": "27.645813159580438",
+      "lat": "53.95600798496344"
+    },
+    {
+      "school_osm_id": "397171699",
+      "school_osm_type": "way",
+      "school_name": "Минское городское кадетское училище №2",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.645813159580438",
+      "lat": "53.95600798496344"
+    },
+    {
+      "school_osm_id": "397171699",
+      "school_osm_type": "way",
+      "school_name": "Минское городское кадетское училище №2",
+      "place_osm_id": "-59190",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Минский район",
+      "lon": "27.645813159580438",
+      "lat": "53.95600798496344"
+    },
+    {
+      "school_osm_id": "397171699",
+      "school_osm_type": "way",
+      "school_name": "Минское городское кадетское училище №2",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.645813159580438",
+      "lat": "53.95600798496344"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "680077684",
+    "school_osm_type": "way",
+    "school_name": "Шерешевская средняя школа",
+    "place_osm_id": "-7467877",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Шерешево",
+    "lon": "24.21277554880448",
+    "lat": "52.56212438899357"
+  },
+  {
+    "school_osm_id": "6777253586",
+    "school_osm_type": "node",
+    "school_name": "Шерешовская школа",
+    "place_osm_id": "-7467877",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Шерешево",
+    "lon": "24.208767599999998",
+    "lat": "52.55259779908665"
+  }
+]

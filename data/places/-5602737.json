@@ -1,0 +1,46 @@
+[
+  {
+    "school_osm_id": "481431449",
+    "school_osm_type": "way",
+    "school_name": "СШ №4",
+    "place_osm_id": "-5602737",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Ивацевичи",
+    "lon": "25.331528197820553",
+    "lat": "52.71356286098064"
+  },
+  {
+    "school_osm_id": "642551810",
+    "school_osm_type": "way",
+    "school_name": "СШ №3",
+    "place_osm_id": "-5602737",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Ивацевичи",
+    "lon": "25.325580995748307",
+    "lat": "52.7075407070139"
+  },
+  {
+    "school_osm_id": "658443220",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №1",
+    "place_osm_id": "-5602737",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Ивацевичи",
+    "lon": "25.351878463884244",
+    "lat": "52.71532639328782"
+  },
+  {
+    "school_osm_id": "658443237",
+    "school_osm_type": "way",
+    "school_name": "Лицей Ивацевичского района",
+    "place_osm_id": "-5602737",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Ивацевичи",
+    "lon": "25.3332417153418",
+    "lat": "52.71407184427741"
+  }
+]

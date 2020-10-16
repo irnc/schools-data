@@ -1,0 +1,46 @@
+{
+  "place": {
+    "name": "Минск",
+    "osm_id": "-59195",
+    "hierarchy": []
+  },
+  "geo": {
+    "lat": "53.90520609916992",
+    "lon": "27.5492881"
+  },
+  "group": [
+    {
+      "school_osm_id": "5784642854",
+      "school_osm_type": "node",
+      "school_name": "Музыкальная школа Артема Шаплыко",
+      "place_osm_id": "-59249",
+      "place_admin_level": "9",
+      "place_place": "",
+      "place_name": "Центральный район",
+      "lon": "27.5492881",
+      "lat": "53.90520609916992"
+    },
+    {
+      "school_osm_id": "5784642854",
+      "school_osm_type": "node",
+      "school_name": "Музыкальная школа Артема Шаплыко",
+      "place_osm_id": "-59195",
+      "place_admin_level": "4",
+      "place_place": "city",
+      "place_name": "Минск",
+      "lon": "27.5492881",
+      "lat": "53.90520609916992"
+    },
+    {
+      "school_osm_id": "5784642854",
+      "school_osm_type": "node",
+      "school_name": "Музыкальная школа Артема Шаплыко",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.5492881",
+      "lat": "53.90520609916992"
+    }
+  ]
+}

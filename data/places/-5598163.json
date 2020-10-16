@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "512015918",
+    "school_osm_type": "way",
+    "school_name": "Желудокская Средняя школа",
+    "place_osm_id": "-5598163",
+    "place_admin_level": "8",
+    "place_place": "village",
+    "place_name": "Желудок",
+    "lon": "24.98026319838594",
+    "lat": "53.601050051664416"
+  },
+  {
+    "school_osm_id": "615641636",
+    "school_osm_type": "way",
+    "school_name": "Начальная школа",
+    "place_osm_id": "-5598163",
+    "place_admin_level": "8",
+    "place_place": "village",
+    "place_name": "Желудок",
+    "lon": "24.978588643825013",
+    "lat": "53.5999981940967"
+  }
+]

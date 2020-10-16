@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "771134703",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7465907",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Дивин",
+    "lon": "24.585271172806575",
+    "lat": "51.957138728078846"
+  },
+  {
+    "school_osm_id": "771135154",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7465907",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Дивин",
+    "lon": "24.574008038495663",
+    "lat": "51.956824405702264"
+  }
+]

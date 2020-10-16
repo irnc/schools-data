@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Гребени",
+    "osm_id": "-6859416",
+    "hierarchy": [
+      "Стодоличский сельский Совет",
+      "Лельчицкий район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "51.67031245486399",
+    "lon": "28.411736950687512"
+  },
+  "group": [
+    {
+      "school_osm_id": "461164823",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8030874",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Стодоличский сельский Совет",
+      "lon": "28.411736950687512",
+      "lat": "51.67031245486399"
+    },
+    {
+      "school_osm_id": "461164823",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-6859416",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Гребени",
+      "lon": "28.411736950687512",
+      "lat": "51.67031245486399"
+    },
+    {
+      "school_osm_id": "461164823",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-71147",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Лельчицкий район",
+      "lon": "28.411736950687512",
+      "lat": "51.67031245486399"
+    },
+    {
+      "school_osm_id": "461164823",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "28.411736950687512",
+      "lat": "51.67031245486399"
+    },
+    {
+      "school_osm_id": "461164823",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.411736950687512",
+      "lat": "51.67031245486399"
+    }
+  ]
+}

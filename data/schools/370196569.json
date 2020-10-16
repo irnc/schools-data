@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Фариново",
+    "osm_id": "-7496054",
+    "hierarchy": [
+      "Фариновский сельский Совет",
+      "Полоцкий район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.4307062333847",
+    "lon": "28.586954007549828"
+  },
+  "group": [
+    {
+      "school_osm_id": "370196569",
+      "school_osm_type": "way",
+      "school_name": "Фариновская средняя школа",
+      "place_osm_id": "-8075969",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Фариновский сельский Совет",
+      "lon": "28.586954007549828",
+      "lat": "55.4307062333847"
+    },
+    {
+      "school_osm_id": "370196569",
+      "school_osm_type": "way",
+      "school_name": "Фариновская средняя школа",
+      "place_osm_id": "-7496054",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Фариново",
+      "lon": "28.586954007549828",
+      "lat": "55.4307062333847"
+    },
+    {
+      "school_osm_id": "370196569",
+      "school_osm_type": "way",
+      "school_name": "Фариновская средняя школа",
+      "place_osm_id": "-70671",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Полоцкий район",
+      "lon": "28.586954007549828",
+      "lat": "55.4307062333847"
+    },
+    {
+      "school_osm_id": "370196569",
+      "school_osm_type": "way",
+      "school_name": "Фариновская средняя школа",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "28.586954007549828",
+      "lat": "55.4307062333847"
+    },
+    {
+      "school_osm_id": "370196569",
+      "school_osm_type": "way",
+      "school_name": "Фариновская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.586954007549828",
+      "lat": "55.4307062333847"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "255194821",
+    "school_osm_type": "way",
+    "school_name": "Начальная школа",
+    "place_osm_id": "-6722487",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Березино",
+    "lon": "28.98758366195704",
+    "lat": "53.83136924170782"
+  },
+  {
+    "school_osm_id": "1033254413",
+    "school_osm_type": "node",
+    "school_name": "Школа № 3",
+    "place_osm_id": "-6722487",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Березино",
+    "lon": "28.9896324",
+    "lat": "53.82378809915799"
+  }
+]

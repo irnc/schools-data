@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Войстом",
+    "osm_id": "-6783649",
+    "hierarchy": [
+      "Вишневский сельский Совет",
+      "Сморгонский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.575422299118756",
+    "lon": "26.624441789270005"
+  },
+  "group": [
+    {
+      "school_osm_id": "154185349",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8015372",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Вишневский сельский Совет",
+      "lon": "26.624441789270005",
+      "lat": "54.575422299118756"
+    },
+    {
+      "school_osm_id": "154185349",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-6783649",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Войстом",
+      "lon": "26.624441789270005",
+      "lat": "54.575422299118756"
+    },
+    {
+      "school_osm_id": "154185349",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70725",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Сморгонский район",
+      "lon": "26.624441789270005",
+      "lat": "54.575422299118756"
+    },
+    {
+      "school_osm_id": "154185349",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "26.624441789270005",
+      "lat": "54.575422299118756"
+    },
+    {
+      "school_osm_id": "154185349",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.624441789270005",
+      "lat": "54.575422299118756"
+    }
+  ]
+}

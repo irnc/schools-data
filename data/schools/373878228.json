@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Энергетиков",
+    "osm_id": "-7536600",
+    "hierarchy": [
+      "Негорельский сельский Совет",
+      "Дзержинский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.586333399710455",
+    "lon": "27.051003792098207"
+  },
+  "group": [
+    {
+      "school_osm_id": "373878228",
+      "school_osm_type": "way",
+      "school_name": "Негорельская средняя школа №1",
+      "place_osm_id": "-8139703",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Негорельский сельский Совет",
+      "lon": "27.051003792098207",
+      "lat": "53.586333399710455"
+    },
+    {
+      "school_osm_id": "373878228",
+      "school_osm_type": "way",
+      "school_name": "Негорельская средняя школа №1",
+      "place_osm_id": "-7536600",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Энергетиков",
+      "lon": "27.051003792098207",
+      "lat": "53.586333399710455"
+    },
+    {
+      "school_osm_id": "373878228",
+      "school_osm_type": "way",
+      "school_name": "Негорельская средняя школа №1",
+      "place_osm_id": "-70563",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Дзержинский район",
+      "lon": "27.051003792098207",
+      "lat": "53.586333399710455"
+    },
+    {
+      "school_osm_id": "373878228",
+      "school_osm_type": "way",
+      "school_name": "Негорельская средняя школа №1",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.051003792098207",
+      "lat": "53.586333399710455"
+    },
+    {
+      "school_osm_id": "373878228",
+      "school_osm_type": "way",
+      "school_name": "Негорельская средняя школа №1",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.051003792098207",
+      "lat": "53.586333399710455"
+    }
+  ]
+}

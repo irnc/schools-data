@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "292998176",
+    "school_osm_type": "way",
+    "school_name": "Музыкальная школа",
+    "place_osm_id": "-7443461",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Вересница",
+    "lon": "27.632826873801854",
+    "lat": "52.08721980801472"
+  },
+  {
+    "school_osm_id": "420076929",
+    "school_osm_type": "way",
+    "school_name": "Вересницкая средняя школа",
+    "place_osm_id": "-7443461",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Вересница",
+    "lon": "27.63388849185446",
+    "lat": "52.08670091544512"
+  }
+]

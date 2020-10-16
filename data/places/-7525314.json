@@ -1,0 +1,46 @@
+[
+  {
+    "school_osm_id": "309365961",
+    "school_osm_type": "way",
+    "school_name": "ГУО \"Жупранская средняя школа имени Ф.К. Богушевича\"",
+    "place_osm_id": "-7525314",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Жупраны",
+    "lon": "26.091412154191705",
+    "lat": "54.475064452265876"
+  },
+  {
+    "school_osm_id": "4213725592",
+    "school_osm_type": "node",
+    "school_name": "ГУО \"Жупранская средняя школа имени Ф.К. Богушевича\"",
+    "place_osm_id": "-7525314",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Жупраны",
+    "lon": "26.091532199999996",
+    "lat": "54.475137799279594"
+  },
+  {
+    "school_osm_id": "4213731691",
+    "school_osm_type": "node",
+    "school_name": "ГУО \"Жупранская средняя школа имени Ф.К. Богушевича\"",
+    "place_osm_id": "-7525314",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Жупраны",
+    "lon": "26.0915011",
+    "lat": "54.47504199927956"
+  },
+  {
+    "school_osm_id": "4213731790",
+    "school_osm_type": "node",
+    "school_name": "ГУО \"Жупранская средняя школа имени Ф.К. Богушевича\"",
+    "place_osm_id": "-7525314",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Жупраны",
+    "lon": "26.0914348",
+    "lat": "54.47510329927958"
+  }
+]

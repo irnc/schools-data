@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "297498176",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7589448",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Телеши",
+    "lon": "31.080455561994768",
+    "lat": "53.6298411286804"
+  },
+  {
+    "school_osm_id": "297516800",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7589448",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Телеши",
+    "lon": "31.080548368779816",
+    "lat": "53.62995720024388"
+  }
+]

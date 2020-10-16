@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Кистени",
+    "osm_id": "-6894443",
+    "hierarchy": [
+      "Кистенёвский сельский Совет",
+      "Рогачёвский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.175458854471245",
+    "lon": "30.25005171626435"
+  },
+  "group": [
+    {
+      "school_osm_id": "280721420",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8107303",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Кистенёвский сельский Совет",
+      "lon": "30.25005171626435",
+      "lat": "53.175458854471245"
+    },
+    {
+      "school_osm_id": "280721420",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-6894443",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Кистени",
+      "lon": "30.25005171626435",
+      "lat": "53.175458854471245"
+    },
+    {
+      "school_osm_id": "280721420",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59174",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Рогачёвский район",
+      "lon": "30.25005171626435",
+      "lat": "53.175458854471245"
+    },
+    {
+      "school_osm_id": "280721420",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "30.25005171626435",
+      "lat": "53.175458854471245"
+    },
+    {
+      "school_osm_id": "280721420",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.25005171626435",
+      "lat": "53.175458854471245"
+    }
+  ]
+}

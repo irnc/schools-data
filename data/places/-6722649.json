@@ -1,0 +1,57 @@
+[
+  {
+    "school_osm_id": "74151995",
+    "school_osm_type": "way",
+    "school_name": "Музыкальная школа",
+    "place_osm_id": "-6722649",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Климовичи",
+    "lon": "31.963047084448043",
+    "lat": "53.60930164636088"
+  },
+  {
+    "school_osm_id": "74549169",
+    "school_osm_type": "way",
+    "school_name": "Школа №2",
+    "place_osm_id": "-6722649",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Климовичи",
+    "lon": "31.94764945364719",
+    "lat": "53.60158271658946"
+  },
+  {
+    "school_osm_id": "84956567",
+    "school_osm_type": "way",
+    "school_name": "Школа №4",
+    "place_osm_id": "-6722649",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Климовичи",
+    "lon": "31.941386058858132",
+    "lat": "53.590516109652775"
+  },
+  {
+    "school_osm_id": "302271641",
+    "school_osm_type": "way",
+    "school_name": "Школа №3",
+    "place_osm_id": "-6722649",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Климовичи",
+    "lon": "31.96799589813675",
+    "lat": "53.60410808866306"
+  },
+  {
+    "school_osm_id": "372951590",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-6722649",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Климовичи",
+    "lon": "31.93803412440675",
+    "lat": "53.614900891845444"
+  }
+]

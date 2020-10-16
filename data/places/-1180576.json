@@ -1,0 +1,112 @@
+[
+  {
+    "school_osm_id": "156431218",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-1180576",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Лепель",
+    "lon": "28.690541548600518",
+    "lat": "54.88565830284546"
+  },
+  {
+    "school_osm_id": "156433111",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-1180576",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Лепель",
+    "lon": "28.692116137868858",
+    "lat": "54.88491459508718"
+  },
+  {
+    "school_osm_id": "156452316",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-1180576",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Лепель",
+    "lon": "28.688041754660667",
+    "lat": "54.8854080194959"
+  },
+  {
+    "school_osm_id": "156454750",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-1180576",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Лепель",
+    "lon": "28.685524715937664",
+    "lat": "54.8839327472797"
+  },
+  {
+    "school_osm_id": "160200079",
+    "school_osm_type": "way",
+    "school_name": "СШ№4",
+    "place_osm_id": "-1180576",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Лепель",
+    "lon": "28.69221833979577",
+    "lat": "54.88599770712631"
+  },
+  {
+    "school_osm_id": "543056552",
+    "school_osm_type": "way",
+    "school_name": "Гимназия N°2 им. Ерашова",
+    "place_osm_id": "-1180576",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Лепель",
+    "lon": "28.716349604318918",
+    "lat": "54.88502697293347"
+  },
+  {
+    "school_osm_id": "543056557",
+    "school_osm_type": "way",
+    "school_name": "Школа № 3",
+    "place_osm_id": "-1180576",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Лепель",
+    "lon": "28.69775796738626",
+    "lat": "54.886284433557506"
+  },
+  {
+    "school_osm_id": "543056565",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-1180576",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Лепель",
+    "lon": "28.691585852573887",
+    "lat": "54.885523340960766"
+  },
+  {
+    "school_osm_id": "543056581",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-1180576",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Лепель",
+    "lon": "28.684941252179346",
+    "lat": "54.884037784913694"
+  },
+  {
+    "school_osm_id": "559819389",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-1180576",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Лепель",
+    "lon": "28.68846345485232",
+    "lat": "54.883235604467295"
+  }
+]

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Дмитриевка 2",
+    "osm_id": "-6823520",
+    "hierarchy": [
+      "Потокский сельский Совет",
+      "Кличевский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.51312870128911",
+    "lon": "29.27032648112885"
+  },
+  "group": [
+    {
+      "school_osm_id": "207578988",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8143042",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Потокский сельский Совет",
+      "lon": "29.27032648112885",
+      "lat": "53.51312870128911"
+    },
+    {
+      "school_osm_id": "207578988",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-6823520",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Дмитриевка 2",
+      "lon": "29.27032648112885",
+      "lat": "53.51312870128911"
+    },
+    {
+      "school_osm_id": "207578988",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70577",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Кличевский район",
+      "lon": "29.27032648112885",
+      "lat": "53.51312870128911"
+    },
+    {
+      "school_osm_id": "207578988",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "29.27032648112885",
+      "lat": "53.51312870128911"
+    },
+    {
+      "school_osm_id": "207578988",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.27032648112885",
+      "lat": "53.51312870128911"
+    }
+  ]
+}

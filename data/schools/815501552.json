@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Щерчово",
+    "osm_id": "-7467892",
+    "hierarchy": [
+      "Щерчовский сельский Совет",
+      "Пружанский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.42228202644022",
+    "lon": "24.172356773033957"
+  },
+  "group": [
+    {
+      "school_osm_id": "815501552",
+      "school_osm_type": "way",
+      "school_name": "Школа-сад",
+      "place_osm_id": "-8025727",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Щерчовский сельский Совет",
+      "lon": "24.172356773033957",
+      "lat": "52.42228202644022"
+    },
+    {
+      "school_osm_id": "815501552",
+      "school_osm_type": "way",
+      "school_name": "Школа-сад",
+      "place_osm_id": "-7467892",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Щерчово",
+      "lon": "24.172356773033957",
+      "lat": "52.42228202644022"
+    },
+    {
+      "school_osm_id": "815501552",
+      "school_osm_type": "way",
+      "school_name": "Школа-сад",
+      "place_osm_id": "-71094",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Пружанский район",
+      "lon": "24.172356773033957",
+      "lat": "52.42228202644022"
+    },
+    {
+      "school_osm_id": "815501552",
+      "school_osm_type": "way",
+      "school_name": "Школа-сад",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "24.172356773033957",
+      "lat": "52.42228202644022"
+    },
+    {
+      "school_osm_id": "815501552",
+      "school_osm_type": "way",
+      "school_name": "Школа-сад",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "24.172356773033957",
+      "lat": "52.42228202644022"
+    }
+  ]
+}

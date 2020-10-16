@@ -1,0 +1,53 @@
+{
+  "place": "warning-school-without-place",
+  "geo": {
+    "lat": "54.11806414113034",
+    "lon": "28.677392631889795"
+  },
+  "group": [
+    {
+      "school_osm_id": "491461844",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8016708",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Гливинский сельский Совет",
+      "lon": "28.677392631889795",
+      "lat": "54.11806414113034"
+    },
+    {
+      "school_osm_id": "491461844",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70569",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Борисовский район",
+      "lon": "28.677392631889795",
+      "lat": "54.11806414113034"
+    },
+    {
+      "school_osm_id": "491461844",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "28.677392631889795",
+      "lat": "54.11806414113034"
+    },
+    {
+      "school_osm_id": "491461844",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.677392631889795",
+      "lat": "54.11806414113034"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "435653214",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7467538",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Тобулки",
+    "lon": "25.75259982955236",
+    "lat": "52.28763153644341"
+  },
+  {
+    "school_osm_id": "661446329",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7467538",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Тобулки",
+    "lon": "25.751575711124232",
+    "lat": "52.287292031483204"
+  }
+]

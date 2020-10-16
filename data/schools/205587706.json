@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Свенск",
+    "osm_id": "-6044021",
+    "hierarchy": [
+      "Свенский сельский Совет",
+      "Славгородский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.34200389949819",
+    "lon": "30.806760350157383"
+  },
+  "group": [
+    {
+      "school_osm_id": "205587706",
+      "school_osm_type": "way",
+      "school_name": "Свенская средняя школа",
+      "place_osm_id": "-8140432",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Свенский сельский Совет",
+      "lon": "30.806760350157383",
+      "lat": "53.34200389949819"
+    },
+    {
+      "school_osm_id": "205587706",
+      "school_osm_type": "way",
+      "school_name": "Свенская средняя школа",
+      "place_osm_id": "-6044021",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Свенск",
+      "lon": "30.806760350157383",
+      "lat": "53.34200389949819"
+    },
+    {
+      "school_osm_id": "205587706",
+      "school_osm_type": "way",
+      "school_name": "Свенская средняя школа",
+      "place_osm_id": "-70589",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Славгородский район",
+      "lon": "30.806760350157383",
+      "lat": "53.34200389949819"
+    },
+    {
+      "school_osm_id": "205587706",
+      "school_osm_type": "way",
+      "school_name": "Свенская средняя школа",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "30.806760350157383",
+      "lat": "53.34200389949819"
+    },
+    {
+      "school_osm_id": "205587706",
+      "school_osm_type": "way",
+      "school_name": "Свенская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.806760350157383",
+      "lat": "53.34200389949819"
+    }
+  ]
+}

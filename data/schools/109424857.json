@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Жлобин",
+    "osm_id": "-5598358",
+    "hierarchy": [
+      "Жлобинский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.89522779933514",
+    "lon": "30.05505902580585"
+  },
+  "group": [
+    {
+      "school_osm_id": "109424857",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа №5",
+      "place_osm_id": "-5598358",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Жлобин",
+      "lon": "30.05505902580585",
+      "lat": "52.89522779933514"
+    },
+    {
+      "school_osm_id": "109424857",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа №5",
+      "place_osm_id": "-59167",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Жлобинский район",
+      "lon": "30.05505902580585",
+      "lat": "52.89522779933514"
+    },
+    {
+      "school_osm_id": "109424857",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа №5",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "30.05505902580585",
+      "lat": "52.89522779933514"
+    },
+    {
+      "school_osm_id": "109424857",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа №5",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.05505902580585",
+      "lat": "52.89522779933514"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+[
+  {
+    "school_osm_id": "260432153",
+    "school_osm_type": "way",
+    "school_name": "СШ №3",
+    "place_osm_id": "-5598992",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Хойники",
+    "lon": "29.988477159666942",
+    "lat": "51.91094464245901"
+  },
+  {
+    "school_osm_id": "326229717",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-5598992",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Хойники",
+    "lon": "29.98675221403809",
+    "lat": "51.90524562802286"
+  },
+  {
+    "school_osm_id": "785460638",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №2",
+    "place_osm_id": "-5598992",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Хойники",
+    "lon": "29.97235050017904",
+    "lat": "51.89582947915359"
+  },
+  {
+    "school_osm_id": "785460654",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа № 1",
+    "place_osm_id": "-5598992",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Хойники",
+    "lon": "29.968506862121618",
+    "lat": "51.8835643245628"
+  }
+]

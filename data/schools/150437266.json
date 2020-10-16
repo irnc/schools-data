@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Докшицы",
+    "osm_id": "-6722293",
+    "hierarchy": [
+      "Докшицкий район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.895414697715246",
+    "lon": "27.766324024293393"
+  },
+  "group": [
+    {
+      "school_osm_id": "150437266",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа №1",
+      "place_osm_id": "-6722293",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Докшицы",
+      "lon": "27.766324024293393",
+      "lat": "54.895414697715246"
+    },
+    {
+      "school_osm_id": "150437266",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа №1",
+      "place_osm_id": "-70716",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Докшицкий район",
+      "lon": "27.766324024293393",
+      "lat": "54.895414697715246"
+    },
+    {
+      "school_osm_id": "150437266",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа №1",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "27.766324024293393",
+      "lat": "54.895414697715246"
+    },
+    {
+      "school_osm_id": "150437266",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа №1",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.766324024293393",
+      "lat": "54.895414697715246"
+    }
+  ]
+}

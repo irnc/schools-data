@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Еремичи",
+    "osm_id": "-7517918",
+    "hierarchy": [
+      "Еремичский сельский Совет",
+      "Кореличский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.568428094756946",
+    "lon": "26.341253580335096"
+  },
+  "group": [
+    {
+      "school_osm_id": "200583252",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8100424",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Еремичский сельский Совет",
+      "lon": "26.341253580335096",
+      "lat": "53.568428094756946"
+    },
+    {
+      "school_osm_id": "200583252",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7517918",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Еремичи",
+      "lon": "26.341253580335096",
+      "lat": "53.568428094756946"
+    },
+    {
+      "school_osm_id": "200583252",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70751",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Кореличский район",
+      "lon": "26.341253580335096",
+      "lat": "53.568428094756946"
+    },
+    {
+      "school_osm_id": "200583252",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "26.341253580335096",
+      "lat": "53.568428094756946"
+    },
+    {
+      "school_osm_id": "200583252",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.341253580335096",
+      "lat": "53.568428094756946"
+    }
+  ]
+}

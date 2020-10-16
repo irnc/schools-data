@@ -1,0 +1,59 @@
+{
+  "place": {
+    "name": "Брест",
+    "osm_id": "-72615",
+    "hierarchy": [
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.10926005500082",
+    "lon": "23.779231918606484"
+  },
+  "group": [
+    {
+      "school_osm_id": "103785031",
+      "school_osm_type": "way",
+      "school_name": "Школа №28",
+      "place_osm_id": "-3626405",
+      "place_admin_level": "9",
+      "place_place": "",
+      "place_name": "Московский район",
+      "lon": "23.779231918606484",
+      "lat": "52.10926005500082"
+    },
+    {
+      "school_osm_id": "103785031",
+      "school_osm_type": "way",
+      "school_name": "Школа №28",
+      "place_osm_id": "-72615",
+      "place_admin_level": "6",
+      "place_place": "city",
+      "place_name": "Брест",
+      "lon": "23.779231918606484",
+      "lat": "52.10926005500082"
+    },
+    {
+      "school_osm_id": "103785031",
+      "school_osm_type": "way",
+      "school_name": "Школа №28",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "23.779231918606484",
+      "lat": "52.10926005500082"
+    },
+    {
+      "school_osm_id": "103785031",
+      "school_osm_type": "way",
+      "school_name": "Школа №28",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "23.779231918606484",
+      "lat": "52.10926005500082"
+    }
+  ]
+}

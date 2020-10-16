@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Уть",
+    "osm_id": "-7443033",
+    "hierarchy": [
+      "Утевский сельский Совет",
+      "Добрушский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.227316025468895",
+    "lon": "31.380406102369005"
+  },
+  "group": [
+    {
+      "school_osm_id": "245531984",
+      "school_osm_type": "way",
+      "school_name": "Утевская СОШ",
+      "place_osm_id": "-8065394",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Утевский сельский Совет",
+      "lon": "31.380406102369005",
+      "lat": "52.227316025468895"
+    },
+    {
+      "school_osm_id": "245531984",
+      "school_osm_type": "way",
+      "school_name": "Утевская СОШ",
+      "place_osm_id": "-7443033",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Уть",
+      "lon": "31.380406102369005",
+      "lat": "52.227316025468895"
+    },
+    {
+      "school_osm_id": "245531984",
+      "school_osm_type": "way",
+      "school_name": "Утевская СОШ",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "31.380406102369005",
+      "lat": "52.227316025468895"
+    },
+    {
+      "school_osm_id": "245531984",
+      "school_osm_type": "way",
+      "school_name": "Утевская СОШ",
+      "place_osm_id": "-59092",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Добрушский район",
+      "lon": "31.380406102369005",
+      "lat": "52.227316025468895"
+    },
+    {
+      "school_osm_id": "245531984",
+      "school_osm_type": "way",
+      "school_name": "Утевская СОШ",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "31.380406102369005",
+      "lat": "52.227316025468895"
+    }
+  ]
+}

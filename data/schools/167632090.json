@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Езерище",
+    "osm_id": "-7482927",
+    "hierarchy": [
+      "Езерищенский сельский Совет",
+      "Городокский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.83628033068899",
+    "lon": "29.984297757108102"
+  },
+  "group": [
+    {
+      "school_osm_id": "167632090",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8018226",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Езерищенский сельский Совет",
+      "lon": "29.984297757108102",
+      "lat": "55.83628033068899"
+    },
+    {
+      "school_osm_id": "167632090",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7482927",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Езерище",
+      "lon": "29.984297757108102",
+      "lat": "55.83628033068899"
+    },
+    {
+      "school_osm_id": "167632090",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70676",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Городокский район",
+      "lon": "29.984297757108102",
+      "lat": "55.83628033068899"
+    },
+    {
+      "school_osm_id": "167632090",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "29.984297757108102",
+      "lat": "55.83628033068899"
+    },
+    {
+      "school_osm_id": "167632090",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.984297757108102",
+      "lat": "55.83628033068899"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Мишковичи",
+    "osm_id": "-7507053",
+    "hierarchy": [
+      "Николаевский сельский Совет",
+      "Шумилинский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.19346079952212",
+    "lon": "29.34539409997131"
+  },
+  "group": [
+    {
+      "school_osm_id": "348363159",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7981155",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Николаевский сельский Совет",
+      "lon": "29.34539409997131",
+      "lat": "55.19346079952212"
+    },
+    {
+      "school_osm_id": "348363159",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7507053",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Мишковичи",
+      "lon": "29.34539409997131",
+      "lat": "55.19346079952212"
+    },
+    {
+      "school_osm_id": "348363159",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70677",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Шумилинский район",
+      "lon": "29.34539409997131",
+      "lat": "55.19346079952212"
+    },
+    {
+      "school_osm_id": "348363159",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "29.34539409997131",
+      "lat": "55.19346079952212"
+    },
+    {
+      "school_osm_id": "348363159",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.34539409997131",
+      "lat": "55.19346079952212"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Томковичи",
+    "osm_id": "-7535814",
+    "hierarchy": [
+      "Добринёвский сельский Совет",
+      "Дзержинский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.679492682102264",
+    "lon": "27.34342994766505"
+  },
+  "group": [
+    {
+      "school_osm_id": "325009082",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8139704",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Добринёвский сельский Совет",
+      "lon": "27.34342994766505",
+      "lat": "53.679492682102264"
+    },
+    {
+      "school_osm_id": "325009082",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7535814",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Томковичи",
+      "lon": "27.34342994766505",
+      "lat": "53.679492682102264"
+    },
+    {
+      "school_osm_id": "325009082",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70563",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Дзержинский район",
+      "lon": "27.34342994766505",
+      "lat": "53.679492682102264"
+    },
+    {
+      "school_osm_id": "325009082",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.34342994766505",
+      "lat": "53.679492682102264"
+    },
+    {
+      "school_osm_id": "325009082",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.34342994766505",
+      "lat": "53.679492682102264"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Бобренята",
+    "osm_id": "-7446614",
+    "hierarchy": [
+      "Козенский сельский Совет",
+      "Мозырский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.01723683134112",
+    "lon": "29.285457848713904"
+  },
+  "group": [
+    {
+      "school_osm_id": "367486159",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8087888",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Козенский сельский Совет",
+      "lon": "29.285457848713904",
+      "lat": "52.01723683134112"
+    },
+    {
+      "school_osm_id": "367486159",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7446614",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Бобренята",
+      "lon": "29.285457848713904",
+      "lat": "52.01723683134112"
+    },
+    {
+      "school_osm_id": "367486159",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70815",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Мозырский район",
+      "lon": "29.285457848713904",
+      "lat": "52.01723683134112"
+    },
+    {
+      "school_osm_id": "367486159",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "29.285457848713904",
+      "lat": "52.01723683134112"
+    },
+    {
+      "school_osm_id": "367486159",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.285457848713904",
+      "lat": "52.01723683134112"
+    }
+  ]
+}

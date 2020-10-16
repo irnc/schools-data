@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Куренец",
+    "osm_id": "-7533981",
+    "hierarchy": [
+      "Куренецкий сельский Совет",
+      "Вилейский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.55346227508424",
+    "lon": "26.956994013932277"
+  },
+  "group": [
+    {
+      "school_osm_id": "459819181",
+      "school_osm_type": "way",
+      "school_name": "Куранецкая СШ",
+      "place_osm_id": "-8013866",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Куренецкий сельский Совет",
+      "lon": "26.956994013932277",
+      "lat": "54.55346227508424"
+    },
+    {
+      "school_osm_id": "459819181",
+      "school_osm_type": "way",
+      "school_name": "Куранецкая СШ",
+      "place_osm_id": "-7533981",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Куренец",
+      "lon": "26.956994013932277",
+      "lat": "54.55346227508424"
+    },
+    {
+      "school_osm_id": "459819181",
+      "school_osm_type": "way",
+      "school_name": "Куранецкая СШ",
+      "place_osm_id": "-70568",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Вилейский район",
+      "lon": "26.956994013932277",
+      "lat": "54.55346227508424"
+    },
+    {
+      "school_osm_id": "459819181",
+      "school_osm_type": "way",
+      "school_name": "Куранецкая СШ",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "26.956994013932277",
+      "lat": "54.55346227508424"
+    },
+    {
+      "school_osm_id": "459819181",
+      "school_osm_type": "way",
+      "school_name": "Куранецкая СШ",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.956994013932277",
+      "lat": "54.55346227508424"
+    }
+  ]
+}

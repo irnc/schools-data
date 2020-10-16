@@ -1,0 +1,156 @@
+[
+  {
+    "school_osm_id": "97734520",
+    "school_osm_type": "way",
+    "school_name": "Музыкальная школа",
+    "place_osm_id": "-6722458",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Слоним",
+    "lon": "25.316889100069194",
+    "lat": "53.09286794929935"
+  },
+  {
+    "school_osm_id": "98933646",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №5",
+    "place_osm_id": "-6722458",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Слоним",
+    "lon": "25.321342291499445",
+    "lat": "53.087066212777025"
+  },
+  {
+    "school_osm_id": "98935619",
+    "school_osm_type": "way",
+    "school_name": "Лицей №1",
+    "place_osm_id": "-6722458",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Слоним",
+    "lon": "25.322870052946566",
+    "lat": "53.0871761440198"
+  },
+  {
+    "school_osm_id": "98935978",
+    "school_osm_type": "way",
+    "school_name": "СДЮШОР №2",
+    "place_osm_id": "-6722458",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Слоним",
+    "lon": "25.324356249988124",
+    "lat": "53.08732164999927"
+  },
+  {
+    "school_osm_id": "98988849",
+    "school_osm_type": "way",
+    "school_name": "ДЮСШ №1",
+    "place_osm_id": "-6722458",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Слоним",
+    "lon": "25.308244671112266",
+    "lat": "53.09747122044093"
+  },
+  {
+    "school_osm_id": "99057416",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №10",
+    "place_osm_id": "-6722458",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Слоним",
+    "lon": "25.306140041630936",
+    "lat": "53.08652943132607"
+  },
+  {
+    "school_osm_id": "130635433",
+    "school_osm_type": "way",
+    "school_name": "Гимназия №1",
+    "place_osm_id": "-6722458",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Слоним",
+    "lon": "25.310315385096548",
+    "lat": "53.095702859977564"
+  },
+  {
+    "school_osm_id": "183884232",
+    "school_osm_type": "way",
+    "school_name": "Социально-педагогический центр",
+    "place_osm_id": "-6722458",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Слоним",
+    "lon": "25.30746815888694",
+    "lat": "53.079766901690796"
+  },
+  {
+    "school_osm_id": "481392679",
+    "school_osm_type": "way",
+    "school_name": "Школа №2",
+    "place_osm_id": "-6722458",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Слоним",
+    "lon": "25.31452447743306",
+    "lat": "53.10042815634486"
+  },
+  {
+    "school_osm_id": "551272273",
+    "school_osm_type": "way",
+    "school_name": "СШ №9",
+    "place_osm_id": "-6722458",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Слоним",
+    "lon": "25.314694127800237",
+    "lat": "53.07150278887424"
+  },
+  {
+    "school_osm_id": "551284018",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-6722458",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Слоним",
+    "lon": "25.297386707693395",
+    "lat": "53.08178614772197"
+  },
+  {
+    "school_osm_id": "551289150",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-6722458",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Слоним",
+    "lon": "25.307514467208307",
+    "lat": "53.08577221156108"
+  },
+  {
+    "school_osm_id": "551289151",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-6722458",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Слоним",
+    "lon": "25.306075891778505",
+    "lat": "53.086154210462226"
+  },
+  {
+    "school_osm_id": "838547291",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №7",
+    "place_osm_id": "-6722458",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Слоним",
+    "lon": "25.38946186639992",
+    "lat": "53.09248231158538"
+  }
+]

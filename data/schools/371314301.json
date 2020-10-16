@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Деревная",
+    "osm_id": "-7526379",
+    "hierarchy": [
+      "Деревновский сельский Совет",
+      "Слонимский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.19101298864784",
+    "lon": "25.470149647785302"
+  },
+  "group": [
+    {
+      "school_osm_id": "371314301",
+      "school_osm_type": "way",
+      "school_name": "УПК Деревновский ясли-сад - средняя школа",
+      "place_osm_id": "-8100402",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Деревновский сельский Совет",
+      "lon": "25.470149647785302",
+      "lat": "53.19101298864784"
+    },
+    {
+      "school_osm_id": "371314301",
+      "school_osm_type": "way",
+      "school_name": "УПК Деревновский ясли-сад - средняя школа",
+      "place_osm_id": "-7526379",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Деревная",
+      "lon": "25.470149647785302",
+      "lat": "53.19101298864784"
+    },
+    {
+      "school_osm_id": "371314301",
+      "school_osm_type": "way",
+      "school_name": "УПК Деревновский ясли-сад - средняя школа",
+      "place_osm_id": "-71114",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Слонимский район",
+      "lon": "25.470149647785302",
+      "lat": "53.19101298864784"
+    },
+    {
+      "school_osm_id": "371314301",
+      "school_osm_type": "way",
+      "school_name": "УПК Деревновский ясли-сад - средняя школа",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "25.470149647785302",
+      "lat": "53.19101298864784"
+    },
+    {
+      "school_osm_id": "371314301",
+      "school_osm_type": "way",
+      "school_name": "УПК Деревновский ясли-сад - средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "25.470149647785302",
+      "lat": "53.19101298864784"
+    }
+  ]
+}

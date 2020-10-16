@@ -1,0 +1,46 @@
+{
+  "place": {
+    "name": "Минск",
+    "osm_id": "-59195",
+    "hierarchy": []
+  },
+  "geo": {
+    "lat": "53.86804859916436",
+    "lon": "27.5695064"
+  },
+  "group": [
+    {
+      "school_osm_id": "3142322181",
+      "school_osm_type": "node",
+      "school_name": "Детская художественная школа искусств №3",
+      "place_osm_id": "-59202",
+      "place_admin_level": "9",
+      "place_place": "",
+      "place_name": "Ленинский район",
+      "lon": "27.5695064",
+      "lat": "53.86804859916436"
+    },
+    {
+      "school_osm_id": "3142322181",
+      "school_osm_type": "node",
+      "school_name": "Детская художественная школа искусств №3",
+      "place_osm_id": "-59195",
+      "place_admin_level": "4",
+      "place_place": "city",
+      "place_name": "Минск",
+      "lon": "27.5695064",
+      "lat": "53.86804859916436"
+    },
+    {
+      "school_osm_id": "3142322181",
+      "school_osm_type": "node",
+      "school_name": "Детская художественная школа искусств №3",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.5695064",
+      "lat": "53.86804859916436"
+    }
+  ]
+}

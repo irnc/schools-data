@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Шумилино",
+    "osm_id": "-6722349",
+    "hierarchy": [
+      "Шумилинский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.29639826742524",
+    "lon": "29.620152688339836"
+  },
+  "group": [
+    {
+      "school_osm_id": "807965319",
+      "school_osm_type": "way",
+      "school_name": "Школа № 1",
+      "place_osm_id": "-6722349",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Шумилино",
+      "lon": "29.620152688339836",
+      "lat": "55.29639826742524"
+    },
+    {
+      "school_osm_id": "807965319",
+      "school_osm_type": "way",
+      "school_name": "Школа № 1",
+      "place_osm_id": "-70677",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Шумилинский район",
+      "lon": "29.620152688339836",
+      "lat": "55.29639826742524"
+    },
+    {
+      "school_osm_id": "807965319",
+      "school_osm_type": "way",
+      "school_name": "Школа № 1",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "29.620152688339836",
+      "lat": "55.29639826742524"
+    },
+    {
+      "school_osm_id": "807965319",
+      "school_osm_type": "way",
+      "school_name": "Школа № 1",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.620152688339836",
+      "lat": "55.29639826742524"
+    }
+  ]
+}

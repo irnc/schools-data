@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Городок",
+    "osm_id": "-6235275",
+    "hierarchy": [
+      "Городокский сельский Совет",
+      "Молодечненский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.160244275481",
+    "lon": "26.913972171178376"
+  },
+  "group": [
+    {
+      "school_osm_id": "375591364",
+      "school_osm_type": "way",
+      "school_name": "Городокский детский сад- базовая школа",
+      "place_osm_id": "-8013923",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Городокский сельский Совет",
+      "lon": "26.913972171178376",
+      "lat": "54.160244275481"
+    },
+    {
+      "school_osm_id": "375591364",
+      "school_osm_type": "way",
+      "school_name": "Городокский детский сад- базовая школа",
+      "place_osm_id": "-6235275",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Городок",
+      "lon": "26.913972171178376",
+      "lat": "54.160244275481"
+    },
+    {
+      "school_osm_id": "375591364",
+      "school_osm_type": "way",
+      "school_name": "Городокский детский сад- базовая школа",
+      "place_osm_id": "-70566",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Молодечненский район",
+      "lon": "26.913972171178376",
+      "lat": "54.160244275481"
+    },
+    {
+      "school_osm_id": "375591364",
+      "school_osm_type": "way",
+      "school_name": "Городокский детский сад- базовая школа",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "26.913972171178376",
+      "lat": "54.160244275481"
+    },
+    {
+      "school_osm_id": "375591364",
+      "school_osm_type": "way",
+      "school_name": "Городокский детский сад- базовая школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.913972171178376",
+      "lat": "54.160244275481"
+    }
+  ]
+}

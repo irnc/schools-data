@@ -1,0 +1,59 @@
+{
+  "place": {
+    "name": "Могилёв",
+    "osm_id": "-62145",
+    "hierarchy": [
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.87539128458305",
+    "lon": "30.381493589957937"
+  },
+  "group": [
+    {
+      "school_osm_id": "390686189",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа №32",
+      "place_osm_id": "-82607",
+      "place_admin_level": "9",
+      "place_place": "",
+      "place_name": "Октябрьский район",
+      "lon": "30.381493589957937",
+      "lat": "53.87539128458305"
+    },
+    {
+      "school_osm_id": "390686189",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа №32",
+      "place_osm_id": "-62145",
+      "place_admin_level": "6",
+      "place_place": "city",
+      "place_name": "Могилёв",
+      "lon": "30.381493589957937",
+      "lat": "53.87539128458305"
+    },
+    {
+      "school_osm_id": "390686189",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа №32",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "30.381493589957937",
+      "lat": "53.87539128458305"
+    },
+    {
+      "school_osm_id": "390686189",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа №32",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.381493589957937",
+      "lat": "53.87539128458305"
+    }
+  ]
+}

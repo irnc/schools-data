@@ -1,0 +1,35 @@
+[
+  {
+    "school_osm_id": "208419396",
+    "school_osm_type": "way",
+    "school_name": "Гимназия г. Мстиславля",
+    "place_osm_id": "-6722696",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Мстиславль",
+    "lon": "31.71282531033654",
+    "lat": "54.01486340639918"
+  },
+  {
+    "school_osm_id": "231796915",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-6722696",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Мстиславль",
+    "lon": "31.738846432605207",
+    "lat": "54.02102725012166"
+  },
+  {
+    "school_osm_id": "430244086",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-6722696",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Мстиславль",
+    "lon": "31.71058426648582",
+    "lat": "54.01134753118264"
+  }
+]

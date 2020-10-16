@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "302120159",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7450387",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Заспа",
+    "lon": "30.502050174305797",
+    "lat": "52.25656718312039"
+  },
+  {
+    "school_osm_id": "302120171",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7450387",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Заспа",
+    "lon": "30.50190839658941",
+    "lat": "52.25654583170572"
+  }
+]

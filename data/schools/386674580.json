@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Лида",
+    "osm_id": "-400507",
+    "hierarchy": [
+      "Лидский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.89397115301367",
+    "lon": "25.29266031093496"
+  },
+  "group": [
+    {
+      "school_osm_id": "386674580",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа №1",
+      "place_osm_id": "-400507",
+      "place_admin_level": "8",
+      "place_place": "city",
+      "place_name": "Лида",
+      "lon": "25.29266031093496",
+      "lat": "53.89397115301367"
+    },
+    {
+      "school_osm_id": "386674580",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа №1",
+      "place_osm_id": "-70747",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Лидский район",
+      "lon": "25.29266031093496",
+      "lat": "53.89397115301367"
+    },
+    {
+      "school_osm_id": "386674580",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа №1",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "25.29266031093496",
+      "lat": "53.89397115301367"
+    },
+    {
+      "school_osm_id": "386674580",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа №1",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "25.29266031093496",
+      "lat": "53.89397115301367"
+    }
+  ]
+}

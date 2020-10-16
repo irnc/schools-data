@@ -1,0 +1,46 @@
+[
+  {
+    "school_osm_id": "331973091",
+    "school_osm_type": "way",
+    "school_name": "Школа №3",
+    "place_osm_id": "-5598580",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Житковичи",
+    "lon": "27.870859100482566",
+    "lat": "52.20293717726633"
+  },
+  {
+    "school_osm_id": "365837408",
+    "school_osm_type": "way",
+    "school_name": "СШ №2",
+    "place_osm_id": "-5598580",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Житковичи",
+    "lon": "27.857533286258207",
+    "lat": "52.217383634458336"
+  },
+  {
+    "school_osm_id": "2671351173",
+    "school_osm_type": "node",
+    "school_name": "Гимназия",
+    "place_osm_id": "-5598580",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Житковичи",
+    "lon": "27.856253599999995",
+    "lat": "52.221700099101064"
+  },
+  {
+    "school_osm_id": "4736931221",
+    "school_osm_type": "node",
+    "school_name": "Средняя школа №1",
+    "place_osm_id": "-5598580",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Житковичи",
+    "lon": "27.8633754",
+    "lat": "52.216234999101395"
+  }
+]

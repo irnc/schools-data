@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Освея",
+    "osm_id": "-6886094",
+    "hierarchy": [
+      "Освейский сельский Совет",
+      "Верхнедвинский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "56.01287607188806",
+    "lon": "28.112331998905866"
+  },
+  "group": [
+    {
+      "school_osm_id": "369867133",
+      "school_osm_type": "way",
+      "school_name": "Конно-спортивная школа",
+      "place_osm_id": "-8075954",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Освейский сельский Совет",
+      "lon": "28.112331998905866",
+      "lat": "56.01287607188806"
+    },
+    {
+      "school_osm_id": "369867133",
+      "school_osm_type": "way",
+      "school_name": "Конно-спортивная школа",
+      "place_osm_id": "-6886094",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Освея",
+      "lon": "28.112331998905866",
+      "lat": "56.01287607188806"
+    },
+    {
+      "school_osm_id": "369867133",
+      "school_osm_type": "way",
+      "school_name": "Конно-спортивная школа",
+      "place_osm_id": "-70684",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Верхнедвинский район",
+      "lon": "28.112331998905866",
+      "lat": "56.01287607188806"
+    },
+    {
+      "school_osm_id": "369867133",
+      "school_osm_type": "way",
+      "school_name": "Конно-спортивная школа",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "28.112331998905866",
+      "lat": "56.01287607188806"
+    },
+    {
+      "school_osm_id": "369867133",
+      "school_osm_type": "way",
+      "school_name": "Конно-спортивная школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.112331998905866",
+      "lat": "56.01287607188806"
+    }
+  ]
+}

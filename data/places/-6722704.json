@@ -1,0 +1,57 @@
+[
+  {
+    "school_osm_id": "209962442",
+    "school_osm_type": "way",
+    "school_name": "Детская школа искусств",
+    "place_osm_id": "-6722704",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Чериков",
+    "lon": "31.373346650007093",
+    "lat": "53.56901804918483"
+  },
+  {
+    "school_osm_id": "209962499",
+    "school_osm_type": "way",
+    "school_name": "Центр творчества детей и молодежи",
+    "place_osm_id": "-6722704",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Чериков",
+    "lon": "31.374037542258687",
+    "lat": "53.56899572394132"
+  },
+  {
+    "school_osm_id": "409831946",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа № 1 г. Черикова",
+    "place_osm_id": "-6722704",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Чериков",
+    "lon": "31.376721275680698",
+    "lat": "53.57057803821881"
+  },
+  {
+    "school_osm_id": "456266201",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-6722704",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Чериков",
+    "lon": "31.393531848013392",
+    "lat": "53.57452137537639"
+  },
+  {
+    "school_osm_id": "464173493",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-6722704",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Чериков",
+    "lon": "31.370622555554856",
+    "lat": "53.574301236520505"
+  }
+]

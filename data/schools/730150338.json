@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Жабинка",
+    "osm_id": "-5602690",
+    "hierarchy": [
+      "Жабинковский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.19173933635074",
+    "lon": "23.986373480821975"
+  },
+  "group": [
+    {
+      "school_osm_id": "730150338",
+      "school_osm_type": "way",
+      "school_name": "Средняя общеобразовательная школа №2",
+      "place_osm_id": "-5602690",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Жабинка",
+      "lon": "23.986373480821975",
+      "lat": "52.19173933635074"
+    },
+    {
+      "school_osm_id": "730150338",
+      "school_osm_type": "way",
+      "school_name": "Средняя общеобразовательная школа №2",
+      "place_osm_id": "-71099",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Жабинковский район",
+      "lon": "23.986373480821975",
+      "lat": "52.19173933635074"
+    },
+    {
+      "school_osm_id": "730150338",
+      "school_osm_type": "way",
+      "school_name": "Средняя общеобразовательная школа №2",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "23.986373480821975",
+      "lat": "52.19173933635074"
+    },
+    {
+      "school_osm_id": "730150338",
+      "school_osm_type": "way",
+      "school_name": "Средняя общеобразовательная школа №2",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "23.986373480821975",
+      "lat": "52.19173933635074"
+    }
+  ]
+}

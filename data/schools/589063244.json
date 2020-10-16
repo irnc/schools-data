@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Бердовка",
+    "osm_id": "-7519383",
+    "hierarchy": [
+      "Бердовский сельский Совет",
+      "Лидский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.926346696210274",
+    "lon": "25.512038335989832"
+  },
+  "group": [
+    {
+      "school_osm_id": "589063244",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8083004",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Бердовский сельский Совет",
+      "lon": "25.512038335989832",
+      "lat": "53.926346696210274"
+    },
+    {
+      "school_osm_id": "589063244",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7519383",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Бердовка",
+      "lon": "25.512038335989832",
+      "lat": "53.926346696210274"
+    },
+    {
+      "school_osm_id": "589063244",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70747",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Лидский район",
+      "lon": "25.512038335989832",
+      "lat": "53.926346696210274"
+    },
+    {
+      "school_osm_id": "589063244",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "25.512038335989832",
+      "lat": "53.926346696210274"
+    },
+    {
+      "school_osm_id": "589063244",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "25.512038335989832",
+      "lat": "53.926346696210274"
+    }
+  ]
+}

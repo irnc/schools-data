@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Бродец",
+    "osm_id": "-7529673",
+    "hierarchy": [
+      "Капланецкий сельский Совет",
+      "Березинский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.68698245741236",
+    "lon": "28.984250395175657"
+  },
+  "group": [
+    {
+      "school_osm_id": "550470789",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8144326",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Капланецкий сельский Совет",
+      "lon": "28.984250395175657",
+      "lat": "53.68698245741236"
+    },
+    {
+      "school_osm_id": "550470789",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7529673",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Бродец",
+      "lon": "28.984250395175657",
+      "lat": "53.68698245741236"
+    },
+    {
+      "school_osm_id": "550470789",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70575",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Березинский район",
+      "lon": "28.984250395175657",
+      "lat": "53.68698245741236"
+    },
+    {
+      "school_osm_id": "550470789",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "28.984250395175657",
+      "lat": "53.68698245741236"
+    },
+    {
+      "school_osm_id": "550470789",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.984250395175657",
+      "lat": "53.68698245741236"
+    }
+  ]
+}

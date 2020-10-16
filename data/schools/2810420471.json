@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Красный Берег",
+    "osm_id": "-6152595",
+    "hierarchy": [
+      "Краснобережский сельский Совет",
+      "Жлобинский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.946745899086416",
+    "lon": "29.789961799999997"
+  },
+  "group": [
+    {
+      "school_osm_id": "2810420471",
+      "school_osm_type": "node",
+      "school_name": "Школа аг.Красный Берег",
+      "place_osm_id": "-6152595",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Красный Берег",
+      "lon": "29.789961799999997",
+      "lat": "52.946745899086416"
+    },
+    {
+      "school_osm_id": "2810420471",
+      "school_osm_type": "node",
+      "school_name": "Школа аг.Красный Берег",
+      "place_osm_id": "-6140137",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Краснобережский сельский Совет",
+      "lon": "29.789961799999997",
+      "lat": "52.946745899086416"
+    },
+    {
+      "school_osm_id": "2810420471",
+      "school_osm_type": "node",
+      "school_name": "Школа аг.Красный Берег",
+      "place_osm_id": "-59167",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Жлобинский район",
+      "lon": "29.789961799999997",
+      "lat": "52.946745899086416"
+    },
+    {
+      "school_osm_id": "2810420471",
+      "school_osm_type": "node",
+      "school_name": "Школа аг.Красный Берег",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "29.789961799999997",
+      "lat": "52.946745899086416"
+    },
+    {
+      "school_osm_id": "2810420471",
+      "school_osm_type": "node",
+      "school_name": "Школа аг.Красный Берег",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.789961799999997",
+      "lat": "52.946745899086416"
+    }
+  ]
+}

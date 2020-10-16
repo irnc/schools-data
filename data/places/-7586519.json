@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "202816787",
+    "school_osm_type": "way",
+    "school_name": "СШ",
+    "place_osm_id": "-7586519",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Восход",
+    "lon": "30.346361112437673",
+    "lat": "53.77773402664558"
+  },
+  {
+    "school_osm_id": "4245885589",
+    "school_osm_type": "node",
+    "school_name": "ДЮСШ",
+    "place_osm_id": "-7586519",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Восход",
+    "lon": "30.34834959999999",
+    "lat": "53.7762674991514"
+  }
+]

@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Брагин",
+    "osm_id": "-5598415",
+    "hierarchy": [
+      "Брагинский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "51.77836183117876",
+    "lon": "30.275316009055327"
+  },
+  "group": [
+    {
+      "school_osm_id": "312029657",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-5598415",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Брагин",
+      "lon": "30.275316009055327",
+      "lat": "51.77836183117876"
+    },
+    {
+      "school_osm_id": "312029657",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70801",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Брагинский район",
+      "lon": "30.275316009055327",
+      "lat": "51.77836183117876"
+    },
+    {
+      "school_osm_id": "312029657",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "30.275316009055327",
+      "lat": "51.77836183117876"
+    },
+    {
+      "school_osm_id": "312029657",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.275316009055327",
+      "lat": "51.77836183117876"
+    }
+  ]
+}

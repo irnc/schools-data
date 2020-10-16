@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Лобковичи",
+    "osm_id": "-7585830",
+    "hierarchy": [
+      "Лобковичский сельский Совет",
+      "Кричевский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.83263064942062",
+    "lon": "31.749437651754715"
+  },
+  "group": [
+    {
+      "school_osm_id": "267402036",
+      "school_osm_type": "way",
+      "school_name": "Лобковичская средняя школа",
+      "place_osm_id": "-8067501",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Лобковичский сельский Совет",
+      "lon": "31.749437651754715",
+      "lat": "53.83263064942062"
+    },
+    {
+      "school_osm_id": "267402036",
+      "school_osm_type": "way",
+      "school_name": "Лобковичская средняя школа",
+      "place_osm_id": "-7585830",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Лобковичи",
+      "lon": "31.749437651754715",
+      "lat": "53.83263064942062"
+    },
+    {
+      "school_osm_id": "267402036",
+      "school_osm_type": "way",
+      "school_name": "Лобковичская средняя школа",
+      "place_osm_id": "-70614",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Кричевский район",
+      "lon": "31.749437651754715",
+      "lat": "53.83263064942062"
+    },
+    {
+      "school_osm_id": "267402036",
+      "school_osm_type": "way",
+      "school_name": "Лобковичская средняя школа",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "31.749437651754715",
+      "lat": "53.83263064942062"
+    },
+    {
+      "school_osm_id": "267402036",
+      "school_osm_type": "way",
+      "school_name": "Лобковичская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "31.749437651754715",
+      "lat": "53.83263064942062"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Плёсы",
+    "osm_id": "-7549467",
+    "hierarchy": [
+      "Мясотский сельский Совет",
+      "Молодечненский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.42054678738179",
+    "lon": "26.812845399315368"
+  },
+  "group": [
+    {
+      "school_osm_id": "517094588",
+      "school_osm_type": "way",
+      "school_name": "ДОЛ \"Иволга\"",
+      "place_osm_id": "-8013924",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Мясотский сельский Совет",
+      "lon": "26.812845399315368",
+      "lat": "54.42054678738179"
+    },
+    {
+      "school_osm_id": "517094588",
+      "school_osm_type": "way",
+      "school_name": "ДОЛ \"Иволга\"",
+      "place_osm_id": "-7549467",
+      "place_admin_level": "10",
+      "place_place": "hamlet",
+      "place_name": "Плёсы",
+      "lon": "26.812845399315368",
+      "lat": "54.42054678738179"
+    },
+    {
+      "school_osm_id": "517094588",
+      "school_osm_type": "way",
+      "school_name": "ДОЛ \"Иволга\"",
+      "place_osm_id": "-70566",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Молодечненский район",
+      "lon": "26.812845399315368",
+      "lat": "54.42054678738179"
+    },
+    {
+      "school_osm_id": "517094588",
+      "school_osm_type": "way",
+      "school_name": "ДОЛ \"Иволга\"",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "26.812845399315368",
+      "lat": "54.42054678738179"
+    },
+    {
+      "school_osm_id": "517094588",
+      "school_osm_type": "way",
+      "school_name": "ДОЛ \"Иволга\"",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.812845399315368",
+      "lat": "54.42054678738179"
+    }
+  ]
+}

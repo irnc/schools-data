@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "229951069",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7477028",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Ольгово",
+    "lon": "30.20822733652456",
+    "lat": "55.233571774809"
+  },
+  {
+    "school_osm_id": "4100658038",
+    "school_osm_type": "node",
+    "school_name": "Детская школа искусств",
+    "place_osm_id": "-7477028",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Ольгово",
+    "lon": "30.21056889999999",
+    "lat": "55.226949499493045"
+  }
+]

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Турец-Бояры",
+    "osm_id": "-7549629",
+    "hierarchy": [
+      "Лебедевский сельский Совет",
+      "Молодечненский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.376083983328805",
+    "lon": "26.65832798536034"
+  },
+  "group": [
+    {
+      "school_osm_id": "605829176",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8013917",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Лебедевский сельский Совет",
+      "lon": "26.65832798536034",
+      "lat": "54.376083983328805"
+    },
+    {
+      "school_osm_id": "605829176",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7549629",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Турец-Бояры",
+      "lon": "26.65832798536034",
+      "lat": "54.376083983328805"
+    },
+    {
+      "school_osm_id": "605829176",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70566",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Молодечненский район",
+      "lon": "26.65832798536034",
+      "lat": "54.376083983328805"
+    },
+    {
+      "school_osm_id": "605829176",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "26.65832798536034",
+      "lat": "54.376083983328805"
+    },
+    {
+      "school_osm_id": "605829176",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.65832798536034",
+      "lat": "54.376083983328805"
+    }
+  ]
+}

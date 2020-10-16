@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Краснобережье",
+    "osm_id": "-7445585",
+    "hierarchy": [
+      "Ударненский сельский Совет",
+      "Лельчицкий район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "51.88174270555646",
+    "lon": "28.440708432149457"
+  },
+  "group": [
+    {
+      "school_osm_id": "326039272",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8030872",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Ударненский сельский Совет",
+      "lon": "28.440708432149457",
+      "lat": "51.88174270555646"
+    },
+    {
+      "school_osm_id": "326039272",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7445585",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Краснобережье",
+      "lon": "28.440708432149457",
+      "lat": "51.88174270555646"
+    },
+    {
+      "school_osm_id": "326039272",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-71147",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Лельчицкий район",
+      "lon": "28.440708432149457",
+      "lat": "51.88174270555646"
+    },
+    {
+      "school_osm_id": "326039272",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "28.440708432149457",
+      "lat": "51.88174270555646"
+    },
+    {
+      "school_osm_id": "326039272",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.440708432149457",
+      "lat": "51.88174270555646"
+    }
+  ]
+}

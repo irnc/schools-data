@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Лучники",
+    "osm_id": "-7556225",
+    "hierarchy": [
+      "Серяжский сельский Совет",
+      "Слуцкий район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.03919384922695",
+    "lon": "27.52858390463491"
+  },
+  "group": [
+    {
+      "school_osm_id": "394457826",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8144287",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Серяжский сельский Совет",
+      "lon": "27.52858390463491",
+      "lat": "53.03919384922695"
+    },
+    {
+      "school_osm_id": "394457826",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7556225",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Лучники",
+      "lon": "27.52858390463491",
+      "lat": "53.03919384922695"
+    },
+    {
+      "school_osm_id": "394457826",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-71134",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Слуцкий район",
+      "lon": "27.52858390463491",
+      "lat": "53.03919384922695"
+    },
+    {
+      "school_osm_id": "394457826",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.52858390463491",
+      "lat": "53.03919384922695"
+    },
+    {
+      "school_osm_id": "394457826",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.52858390463491",
+      "lat": "53.03919384922695"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Курганье",
+    "osm_id": "-4845559",
+    "hierarchy": [
+      "Курганский сельский Совет",
+      "Рогачёвский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.09092202162927",
+    "lon": "30.466552365364226"
+  },
+  "group": [
+    {
+      "school_osm_id": "289986006",
+      "school_osm_type": "way",
+      "school_name": "Курганьевская СШ",
+      "place_osm_id": "-8107302",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Курганский сельский Совет",
+      "lon": "30.466552365364226",
+      "lat": "53.09092202162927"
+    },
+    {
+      "school_osm_id": "289986006",
+      "school_osm_type": "way",
+      "school_name": "Курганьевская СШ",
+      "place_osm_id": "-4845559",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Курганье",
+      "lon": "30.466552365364226",
+      "lat": "53.09092202162927"
+    },
+    {
+      "school_osm_id": "289986006",
+      "school_osm_type": "way",
+      "school_name": "Курганьевская СШ",
+      "place_osm_id": "-59174",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Рогачёвский район",
+      "lon": "30.466552365364226",
+      "lat": "53.09092202162927"
+    },
+    {
+      "school_osm_id": "289986006",
+      "school_osm_type": "way",
+      "school_name": "Курганьевская СШ",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "30.466552365364226",
+      "lat": "53.09092202162927"
+    },
+    {
+      "school_osm_id": "289986006",
+      "school_osm_type": "way",
+      "school_name": "Курганьевская СШ",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.466552365364226",
+      "lat": "53.09092202162927"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+[
+  {
+    "school_osm_id": "-4829703",
+    "school_osm_type": "relation",
+    "school_name": "Гимназия № 4",
+    "place_osm_id": "-6722463",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Сморгонь",
+    "lon": "26.39431747784391",
+    "lat": "54.478380387348956"
+  },
+  {
+    "school_osm_id": "340213585",
+    "school_osm_type": "way",
+    "school_name": "Школа №5",
+    "place_osm_id": "-6722463",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Сморгонь",
+    "lon": "26.417818376052928",
+    "lat": "54.477081200151964"
+  },
+  {
+    "school_osm_id": "340213586",
+    "school_osm_type": "way",
+    "school_name": "Школа №7",
+    "place_osm_id": "-6722463",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Сморгонь",
+    "lon": "26.421320342071688",
+    "lat": "54.474685946551446"
+  },
+  {
+    "school_osm_id": "340370346",
+    "school_osm_type": "way",
+    "school_name": "Школа № 3",
+    "place_osm_id": "-6722463",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Сморгонь",
+    "lon": "26.381073604392654",
+    "lat": "54.477964377259816"
+  },
+  {
+    "school_osm_id": "340375284",
+    "school_osm_type": "way",
+    "school_name": "Школа № 2",
+    "place_osm_id": "-6722463",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Сморгонь",
+    "lon": "26.41042268743701",
+    "lat": "54.483522977858264"
+  },
+  {
+    "school_osm_id": "689233633",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №1",
+    "place_osm_id": "-6722463",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Сморгонь",
+    "lon": "26.39340163141141",
+    "lat": "54.482335367701694"
+  },
+  {
+    "school_osm_id": "841353264",
+    "school_osm_type": "way",
+    "school_name": "Школа 6",
+    "place_osm_id": "-6722463",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Сморгонь",
+    "lon": "26.377509006393836",
+    "lat": "54.50815608208853"
+  },
+  {
+    "school_osm_id": "841355145",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-6722463",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Сморгонь",
+    "lon": "26.39451527222718",
+    "lat": "54.484069858257534"
+  },
+  {
+    "school_osm_id": "4784310824",
+    "school_osm_type": "node",
+    "school_name": "Бассейн",
+    "place_osm_id": "-6722463",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Сморгонь",
+    "lon": "26.410273899999996",
+    "lat": "54.48656649928225"
+  },
+  {
+    "school_osm_id": "4784316621",
+    "school_osm_type": "node",
+    "school_name": "Сморгонский государственный политехнический профессиональный лицей",
+    "place_osm_id": "-6722463",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Сморгонь",
+    "lon": "26.4094476",
+    "lat": "54.486362199282205"
+  }
+]

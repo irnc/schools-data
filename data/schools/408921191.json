@@ -1,0 +1,53 @@
+{
+  "place": "warning-school-without-place",
+  "geo": {
+    "lat": "53.34766154270352",
+    "lon": "24.6250945257196"
+  },
+  "group": [
+    {
+      "school_osm_id": "408921191",
+      "school_osm_type": "way",
+      "school_name": "Песковский УПК детский сад-средняя школа",
+      "place_osm_id": "-8085958",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Песковский сельский Совет",
+      "lon": "24.6250945257196",
+      "lat": "53.34766154270352"
+    },
+    {
+      "school_osm_id": "408921191",
+      "school_osm_type": "way",
+      "school_name": "Песковский УПК детский сад-средняя школа",
+      "place_osm_id": "-70754",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Мостовский район",
+      "lon": "24.6250945257196",
+      "lat": "53.34766154270352"
+    },
+    {
+      "school_osm_id": "408921191",
+      "school_osm_type": "way",
+      "school_name": "Песковский УПК детский сад-средняя школа",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "24.6250945257196",
+      "lat": "53.34766154270352"
+    },
+    {
+      "school_osm_id": "408921191",
+      "school_osm_type": "way",
+      "school_name": "Песковский УПК детский сад-средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "24.6250945257196",
+      "lat": "53.34766154270352"
+    }
+  ]
+}

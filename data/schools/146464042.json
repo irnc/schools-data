@@ -1,0 +1,48 @@
+{
+  "place": {
+    "name": "Новополоцк",
+    "osm_id": "-6825778",
+    "hierarchy": [
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.534603921893684",
+    "lon": "28.65726604803813"
+  },
+  "group": [
+    {
+      "school_osm_id": "146464042",
+      "school_osm_type": "way",
+      "school_name": "Детская художественная школа им. И.Ф. Хруцкого",
+      "place_osm_id": "-6825778",
+      "place_admin_level": "6",
+      "place_place": "city",
+      "place_name": "Новополоцк",
+      "lon": "28.65726604803813",
+      "lat": "55.534603921893684"
+    },
+    {
+      "school_osm_id": "146464042",
+      "school_osm_type": "way",
+      "school_name": "Детская художественная школа им. И.Ф. Хруцкого",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "28.65726604803813",
+      "lat": "55.534603921893684"
+    },
+    {
+      "school_osm_id": "146464042",
+      "school_osm_type": "way",
+      "school_name": "Детская художественная школа им. И.Ф. Хруцкого",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.65726604803813",
+      "lat": "55.534603921893684"
+    }
+  ]
+}

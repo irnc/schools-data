@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Берёза",
+    "osm_id": "-5599322",
+    "hierarchy": [
+      "Берёзовский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.53981268157067",
+    "lon": "24.974538912413653"
+  },
+  "group": [
+    {
+      "school_osm_id": "510433852",
+      "school_osm_type": "way",
+      "school_name": "Берёзовская начальная школа",
+      "place_osm_id": "-5599322",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Берёза",
+      "lon": "24.974538912413653",
+      "lat": "52.53981268157067"
+    },
+    {
+      "school_osm_id": "510433852",
+      "school_osm_type": "way",
+      "school_name": "Берёзовская начальная школа",
+      "place_osm_id": "-71107",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Берёзовский район",
+      "lon": "24.974538912413653",
+      "lat": "52.53981268157067"
+    },
+    {
+      "school_osm_id": "510433852",
+      "school_osm_type": "way",
+      "school_name": "Берёзовская начальная школа",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "24.974538912413653",
+      "lat": "52.53981268157067"
+    },
+    {
+      "school_osm_id": "510433852",
+      "school_osm_type": "way",
+      "school_name": "Берёзовская начальная школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "24.974538912413653",
+      "lat": "52.53981268157067"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Заширье",
+    "osm_id": "-7443278",
+    "hierarchy": [
+      "Старовысоковский сельский Совет",
+      "Ельский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "51.76146560218564",
+    "lon": "28.715222907145606"
+  },
+  "group": [
+    {
+      "school_osm_id": "282904156",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8030865",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Старовысоковский сельский Совет",
+      "lon": "28.715222907145606",
+      "lat": "51.76146560218564"
+    },
+    {
+      "school_osm_id": "282904156",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7443278",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Заширье",
+      "lon": "28.715222907145606",
+      "lat": "51.76146560218564"
+    },
+    {
+      "school_osm_id": "282904156",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70810",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Ельский район",
+      "lon": "28.715222907145606",
+      "lat": "51.76146560218564"
+    },
+    {
+      "school_osm_id": "282904156",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "28.715222907145606",
+      "lat": "51.76146560218564"
+    },
+    {
+      "school_osm_id": "282904156",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.715222907145606",
+      "lat": "51.76146560218564"
+    }
+  ]
+}

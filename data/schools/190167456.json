@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Старая Рудня",
+    "osm_id": "-5139365",
+    "hierarchy": [
+      "Староруднянский сельский Совет",
+      "Жлобинский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.83712293453505",
+    "lon": "30.274941889656724"
+  },
+  "group": [
+    {
+      "school_osm_id": "190167456",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-6346386",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Староруднянский сельский Совет",
+      "lon": "30.274941889656724",
+      "lat": "52.83712293453505"
+    },
+    {
+      "school_osm_id": "190167456",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-5139365",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Старая Рудня",
+      "lon": "30.274941889656724",
+      "lat": "52.83712293453505"
+    },
+    {
+      "school_osm_id": "190167456",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59167",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Жлобинский район",
+      "lon": "30.274941889656724",
+      "lat": "52.83712293453505"
+    },
+    {
+      "school_osm_id": "190167456",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "30.274941889656724",
+      "lat": "52.83712293453505"
+    },
+    {
+      "school_osm_id": "190167456",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.274941889656724",
+      "lat": "52.83712293453505"
+    }
+  ]
+}

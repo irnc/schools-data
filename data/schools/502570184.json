@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Зельва",
+    "osm_id": "-6722384",
+    "hierarchy": [
+      "Зельвенский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.14996026803556",
+    "lon": "24.815341129062116"
+  },
+  "group": [
+    {
+      "school_osm_id": "502570184",
+      "school_osm_type": "way",
+      "school_name": "Детско-юношеская спортивная школа",
+      "place_osm_id": "-6722384",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Зельва",
+      "lon": "24.815341129062116",
+      "lat": "53.14996026803556"
+    },
+    {
+      "school_osm_id": "502570184",
+      "school_osm_type": "way",
+      "school_name": "Детско-юношеская спортивная школа",
+      "place_osm_id": "-70772",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Зельвенский район",
+      "lon": "24.815341129062116",
+      "lat": "53.14996026803556"
+    },
+    {
+      "school_osm_id": "502570184",
+      "school_osm_type": "way",
+      "school_name": "Детско-юношеская спортивная школа",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "24.815341129062116",
+      "lat": "53.14996026803556"
+    },
+    {
+      "school_osm_id": "502570184",
+      "school_osm_type": "way",
+      "school_name": "Детско-юношеская спортивная школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "24.815341129062116",
+      "lat": "53.14996026803556"
+    }
+  ]
+}

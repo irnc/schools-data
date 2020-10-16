@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Замочек",
+    "osm_id": "-7505926",
+    "hierarchy": [
+      "Круглицкий сельский Совет",
+      "Чашникский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.702877372236216",
+    "lon": "29.332428877425734"
+  },
+  "group": [
+    {
+      "school_osm_id": "-9586069",
+      "school_osm_type": "relation",
+      "school_name": "",
+      "place_osm_id": "-7505926",
+      "place_admin_level": "10",
+      "place_place": "hamlet",
+      "place_name": "Замочек",
+      "lon": "29.332428877425734",
+      "lat": "54.702877372236216"
+    },
+    {
+      "school_osm_id": "-9586069",
+      "school_osm_type": "relation",
+      "school_name": "",
+      "place_osm_id": "-4850386",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Круглицкий сельский Совет",
+      "lon": "29.332428877425734",
+      "lat": "54.702877372236216"
+    },
+    {
+      "school_osm_id": "-9586069",
+      "school_osm_type": "relation",
+      "school_name": "",
+      "place_osm_id": "-70746",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Чашникский район",
+      "lon": "29.332428877425734",
+      "lat": "54.702877372236216"
+    },
+    {
+      "school_osm_id": "-9586069",
+      "school_osm_type": "relation",
+      "school_name": "",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "29.332428877425734",
+      "lat": "54.702877372236216"
+    },
+    {
+      "school_osm_id": "-9586069",
+      "school_osm_type": "relation",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.332428877425734",
+      "lat": "54.702877372236216"
+    }
+  ]
+}

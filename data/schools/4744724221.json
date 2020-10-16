@@ -1,0 +1,59 @@
+{
+  "place": {
+    "name": "Могилёв",
+    "osm_id": "-62145",
+    "hierarchy": [
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.86631119916409",
+    "lon": "30.353715399999995"
+  },
+  "group": [
+    {
+      "school_osm_id": "4744724221",
+      "school_osm_type": "node",
+      "school_name": "Средняя школа №20",
+      "place_osm_id": "-82607",
+      "place_admin_level": "9",
+      "place_place": "",
+      "place_name": "Октябрьский район",
+      "lon": "30.353715399999995",
+      "lat": "53.86631119916409"
+    },
+    {
+      "school_osm_id": "4744724221",
+      "school_osm_type": "node",
+      "school_name": "Средняя школа №20",
+      "place_osm_id": "-62145",
+      "place_admin_level": "6",
+      "place_place": "city",
+      "place_name": "Могилёв",
+      "lon": "30.353715399999995",
+      "lat": "53.86631119916409"
+    },
+    {
+      "school_osm_id": "4744724221",
+      "school_osm_type": "node",
+      "school_name": "Средняя школа №20",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "30.353715399999995",
+      "lat": "53.86631119916409"
+    },
+    {
+      "school_osm_id": "4744724221",
+      "school_osm_type": "node",
+      "school_name": "Средняя школа №20",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.353715399999995",
+      "lat": "53.86631119916409"
+    }
+  ]
+}

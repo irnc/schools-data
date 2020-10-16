@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Галичи",
+    "osm_id": "-7583105",
+    "hierarchy": [
+      "Галичский сельский Совет",
+      "Климовичский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.58276032535408",
+    "lon": "32.32429267908221"
+  },
+  "group": [
+    {
+      "school_osm_id": "372854786",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8067510",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Галичский сельский Совет",
+      "lon": "32.32429267908221",
+      "lat": "53.58276032535408"
+    },
+    {
+      "school_osm_id": "372854786",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7583105",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Галичи",
+      "lon": "32.32429267908221",
+      "lat": "53.58276032535408"
+    },
+    {
+      "school_osm_id": "372854786",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70610",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Климовичский район",
+      "lon": "32.32429267908221",
+      "lat": "53.58276032535408"
+    },
+    {
+      "school_osm_id": "372854786",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "32.32429267908221",
+      "lat": "53.58276032535408"
+    },
+    {
+      "school_osm_id": "372854786",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "32.32429267908221",
+      "lat": "53.58276032535408"
+    }
+  ]
+}

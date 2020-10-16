@@ -1,0 +1,211 @@
+[
+  {
+    "school_osm_id": "-3737654",
+    "school_osm_type": "relation",
+    "school_name": "",
+    "place_osm_id": "-400507",
+    "place_admin_level": "8",
+    "place_place": "city",
+    "place_name": "Лида",
+    "lon": "25.238464190688504",
+    "lat": "53.91511258379821"
+  },
+  {
+    "school_osm_id": "255474406",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №9",
+    "place_osm_id": "-400507",
+    "place_admin_level": "8",
+    "place_place": "city",
+    "place_name": "Лида",
+    "lon": "25.3316123373878",
+    "lat": "53.877068727016386"
+  },
+  {
+    "school_osm_id": "379896953",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-400507",
+    "place_admin_level": "8",
+    "place_place": "city",
+    "place_name": "Лида",
+    "lon": "25.334329770033296",
+    "lat": "53.87547688207287"
+  },
+  {
+    "school_osm_id": "386674579",
+    "school_osm_type": "way",
+    "school_name": "Лицей №1",
+    "place_osm_id": "-400507",
+    "place_admin_level": "8",
+    "place_place": "city",
+    "place_name": "Лида",
+    "lon": "25.29649501189187",
+    "lat": "53.88885870533171"
+  },
+  {
+    "school_osm_id": "386674580",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №1",
+    "place_osm_id": "-400507",
+    "place_admin_level": "8",
+    "place_place": "city",
+    "place_name": "Лида",
+    "lon": "25.29266031093496",
+    "lat": "53.89397115301367"
+  },
+  {
+    "school_osm_id": "386674581",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №4",
+    "place_osm_id": "-400507",
+    "place_admin_level": "8",
+    "place_place": "city",
+    "place_name": "Лида",
+    "lon": "25.29833046649857",
+    "lat": "53.89512994258734"
+  },
+  {
+    "school_osm_id": "386800761",
+    "school_osm_type": "way",
+    "school_name": "Гимназия №1",
+    "place_osm_id": "-400507",
+    "place_admin_level": "8",
+    "place_place": "city",
+    "place_name": "Лида",
+    "lon": "25.291132929182904",
+    "lat": "53.891817764211794"
+  },
+  {
+    "school_osm_id": "462277654",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №15",
+    "place_osm_id": "-400507",
+    "place_admin_level": "8",
+    "place_place": "city",
+    "place_name": "Лида",
+    "lon": "25.262732945499273",
+    "lat": "53.897734914396665"
+  },
+  {
+    "school_osm_id": "462726899",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №11",
+    "place_osm_id": "-400507",
+    "place_admin_level": "8",
+    "place_place": "city",
+    "place_name": "Лида",
+    "lon": "25.29995887119905",
+    "lat": "53.882544322082225"
+  },
+  {
+    "school_osm_id": "497848106",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №8",
+    "place_osm_id": "-400507",
+    "place_admin_level": "8",
+    "place_place": "city",
+    "place_name": "Лида",
+    "lon": "25.31472249989467",
+    "lat": "53.899739003627666"
+  },
+  {
+    "school_osm_id": "497848109",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №6",
+    "place_osm_id": "-400507",
+    "place_admin_level": "8",
+    "place_place": "city",
+    "place_name": "Лида",
+    "lon": "25.27708079875086",
+    "lat": "53.89471537189296"
+  },
+  {
+    "school_osm_id": "582479229",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №17",
+    "place_osm_id": "-400507",
+    "place_admin_level": "8",
+    "place_place": "city",
+    "place_name": "Лида",
+    "lon": "25.25563417351148",
+    "lat": "53.89627664284888"
+  },
+  {
+    "school_osm_id": "651873337",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №12",
+    "place_osm_id": "-400507",
+    "place_admin_level": "8",
+    "place_place": "city",
+    "place_name": "Лида",
+    "lon": "25.26688144031691",
+    "lat": "53.93262619601993"
+  },
+  {
+    "school_osm_id": "666400986",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №16",
+    "place_osm_id": "-400507",
+    "place_admin_level": "8",
+    "place_place": "city",
+    "place_name": "Лида",
+    "lon": "25.283408207950796",
+    "lat": "53.87470636325528"
+  },
+  {
+    "school_osm_id": "666400987",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №14",
+    "place_osm_id": "-400507",
+    "place_admin_level": "8",
+    "place_place": "city",
+    "place_name": "Лида",
+    "lon": "25.283082468533284",
+    "lat": "53.878216468339936"
+  },
+  {
+    "school_osm_id": "666400988",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №13",
+    "place_osm_id": "-400507",
+    "place_admin_level": "8",
+    "place_place": "city",
+    "place_name": "Лида",
+    "lon": "25.238764325845054",
+    "lat": "53.915349052593996"
+  },
+  {
+    "school_osm_id": "666400989",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №10",
+    "place_osm_id": "-400507",
+    "place_admin_level": "8",
+    "place_place": "city",
+    "place_name": "Лида",
+    "lon": "25.289696123790836",
+    "lat": "53.88165947742585"
+  },
+  {
+    "school_osm_id": "666400991",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №5",
+    "place_osm_id": "-400507",
+    "place_admin_level": "8",
+    "place_place": "city",
+    "place_name": "Лида",
+    "lon": "25.282019458539047",
+    "lat": "53.915442956787125"
+  },
+  {
+    "school_osm_id": "6548831697",
+    "school_osm_type": "node",
+    "school_name": "Клуб Дружба",
+    "place_osm_id": "-400507",
+    "place_admin_level": "8",
+    "place_place": "city",
+    "place_name": "Лида",
+    "lon": "25.265191199999997",
+    "lat": "53.896818999168644"
+  }
+]

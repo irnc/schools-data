@@ -1,0 +1,46 @@
+[
+  {
+    "school_osm_id": "150437266",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №1",
+    "place_osm_id": "-6722293",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Докшицы",
+    "lon": "27.766324024293393",
+    "lat": "54.895414697715246"
+  },
+  {
+    "school_osm_id": "237278294",
+    "school_osm_type": "way",
+    "school_name": "Школа искусств",
+    "place_osm_id": "-6722293",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Докшицы",
+    "lon": "27.760734777775628",
+    "lat": "54.89436008175582"
+  },
+  {
+    "school_osm_id": "344735920",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №2",
+    "place_osm_id": "-6722293",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Докшицы",
+    "lon": "27.77353946403365",
+    "lat": "54.88862418475348"
+  },
+  {
+    "school_osm_id": "2667353878",
+    "school_osm_type": "node",
+    "school_name": "Детско-юношеская спортивная школа",
+    "place_osm_id": "-6722293",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Докшицы",
+    "lon": "27.761424",
+    "lat": "54.89302759938878"
+  }
+]

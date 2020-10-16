@@ -1,0 +1,53 @@
+{
+  "place": "warning-school-without-place",
+  "geo": {
+    "lat": "53.23457381742718",
+    "lon": "29.168907289027935"
+  },
+  "group": [
+    {
+      "school_osm_id": "404876536",
+      "school_osm_type": "way",
+      "school_name": "Лагерь \"Ромашка\"",
+      "place_osm_id": "-8144324",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Сычковский сельский Совет",
+      "lon": "29.168907289027935",
+      "lat": "53.23457381742718"
+    },
+    {
+      "school_osm_id": "404876536",
+      "school_osm_type": "way",
+      "school_name": "Лагерь \"Ромашка\"",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "29.168907289027935",
+      "lat": "53.23457381742718"
+    },
+    {
+      "school_osm_id": "404876536",
+      "school_osm_type": "way",
+      "school_name": "Лагерь \"Ромашка\"",
+      "place_osm_id": "-59148",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Бобруйский район",
+      "lon": "29.168907289027935",
+      "lat": "53.23457381742718"
+    },
+    {
+      "school_osm_id": "404876536",
+      "school_osm_type": "way",
+      "school_name": "Лагерь \"Ромашка\"",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.168907289027935",
+      "lat": "53.23457381742718"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "764451292",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-5692784",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Ботвиновка",
+    "lon": "31.46063072297792",
+    "lat": "53.75869369409831"
+  },
+  {
+    "school_osm_id": "764451294",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-5692784",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Ботвиновка",
+    "lon": "31.46088201699624",
+    "lat": "53.757942883595916"
+  }
+]

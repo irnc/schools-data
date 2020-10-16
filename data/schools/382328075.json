@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Малые Городятичи",
+    "osm_id": "-7546879",
+    "hierarchy": [
+      "Малогородятичский сельский Совет",
+      "Любанский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.54631687273362",
+    "lon": "28.324007436484262"
+  },
+  "group": [
+    {
+      "school_osm_id": "382328075",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8144240",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Малогородятичский сельский Совет",
+      "lon": "28.324007436484262",
+      "lat": "52.54631687273362"
+    },
+    {
+      "school_osm_id": "382328075",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7546879",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Малые Городятичи",
+      "lon": "28.324007436484262",
+      "lat": "52.54631687273362"
+    },
+    {
+      "school_osm_id": "382328075",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-71140",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Любанский район",
+      "lon": "28.324007436484262",
+      "lat": "52.54631687273362"
+    },
+    {
+      "school_osm_id": "382328075",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "28.324007436484262",
+      "lat": "52.54631687273362"
+    },
+    {
+      "school_osm_id": "382328075",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.324007436484262",
+      "lat": "52.54631687273362"
+    }
+  ]
+}

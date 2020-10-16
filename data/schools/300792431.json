@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Головачи",
+    "osm_id": "-7511896",
+    "hierarchy": [
+      "Скидельский сельский Совет",
+      "Гродненский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.63747174474997",
+    "lon": "24.25538353953037"
+  },
+  "group": [
+    {
+      "school_osm_id": "300792431",
+      "school_osm_type": "way",
+      "school_name": "Головачская средняя школа",
+      "place_osm_id": "-8025349",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Скидельский сельский Совет",
+      "lon": "24.25538353953037",
+      "lat": "53.63747174474997"
+    },
+    {
+      "school_osm_id": "300792431",
+      "school_osm_type": "way",
+      "school_name": "Головачская средняя школа",
+      "place_osm_id": "-7511896",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Головачи",
+      "lon": "24.25538353953037",
+      "lat": "53.63747174474997"
+    },
+    {
+      "school_osm_id": "300792431",
+      "school_osm_type": "way",
+      "school_name": "Головачская средняя школа",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "24.25538353953037",
+      "lat": "53.63747174474997"
+    },
+    {
+      "school_osm_id": "300792431",
+      "school_osm_type": "way",
+      "school_name": "Головачская средняя школа",
+      "place_osm_id": "-59273",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Гродненский район",
+      "lon": "24.25538353953037",
+      "lat": "53.63747174474997"
+    },
+    {
+      "school_osm_id": "300792431",
+      "school_osm_type": "way",
+      "school_name": "Головачская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "24.25538353953037",
+      "lat": "53.63747174474997"
+    }
+  ]
+}

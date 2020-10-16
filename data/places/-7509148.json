@@ -1,0 +1,35 @@
+[
+  {
+    "school_osm_id": "69139848",
+    "school_osm_type": "way",
+    "school_name": "Музыкальная школа",
+    "place_osm_id": "-7509148",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Россь",
+    "lon": "24.400117450053806",
+    "lat": "53.284378599178076"
+  },
+  {
+    "school_osm_id": "533545048",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа № 1 г. п. Россь",
+    "place_osm_id": "-7509148",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Россь",
+    "lon": "24.39887421329945",
+    "lat": "53.286304296183246"
+  },
+  {
+    "school_osm_id": "681552308",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №2 г.п Россь",
+    "place_osm_id": "-7509148",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Россь",
+    "lon": "24.40164202806474",
+    "lat": "53.29330867473977"
+  }
+]

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Крупица",
+    "osm_id": "-7547141",
+    "hierarchy": [
+      "Крупицкий сельский Совет",
+      "Минский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.678485352760646",
+    "lon": "27.534919182587004"
+  },
+  "group": [
+    {
+      "school_osm_id": "358802783",
+      "school_osm_type": "way",
+      "school_name": "Крупицкая средняя школа",
+      "place_osm_id": "-8144337",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Крупицкий сельский Совет",
+      "lon": "27.534919182587004",
+      "lat": "53.678485352760646"
+    },
+    {
+      "school_osm_id": "358802783",
+      "school_osm_type": "way",
+      "school_name": "Крупицкая средняя школа",
+      "place_osm_id": "-7547141",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Крупица",
+      "lon": "27.534919182587004",
+      "lat": "53.678485352760646"
+    },
+    {
+      "school_osm_id": "358802783",
+      "school_osm_type": "way",
+      "school_name": "Крупицкая средняя школа",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.534919182587004",
+      "lat": "53.678485352760646"
+    },
+    {
+      "school_osm_id": "358802783",
+      "school_osm_type": "way",
+      "school_name": "Крупицкая средняя школа",
+      "place_osm_id": "-59190",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Минский район",
+      "lon": "27.534919182587004",
+      "lat": "53.678485352760646"
+    },
+    {
+      "school_osm_id": "358802783",
+      "school_osm_type": "way",
+      "school_name": "Крупицкая средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.534919182587004",
+      "lat": "53.678485352760646"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Каменка",
+    "osm_id": "-7446644",
+    "hierarchy": [
+      "Каменский сельский Совет",
+      "Мозырский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "51.984676770327034",
+    "lon": "29.123277533804217"
+  },
+  "group": [
+    {
+      "school_osm_id": "315425400",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8087889",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Каменский сельский Совет",
+      "lon": "29.123277533804217",
+      "lat": "51.984676770327034"
+    },
+    {
+      "school_osm_id": "315425400",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7446644",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Каменка",
+      "lon": "29.123277533804217",
+      "lat": "51.984676770327034"
+    },
+    {
+      "school_osm_id": "315425400",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70815",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Мозырский район",
+      "lon": "29.123277533804217",
+      "lat": "51.984676770327034"
+    },
+    {
+      "school_osm_id": "315425400",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "29.123277533804217",
+      "lat": "51.984676770327034"
+    },
+    {
+      "school_osm_id": "315425400",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.123277533804217",
+      "lat": "51.984676770327034"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Карцевичи",
+    "osm_id": "-7552662",
+    "hierarchy": [
+      "Несвижский сельский Совет",
+      "Несвижский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.193224175543186",
+    "lon": "26.59721819471758"
+  },
+  "group": [
+    {
+      "school_osm_id": "441515670",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8139735",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Несвижский сельский Совет",
+      "lon": "26.59721819471758",
+      "lat": "53.193224175543186"
+    },
+    {
+      "school_osm_id": "441515670",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7552662",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Карцевичи",
+      "lon": "26.59721819471758",
+      "lat": "53.193224175543186"
+    },
+    {
+      "school_osm_id": "441515670",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-71128",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Несвижский район",
+      "lon": "26.59721819471758",
+      "lat": "53.193224175543186"
+    },
+    {
+      "school_osm_id": "441515670",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "26.59721819471758",
+      "lat": "53.193224175543186"
+    },
+    {
+      "school_osm_id": "441515670",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.59721819471758",
+      "lat": "53.193224175543186"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "605839011",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7456639",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Гирмантовцы",
+    "lon": "25.919821402284516",
+    "lat": "53.27249667239752"
+  },
+  {
+    "school_osm_id": "605839012",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7456639",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Гирмантовцы",
+    "lon": "25.920585996241165",
+    "lat": "53.27280404407812"
+  }
+]

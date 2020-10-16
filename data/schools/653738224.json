@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Милевичи",
+    "osm_id": "-7521896",
+    "hierarchy": [
+      "Куриловичский сельский Совет",
+      "Мостовский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.2807365673364",
+    "lon": "24.869582182440006"
+  },
+  "group": [
+    {
+      "school_osm_id": "653738224",
+      "school_osm_type": "way",
+      "school_name": "Милевичский детский сад-средняя школа",
+      "place_osm_id": "-8085961",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Куриловичский сельский Совет",
+      "lon": "24.869582182440006",
+      "lat": "53.2807365673364"
+    },
+    {
+      "school_osm_id": "653738224",
+      "school_osm_type": "way",
+      "school_name": "Милевичский детский сад-средняя школа",
+      "place_osm_id": "-7521896",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Милевичи",
+      "lon": "24.869582182440006",
+      "lat": "53.2807365673364"
+    },
+    {
+      "school_osm_id": "653738224",
+      "school_osm_type": "way",
+      "school_name": "Милевичский детский сад-средняя школа",
+      "place_osm_id": "-70754",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Мостовский район",
+      "lon": "24.869582182440006",
+      "lat": "53.2807365673364"
+    },
+    {
+      "school_osm_id": "653738224",
+      "school_osm_type": "way",
+      "school_name": "Милевичский детский сад-средняя школа",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "24.869582182440006",
+      "lat": "53.2807365673364"
+    },
+    {
+      "school_osm_id": "653738224",
+      "school_osm_type": "way",
+      "school_name": "Милевичский детский сад-средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "24.869582182440006",
+      "lat": "53.2807365673364"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Молодечно",
+    "osm_id": "-6722552",
+    "hierarchy": [
+      "Молодечненский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.29331565642368",
+    "lon": "26.848436182853952"
+  },
+  "group": [
+    {
+      "school_osm_id": "308322340",
+      "school_osm_type": "way",
+      "school_name": "Школа №12",
+      "place_osm_id": "-6722552",
+      "place_admin_level": "8",
+      "place_place": "city",
+      "place_name": "Молодечно",
+      "lon": "26.848436182853952",
+      "lat": "54.29331565642368"
+    },
+    {
+      "school_osm_id": "308322340",
+      "school_osm_type": "way",
+      "school_name": "Школа №12",
+      "place_osm_id": "-70566",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Молодечненский район",
+      "lon": "26.848436182853952",
+      "lat": "54.29331565642368"
+    },
+    {
+      "school_osm_id": "308322340",
+      "school_osm_type": "way",
+      "school_name": "Школа №12",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "26.848436182853952",
+      "lat": "54.29331565642368"
+    },
+    {
+      "school_osm_id": "308322340",
+      "school_osm_type": "way",
+      "school_name": "Школа №12",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.848436182853952",
+      "lat": "54.29331565642368"
+    }
+  ]
+}

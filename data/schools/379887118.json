@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Достоево",
+    "osm_id": "-7465152",
+    "hierarchy": [
+      "Молодовский сельский Совет",
+      "Ивановский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.23806490406614",
+    "lon": "25.66843601924758"
+  },
+  "group": [
+    {
+      "school_osm_id": "379887118",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8028556",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Молодовский сельский Совет",
+      "lon": "25.66843601924758",
+      "lat": "52.23806490406614"
+    },
+    {
+      "school_osm_id": "379887118",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7465152",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Достоево",
+      "lon": "25.66843601924758",
+      "lat": "52.23806490406614"
+    },
+    {
+      "school_osm_id": "379887118",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-71118",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Ивановский район",
+      "lon": "25.66843601924758",
+      "lat": "52.23806490406614"
+    },
+    {
+      "school_osm_id": "379887118",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "25.66843601924758",
+      "lat": "52.23806490406614"
+    },
+    {
+      "school_osm_id": "379887118",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "25.66843601924758",
+      "lat": "52.23806490406614"
+    }
+  ]
+}

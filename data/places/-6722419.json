@@ -1,0 +1,46 @@
+[
+  {
+    "school_osm_id": "378305973",
+    "school_osm_type": "node",
+    "school_name": "СШ №3",
+    "place_osm_id": "-6722419",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Мосты",
+    "lon": "24.5348982",
+    "lat": "53.39515439911011"
+  },
+  {
+    "school_osm_id": "690231482",
+    "school_osm_type": "way",
+    "school_name": "Гимназия №1",
+    "place_osm_id": "-6722419",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Мосты",
+    "lon": "24.53443939001263",
+    "lat": "53.41074528077657"
+  },
+  {
+    "school_osm_id": "717537547",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №2",
+    "place_osm_id": "-6722419",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Мосты",
+    "lon": "24.550856578036058",
+    "lat": "53.41687510997647"
+  },
+  {
+    "school_osm_id": "717537548",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №5",
+    "place_osm_id": "-6722419",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Мосты",
+    "lon": "24.550519142344495",
+    "lat": "53.41796396954884"
+  }
+]

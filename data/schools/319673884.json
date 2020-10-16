@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Малые Зимовищи",
+    "osm_id": "-7446656",
+    "hierarchy": [
+      "Слободской сельский Совет",
+      "Мозырский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.02371485303572",
+    "lon": "29.041516581602504"
+  },
+  "group": [
+    {
+      "school_osm_id": "319673884",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8087881",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Слободской сельский Совет",
+      "lon": "29.041516581602504",
+      "lat": "52.02371485303572"
+    },
+    {
+      "school_osm_id": "319673884",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7446656",
+      "place_admin_level": "10",
+      "place_place": "hamlet",
+      "place_name": "Малые Зимовищи",
+      "lon": "29.041516581602504",
+      "lat": "52.02371485303572"
+    },
+    {
+      "school_osm_id": "319673884",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70815",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Мозырский район",
+      "lon": "29.041516581602504",
+      "lat": "52.02371485303572"
+    },
+    {
+      "school_osm_id": "319673884",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "29.041516581602504",
+      "lat": "52.02371485303572"
+    },
+    {
+      "school_osm_id": "319673884",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.041516581602504",
+      "lat": "52.02371485303572"
+    }
+  ]
+}

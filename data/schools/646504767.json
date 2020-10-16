@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Свислочь",
+    "osm_id": "-6722452",
+    "hierarchy": [
+      "Свислочский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.037863295789805",
+    "lon": "24.10353701230573"
+  },
+  "group": [
+    {
+      "school_osm_id": "646504767",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа №2 имени Н.П. Массонова",
+      "place_osm_id": "-6722452",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Свислочь",
+      "lon": "24.10353701230573",
+      "lat": "53.037863295789805"
+    },
+    {
+      "school_osm_id": "646504767",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа №2 имени Н.П. Массонова",
+      "place_osm_id": "-71093",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Свислочский район",
+      "lon": "24.10353701230573",
+      "lat": "53.037863295789805"
+    },
+    {
+      "school_osm_id": "646504767",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа №2 имени Н.П. Массонова",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "24.10353701230573",
+      "lat": "53.037863295789805"
+    },
+    {
+      "school_osm_id": "646504767",
+      "school_osm_type": "way",
+      "school_name": "Средняя школа №2 имени Н.П. Массонова",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "24.10353701230573",
+      "lat": "53.037863295789805"
+    }
+  ]
+}

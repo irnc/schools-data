@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Дулевцы",
+    "osm_id": "-7509048",
+    "hierarchy": [
+      "Росский сельский Совет",
+      "Волковысский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.295727352823505",
+    "lon": "24.269683818712647"
+  },
+  "group": [
+    {
+      "school_osm_id": "692269462",
+      "school_osm_type": "way",
+      "school_name": "Дулевская Школа",
+      "place_osm_id": "-8085950",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Росский сельский Совет",
+      "lon": "24.269683818712647",
+      "lat": "53.295727352823505"
+    },
+    {
+      "school_osm_id": "692269462",
+      "school_osm_type": "way",
+      "school_name": "Дулевская Школа",
+      "place_osm_id": "-7509048",
+      "place_admin_level": "10",
+      "place_place": "hamlet",
+      "place_name": "Дулевцы",
+      "lon": "24.269683818712647",
+      "lat": "53.295727352823505"
+    },
+    {
+      "school_osm_id": "692269462",
+      "school_osm_type": "way",
+      "school_name": "Дулевская Школа",
+      "place_osm_id": "-70771",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Волковысский район",
+      "lon": "24.269683818712647",
+      "lat": "53.295727352823505"
+    },
+    {
+      "school_osm_id": "692269462",
+      "school_osm_type": "way",
+      "school_name": "Дулевская Школа",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "24.269683818712647",
+      "lat": "53.295727352823505"
+    },
+    {
+      "school_osm_id": "692269462",
+      "school_osm_type": "way",
+      "school_name": "Дулевская Школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "24.269683818712647",
+      "lat": "53.295727352823505"
+    }
+  ]
+}

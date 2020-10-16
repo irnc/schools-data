@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "308687209",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7480267",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Озерцы",
+    "lon": "27.767748236187973",
+    "lat": "55.19375107630611"
+  },
+  {
+    "school_osm_id": "308875133",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа",
+    "place_osm_id": "-7480267",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Озерцы",
+    "lon": "27.7717067961179",
+    "lat": "55.19514831323354"
+  }
+]

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Старые Габы",
+    "osm_id": "-7552069",
+    "hierarchy": [
+      "Слободской сельский Совет",
+      "Мядельский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.881754772282946",
+    "lon": "27.27723214353372"
+  },
+  "group": [
+    {
+      "school_osm_id": "369347433",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8016468",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Слободской сельский Совет",
+      "lon": "27.27723214353372",
+      "lat": "54.881754772282946"
+    },
+    {
+      "school_osm_id": "369347433",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7552069",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Старые Габы",
+      "lon": "27.27723214353372",
+      "lat": "54.881754772282946"
+    },
+    {
+      "school_osm_id": "369347433",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70719",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Мядельский район",
+      "lon": "27.27723214353372",
+      "lat": "54.881754772282946"
+    },
+    {
+      "school_osm_id": "369347433",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "27.27723214353372",
+      "lat": "54.881754772282946"
+    },
+    {
+      "school_osm_id": "369347433",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "27.27723214353372",
+      "lat": "54.881754772282946"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Мозырь",
+    "osm_id": "-5598638",
+    "hierarchy": [
+      "Мозырский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.08936924234135",
+    "lon": "29.223382423104002"
+  },
+  "group": [
+    {
+      "school_osm_id": "270840839",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-5598638",
+      "place_admin_level": "8",
+      "place_place": "city",
+      "place_name": "Мозырь",
+      "lon": "29.223382423104002",
+      "lat": "52.08936924234135"
+    },
+    {
+      "school_osm_id": "270840839",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70815",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Мозырский район",
+      "lon": "29.223382423104002",
+      "lat": "52.08936924234135"
+    },
+    {
+      "school_osm_id": "270840839",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "29.223382423104002",
+      "lat": "52.08936924234135"
+    },
+    {
+      "school_osm_id": "270840839",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.223382423104002",
+      "lat": "52.08936924234135"
+    }
+  ]
+}

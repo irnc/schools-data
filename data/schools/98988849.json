@@ -1,0 +1,60 @@
+{
+  "place": {
+    "name": "Слоним",
+    "osm_id": "-6722458",
+    "hierarchy": [
+      "Слонимский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.09747122044093",
+    "lon": "25.308244671112266"
+  },
+  "group": [
+    {
+      "school_osm_id": "98988849",
+      "school_osm_type": "way",
+      "school_name": "ДЮСШ №1",
+      "place_osm_id": "-6722458",
+      "place_admin_level": "8",
+      "place_place": "town",
+      "place_name": "Слоним",
+      "lon": "25.308244671112266",
+      "lat": "53.09747122044093"
+    },
+    {
+      "school_osm_id": "98988849",
+      "school_osm_type": "way",
+      "school_name": "ДЮСШ №1",
+      "place_osm_id": "-71114",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Слонимский район",
+      "lon": "25.308244671112266",
+      "lat": "53.09747122044093"
+    },
+    {
+      "school_osm_id": "98988849",
+      "school_osm_type": "way",
+      "school_name": "ДЮСШ №1",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "25.308244671112266",
+      "lat": "53.09747122044093"
+    },
+    {
+      "school_osm_id": "98988849",
+      "school_osm_type": "way",
+      "school_name": "ДЮСШ №1",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "25.308244671112266",
+      "lat": "53.09747122044093"
+    }
+  ]
+}

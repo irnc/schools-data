@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Замошье",
+    "osm_id": "-7456757",
+    "hierarchy": [
+      "Малаховецкий сельский Совет",
+      "Барановичский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.04140584211627",
+    "lon": "25.977415076341185"
+  },
+  "group": [
+    {
+      "school_osm_id": "400993783",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8096124",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Малаховецкий сельский Совет",
+      "lon": "25.977415076341185",
+      "lat": "53.04140584211627"
+    },
+    {
+      "school_osm_id": "400993783",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7456757",
+      "place_admin_level": "10",
+      "place_place": "hamlet",
+      "place_name": "Замошье",
+      "lon": "25.977415076341185",
+      "lat": "53.04140584211627"
+    },
+    {
+      "school_osm_id": "400993783",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-71116",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Барановичский район",
+      "lon": "25.977415076341185",
+      "lat": "53.04140584211627"
+    },
+    {
+      "school_osm_id": "400993783",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "25.977415076341185",
+      "lat": "53.04140584211627"
+    },
+    {
+      "school_osm_id": "400993783",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "25.977415076341185",
+      "lat": "53.04140584211627"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Хвиневичи",
+    "osm_id": "-7512468",
+    "hierarchy": [
+      "Поречский сельский Совет",
+      "Дятловский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.49247249629832",
+    "lon": "25.265206495425538"
+  },
+  "group": [
+    {
+      "school_osm_id": "378013046",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8100404",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Поречский сельский Совет",
+      "lon": "25.265206495425538",
+      "lat": "53.49247249629832"
+    },
+    {
+      "school_osm_id": "378013046",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7512468",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Хвиневичи",
+      "lon": "25.265206495425538",
+      "lat": "53.49247249629832"
+    },
+    {
+      "school_osm_id": "378013046",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70768",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Дятловский район",
+      "lon": "25.265206495425538",
+      "lat": "53.49247249629832"
+    },
+    {
+      "school_osm_id": "378013046",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "25.265206495425538",
+      "lat": "53.49247249629832"
+    },
+    {
+      "school_osm_id": "378013046",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "25.265206495425538",
+      "lat": "53.49247249629832"
+    }
+  ]
+}

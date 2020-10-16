@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Доры",
+    "osm_id": "-7535209",
+    "hierarchy": [
+      "Дорский сельский Совет",
+      "Воложинский район",
+      "Минская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.074114983680204",
+    "lon": "26.78301537542154"
+  },
+  "group": [
+    {
+      "school_osm_id": "774608201",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8014021",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Дорский сельский Совет",
+      "lon": "26.78301537542154",
+      "lat": "54.074114983680204"
+    },
+    {
+      "school_osm_id": "774608201",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7535209",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Доры",
+      "lon": "26.78301537542154",
+      "lat": "54.074114983680204"
+    },
+    {
+      "school_osm_id": "774608201",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70565",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Воложинский район",
+      "lon": "26.78301537542154",
+      "lat": "54.074114983680204"
+    },
+    {
+      "school_osm_id": "774608201",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59752",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Минская область",
+      "lon": "26.78301537542154",
+      "lat": "54.074114983680204"
+    },
+    {
+      "school_osm_id": "774608201",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.78301537542154",
+      "lat": "54.074114983680204"
+    }
+  ]
+}

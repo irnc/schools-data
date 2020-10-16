@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Сава",
+    "osm_id": "-7578289",
+    "hierarchy": [
+      "Савский сельский Совет",
+      "Горецкий район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.365602499459754",
+    "lon": "30.815598326417987"
+  },
+  "group": [
+    {
+      "school_osm_id": "207295909",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8075995",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Савский сельский Совет",
+      "lon": "30.815598326417987",
+      "lat": "54.365602499459754"
+    },
+    {
+      "school_osm_id": "207295909",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7578289",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Сава",
+      "lon": "30.815598326417987",
+      "lat": "54.365602499459754"
+    },
+    {
+      "school_osm_id": "207295909",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70620",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Горецкий район",
+      "lon": "30.815598326417987",
+      "lat": "54.365602499459754"
+    },
+    {
+      "school_osm_id": "207295909",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "30.815598326417987",
+      "lat": "54.365602499459754"
+    },
+    {
+      "school_osm_id": "207295909",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.815598326417987",
+      "lat": "54.365602499459754"
+    }
+  ]
+}

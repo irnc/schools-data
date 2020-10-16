@@ -1,0 +1,156 @@
+[
+  {
+    "school_osm_id": "-6363512",
+    "school_osm_type": "relation",
+    "school_name": "Средняя школа № 9",
+    "place_osm_id": "-5598676",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Светлогорск",
+    "lon": "29.71768901529182",
+    "lat": "52.62473701679133"
+  },
+  {
+    "school_osm_id": "290571410",
+    "school_osm_type": "way",
+    "school_name": "Гимназия",
+    "place_osm_id": "-5598676",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Светлогорск",
+    "lon": "29.72444860974979",
+    "lat": "52.62566310440902"
+  },
+  {
+    "school_osm_id": "290571411",
+    "school_osm_type": "way",
+    "school_name": "Школа № 8",
+    "place_osm_id": "-5598676",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Светлогорск",
+    "lon": "29.72282414872935",
+    "lat": "52.624038428740384"
+  },
+  {
+    "school_osm_id": "331222788",
+    "school_osm_type": "node",
+    "school_name": "СШ №2",
+    "place_osm_id": "-5598676",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Светлогорск",
+    "lon": "29.7092287",
+    "lat": "52.63467389908506"
+  },
+  {
+    "school_osm_id": "331222795",
+    "school_osm_type": "node",
+    "school_name": "СШ №4",
+    "place_osm_id": "-5598676",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Светлогорск",
+    "lon": "29.751897899999996",
+    "lat": "52.62799659908516"
+  },
+  {
+    "school_osm_id": "427802757",
+    "school_osm_type": "way",
+    "school_name": "Школа № 11",
+    "place_osm_id": "-5598676",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Светлогорск",
+    "lon": "29.71608171517242",
+    "lat": "52.62763571012831"
+  },
+  {
+    "school_osm_id": "427837005",
+    "school_osm_type": "way",
+    "school_name": "Средняя школа №12",
+    "place_osm_id": "-5598676",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Светлогорск",
+    "lon": "29.72758589058217",
+    "lat": "52.643700829476835"
+  },
+  {
+    "school_osm_id": "427842220",
+    "school_osm_type": "way",
+    "school_name": "Школа № 1",
+    "place_osm_id": "-5598676",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Светлогорск",
+    "lon": "29.754935578149365",
+    "lat": "52.63292859062553"
+  },
+  {
+    "school_osm_id": "439235345",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-5598676",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Светлогорск",
+    "lon": "29.745108972879684",
+    "lat": "52.635939249204014"
+  },
+  {
+    "school_osm_id": "730228872",
+    "school_osm_type": "way",
+    "school_name": "СШ №6",
+    "place_osm_id": "-5598676",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Светлогорск",
+    "lon": "29.738410996431053",
+    "lat": "52.630740602163065"
+  },
+  {
+    "school_osm_id": "4505356491",
+    "school_osm_type": "node",
+    "school_name": "Автошкола БелТехМастер",
+    "place_osm_id": "-5598676",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Светлогорск",
+    "lon": "29.752414400000003",
+    "lat": "52.632650799085084"
+  },
+  {
+    "school_osm_id": "4897021236",
+    "school_osm_type": "node",
+    "school_name": "Средняя школа №3",
+    "place_osm_id": "-5598676",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Светлогорск",
+    "lon": "29.738274699999998",
+    "lat": "52.636352799085"
+  },
+  {
+    "school_osm_id": "5239826053",
+    "school_osm_type": "node",
+    "school_name": "СШ №5",
+    "place_osm_id": "-5598676",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Светлогорск",
+    "lon": "29.7405913",
+    "lat": "52.631612399085114"
+  },
+  {
+    "school_osm_id": "6780472886",
+    "school_osm_type": "node",
+    "school_name": "Средня школа 9",
+    "place_osm_id": "-5598676",
+    "place_admin_level": "8",
+    "place_place": "town",
+    "place_name": "Светлогорск",
+    "lon": "29.7181662",
+    "lat": "52.6248103990852"
+  }
+]

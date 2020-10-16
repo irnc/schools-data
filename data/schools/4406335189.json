@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Боровики",
+    "osm_id": "-7453255",
+    "hierarchy": [
+      "Боровиковский сельский Совет",
+      "Светлогорский район",
+      "Гомельская область"
+    ]
+  },
+  "geo": {
+    "lat": "52.54660469908681",
+    "lon": "29.8448077"
+  },
+  "group": [
+    {
+      "school_osm_id": "4406335189",
+      "school_osm_type": "node",
+      "school_name": "Баравиковская СШ",
+      "place_osm_id": "-8107319",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Боровиковский сельский Совет",
+      "lon": "29.8448077",
+      "lat": "52.54660469908681"
+    },
+    {
+      "school_osm_id": "4406335189",
+      "school_osm_type": "node",
+      "school_name": "Баравиковская СШ",
+      "place_osm_id": "-7453255",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Боровики",
+      "lon": "29.8448077",
+      "lat": "52.54660469908681"
+    },
+    {
+      "school_osm_id": "4406335189",
+      "school_osm_type": "node",
+      "school_name": "Баравиковская СШ",
+      "place_osm_id": "-59161",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гомельская область",
+      "lon": "29.8448077",
+      "lat": "52.54660469908681"
+    },
+    {
+      "school_osm_id": "4406335189",
+      "school_osm_type": "node",
+      "school_name": "Баравиковская СШ",
+      "place_osm_id": "-59137",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Светлогорский район",
+      "lon": "29.8448077",
+      "lat": "52.54660469908681"
+    },
+    {
+      "school_osm_id": "4406335189",
+      "school_osm_type": "node",
+      "school_name": "Баравиковская СШ",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "29.8448077",
+      "lat": "52.54660469908681"
+    }
+  ]
+}

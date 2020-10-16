@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Видзы",
+    "osm_id": "-7473515",
+    "hierarchy": [
+      "Видзовский сельский Совет",
+      "Браславский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.3989231153996",
+    "lon": "26.640016537755837"
+  },
+  "group": [
+    {
+      "school_osm_id": "161947664",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7976858",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Видзовский сельский Совет",
+      "lon": "26.640016537755837",
+      "lat": "55.3989231153996"
+    },
+    {
+      "school_osm_id": "161947664",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7473515",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Видзы",
+      "lon": "26.640016537755837",
+      "lat": "55.3989231153996"
+    },
+    {
+      "school_osm_id": "161947664",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70691",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Браславский район",
+      "lon": "26.640016537755837",
+      "lat": "55.3989231153996"
+    },
+    {
+      "school_osm_id": "161947664",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "26.640016537755837",
+      "lat": "55.3989231153996"
+    },
+    {
+      "school_osm_id": "161947664",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.640016537755837",
+      "lat": "55.3989231153996"
+    }
+  ]
+}

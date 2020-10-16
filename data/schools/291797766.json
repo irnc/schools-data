@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Райца",
+    "osm_id": "-5616675",
+    "hierarchy": [
+      "Райцевский сельский Совет",
+      "Кореличский район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.4668907496272",
+    "lon": "26.01925996461012"
+  },
+  "group": [
+    {
+      "school_osm_id": "291797766",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8100428",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Райцевский сельский Совет",
+      "lon": "26.01925996461012",
+      "lat": "53.4668907496272"
+    },
+    {
+      "school_osm_id": "291797766",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-5616675",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Райца",
+      "lon": "26.01925996461012",
+      "lat": "53.4668907496272"
+    },
+    {
+      "school_osm_id": "291797766",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70751",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Кореличский район",
+      "lon": "26.01925996461012",
+      "lat": "53.4668907496272"
+    },
+    {
+      "school_osm_id": "291797766",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "26.01925996461012",
+      "lat": "53.4668907496272"
+    },
+    {
+      "school_osm_id": "291797766",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.01925996461012",
+      "lat": "53.4668907496272"
+    }
+  ]
+}

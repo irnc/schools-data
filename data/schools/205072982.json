@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Лыково",
+    "osm_id": "-5867275",
+    "hierarchy": [
+      "Сидоровичский сельский Совет",
+      "Могилёвский район",
+      "Могилёвская область"
+    ]
+  },
+  "geo": {
+    "lat": "53.75351125482915",
+    "lon": "30.36054973873604"
+  },
+  "group": [
+    {
+      "school_osm_id": "205072982",
+      "school_osm_type": "way",
+      "school_name": "Начальная школа-сад",
+      "place_osm_id": "-8144206",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Сидоровичский сельский Совет",
+      "lon": "30.36054973873604",
+      "lat": "53.75351125482915"
+    },
+    {
+      "school_osm_id": "205072982",
+      "school_osm_type": "way",
+      "school_name": "Начальная школа-сад",
+      "place_osm_id": "-5867275",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Лыково",
+      "lon": "30.36054973873604",
+      "lat": "53.75351125482915"
+    },
+    {
+      "school_osm_id": "205072982",
+      "school_osm_type": "way",
+      "school_name": "Начальная школа-сад",
+      "place_osm_id": "-62147",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Могилёвский район",
+      "lon": "30.36054973873604",
+      "lat": "53.75351125482915"
+    },
+    {
+      "school_osm_id": "205072982",
+      "school_osm_type": "way",
+      "school_name": "Начальная школа-сад",
+      "place_osm_id": "-59162",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Могилёвская область",
+      "lon": "30.36054973873604",
+      "lat": "53.75351125482915"
+    },
+    {
+      "school_osm_id": "205072982",
+      "school_osm_type": "way",
+      "school_name": "Начальная школа-сад",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "30.36054973873604",
+      "lat": "53.75351125482915"
+    }
+  ]
+}

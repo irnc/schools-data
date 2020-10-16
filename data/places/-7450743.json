@@ -1,0 +1,24 @@
+[
+  {
+    "school_osm_id": "287662848",
+    "school_osm_type": "way",
+    "school_name": "Крушиновская средняя школа",
+    "place_osm_id": "-7450743",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Великая Крушиновка",
+    "lon": "29.8381326379907",
+    "lat": "53.23497270192728"
+  },
+  {
+    "school_osm_id": "349423473",
+    "school_osm_type": "way",
+    "school_name": "",
+    "place_osm_id": "-7450743",
+    "place_admin_level": "10",
+    "place_place": "village",
+    "place_name": "Великая Крушиновка",
+    "lon": "29.83781280110489",
+    "lat": "53.234938040647656"
+  }
+]

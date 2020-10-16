@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Бережное",
+    "osm_id": "-7468469",
+    "hierarchy": [
+      "Бережновский сельский Совет",
+      "Столинский район",
+      "Брестская область"
+    ]
+  },
+  "geo": {
+    "lat": "51.99588640373221",
+    "lon": "26.990881449431217"
+  },
+  "group": [
+    {
+      "school_osm_id": "642155050",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8028522",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Бережновский сельский Совет",
+      "lon": "26.990881449431217",
+      "lat": "51.99588640373221"
+    },
+    {
+      "school_osm_id": "642155050",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7468469",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Бережное",
+      "lon": "26.990881449431217",
+      "lat": "51.99588640373221"
+    },
+    {
+      "school_osm_id": "642155050",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-71125",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Столинский район",
+      "lon": "26.990881449431217",
+      "lat": "51.99588640373221"
+    },
+    {
+      "school_osm_id": "642155050",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59189",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Брестская область",
+      "lon": "26.990881449431217",
+      "lat": "51.99588640373221"
+    },
+    {
+      "school_osm_id": "642155050",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.990881449431217",
+      "lat": "51.99588640373221"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Ольховка",
+    "osm_id": "-7522593",
+    "hierarchy": [
+      "Михалишковский сельский Совет",
+      "Островецкий район",
+      "Гродненская область"
+    ]
+  },
+  "geo": {
+    "lat": "54.80899158742512",
+    "lon": "26.232947101785992"
+  },
+  "group": [
+    {
+      "school_osm_id": "374458648",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-8021191",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Михалишковский сельский Совет",
+      "lon": "26.232947101785992",
+      "lat": "54.80899158742512"
+    },
+    {
+      "school_osm_id": "374458648",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-7522593",
+      "place_admin_level": "10",
+      "place_place": "village",
+      "place_name": "Ольховка",
+      "lon": "26.232947101785992",
+      "lat": "54.80899158742512"
+    },
+    {
+      "school_osm_id": "374458648",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-70721",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Островецкий район",
+      "lon": "26.232947101785992",
+      "lat": "54.80899158742512"
+    },
+    {
+      "school_osm_id": "374458648",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59275",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Гродненская область",
+      "lon": "26.232947101785992",
+      "lat": "54.80899158742512"
+    },
+    {
+      "school_osm_id": "374458648",
+      "school_osm_type": "way",
+      "school_name": "",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "26.232947101785992",
+      "lat": "54.80899158742512"
+    }
+  ]
+}

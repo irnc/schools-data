@@ -1,0 +1,72 @@
+{
+  "place": {
+    "name": "Альбрехтово",
+    "osm_id": "-7498877",
+    "hierarchy": [
+      "Альбрехтовский сельский Совет",
+      "Россонский район",
+      "Витебская область"
+    ]
+  },
+  "geo": {
+    "lat": "55.875577730601805",
+    "lon": "28.843476804589706"
+  },
+  "group": [
+    {
+      "school_osm_id": "611532875",
+      "school_osm_type": "way",
+      "school_name": "Альбрехтовская средняя школа",
+      "place_osm_id": "-8075966",
+      "place_admin_level": "8",
+      "place_place": "",
+      "place_name": "Альбрехтовский сельский Совет",
+      "lon": "28.843476804589706",
+      "lat": "55.875577730601805"
+    },
+    {
+      "school_osm_id": "611532875",
+      "school_osm_type": "way",
+      "school_name": "Альбрехтовская средняя школа",
+      "place_osm_id": "-7498877",
+      "place_admin_level": "10",
+      "place_place": "hamlet",
+      "place_name": "Альбрехтово",
+      "lon": "28.843476804589706",
+      "lat": "55.875577730601805"
+    },
+    {
+      "school_osm_id": "611532875",
+      "school_osm_type": "way",
+      "school_name": "Альбрехтовская средняя школа",
+      "place_osm_id": "-70680",
+      "place_admin_level": "6",
+      "place_place": "",
+      "place_name": "Россонский район",
+      "lon": "28.843476804589706",
+      "lat": "55.875577730601805"
+    },
+    {
+      "school_osm_id": "611532875",
+      "school_osm_type": "way",
+      "school_name": "Альбрехтовская средняя школа",
+      "place_osm_id": "-59506",
+      "place_admin_level": "4",
+      "place_place": "",
+      "place_name": "Витебская область",
+      "lon": "28.843476804589706",
+      "lat": "55.875577730601805"
+    },
+    {
+      "school_osm_id": "611532875",
+      "school_osm_type": "way",
+      "school_name": "Альбрехтовская средняя школа",
+      "place_osm_id": "-59065",
+      "place_admin_level": "2",
+      "place_place": "",
+      "place_name": "Беларусь",
+      "lon": "28.843476804589706",
+      "lat": "55.875577730601805"
+    }
+  ]
+}
