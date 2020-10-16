@@ -1,0 +1,13 @@
+[out:json][timeout:25];
+
+// https://help.openstreetmap.org/questions/19063/get-city-nodes-within-a-country-using-overpass-api
+area[name="Беларусь"]->.belarus;
+
+(
+  nwr["amenity"="school"](area.belarus);
+);
+
+// print results
+out body;
+>;
+out skel qt;
