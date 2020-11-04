@@ -8,7 +8,8 @@
   },
   "geo": {
     "lat": "53.68019509913911",
-    "lon": "23.8349784"
+    "lon": "23.8349784",
+    "bbox": ""
   },
   "group": [
     {
@@ -18,10 +19,7 @@
       "place_osm_id": "-2888067",
       "place_admin_level": "9",
       "place_place": "",
-      "place_name": "Ленинский район",
-      "lon": "23.8349784",
-      "lat": "53.68019509913911",
-      "bbox": ""
+      "place_name": "Ленинский район"
     },
     {
       "school_osm_id": "320409644",
@@ -30,10 +28,7 @@
       "place_osm_id": "-130921",
       "place_admin_level": "6",
       "place_place": "city",
-      "place_name": "Гродно",
-      "lon": "23.8349784",
-      "lat": "53.68019509913911",
-      "bbox": ""
+      "place_name": "Гродно"
     },
     {
       "school_osm_id": "320409644",
@@ -42,10 +37,7 @@
       "place_osm_id": "-59275",
       "place_admin_level": "4",
       "place_place": "",
-      "place_name": "Гродненская область",
-      "lon": "23.8349784",
-      "lat": "53.68019509913911",
-      "bbox": ""
+      "place_name": "Гродненская область"
     },
     {
       "school_osm_id": "320409644",
@@ -54,10 +46,7 @@
       "place_osm_id": "-59065",
       "place_admin_level": "2",
       "place_place": "",
-      "place_name": "Беларусь",
-      "lon": "23.8349784",
-      "lat": "53.68019509913911",
-      "bbox": ""
+      "place_name": "Беларусь"
     }
   ]
 }

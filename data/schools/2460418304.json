@@ -9,7 +9,8 @@
   },
   "geo": {
     "lat": "52.36585449909326",
-    "lon": "30.404179200000005"
+    "lon": "30.404179200000005",
+    "bbox": ""
   },
   "group": [
     {
@@ -19,10 +20,7 @@
       "place_osm_id": "-5598659",
       "place_admin_level": "8",
       "place_place": "town",
-      "place_name": "Речица",
-      "lon": "30.404179200000005",
-      "lat": "52.36585449909326",
-      "bbox": ""
+      "place_name": "Речица"
     },
     {
       "school_osm_id": "2460418304",
@@ -31,10 +29,7 @@
       "place_osm_id": "-70812",
       "place_admin_level": "6",
       "place_place": "",
-      "place_name": "Речицкий район",
-      "lon": "30.404179200000005",
-      "lat": "52.36585449909326",
-      "bbox": ""
+      "place_name": "Речицкий район"
     },
     {
       "school_osm_id": "2460418304",
@@ -43,10 +38,7 @@
       "place_osm_id": "-59161",
       "place_admin_level": "4",
       "place_place": "",
-      "place_name": "Гомельская область",
-      "lon": "30.404179200000005",
-      "lat": "52.36585449909326",
-      "bbox": ""
+      "place_name": "Гомельская область"
     },
     {
       "school_osm_id": "2460418304",
@@ -55,10 +47,7 @@
       "place_osm_id": "-59065",
       "place_admin_level": "2",
       "place_place": "",
-      "place_name": "Беларусь",
-      "lon": "30.404179200000005",
-      "lat": "52.36585449909326",
-      "bbox": ""
+      "place_name": "Беларусь"
     }
   ]
 }

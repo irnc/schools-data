@@ -9,7 +9,8 @@
   },
   "geo": {
     "lat": "52.39507239909196",
-    "lon": "23.8214372"
+    "lon": "23.8214372",
+    "bbox": ""
   },
   "group": [
     {
@@ -19,10 +20,7 @@
       "place_osm_id": "-5603384",
       "place_admin_level": "8",
       "place_place": "town",
-      "place_name": "Каменец",
-      "lon": "23.8214372",
-      "lat": "52.39507239909196",
-      "bbox": ""
+      "place_name": "Каменец"
     },
     {
       "school_osm_id": "4689552292",
@@ -31,10 +29,7 @@
       "place_osm_id": "-71097",
       "place_admin_level": "6",
       "place_place": "",
-      "place_name": "Каменецкий район",
-      "lon": "23.8214372",
-      "lat": "52.39507239909196",
-      "bbox": ""
+      "place_name": "Каменецкий район"
     },
     {
       "school_osm_id": "4689552292",
@@ -43,10 +38,7 @@
       "place_osm_id": "-59189",
       "place_admin_level": "4",
       "place_place": "",
-      "place_name": "Брестская область",
-      "lon": "23.8214372",
-      "lat": "52.39507239909196",
-      "bbox": ""
+      "place_name": "Брестская область"
     },
     {
       "school_osm_id": "4689552292",
@@ -55,10 +47,7 @@
       "place_osm_id": "-59065",
       "place_admin_level": "2",
       "place_place": "",
-      "place_name": "Беларусь",
-      "lon": "23.8214372",
-      "lat": "52.39507239909196",
-      "bbox": ""
+      "place_name": "Беларусь"
     }
   ]
 }

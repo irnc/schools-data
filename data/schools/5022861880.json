@@ -9,7 +9,8 @@
   },
   "geo": {
     "lat": "52.90183639908549",
-    "lon": "30.014674"
+    "lon": "30.014674",
+    "bbox": ""
   },
   "group": [
     {
@@ -19,10 +20,7 @@
       "place_osm_id": "-5598358",
       "place_admin_level": "8",
       "place_place": "town",
-      "place_name": "Жлобин",
-      "lon": "30.014674",
-      "lat": "52.90183639908549",
-      "bbox": ""
+      "place_name": "Жлобин"
     },
     {
       "school_osm_id": "5022861880",
@@ -31,10 +29,7 @@
       "place_osm_id": "-59167",
       "place_admin_level": "6",
       "place_place": "",
-      "place_name": "Жлобинский район",
-      "lon": "30.014674",
-      "lat": "52.90183639908549",
-      "bbox": ""
+      "place_name": "Жлобинский район"
     },
     {
       "school_osm_id": "5022861880",
@@ -43,10 +38,7 @@
       "place_osm_id": "-59161",
       "place_admin_level": "4",
       "place_place": "",
-      "place_name": "Гомельская область",
-      "lon": "30.014674",
-      "lat": "52.90183639908549",
-      "bbox": ""
+      "place_name": "Гомельская область"
     },
     {
       "school_osm_id": "5022861880",
@@ -55,10 +47,7 @@
       "place_osm_id": "-59065",
       "place_admin_level": "2",
       "place_place": "",
-      "place_name": "Беларусь",
-      "lon": "30.014674",
-      "lat": "52.90183639908549",
-      "bbox": ""
+      "place_name": "Беларусь"
     }
   ]
 }

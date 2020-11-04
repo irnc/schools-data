@@ -48,7 +48,7 @@ places.forEach(place => {
 });
 
 Object.values(schoolsById).forEach(group => {
-    const { school_osm_id, lat, lon } = group[0];
+    const { school_osm_id, lat, lon, bbox } = group[0];
     let place;
 
     try {
@@ -63,8 +63,9 @@ Object.values(schoolsById).forEach(group => {
         geo: {
             lat,
             lon,
+            bbox,
         },
-        group,
+        group: group.map(e => _.omit(e, ['lat', 'lon', 'bbox'])),
     });
 });
 

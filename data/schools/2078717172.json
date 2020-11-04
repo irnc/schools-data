@@ -9,7 +9,8 @@
   },
   "geo": {
     "lat": "53.16326269909458",
-    "lon": "24.4608646"
+    "lon": "24.4608646",
+    "bbox": ""
   },
   "group": [
     {
@@ -19,10 +20,7 @@
       "place_osm_id": "-6722368",
       "place_admin_level": "8",
       "place_place": "town",
-      "place_name": "Волковыск",
-      "lon": "24.4608646",
-      "lat": "53.16326269909458",
-      "bbox": ""
+      "place_name": "Волковыск"
     },
     {
       "school_osm_id": "2078717172",
@@ -31,10 +29,7 @@
       "place_osm_id": "-70771",
       "place_admin_level": "6",
       "place_place": "",
-      "place_name": "Волковысский район",
-      "lon": "24.4608646",
-      "lat": "53.16326269909458",
-      "bbox": ""
+      "place_name": "Волковысский район"
     },
     {
       "school_osm_id": "2078717172",
@@ -43,10 +38,7 @@
       "place_osm_id": "-59275",
       "place_admin_level": "4",
       "place_place": "",
-      "place_name": "Гродненская область",
-      "lon": "24.4608646",
-      "lat": "53.16326269909458",
-      "bbox": ""
+      "place_name": "Гродненская область"
     },
     {
       "school_osm_id": "2078717172",
@@ -55,10 +47,7 @@
       "place_osm_id": "-59065",
       "place_admin_level": "2",
       "place_place": "",
-      "place_name": "Беларусь",
-      "lon": "24.4608646",
-      "lat": "53.16326269909458",
-      "bbox": ""
+      "place_name": "Беларусь"
     }
   ]
 }

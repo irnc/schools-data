@@ -9,7 +9,8 @@
   },
   "geo": {
     "lat": "52.79289059908424",
-    "lon": "27.5354275"
+    "lon": "27.5354275",
+    "bbox": ""
   },
   "group": [
     {
@@ -19,10 +20,7 @@
       "place_osm_id": "-6722606",
       "place_admin_level": "8",
       "place_place": "city",
-      "place_name": "Солигорск",
-      "lon": "27.5354275",
-      "lat": "52.79289059908424",
-      "bbox": ""
+      "place_name": "Солигорск"
     },
     {
       "school_osm_id": "4143362089",
@@ -31,10 +29,7 @@
       "place_osm_id": "-71133",
       "place_admin_level": "6",
       "place_place": "",
-      "place_name": "Солигорский район",
-      "lon": "27.5354275",
-      "lat": "52.79289059908424",
-      "bbox": ""
+      "place_name": "Солигорский район"
     },
     {
       "school_osm_id": "4143362089",
@@ -43,10 +38,7 @@
       "place_osm_id": "-59752",
       "place_admin_level": "4",
       "place_place": "",
-      "place_name": "Минская область",
-      "lon": "27.5354275",
-      "lat": "52.79289059908424",
-      "bbox": ""
+      "place_name": "Минская область"
     },
     {
       "school_osm_id": "4143362089",
@@ -55,10 +47,7 @@
       "place_osm_id": "-59065",
       "place_admin_level": "2",
       "place_place": "",
-      "place_name": "Беларусь",
-      "lon": "27.5354275",
-      "lat": "52.79289059908424",
-      "bbox": ""
+      "place_name": "Беларусь"
     }
   ]
 }

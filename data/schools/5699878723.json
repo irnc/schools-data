@@ -10,7 +10,8 @@
   },
   "geo": {
     "lat": "52.39815469909183",
-    "lon": "25.940836"
+    "lon": "25.940836",
+    "bbox": ""
   },
   "group": [
     {
@@ -20,10 +21,7 @@
       "place_osm_id": "-8028545",
       "place_admin_level": "8",
       "place_place": "",
-      "place_name": "Валищенский сельский Совет",
-      "lon": "25.940836",
-      "lat": "52.39815469909183",
-      "bbox": ""
+      "place_name": "Валищенский сельский Совет"
     },
     {
       "school_osm_id": "5699878723",
@@ -32,10 +30,7 @@
       "place_osm_id": "-7467497",
       "place_admin_level": "10",
       "place_place": "village",
-      "place_name": "Валище",
-      "lon": "25.940836",
-      "lat": "52.39815469909183",
-      "bbox": ""
+      "place_name": "Валище"
     },
     {
       "school_osm_id": "5699878723",
@@ -44,10 +39,7 @@
       "place_osm_id": "-71119",
       "place_admin_level": "6",
       "place_place": "",
-      "place_name": "Пинский район",
-      "lon": "25.940836",
-      "lat": "52.39815469909183",
-      "bbox": ""
+      "place_name": "Пинский район"
     },
     {
       "school_osm_id": "5699878723",
@@ -56,10 +48,7 @@
       "place_osm_id": "-59189",
       "place_admin_level": "4",
       "place_place": "",
-      "place_name": "Брестская область",
-      "lon": "25.940836",
-      "lat": "52.39815469909183",
-      "bbox": ""
+      "place_name": "Брестская область"
     },
     {
       "school_osm_id": "5699878723",
@@ -68,10 +57,7 @@
       "place_osm_id": "-59065",
       "place_admin_level": "2",
       "place_place": "",
-      "place_name": "Беларусь",
-      "lon": "25.940836",
-      "lat": "52.39815469909183",
-      "bbox": ""
+      "place_name": "Беларусь"
     }
   ]
 }

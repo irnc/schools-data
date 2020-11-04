@@ -9,7 +9,8 @@
   },
   "geo": {
     "lat": "52.03510429911453",
-    "lon": "29.216707000000003"
+    "lon": "29.216707000000003",
+    "bbox": ""
   },
   "group": [
     {
@@ -19,10 +20,7 @@
       "place_osm_id": "-5598638",
       "place_admin_level": "8",
       "place_place": "city",
-      "place_name": "Мозырь",
-      "lon": "29.216707000000003",
-      "lat": "52.03510429911453",
-      "bbox": ""
+      "place_name": "Мозырь"
     },
     {
       "school_osm_id": "4531358394",
@@ -31,10 +29,7 @@
       "place_osm_id": "-70815",
       "place_admin_level": "6",
       "place_place": "",
-      "place_name": "Мозырский район",
-      "lon": "29.216707000000003",
-      "lat": "52.03510429911453",
-      "bbox": ""
+      "place_name": "Мозырский район"
     },
     {
       "school_osm_id": "4531358394",
@@ -43,10 +38,7 @@
       "place_osm_id": "-59161",
       "place_admin_level": "4",
       "place_place": "",
-      "place_name": "Гомельская область",
-      "lon": "29.216707000000003",
-      "lat": "52.03510429911453",
-      "bbox": ""
+      "place_name": "Гомельская область"
     },
     {
       "school_osm_id": "4531358394",
@@ -55,10 +47,7 @@
       "place_osm_id": "-59065",
       "place_admin_level": "2",
       "place_place": "",
-      "place_name": "Беларусь",
-      "lon": "29.216707000000003",
-      "lat": "52.03510429911453",
-      "bbox": ""
+      "place_name": "Беларусь"
     }
   ]
 }

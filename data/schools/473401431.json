@@ -10,7 +10,8 @@
   },
   "geo": {
     "lat": "53.06175929908999",
-    "lon": "27.472286"
+    "lon": "27.472286",
+    "bbox": ""
   },
   "group": [
     {
@@ -20,10 +21,7 @@
       "place_osm_id": "-8144287",
       "place_admin_level": "8",
       "place_place": "",
-      "place_name": "Серяжский сельский Совет",
-      "lon": "27.472286",
-      "lat": "53.06175929908999",
-      "bbox": ""
+      "place_name": "Серяжский сельский Совет"
     },
     {
       "school_osm_id": "473401431",
@@ -32,10 +30,7 @@
       "place_osm_id": "-7556163",
       "place_admin_level": "10",
       "place_place": "village",
-      "place_name": "Серяги",
-      "lon": "27.472286",
-      "lat": "53.06175929908999",
-      "bbox": ""
+      "place_name": "Серяги"
     },
     {
       "school_osm_id": "473401431",
@@ -44,10 +39,7 @@
       "place_osm_id": "-71134",
       "place_admin_level": "6",
       "place_place": "",
-      "place_name": "Слуцкий район",
-      "lon": "27.472286",
-      "lat": "53.06175929908999",
-      "bbox": ""
+      "place_name": "Слуцкий район"
     },
     {
       "school_osm_id": "473401431",
@@ -56,10 +48,7 @@
       "place_osm_id": "-59752",
       "place_admin_level": "4",
       "place_place": "",
-      "place_name": "Минская область",
-      "lon": "27.472286",
-      "lat": "53.06175929908999",
-      "bbox": ""
+      "place_name": "Минская область"
     },
     {
       "school_osm_id": "473401431",
@@ -68,10 +57,7 @@
       "place_osm_id": "-59065",
       "place_admin_level": "2",
       "place_place": "",
-      "place_name": "Беларусь",
-      "lon": "27.472286",
-      "lat": "53.06175929908999",
-      "bbox": ""
+      "place_name": "Беларусь"
     }
   ]
 }

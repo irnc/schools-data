@@ -8,7 +8,8 @@
   },
   "geo": {
     "lat": "53.90461919916983",
-    "lon": "30.3425114"
+    "lon": "30.3425114",
+    "bbox": ""
   },
   "group": [
     {
@@ -18,10 +19,7 @@
       "place_osm_id": "-82606",
       "place_admin_level": "9",
       "place_place": "",
-      "place_name": "Ленинский район",
-      "lon": "30.3425114",
-      "lat": "53.90461919916983",
-      "bbox": ""
+      "place_name": "Ленинский район"
     },
     {
       "school_osm_id": "4408715205",
@@ -30,10 +28,7 @@
       "place_osm_id": "-62145",
       "place_admin_level": "6",
       "place_place": "city",
-      "place_name": "Могилёв",
-      "lon": "30.3425114",
-      "lat": "53.90461919916983",
-      "bbox": ""
+      "place_name": "Могилёв"
     },
     {
       "school_osm_id": "4408715205",
@@ -42,10 +37,7 @@
       "place_osm_id": "-59162",
       "place_admin_level": "4",
       "place_place": "",
-      "place_name": "Могилёвская область",
-      "lon": "30.3425114",
-      "lat": "53.90461919916983",
-      "bbox": ""
+      "place_name": "Могилёвская область"
     },
     {
       "school_osm_id": "4408715205",
@@ -54,10 +46,7 @@
       "place_osm_id": "-59065",
       "place_admin_level": "2",
       "place_place": "",
-      "place_name": "Беларусь",
-      "lon": "30.3425114",
-      "lat": "53.90461919916983",
-      "bbox": ""
+      "place_name": "Беларусь"
     }
   ]
 }

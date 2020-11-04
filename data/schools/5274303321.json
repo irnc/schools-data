@@ -10,7 +10,8 @@
   },
   "geo": {
     "lat": "53.171696199095",
-    "lon": "29.5545414"
+    "lon": "29.5545414",
+    "bbox": ""
   },
   "group": [
     {
@@ -20,10 +21,7 @@
       "place_osm_id": "-7622196",
       "place_admin_level": "8",
       "place_place": "",
-      "place_name": "Павловичский сельский Совет",
-      "lon": "29.5545414",
-      "lat": "53.171696199095",
-      "bbox": ""
+      "place_name": "Павловичский сельский Совет"
     },
     {
       "school_osm_id": "5274303321",
@@ -32,10 +30,7 @@
       "place_osm_id": "-7578687",
       "place_admin_level": "10",
       "place_place": "village",
-      "place_name": "Павловичи",
-      "lon": "29.5545414",
-      "lat": "53.171696199095",
-      "bbox": ""
+      "place_name": "Павловичи"
     },
     {
       "school_osm_id": "5274303321",
@@ -44,10 +39,7 @@
       "place_osm_id": "-70580",
       "place_admin_level": "6",
       "place_place": "",
-      "place_name": "Кировский район",
-      "lon": "29.5545414",
-      "lat": "53.171696199095",
-      "bbox": ""
+      "place_name": "Кировский район"
     },
     {
       "school_osm_id": "5274303321",
@@ -56,10 +48,7 @@
       "place_osm_id": "-59162",
       "place_admin_level": "4",
       "place_place": "",
-      "place_name": "Могилёвская область",
-      "lon": "29.5545414",
-      "lat": "53.171696199095",
-      "bbox": ""
+      "place_name": "Могилёвская область"
     },
     {
       "school_osm_id": "5274303321",
@@ -68,10 +57,7 @@
       "place_osm_id": "-59065",
       "place_admin_level": "2",
       "place_place": "",
-      "place_name": "Беларусь",
-      "lon": "29.5545414",
-      "lat": "53.171696199095",
-      "bbox": ""
+      "place_name": "Беларусь"
     }
   ]
 }

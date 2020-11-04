@@ -9,7 +9,8 @@
   },
   "geo": {
     "lat": "53.41202359911151",
-    "lon": "32.5862703"
+    "lon": "32.5862703",
+    "bbox": ""
   },
   "group": [
     {
@@ -19,10 +20,7 @@
       "place_osm_id": "-6722703",
       "place_admin_level": "8",
       "place_place": "town",
-      "place_name": "Хотимск",
-      "lon": "32.5862703",
-      "lat": "53.41202359911151",
-      "bbox": ""
+      "place_name": "Хотимск"
     },
     {
       "school_osm_id": "3710919478",
@@ -31,10 +29,7 @@
       "place_osm_id": "-70605",
       "place_admin_level": "6",
       "place_place": "",
-      "place_name": "Хотимский район",
-      "lon": "32.5862703",
-      "lat": "53.41202359911151",
-      "bbox": ""
+      "place_name": "Хотимский район"
     },
     {
       "school_osm_id": "3710919478",
@@ -43,10 +38,7 @@
       "place_osm_id": "-59162",
       "place_admin_level": "4",
       "place_place": "",
-      "place_name": "Могилёвская область",
-      "lon": "32.5862703",
-      "lat": "53.41202359911151",
-      "bbox": ""
+      "place_name": "Могилёвская область"
     },
     {
       "school_osm_id": "3710919478",
@@ -55,10 +47,7 @@
       "place_osm_id": "-59065",
       "place_admin_level": "2",
       "place_place": "",
-      "place_name": "Беларусь",
-      "lon": "32.5862703",
-      "lat": "53.41202359911151",
-      "bbox": ""
+      "place_name": "Беларусь"
     }
   ]
 }

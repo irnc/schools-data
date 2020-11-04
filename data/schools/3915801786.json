@@ -9,7 +9,8 @@
   },
   "geo": {
     "lat": "51.80222789913637",
-    "lon": "29.1538459"
+    "lon": "29.1538459",
+    "bbox": ""
   },
   "group": [
     {
@@ -19,10 +20,7 @@
       "place_osm_id": "-5598567",
       "place_admin_level": "8",
       "place_place": "town",
-      "place_name": "Ельск",
-      "lon": "29.1538459",
-      "lat": "51.80222789913637",
-      "bbox": ""
+      "place_name": "Ельск"
     },
     {
       "school_osm_id": "3915801786",
@@ -31,10 +29,7 @@
       "place_osm_id": "-70810",
       "place_admin_level": "6",
       "place_place": "",
-      "place_name": "Ельский район",
-      "lon": "29.1538459",
-      "lat": "51.80222789913637",
-      "bbox": ""
+      "place_name": "Ельский район"
     },
     {
       "school_osm_id": "3915801786",
@@ -43,10 +38,7 @@
       "place_osm_id": "-59161",
       "place_admin_level": "4",
       "place_place": "",
-      "place_name": "Гомельская область",
-      "lon": "29.1538459",
-      "lat": "51.80222789913637",
-      "bbox": ""
+      "place_name": "Гомельская область"
     },
     {
       "school_osm_id": "3915801786",
@@ -55,10 +47,7 @@
       "place_osm_id": "-59065",
       "place_admin_level": "2",
       "place_place": "",
-      "place_name": "Беларусь",
-      "lon": "29.1538459",
-      "lat": "51.80222789913637",
-      "bbox": ""
+      "place_name": "Беларусь"
     }
   ]
 }

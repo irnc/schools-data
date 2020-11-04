@@ -10,7 +10,8 @@
   },
   "geo": {
     "lat": "54.04060179919184",
-    "lon": "28.1942728"
+    "lon": "28.1942728",
+    "bbox": ""
   },
   "group": [
     {
@@ -20,10 +21,7 @@
       "place_osm_id": "-8144352",
       "place_admin_level": "8",
       "place_place": "",
-      "place_name": "Плисский сельский Совет",
-      "lon": "28.1942728",
-      "lat": "54.04060179919184",
-      "bbox": ""
+      "place_name": "Плисский сельский Совет"
     },
     {
       "school_osm_id": "2478853767",
@@ -32,10 +30,7 @@
       "place_osm_id": "-7566024",
       "place_admin_level": "10",
       "place_place": "village",
-      "place_name": "Октябрьский",
-      "lon": "28.1942728",
-      "lat": "54.04060179919184",
-      "bbox": ""
+      "place_name": "Октябрьский"
     },
     {
       "school_osm_id": "2478853767",
@@ -44,10 +39,7 @@
       "place_osm_id": "-69554",
       "place_admin_level": "6",
       "place_place": "",
-      "place_name": "Смолевичский район",
-      "lon": "28.1942728",
-      "lat": "54.04060179919184",
-      "bbox": ""
+      "place_name": "Смолевичский район"
     },
     {
       "school_osm_id": "2478853767",
@@ -56,10 +48,7 @@
       "place_osm_id": "-59752",
       "place_admin_level": "4",
       "place_place": "",
-      "place_name": "Минская область",
-      "lon": "28.1942728",
-      "lat": "54.04060179919184",
-      "bbox": ""
+      "place_name": "Минская область"
     },
     {
       "school_osm_id": "2478853767",
@@ -68,10 +57,7 @@
       "place_osm_id": "-59065",
       "place_admin_level": "2",
       "place_place": "",
-      "place_name": "Беларусь",
-      "lon": "28.1942728",
-      "lat": "54.04060179919184",
-      "bbox": ""
+      "place_name": "Беларусь"
     }
   ]
 }

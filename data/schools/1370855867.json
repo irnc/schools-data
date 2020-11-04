@@ -10,7 +10,8 @@
   },
   "geo": {
     "lat": "54.428619999268946",
-    "lon": "27.7433711"
+    "lon": "27.7433711",
+    "bbox": ""
   },
   "group": [
     {
@@ -20,10 +21,7 @@
       "place_osm_id": "-8014098",
       "place_admin_level": "8",
       "place_place": "",
-      "place_name": "Октябрьский сельский Совет",
-      "lon": "27.7433711",
-      "lat": "54.428619999268946",
-      "bbox": ""
+      "place_name": "Октябрьский сельский Совет"
     },
     {
       "school_osm_id": "1370855867",
@@ -32,10 +30,7 @@
       "place_osm_id": "-7546260",
       "place_admin_level": "10",
       "place_place": "village",
-      "place_name": "Октябрь",
-      "lon": "27.7433711",
-      "lat": "54.428619999268946",
-      "bbox": ""
+      "place_name": "Октябрь"
     },
     {
       "school_osm_id": "1370855867",
@@ -44,10 +39,7 @@
       "place_osm_id": "-70542",
       "place_admin_level": "6",
       "place_place": "",
-      "place_name": "Логойский район",
-      "lon": "27.7433711",
-      "lat": "54.428619999268946",
-      "bbox": ""
+      "place_name": "Логойский район"
     },
     {
       "school_osm_id": "1370855867",
@@ -56,10 +48,7 @@
       "place_osm_id": "-59752",
       "place_admin_level": "4",
       "place_place": "",
-      "place_name": "Минская область",
-      "lon": "27.7433711",
-      "lat": "54.428619999268946",
-      "bbox": ""
+      "place_name": "Минская область"
     },
     {
       "school_osm_id": "1370855867",
@@ -68,10 +57,7 @@
       "place_osm_id": "-59065",
       "place_admin_level": "2",
       "place_place": "",
-      "place_name": "Беларусь",
-      "lon": "27.7433711",
-      "lat": "54.428619999268946",
-      "bbox": ""
+      "place_name": "Беларусь"
     }
   ]
 }

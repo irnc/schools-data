@@ -10,7 +10,8 @@
   },
   "geo": {
     "lat": "52.61168689908541",
-    "lon": "27.5694698"
+    "lon": "27.5694698",
+    "bbox": ""
   },
   "group": [
     {
@@ -20,10 +21,7 @@
       "place_osm_id": "-8144338",
       "place_admin_level": "8",
       "place_place": "",
-      "place_name": "Долговский сельский Совет",
-      "lon": "27.5694698",
-      "lat": "52.61168689908541",
-      "bbox": ""
+      "place_name": "Долговский сельский Совет"
     },
     {
       "school_osm_id": "6491303286",
@@ -32,10 +30,7 @@
       "place_osm_id": "-6778525",
       "place_admin_level": "10",
       "place_place": "village",
-      "place_name": "Долгое",
-      "lon": "27.5694698",
-      "lat": "52.61168689908541",
-      "bbox": ""
+      "place_name": "Долгое"
     },
     {
       "school_osm_id": "6491303286",
@@ -44,10 +39,7 @@
       "place_osm_id": "-71133",
       "place_admin_level": "6",
       "place_place": "",
-      "place_name": "Солигорский район",
-      "lon": "27.5694698",
-      "lat": "52.61168689908541",
-      "bbox": ""
+      "place_name": "Солигорский район"
     },
     {
       "school_osm_id": "6491303286",
@@ -56,10 +48,7 @@
       "place_osm_id": "-59752",
       "place_admin_level": "4",
       "place_place": "",
-      "place_name": "Минская область",
-      "lon": "27.5694698",
-      "lat": "52.61168689908541",
-      "bbox": ""
+      "place_name": "Минская область"
     },
     {
       "school_osm_id": "6491303286",
@@ -68,10 +57,7 @@
       "place_osm_id": "-59065",
       "place_admin_level": "2",
       "place_place": "",
-      "place_name": "Беларусь",
-      "lon": "27.5694698",
-      "lat": "52.61168689908541",
-      "bbox": ""
+      "place_name": "Беларусь"
     }
   ]
 }

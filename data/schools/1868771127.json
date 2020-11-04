@@ -9,7 +9,8 @@
   },
   "geo": {
     "lat": "53.6030683991302",
-    "lon": "24.736476299999996"
+    "lon": "24.736476299999996",
+    "bbox": ""
   },
   "group": [
     {
@@ -19,10 +20,7 @@
       "place_osm_id": "-6722486",
       "place_admin_level": "8",
       "place_place": "town",
-      "place_name": "Щучин",
-      "lon": "24.736476299999996",
-      "lat": "53.6030683991302",
-      "bbox": ""
+      "place_name": "Щучин"
     },
     {
       "school_osm_id": "1868771127",
@@ -31,10 +29,7 @@
       "place_osm_id": "-70748",
       "place_admin_level": "6",
       "place_place": "",
-      "place_name": "Щучинский район",
-      "lon": "24.736476299999996",
-      "lat": "53.6030683991302",
-      "bbox": ""
+      "place_name": "Щучинский район"
     },
     {
       "school_osm_id": "1868771127",
@@ -43,10 +38,7 @@
       "place_osm_id": "-59275",
       "place_admin_level": "4",
       "place_place": "",
-      "place_name": "Гродненская область",
-      "lon": "24.736476299999996",
-      "lat": "53.6030683991302",
-      "bbox": ""
+      "place_name": "Гродненская область"
     },
     {
       "school_osm_id": "1868771127",
@@ -55,10 +47,7 @@
       "place_osm_id": "-59065",
       "place_admin_level": "2",
       "place_place": "",
-      "place_name": "Беларусь",
-      "lon": "24.736476299999996",
-      "lat": "53.6030683991302",
-      "bbox": ""
+      "place_name": "Беларусь"
     }
   ]
 }

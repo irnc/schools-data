@@ -10,7 +10,8 @@
   },
   "geo": {
     "lat": "53.09558799909139",
-    "lon": "29.0074387"
+    "lon": "29.0074387",
+    "bbox": ""
   },
   "group": [
     {
@@ -20,10 +21,7 @@
       "place_osm_id": "-8144259",
       "place_admin_level": "8",
       "place_place": "",
-      "place_name": "Горбацевичский сельский Совет",
-      "lon": "29.0074387",
-      "lat": "53.09558799909139",
-      "bbox": ""
+      "place_name": "Горбацевичский сельский Совет"
     },
     {
       "school_osm_id": "4764738499",
@@ -32,10 +30,7 @@
       "place_osm_id": "-7572988",
       "place_admin_level": "10",
       "place_place": "village",
-      "place_name": "Горбацевичи",
-      "lon": "29.0074387",
-      "lat": "53.09558799909139",
-      "bbox": ""
+      "place_name": "Горбацевичи"
     },
     {
       "school_osm_id": "4764738499",
@@ -44,10 +39,7 @@
       "place_osm_id": "-59162",
       "place_admin_level": "4",
       "place_place": "",
-      "place_name": "Могилёвская область",
-      "lon": "29.0074387",
-      "lat": "53.09558799909139",
-      "bbox": ""
+      "place_name": "Могилёвская область"
     },
     {
       "school_osm_id": "4764738499",
@@ -56,10 +48,7 @@
       "place_osm_id": "-59148",
       "place_admin_level": "6",
       "place_place": "",
-      "place_name": "Бобруйский район",
-      "lon": "29.0074387",
-      "lat": "53.09558799909139",
-      "bbox": ""
+      "place_name": "Бобруйский район"
     },
     {
       "school_osm_id": "4764738499",
@@ -68,10 +57,7 @@
       "place_osm_id": "-59065",
       "place_admin_level": "2",
       "place_place": "",
-      "place_name": "Беларусь",
-      "lon": "29.0074387",
-      "lat": "53.09558799909139",
-      "bbox": ""
+      "place_name": "Беларусь"
     }
   ]
 }

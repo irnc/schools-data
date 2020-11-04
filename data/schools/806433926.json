@@ -8,7 +8,8 @@
   },
   "geo": {
     "lat": "55.19633849948289",
-    "lon": "30.2051351"
+    "lon": "30.2051351",
+    "bbox": ""
   },
   "group": [
     {
@@ -18,10 +19,7 @@
       "place_osm_id": "-6825777",
       "place_admin_level": "6",
       "place_place": "city",
-      "place_name": "Витебск",
-      "lon": "30.2051351",
-      "lat": "55.19633849948289",
-      "bbox": ""
+      "place_name": "Витебск"
     },
     {
       "school_osm_id": "806433926",
@@ -30,10 +28,7 @@
       "place_osm_id": "-68616",
       "place_admin_level": "9",
       "place_place": "",
-      "place_name": "Октябрьский район",
-      "lon": "30.2051351",
-      "lat": "55.19633849948289",
-      "bbox": ""
+      "place_name": "Октябрьский район"
     },
     {
       "school_osm_id": "806433926",
@@ -42,10 +37,7 @@
       "place_osm_id": "-59506",
       "place_admin_level": "4",
       "place_place": "",
-      "place_name": "Витебская область",
-      "lon": "30.2051351",
-      "lat": "55.19633849948289",
-      "bbox": ""
+      "place_name": "Витебская область"
     },
     {
       "school_osm_id": "806433926",
@@ -54,10 +46,7 @@
       "place_osm_id": "-59065",
       "place_admin_level": "2",
       "place_place": "",
-      "place_name": "Беларусь",
-      "lon": "30.2051351",
-      "lat": "55.19633849948289",
-      "bbox": ""
+      "place_name": "Беларусь"
     }
   ]
 }

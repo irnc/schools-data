@@ -9,7 +9,8 @@
   },
   "geo": {
     "lat": "54.2534654992315",
-    "lon": "28.506220799999998"
+    "lon": "28.506220799999998",
+    "bbox": ""
   },
   "group": [
     {
@@ -19,10 +20,7 @@
       "place_osm_id": "-1749244",
       "place_admin_level": "8",
       "place_place": "city",
-      "place_name": "Борисов",
-      "lon": "28.506220799999998",
-      "lat": "54.2534654992315",
-      "bbox": ""
+      "place_name": "Борисов"
     },
     {
       "school_osm_id": "4401038491",
@@ -31,10 +29,7 @@
       "place_osm_id": "-70569",
       "place_admin_level": "6",
       "place_place": "",
-      "place_name": "Борисовский район",
-      "lon": "28.506220799999998",
-      "lat": "54.2534654992315",
-      "bbox": ""
+      "place_name": "Борисовский район"
     },
     {
       "school_osm_id": "4401038491",
@@ -43,10 +38,7 @@
       "place_osm_id": "-59752",
       "place_admin_level": "4",
       "place_place": "",
-      "place_name": "Минская область",
-      "lon": "28.506220799999998",
-      "lat": "54.2534654992315",
-      "bbox": ""
+      "place_name": "Минская область"
     },
     {
       "school_osm_id": "4401038491",
@@ -55,10 +47,7 @@
       "place_osm_id": "-59065",
       "place_admin_level": "2",
       "place_place": "",
-      "place_name": "Беларусь",
-      "lon": "28.506220799999998",
-      "lat": "54.2534654992315",
-      "bbox": ""
+      "place_name": "Беларусь"
     }
   ]
 }

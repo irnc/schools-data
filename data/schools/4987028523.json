@@ -9,7 +9,8 @@
   },
   "geo": {
     "lat": "54.40173409926291",
-    "lon": "29.6797868"
+    "lon": "29.6797868",
+    "bbox": ""
   },
   "group": [
     {
@@ -19,10 +20,7 @@
       "place_osm_id": "-6722347",
       "place_admin_level": "8",
       "place_place": "town",
-      "place_name": "Толочин",
-      "lon": "29.6797868",
-      "lat": "54.40173409926291",
-      "bbox": ""
+      "place_name": "Толочин"
     },
     {
       "school_osm_id": "4987028523",
@@ -31,10 +29,7 @@
       "place_osm_id": "-70649",
       "place_admin_level": "6",
       "place_place": "",
-      "place_name": "Толочинский район",
-      "lon": "29.6797868",
-      "lat": "54.40173409926291",
-      "bbox": ""
+      "place_name": "Толочинский район"
     },
     {
       "school_osm_id": "4987028523",
@@ -43,10 +38,7 @@
       "place_osm_id": "-59506",
       "place_admin_level": "4",
       "place_place": "",
-      "place_name": "Витебская область",
-      "lon": "29.6797868",
-      "lat": "54.40173409926291",
-      "bbox": ""
+      "place_name": "Витебская область"
     },
     {
       "school_osm_id": "4987028523",
@@ -55,10 +47,7 @@
       "place_osm_id": "-59065",
       "place_admin_level": "2",
       "place_place": "",
-      "place_name": "Беларусь",
-      "lon": "29.6797868",
-      "lat": "54.40173409926291",
-      "bbox": ""
+      "place_name": "Беларусь"
     }
   ]
 }

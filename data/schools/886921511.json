@@ -9,7 +9,8 @@
   },
   "geo": {
     "lat": "51.88980509912752",
-    "lon": "26.852739399999997"
+    "lon": "26.852739399999997",
+    "bbox": ""
   },
   "group": [
     {
@@ -19,10 +20,7 @@
       "place_osm_id": "-6722280",
       "place_admin_level": "8",
       "place_place": "town",
-      "place_name": "Столин",
-      "lon": "26.852739399999997",
-      "lat": "51.88980509912752",
-      "bbox": ""
+      "place_name": "Столин"
     },
     {
       "school_osm_id": "886921511",
@@ -31,10 +29,7 @@
       "place_osm_id": "-71125",
       "place_admin_level": "6",
       "place_place": "",
-      "place_name": "Столинский район",
-      "lon": "26.852739399999997",
-      "lat": "51.88980509912752",
-      "bbox": ""
+      "place_name": "Столинский район"
     },
     {
       "school_osm_id": "886921511",
@@ -43,10 +38,7 @@
       "place_osm_id": "-59189",
       "place_admin_level": "4",
       "place_place": "",
-      "place_name": "Брестская область",
-      "lon": "26.852739399999997",
-      "lat": "51.88980509912752",
-      "bbox": ""
+      "place_name": "Брестская область"
     },
     {
       "school_osm_id": "886921511",
@@ -55,10 +47,7 @@
       "place_osm_id": "-59065",
       "place_admin_level": "2",
       "place_place": "",
-      "place_name": "Беларусь",
-      "lon": "26.852739399999997",
-      "lat": "51.88980509912752",
-      "bbox": ""
+      "place_name": "Беларусь"
     }
   ]
 }

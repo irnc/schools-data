@@ -10,7 +10,8 @@
   },
   "geo": {
     "lat": "54.06736369919647",
-    "lon": "27.6996279"
+    "lon": "27.6996279",
+    "bbox": ""
   },
   "group": [
     {
@@ -20,10 +21,7 @@
       "place_osm_id": "-8144342",
       "place_admin_level": "8",
       "place_place": "",
-      "place_name": "Острошицко-Городокский сельский Совет",
-      "lon": "27.6996279",
-      "lat": "54.06736369919647",
-      "bbox": ""
+      "place_name": "Острошицко-Городокский сельский Совет"
     },
     {
       "school_osm_id": "4515161291",
@@ -32,10 +30,7 @@
       "place_osm_id": "-6891910",
       "place_admin_level": "10",
       "place_place": "village",
-      "place_name": "Острошицкий Городок",
-      "lon": "27.6996279",
-      "lat": "54.06736369919647",
-      "bbox": ""
+      "place_name": "Острошицкий Городок"
     },
     {
       "school_osm_id": "4515161291",
@@ -44,10 +39,7 @@
       "place_osm_id": "-59752",
       "place_admin_level": "4",
       "place_place": "",
-      "place_name": "Минская область",
-      "lon": "27.6996279",
-      "lat": "54.06736369919647",
-      "bbox": ""
+      "place_name": "Минская область"
     },
     {
       "school_osm_id": "4515161291",
@@ -56,10 +48,7 @@
       "place_osm_id": "-59190",
       "place_admin_level": "6",
       "place_place": "",
-      "place_name": "Минский район",
-      "lon": "27.6996279",
-      "lat": "54.06736369919647",
-      "bbox": ""
+      "place_name": "Минский район"
     },
     {
       "school_osm_id": "4515161291",
@@ -68,10 +57,7 @@
       "place_osm_id": "-59065",
       "place_admin_level": "2",
       "place_place": "",
-      "place_name": "Беларусь",
-      "lon": "27.6996279",
-      "lat": "54.06736369919647",
-      "bbox": ""
+      "place_name": "Беларусь"
     }
   ]
 }

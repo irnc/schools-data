@@ -9,7 +9,8 @@
   },
   "geo": {
     "lat": "53.48206999911779",
-    "lon": "26.749579999999998"
+    "lon": "26.749579999999998",
+    "bbox": ""
   },
   "group": [
     {
@@ -19,10 +20,7 @@
       "place_osm_id": "-6722620",
       "place_admin_level": "8",
       "place_place": "town",
-      "place_name": "Столбцы",
-      "lon": "26.749579999999998",
-      "lat": "53.48206999911779",
-      "bbox": ""
+      "place_name": "Столбцы"
     },
     {
       "school_osm_id": "612450715",
@@ -31,10 +29,7 @@
       "place_osm_id": "-70752",
       "place_admin_level": "6",
       "place_place": "",
-      "place_name": "Столбцовский район",
-      "lon": "26.749579999999998",
-      "lat": "53.48206999911779",
-      "bbox": ""
+      "place_name": "Столбцовский район"
     },
     {
       "school_osm_id": "612450715",
@@ -43,10 +38,7 @@
       "place_osm_id": "-59752",
       "place_admin_level": "4",
       "place_place": "",
-      "place_name": "Минская область",
-      "lon": "26.749579999999998",
-      "lat": "53.48206999911779",
-      "bbox": ""
+      "place_name": "Минская область"
     },
     {
       "school_osm_id": "612450715",
@@ -55,10 +47,7 @@
       "place_osm_id": "-59065",
       "place_admin_level": "2",
       "place_place": "",
-      "place_name": "Беларусь",
-      "lon": "26.749579999999998",
-      "lat": "53.48206999911779",
-      "bbox": ""
+      "place_name": "Беларусь"
     }
   ]
 }

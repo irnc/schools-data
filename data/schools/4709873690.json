@@ -10,7 +10,8 @@
   },
   "geo": {
     "lat": "53.989262699183236",
-    "lon": "27.6677222"
+    "lon": "27.6677222",
+    "bbox": ""
   },
   "group": [
     {
@@ -20,10 +21,7 @@
       "place_osm_id": "-8144270",
       "place_admin_level": "8",
       "place_place": "",
-      "place_name": "Боровлянский сельский Совет",
-      "lon": "27.6677222",
-      "lat": "53.989262699183236",
-      "bbox": ""
+      "place_name": "Боровлянский сельский Совет"
     },
     {
       "school_osm_id": "4709873690",
@@ -32,10 +30,7 @@
       "place_osm_id": "-6878686",
       "place_admin_level": "10",
       "place_place": "town",
-      "place_name": "Боровляны",
-      "lon": "27.6677222",
-      "lat": "53.989262699183236",
-      "bbox": ""
+      "place_name": "Боровляны"
     },
     {
       "school_osm_id": "4709873690",
@@ -44,10 +39,7 @@
       "place_osm_id": "-59752",
       "place_admin_level": "4",
       "place_place": "",
-      "place_name": "Минская область",
-      "lon": "27.6677222",
-      "lat": "53.989262699183236",
-      "bbox": ""
+      "place_name": "Минская область"
     },
     {
       "school_osm_id": "4709873690",
@@ -56,10 +48,7 @@
       "place_osm_id": "-59190",
       "place_admin_level": "6",
       "place_place": "",
-      "place_name": "Минский район",
-      "lon": "27.6677222",
-      "lat": "53.989262699183236",
-      "bbox": ""
+      "place_name": "Минский район"
     },
     {
       "school_osm_id": "4709873690",
@@ -68,10 +57,7 @@
       "place_osm_id": "-59065",
       "place_admin_level": "2",
       "place_place": "",
-      "place_name": "Беларусь",
-      "lon": "27.6677222",
-      "lat": "53.989262699183236",
-      "bbox": ""
+      "place_name": "Беларусь"
     }
   ]
 }

@@ -10,7 +10,8 @@
   },
   "geo": {
     "lat": "52.894954199085355",
-    "lon": "26.5486988"
+    "lon": "26.5486988",
+    "bbox": ""
   },
   "group": [
     {
@@ -20,10 +21,7 @@
       "place_osm_id": "-8139732",
       "place_admin_level": "8",
       "place_place": "",
-      "place_name": "Голынковский сельский Совет",
-      "lon": "26.5486988",
-      "lat": "52.894954199085355",
-      "bbox": ""
+      "place_name": "Голынковский сельский Совет"
     },
     {
       "school_osm_id": "4647289095",
@@ -32,10 +30,7 @@
       "place_osm_id": "-7537058",
       "place_admin_level": "10",
       "place_place": "village",
-      "place_name": "Голынка",
-      "lon": "26.5486988",
-      "lat": "52.894954199085355",
-      "bbox": ""
+      "place_name": "Голынка"
     },
     {
       "school_osm_id": "4647289095",
@@ -44,10 +39,7 @@
       "place_osm_id": "-71130",
       "place_admin_level": "6",
       "place_place": "",
-      "place_name": "Клецкий район",
-      "lon": "26.5486988",
-      "lat": "52.894954199085355",
-      "bbox": ""
+      "place_name": "Клецкий район"
     },
     {
       "school_osm_id": "4647289095",
@@ -56,10 +48,7 @@
       "place_osm_id": "-59752",
       "place_admin_level": "4",
       "place_place": "",
-      "place_name": "Минская область",
-      "lon": "26.5486988",
-      "lat": "52.894954199085355",
-      "bbox": ""
+      "place_name": "Минская область"
     },
     {
       "school_osm_id": "4647289095",
@@ -68,10 +57,7 @@
       "place_osm_id": "-59065",
       "place_admin_level": "2",
       "place_place": "",
-      "place_name": "Беларусь",
-      "lon": "26.5486988",
-      "lat": "52.894954199085355",
-      "bbox": ""
+      "place_name": "Беларусь"
     }
   ]
 }

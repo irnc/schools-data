@@ -10,7 +10,8 @@
   },
   "geo": {
     "lat": "55.101775799452234",
-    "lon": "28.5639298"
+    "lon": "28.5639298",
+    "bbox": ""
   },
   "group": [
     {
@@ -20,10 +21,7 @@
       "place_osm_id": "-7976435",
       "place_admin_level": "8",
       "place_place": "",
-      "place_name": "Жарский сельский Совет",
-      "lon": "28.5639298",
-      "lat": "55.101775799452234",
-      "bbox": ""
+      "place_name": "Жарский сельский Совет"
     },
     {
       "school_osm_id": "7798696330",
@@ -32,10 +30,7 @@
       "place_osm_id": "-7503588",
       "place_admin_level": "10",
       "place_place": "village",
-      "place_name": "Ильюшино",
-      "lon": "28.5639298",
-      "lat": "55.101775799452234",
-      "bbox": ""
+      "place_name": "Ильюшино"
     },
     {
       "school_osm_id": "7798696330",
@@ -44,10 +39,7 @@
       "place_osm_id": "-70669",
       "place_admin_level": "6",
       "place_place": "",
-      "place_name": "Ушачский район",
-      "lon": "28.5639298",
-      "lat": "55.101775799452234",
-      "bbox": ""
+      "place_name": "Ушачский район"
     },
     {
       "school_osm_id": "7798696330",
@@ -56,10 +48,7 @@
       "place_osm_id": "-59506",
       "place_admin_level": "4",
       "place_place": "",
-      "place_name": "Витебская область",
-      "lon": "28.5639298",
-      "lat": "55.101775799452234",
-      "bbox": ""
+      "place_name": "Витебская область"
     },
     {
       "school_osm_id": "7798696330",
@@ -68,10 +57,7 @@
       "place_osm_id": "-59065",
       "place_admin_level": "2",
       "place_place": "",
-      "place_name": "Беларусь",
-      "lon": "28.5639298",
-      "lat": "55.101775799452234",
-      "bbox": ""
+      "place_name": "Беларусь"
     }
   ]
 }

@@ -8,7 +8,8 @@
   },
   "geo": {
     "lat": "52.09684999910967",
-    "lon": "23.728649999999995"
+    "lon": "23.728649999999995",
+    "bbox": ""
   },
   "group": [
     {
@@ -18,10 +19,7 @@
       "place_osm_id": "-3626405",
       "place_admin_level": "9",
       "place_place": "",
-      "place_name": "Московский район",
-      "lon": "23.728649999999995",
-      "lat": "52.09684999910967",
-      "bbox": ""
+      "place_name": "Московский район"
     },
     {
       "school_osm_id": "306062323",
@@ -30,10 +28,7 @@
       "place_osm_id": "-72615",
       "place_admin_level": "6",
       "place_place": "city",
-      "place_name": "Брест",
-      "lon": "23.728649999999995",
-      "lat": "52.09684999910967",
-      "bbox": ""
+      "place_name": "Брест"
     },
     {
       "school_osm_id": "306062323",
@@ -42,10 +37,7 @@
       "place_osm_id": "-59189",
       "place_admin_level": "4",
       "place_place": "",
-      "place_name": "Брестская область",
-      "lon": "23.728649999999995",
-      "lat": "52.09684999910967",
-      "bbox": ""
+      "place_name": "Брестская область"
     },
     {
       "school_osm_id": "306062323",
@@ -54,10 +46,7 @@
       "place_osm_id": "-59065",
       "place_admin_level": "2",
       "place_place": "",
-      "place_name": "Беларусь",
-      "lon": "23.728649999999995",
-      "lat": "52.09684999910967",
-      "bbox": ""
+      "place_name": "Беларусь"
     }
   ]
 }

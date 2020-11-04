@@ -9,7 +9,8 @@
   },
   "geo": {
     "lat": "53.57141459912676",
-    "lon": "24.1995123"
+    "lon": "24.1995123",
+    "bbox": ""
   },
   "group": [
     {
@@ -19,10 +20,7 @@
       "place_osm_id": "-4784300",
       "place_admin_level": "8",
       "place_place": "town",
-      "place_name": "Скидель",
-      "lon": "24.1995123",
-      "lat": "53.57141459912676",
-      "bbox": ""
+      "place_name": "Скидель"
     },
     {
       "school_osm_id": "5704999921",
@@ -31,10 +29,7 @@
       "place_osm_id": "-59275",
       "place_admin_level": "4",
       "place_place": "",
-      "place_name": "Гродненская область",
-      "lon": "24.1995123",
-      "lat": "53.57141459912676",
-      "bbox": ""
+      "place_name": "Гродненская область"
     },
     {
       "school_osm_id": "5704999921",
@@ -43,10 +38,7 @@
       "place_osm_id": "-59273",
       "place_admin_level": "6",
       "place_place": "",
-      "place_name": "Гродненский район",
-      "lon": "24.1995123",
-      "lat": "53.57141459912676",
-      "bbox": ""
+      "place_name": "Гродненский район"
     },
     {
       "school_osm_id": "5704999921",
@@ -55,10 +47,7 @@
       "place_osm_id": "-59065",
       "place_admin_level": "2",
       "place_place": "",
-      "place_name": "Беларусь",
-      "lon": "24.1995123",
-      "lat": "53.57141459912676",
-      "bbox": ""
+      "place_name": "Беларусь"
     }
   ]
 }

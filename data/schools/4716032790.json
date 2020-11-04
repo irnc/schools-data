@@ -6,7 +6,8 @@
   },
   "geo": {
     "lat": "53.93424399917441",
-    "lon": "27.4757557"
+    "lon": "27.4757557",
+    "bbox": ""
   },
   "group": [
     {
@@ -16,10 +17,7 @@
       "place_osm_id": "-59249",
       "place_admin_level": "9",
       "place_place": "",
-      "place_name": "Центральный район",
-      "lon": "27.4757557",
-      "lat": "53.93424399917441",
-      "bbox": ""
+      "place_name": "Центральный район"
     },
     {
       "school_osm_id": "4716032790",
@@ -28,10 +26,7 @@
       "place_osm_id": "-59195",
       "place_admin_level": "4",
       "place_place": "city",
-      "place_name": "Минск",
-      "lon": "27.4757557",
-      "lat": "53.93424399917441",
-      "bbox": ""
+      "place_name": "Минск"
     },
     {
       "school_osm_id": "4716032790",
@@ -40,10 +35,7 @@
       "place_osm_id": "-59065",
       "place_admin_level": "2",
       "place_place": "",
-      "place_name": "Беларусь",
-      "lon": "27.4757557",
-      "lat": "53.93424399917441",
-      "bbox": ""
+      "place_name": "Беларусь"
     }
   ]
 }

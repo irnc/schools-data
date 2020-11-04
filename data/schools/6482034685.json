@@ -10,7 +10,8 @@
   },
   "geo": {
     "lat": "51.9363937991231",
-    "lon": "29.6609418"
+    "lon": "29.6609418",
+    "bbox": ""
   },
   "group": [
     {
@@ -20,10 +21,7 @@
       "place_osm_id": "-8031217",
       "place_admin_level": "8",
       "place_place": "",
-      "place_name": "Алексичский сельский Совет",
-      "lon": "29.6609418",
-      "lat": "51.9363937991231",
-      "bbox": ""
+      "place_name": "Алексичский сельский Совет"
     },
     {
       "school_osm_id": "6482034685",
@@ -32,10 +30,7 @@
       "place_osm_id": "-7453577",
       "place_admin_level": "10",
       "place_place": "village",
-      "place_name": "Глинище",
-      "lon": "29.6609418",
-      "lat": "51.9363937991231",
-      "bbox": ""
+      "place_name": "Глинище"
     },
     {
       "school_osm_id": "6482034685",
@@ -44,10 +39,7 @@
       "place_osm_id": "-70802",
       "place_admin_level": "6",
       "place_place": "",
-      "place_name": "Хойникский район",
-      "lon": "29.6609418",
-      "lat": "51.9363937991231",
-      "bbox": ""
+      "place_name": "Хойникский район"
     },
     {
       "school_osm_id": "6482034685",
@@ -56,10 +48,7 @@
       "place_osm_id": "-59161",
       "place_admin_level": "4",
       "place_place": "",
-      "place_name": "Гомельская область",
-      "lon": "29.6609418",
-      "lat": "51.9363937991231",
-      "bbox": ""
+      "place_name": "Гомельская область"
     },
     {
       "school_osm_id": "6482034685",
@@ -68,10 +57,7 @@
       "place_osm_id": "-59065",
       "place_admin_level": "2",
       "place_place": "",
-      "place_name": "Беларусь",
-      "lon": "29.6609418",
-      "lat": "51.9363937991231",
-      "bbox": ""
+      "place_name": "Беларусь"
     }
   ]
 }

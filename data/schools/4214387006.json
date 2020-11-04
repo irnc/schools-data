@@ -8,7 +8,8 @@
   },
   "geo": {
     "lat": "52.11505639910829",
-    "lon": "26.1112146"
+    "lon": "26.1112146",
+    "bbox": ""
   },
   "group": [
     {
@@ -18,10 +19,7 @@
       "place_osm_id": "-1749248",
       "place_admin_level": "6",
       "place_place": "city",
-      "place_name": "Пинск",
-      "lon": "26.1112146",
-      "lat": "52.11505639910829",
-      "bbox": ""
+      "place_name": "Пинск"
     },
     {
       "school_osm_id": "4214387006",
@@ -30,10 +28,7 @@
       "place_osm_id": "-59189",
       "place_admin_level": "4",
       "place_place": "",
-      "place_name": "Брестская область",
-      "lon": "26.1112146",
-      "lat": "52.11505639910829",
-      "bbox": ""
+      "place_name": "Брестская область"
     },
     {
       "school_osm_id": "4214387006",
@@ -42,10 +37,7 @@
       "place_osm_id": "-59065",
       "place_admin_level": "2",
       "place_place": "",
-      "place_name": "Беларусь",
-      "lon": "26.1112146",
-      "lat": "52.11505639910829",
-      "bbox": ""
+      "place_name": "Беларусь"
     }
   ]
 }

@@ -10,7 +10,8 @@
   },
   "geo": {
     "lat": "52.76034859908415",
-    "lon": "30.2234624"
+    "lon": "30.2234624",
+    "bbox": ""
   },
   "group": [
     {
@@ -20,10 +21,7 @@
       "place_osm_id": "-7439818",
       "place_admin_level": "10",
       "place_place": "village",
-      "place_name": "Скепня",
-      "lon": "30.2234624",
-      "lat": "52.76034859908415",
-      "bbox": ""
+      "place_name": "Скепня"
     },
     {
       "school_osm_id": "2830926389",
@@ -32,10 +30,7 @@
       "place_osm_id": "-6352455",
       "place_admin_level": "8",
       "place_place": "",
-      "place_name": "Пиревичский сельский Совет",
-      "lon": "30.2234624",
-      "lat": "52.76034859908415",
-      "bbox": ""
+      "place_name": "Пиревичский сельский Совет"
     },
     {
       "school_osm_id": "2830926389",
@@ -44,10 +39,7 @@
       "place_osm_id": "-59167",
       "place_admin_level": "6",
       "place_place": "",
-      "place_name": "Жлобинский район",
-      "lon": "30.2234624",
-      "lat": "52.76034859908415",
-      "bbox": ""
+      "place_name": "Жлобинский район"
     },
     {
       "school_osm_id": "2830926389",
@@ -56,10 +48,7 @@
       "place_osm_id": "-59161",
       "place_admin_level": "4",
       "place_place": "",
-      "place_name": "Гомельская область",
-      "lon": "30.2234624",
-      "lat": "52.76034859908415",
-      "bbox": ""
+      "place_name": "Гомельская область"
     },
     {
       "school_osm_id": "2830926389",
@@ -68,10 +57,7 @@
       "place_osm_id": "-59065",
       "place_admin_level": "2",
       "place_place": "",
-      "place_name": "Беларусь",
-      "lon": "30.2234624",
-      "lat": "52.76034859908415",
-      "bbox": ""
+      "place_name": "Беларусь"
     }
   ]
 }

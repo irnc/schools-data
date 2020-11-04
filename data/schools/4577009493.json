@@ -8,7 +8,8 @@
   },
   "geo": {
     "lat": "52.46849569908914",
-    "lon": "31.0237928"
+    "lon": "31.0237928",
+    "bbox": ""
   },
   "group": [
     {
@@ -18,10 +19,7 @@
       "place_osm_id": "-3628812",
       "place_admin_level": "9",
       "place_place": "",
-      "place_name": "Железнодорожный район",
-      "lon": "31.0237928",
-      "lat": "52.46849569908914",
-      "bbox": ""
+      "place_name": "Железнодорожный район"
     },
     {
       "school_osm_id": "4577009493",
@@ -30,10 +28,7 @@
       "place_osm_id": "-163244",
       "place_admin_level": "6",
       "place_place": "city",
-      "place_name": "Гомель",
-      "lon": "31.0237928",
-      "lat": "52.46849569908914",
-      "bbox": ""
+      "place_name": "Гомель"
     },
     {
       "school_osm_id": "4577009493",
@@ -42,10 +37,7 @@
       "place_osm_id": "-59161",
       "place_admin_level": "4",
       "place_place": "",
-      "place_name": "Гомельская область",
-      "lon": "31.0237928",
-      "lat": "52.46849569908914",
-      "bbox": ""
+      "place_name": "Гомельская область"
     },
     {
       "school_osm_id": "4577009493",
@@ -54,10 +46,7 @@
       "place_osm_id": "-59065",
       "place_admin_level": "2",
       "place_place": "",
-      "place_name": "Беларусь",
-      "lon": "31.0237928",
-      "lat": "52.46849569908914",
-      "bbox": ""
+      "place_name": "Беларусь"
     }
   ]
 }

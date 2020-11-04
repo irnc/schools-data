@@ -10,7 +10,8 @@
   },
   "geo": {
     "lat": "55.13881149946411",
-    "lon": "29.8498113"
+    "lon": "29.8498113",
+    "bbox": ""
   },
   "group": [
     {
@@ -20,10 +21,7 @@
       "place_osm_id": "-7973413",
       "place_admin_level": "8",
       "place_place": "",
-      "place_name": "Островенский сельский Совет",
-      "lon": "29.8498113",
-      "lat": "55.13881149946411",
-      "bbox": ""
+      "place_name": "Островенский сельский Совет"
     },
     {
       "school_osm_id": "7125883287",
@@ -32,10 +30,7 @@
       "place_osm_id": "-7469275",
       "place_admin_level": "10",
       "place_place": "village",
-      "place_name": "Островно",
-      "lon": "29.8498113",
-      "lat": "55.13881149946411",
-      "bbox": ""
+      "place_name": "Островно"
     },
     {
       "school_osm_id": "7125883287",
@@ -44,10 +39,7 @@
       "place_osm_id": "-70668",
       "place_admin_level": "6",
       "place_place": "",
-      "place_name": "Бешенковичский район",
-      "lon": "29.8498113",
-      "lat": "55.13881149946411",
-      "bbox": ""
+      "place_name": "Бешенковичский район"
     },
     {
       "school_osm_id": "7125883287",
@@ -56,10 +48,7 @@
       "place_osm_id": "-59506",
       "place_admin_level": "4",
       "place_place": "",
-      "place_name": "Витебская область",
-      "lon": "29.8498113",
-      "lat": "55.13881149946411",
-      "bbox": ""
+      "place_name": "Витебская область"
     },
     {
       "school_osm_id": "7125883287",
@@ -68,10 +57,7 @@
       "place_osm_id": "-59065",
       "place_admin_level": "2",
       "place_place": "",
-      "place_name": "Беларусь",
-      "lon": "29.8498113",
-      "lat": "55.13881149946411",
-      "bbox": ""
+      "place_name": "Беларусь"
     }
   ]
 }

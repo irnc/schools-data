@@ -6,7 +6,8 @@
   },
   "geo": {
     "lat": "53.87008059916464",
-    "lon": "27.6576353"
+    "lon": "27.6576353",
+    "bbox": ""
   },
   "group": [
     {
@@ -16,10 +17,7 @@
       "place_osm_id": "-59209",
       "place_admin_level": "9",
       "place_place": "",
-      "place_name": "Заводской район",
-      "lon": "27.6576353",
-      "lat": "53.87008059916464",
-      "bbox": ""
+      "place_name": "Заводской район"
     },
     {
       "school_osm_id": "2620202449",
@@ -28,10 +26,7 @@
       "place_osm_id": "-59195",
       "place_admin_level": "4",
       "place_place": "city",
-      "place_name": "Минск",
-      "lon": "27.6576353",
-      "lat": "53.87008059916464",
-      "bbox": ""
+      "place_name": "Минск"
     },
     {
       "school_osm_id": "2620202449",
@@ -40,10 +35,7 @@
       "place_osm_id": "-59065",
       "place_admin_level": "2",
       "place_place": "",
-      "place_name": "Беларусь",
-      "lon": "27.6576353",
-      "lat": "53.87008059916464",
-      "bbox": ""
+      "place_name": "Беларусь"
     }
   ]
 }

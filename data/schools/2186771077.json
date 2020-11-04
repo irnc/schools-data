@@ -9,7 +9,8 @@
   },
   "geo": {
     "lat": "53.68566749913979",
-    "lon": "27.1279404"
+    "lon": "27.1279404",
+    "bbox": ""
   },
   "group": [
     {
@@ -19,10 +20,7 @@
       "place_osm_id": "-6722498",
       "place_admin_level": "8",
       "place_place": "town",
-      "place_name": "Дзержинск",
-      "lon": "27.1279404",
-      "lat": "53.68566749913979",
-      "bbox": ""
+      "place_name": "Дзержинск"
     },
     {
       "school_osm_id": "2186771077",
@@ -31,10 +29,7 @@
       "place_osm_id": "-70563",
       "place_admin_level": "6",
       "place_place": "",
-      "place_name": "Дзержинский район",
-      "lon": "27.1279404",
-      "lat": "53.68566749913979",
-      "bbox": ""
+      "place_name": "Дзержинский район"
     },
     {
       "school_osm_id": "2186771077",
@@ -43,10 +38,7 @@
       "place_osm_id": "-59752",
       "place_admin_level": "4",
       "place_place": "",
-      "place_name": "Минская область",
-      "lon": "27.1279404",
-      "lat": "53.68566749913979",
-      "bbox": ""
+      "place_name": "Минская область"
     },
     {
       "school_osm_id": "2186771077",
@@ -55,10 +47,7 @@
       "place_osm_id": "-59065",
       "place_admin_level": "2",
       "place_place": "",
-      "place_name": "Беларусь",
-      "lon": "27.1279404",
-      "lat": "53.68566749913979",
-      "bbox": ""
+      "place_name": "Беларусь"
     }
   ]
 }

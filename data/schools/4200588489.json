@@ -10,7 +10,8 @@
   },
   "geo": {
     "lat": "51.81057359913549",
-    "lon": "27.0547104"
+    "lon": "27.0547104",
+    "bbox": ""
   },
   "group": [
     {
@@ -20,10 +21,7 @@
       "place_osm_id": "-8028507",
       "place_admin_level": "8",
       "place_place": "",
-      "place_name": "Стружский сельский Совет",
-      "lon": "27.0547104",
-      "lat": "51.81057359913549",
-      "bbox": ""
+      "place_name": "Стружский сельский Совет"
     },
     {
       "school_osm_id": "4200588489",
@@ -32,10 +30,7 @@
       "place_osm_id": "-4728794",
       "place_admin_level": "10",
       "place_place": "village",
-      "place_name": "Ольманы",
-      "lon": "27.0547104",
-      "lat": "51.81057359913549",
-      "bbox": ""
+      "place_name": "Ольманы"
     },
     {
       "school_osm_id": "4200588489",
@@ -44,10 +39,7 @@
       "place_osm_id": "-71125",
       "place_admin_level": "6",
       "place_place": "",
-      "place_name": "Столинский район",
-      "lon": "27.0547104",
-      "lat": "51.81057359913549",
-      "bbox": ""
+      "place_name": "Столинский район"
     },
     {
       "school_osm_id": "4200588489",
@@ -56,10 +48,7 @@
       "place_osm_id": "-59189",
       "place_admin_level": "4",
       "place_place": "",
-      "place_name": "Брестская область",
-      "lon": "27.0547104",
-      "lat": "51.81057359913549",
-      "bbox": ""
+      "place_name": "Брестская область"
     },
     {
       "school_osm_id": "4200588489",
@@ -68,10 +57,7 @@
       "place_osm_id": "-59065",
       "place_admin_level": "2",
       "place_place": "",
-      "place_name": "Беларусь",
-      "lon": "27.0547104",
-      "lat": "51.81057359913549",
-      "bbox": ""
+      "place_name": "Беларусь"
     }
   ]
 }

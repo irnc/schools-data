@@ -10,7 +10,8 @@
   },
   "geo": {
     "lat": "52.14924459910584",
-    "lon": "23.7494799"
+    "lon": "23.7494799",
+    "bbox": ""
   },
   "group": [
     {
@@ -20,10 +21,7 @@
       "place_osm_id": "-8025990",
       "place_admin_level": "8",
       "place_place": "",
-      "place_name": "Чернинский сельский Совет",
-      "lon": "23.7494799",
-      "lat": "52.14924459910584",
-      "bbox": ""
+      "place_name": "Чернинский сельский Совет"
     },
     {
       "school_osm_id": "1236210001",
@@ -32,10 +30,7 @@
       "place_osm_id": "-7461812",
       "place_admin_level": "10",
       "place_place": "village",
-      "place_name": "Черни",
-      "lon": "23.7494799",
-      "lat": "52.14924459910584",
-      "bbox": ""
+      "place_name": "Черни"
     },
     {
       "school_osm_id": "1236210001",
@@ -44,10 +39,7 @@
       "place_osm_id": "-59189",
       "place_admin_level": "4",
       "place_place": "",
-      "place_name": "Брестская область",
-      "lon": "23.7494799",
-      "lat": "52.14924459910584",
-      "bbox": ""
+      "place_name": "Брестская область"
     },
     {
       "school_osm_id": "1236210001",
@@ -56,10 +48,7 @@
       "place_osm_id": "-59188",
       "place_admin_level": "6",
       "place_place": "",
-      "place_name": "Брестский район",
-      "lon": "23.7494799",
-      "lat": "52.14924459910584",
-      "bbox": ""
+      "place_name": "Брестский район"
     },
     {
       "school_osm_id": "1236210001",
@@ -68,10 +57,7 @@
       "place_osm_id": "-59065",
       "place_admin_level": "2",
       "place_place": "",
-      "place_name": "Беларусь",
-      "lon": "23.7494799",
-      "lat": "52.14924459910584",
-      "bbox": ""
+      "place_name": "Беларусь"
     }
   ]
 }

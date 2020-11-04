@@ -9,7 +9,8 @@
   },
   "geo": {
     "lat": "52.73075899908419",
-    "lon": "27.4510126"
+    "lon": "27.4510126",
+    "bbox": ""
   },
   "group": [
     {
@@ -19,10 +20,7 @@
       "place_osm_id": "-6722720",
       "place_admin_level": "8",
       "place_place": "town",
-      "place_name": "Старобин",
-      "lon": "27.4510126",
-      "lat": "52.73075899908419",
-      "bbox": ""
+      "place_name": "Старобин"
     },
     {
       "school_osm_id": "4837481221",
@@ -31,10 +29,7 @@
       "place_osm_id": "-71133",
       "place_admin_level": "6",
       "place_place": "",
-      "place_name": "Солигорский район",
-      "lon": "27.4510126",
-      "lat": "52.73075899908419",
-      "bbox": ""
+      "place_name": "Солигорский район"
     },
     {
       "school_osm_id": "4837481221",
@@ -43,10 +38,7 @@
       "place_osm_id": "-59752",
       "place_admin_level": "4",
       "place_place": "",
-      "place_name": "Минская область",
-      "lon": "27.4510126",
-      "lat": "52.73075899908419",
-      "bbox": ""
+      "place_name": "Минская область"
     },
     {
       "school_osm_id": "4837481221",
@@ -55,10 +47,7 @@
       "place_osm_id": "-59065",
       "place_admin_level": "2",
       "place_place": "",
-      "place_name": "Беларусь",
-      "lon": "27.4510126",
-      "lat": "52.73075899908419",
-      "bbox": ""
+      "place_name": "Беларусь"
     }
   ]
 }

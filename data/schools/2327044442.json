@@ -9,7 +9,8 @@
   },
   "geo": {
     "lat": "55.56680789961398",
-    "lon": "28.214291699999997"
+    "lon": "28.214291699999997",
+    "bbox": ""
   },
   "group": [
     {
@@ -19,10 +20,7 @@
       "place_osm_id": "-6722318",
       "place_admin_level": "8",
       "place_place": "town",
-      "place_name": "Дисна",
-      "lon": "28.214291699999997",
-      "lat": "55.56680789961398",
-      "bbox": ""
+      "place_name": "Дисна"
     },
     {
       "school_osm_id": "2327044442",
@@ -31,10 +29,7 @@
       "place_osm_id": "-70690",
       "place_admin_level": "6",
       "place_place": "",
-      "place_name": "Миорский район",
-      "lon": "28.214291699999997",
-      "lat": "55.56680789961398",
-      "bbox": ""
+      "place_name": "Миорский район"
     },
     {
       "school_osm_id": "2327044442",
@@ -43,10 +38,7 @@
       "place_osm_id": "-59506",
       "place_admin_level": "4",
       "place_place": "",
-      "place_name": "Витебская область",
-      "lon": "28.214291699999997",
-      "lat": "55.56680789961398",
-      "bbox": ""
+      "place_name": "Витебская область"
     },
     {
       "school_osm_id": "2327044442",
@@ -55,10 +47,7 @@
       "place_osm_id": "-59065",
       "place_admin_level": "2",
       "place_place": "",
-      "place_name": "Беларусь",
-      "lon": "28.214291699999997",
-      "lat": "55.56680789961398",
-      "bbox": ""
+      "place_name": "Беларусь"
     }
   ]
 }

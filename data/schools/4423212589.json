@@ -9,7 +9,8 @@
   },
   "geo": {
     "lat": "53.27005629910084",
-    "lon": "29.4762813"
+    "lon": "29.4762813",
+    "bbox": ""
   },
   "group": [
     {
@@ -19,10 +20,7 @@
       "place_osm_id": "-6722647",
       "place_admin_level": "8",
       "place_place": "town",
-      "place_name": "Кировск",
-      "lon": "29.4762813",
-      "lat": "53.27005629910084",
-      "bbox": ""
+      "place_name": "Кировск"
     },
     {
       "school_osm_id": "4423212589",
@@ -31,10 +29,7 @@
       "place_osm_id": "-70580",
       "place_admin_level": "6",
       "place_place": "",
-      "place_name": "Кировский район",
-      "lon": "29.4762813",
-      "lat": "53.27005629910084",
-      "bbox": ""
+      "place_name": "Кировский район"
     },
     {
       "school_osm_id": "4423212589",
@@ -43,10 +38,7 @@
       "place_osm_id": "-59162",
       "place_admin_level": "4",
       "place_place": "",
-      "place_name": "Могилёвская область",
-      "lon": "29.4762813",
-      "lat": "53.27005629910084",
-      "bbox": ""
+      "place_name": "Могилёвская область"
     },
     {
       "school_osm_id": "4423212589",
@@ -55,10 +47,7 @@
       "place_osm_id": "-59065",
       "place_admin_level": "2",
       "place_place": "",
-      "place_name": "Беларусь",
-      "lon": "29.4762813",
-      "lat": "53.27005629910084",
-      "bbox": ""
+      "place_name": "Беларусь"
     }
   ]
 }

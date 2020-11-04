@@ -10,7 +10,8 @@
   },
   "geo": {
     "lat": "53.09147689909122",
-    "lon": "28.8625176"
+    "lon": "28.8625176",
+    "bbox": ""
   },
   "group": [
     {
@@ -20,10 +21,7 @@
       "place_osm_id": "-8144220",
       "place_admin_level": "8",
       "place_place": "",
-      "place_name": "Глушанский сельский Совет",
-      "lon": "28.8625176",
-      "lat": "53.09147689909122",
-      "bbox": ""
+      "place_name": "Глушанский сельский Совет"
     },
     {
       "school_osm_id": "6956897803",
@@ -32,10 +30,7 @@
       "place_osm_id": "-5297203",
       "place_admin_level": "10",
       "place_place": "village",
-      "place_name": "Глуша",
-      "lon": "28.8625176",
-      "lat": "53.09147689909122",
-      "bbox": ""
+      "place_name": "Глуша"
     },
     {
       "school_osm_id": "6956897803",
@@ -44,10 +39,7 @@
       "place_osm_id": "-59162",
       "place_admin_level": "4",
       "place_place": "",
-      "place_name": "Могилёвская область",
-      "lon": "28.8625176",
-      "lat": "53.09147689909122",
-      "bbox": ""
+      "place_name": "Могилёвская область"
     },
     {
       "school_osm_id": "6956897803",
@@ -56,10 +48,7 @@
       "place_osm_id": "-59148",
       "place_admin_level": "6",
       "place_place": "",
-      "place_name": "Бобруйский район",
-      "lon": "28.8625176",
-      "lat": "53.09147689909122",
-      "bbox": ""
+      "place_name": "Бобруйский район"
     },
     {
       "school_osm_id": "6956897803",
@@ -68,10 +57,7 @@
       "place_osm_id": "-59065",
       "place_admin_level": "2",
       "place_place": "",
-      "place_name": "Беларусь",
-      "lon": "28.8625176",
-      "lat": "53.09147689909122",
-      "bbox": ""
+      "place_name": "Беларусь"
     }
   ]
 }

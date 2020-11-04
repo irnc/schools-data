@@ -9,7 +9,8 @@
   },
   "geo": {
     "lat": "53.39515439911011",
-    "lon": "24.5348982"
+    "lon": "24.5348982",
+    "bbox": ""
   },
   "group": [
     {
@@ -19,10 +20,7 @@
       "place_osm_id": "-6722419",
       "place_admin_level": "8",
       "place_place": "town",
-      "place_name": "Мосты",
-      "lon": "24.5348982",
-      "lat": "53.39515439911011",
-      "bbox": ""
+      "place_name": "Мосты"
     },
     {
       "school_osm_id": "378305973",
@@ -31,10 +29,7 @@
       "place_osm_id": "-70754",
       "place_admin_level": "6",
       "place_place": "",
-      "place_name": "Мостовский район",
-      "lon": "24.5348982",
-      "lat": "53.39515439911011",
-      "bbox": ""
+      "place_name": "Мостовский район"
     },
     {
       "school_osm_id": "378305973",
@@ -43,10 +38,7 @@
       "place_osm_id": "-59275",
       "place_admin_level": "4",
       "place_place": "",
-      "place_name": "Гродненская область",
-      "lon": "24.5348982",
-      "lat": "53.39515439911011",
-      "bbox": ""
+      "place_name": "Гродненская область"
     },
     {
       "school_osm_id": "378305973",
@@ -55,10 +47,7 @@
       "place_osm_id": "-59065",
       "place_admin_level": "2",
       "place_place": "",
-      "place_name": "Беларусь",
-      "lon": "24.5348982",
-      "lat": "53.39515439911011",
-      "bbox": ""
+      "place_name": "Беларусь"
     }
   ]
 }

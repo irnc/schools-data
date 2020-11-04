@@ -9,7 +9,8 @@
   },
   "geo": {
     "lat": "54.02974599919",
-    "lon": "28.0869768"
+    "lon": "28.0869768",
+    "bbox": ""
   },
   "group": [
     {
@@ -19,10 +20,7 @@
       "place_osm_id": "-6722598",
       "place_admin_level": "8",
       "place_place": "town",
-      "place_name": "Смолевичи",
-      "lon": "28.0869768",
-      "lat": "54.02974599919",
-      "bbox": ""
+      "place_name": "Смолевичи"
     },
     {
       "school_osm_id": "2131952696",
@@ -31,10 +29,7 @@
       "place_osm_id": "-69554",
       "place_admin_level": "6",
       "place_place": "",
-      "place_name": "Смолевичский район",
-      "lon": "28.0869768",
-      "lat": "54.02974599919",
-      "bbox": ""
+      "place_name": "Смолевичский район"
     },
     {
       "school_osm_id": "2131952696",
@@ -43,10 +38,7 @@
       "place_osm_id": "-59752",
       "place_admin_level": "4",
       "place_place": "",
-      "place_name": "Минская область",
-      "lon": "28.0869768",
-      "lat": "54.02974599919",
-      "bbox": ""
+      "place_name": "Минская область"
     },
     {
       "school_osm_id": "2131952696",
@@ -55,10 +47,7 @@
       "place_osm_id": "-59065",
       "place_admin_level": "2",
       "place_place": "",
-      "place_name": "Беларусь",
-      "lon": "28.0869768",
-      "lat": "54.02974599919",
-      "bbox": ""
+      "place_name": "Беларусь"
     }
   ]
 }

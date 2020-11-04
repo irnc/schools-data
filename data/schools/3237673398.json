@@ -10,7 +10,8 @@
   },
   "geo": {
     "lat": "53.97483229918088",
-    "lon": "25.2323171"
+    "lon": "25.2323171",
+    "bbox": ""
   },
   "group": [
     {
@@ -20,10 +21,7 @@
       "place_osm_id": "-8082998",
       "place_admin_level": "8",
       "place_place": "",
-      "place_name": "Круповский сельский Совет",
-      "lon": "25.2323171",
-      "lat": "53.97483229918088",
-      "bbox": ""
+      "place_name": "Круповский сельский Совет"
     },
     {
       "school_osm_id": "3237673398",
@@ -32,10 +30,7 @@
       "place_osm_id": "-7519510",
       "place_admin_level": "10",
       "place_place": "village",
-      "place_name": "Гуды",
-      "lon": "25.2323171",
-      "lat": "53.97483229918088",
-      "bbox": ""
+      "place_name": "Гуды"
     },
     {
       "school_osm_id": "3237673398",
@@ -44,10 +39,7 @@
       "place_osm_id": "-70747",
       "place_admin_level": "6",
       "place_place": "",
-      "place_name": "Лидский район",
-      "lon": "25.2323171",
-      "lat": "53.97483229918088",
-      "bbox": ""
+      "place_name": "Лидский район"
     },
     {
       "school_osm_id": "3237673398",
@@ -56,10 +48,7 @@
       "place_osm_id": "-59275",
       "place_admin_level": "4",
       "place_place": "",
-      "place_name": "Гродненская область",
-      "lon": "25.2323171",
-      "lat": "53.97483229918088",
-      "bbox": ""
+      "place_name": "Гродненская область"
     },
     {
       "school_osm_id": "3237673398",
@@ -68,10 +57,7 @@
       "place_osm_id": "-59065",
       "place_admin_level": "2",
       "place_place": "",
-      "place_name": "Беларусь",
-      "lon": "25.2323171",
-      "lat": "53.97483229918088",
-      "bbox": ""
+      "place_name": "Беларусь"
     }
   ]
 }

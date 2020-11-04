@@ -10,7 +10,8 @@
   },
   "geo": {
     "lat": "54.47510329927958",
-    "lon": "26.0914348"
+    "lon": "26.0914348",
+    "bbox": ""
   },
   "group": [
     {
@@ -20,10 +21,7 @@
       "place_osm_id": "-8021182",
       "place_admin_level": "8",
       "place_place": "",
-      "place_name": "Жупранский сельский Совет",
-      "lon": "26.0914348",
-      "lat": "54.47510329927958",
-      "bbox": ""
+      "place_name": "Жупранский сельский Совет"
     },
     {
       "school_osm_id": "4213731790",
@@ -32,10 +30,7 @@
       "place_osm_id": "-7525314",
       "place_admin_level": "10",
       "place_place": "village",
-      "place_name": "Жупраны",
-      "lon": "26.0914348",
-      "lat": "54.47510329927958",
-      "bbox": ""
+      "place_name": "Жупраны"
     },
     {
       "school_osm_id": "4213731790",
@@ -44,10 +39,7 @@
       "place_osm_id": "-70728",
       "place_admin_level": "6",
       "place_place": "",
-      "place_name": "Ошмянский район",
-      "lon": "26.0914348",
-      "lat": "54.47510329927958",
-      "bbox": ""
+      "place_name": "Ошмянский район"
     },
     {
       "school_osm_id": "4213731790",
@@ -56,10 +48,7 @@
       "place_osm_id": "-59275",
       "place_admin_level": "4",
       "place_place": "",
-      "place_name": "Гродненская область",
-      "lon": "26.0914348",
-      "lat": "54.47510329927958",
-      "bbox": ""
+      "place_name": "Гродненская область"
     },
     {
       "school_osm_id": "4213731790",
@@ -68,10 +57,7 @@
       "place_osm_id": "-59065",
       "place_admin_level": "2",
       "place_place": "",
-      "place_name": "Беларусь",
-      "lon": "26.0914348",
-      "lat": "54.47510329927958",
-      "bbox": ""
+      "place_name": "Беларусь"
     }
   ]
 }

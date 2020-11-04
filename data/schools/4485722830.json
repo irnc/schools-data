@@ -9,7 +9,8 @@
   },
   "geo": {
     "lat": "53.030971099088866",
-    "lon": "27.5536159"
+    "lon": "27.5536159",
+    "bbox": ""
   },
   "group": [
     {
@@ -19,10 +20,7 @@
       "place_osm_id": "-6722597",
       "place_admin_level": "8",
       "place_place": "town",
-      "place_name": "Слуцк",
-      "lon": "27.5536159",
-      "lat": "53.030971099088866",
-      "bbox": ""
+      "place_name": "Слуцк"
     },
     {
       "school_osm_id": "4485722830",
@@ -31,10 +29,7 @@
       "place_osm_id": "-71134",
       "place_admin_level": "6",
       "place_place": "",
-      "place_name": "Слуцкий район",
-      "lon": "27.5536159",
-      "lat": "53.030971099088866",
-      "bbox": ""
+      "place_name": "Слуцкий район"
     },
     {
       "school_osm_id": "4485722830",
@@ -43,10 +38,7 @@
       "place_osm_id": "-59752",
       "place_admin_level": "4",
       "place_place": "",
-      "place_name": "Минская область",
-      "lon": "27.5536159",
-      "lat": "53.030971099088866",
-      "bbox": ""
+      "place_name": "Минская область"
     },
     {
       "school_osm_id": "4485722830",
@@ -55,10 +47,7 @@
       "place_osm_id": "-59065",
       "place_admin_level": "2",
       "place_place": "",
-      "place_name": "Беларусь",
-      "lon": "27.5536159",
-      "lat": "53.030971099088866",
-      "bbox": ""
+      "place_name": "Беларусь"
     }
   ]
 }

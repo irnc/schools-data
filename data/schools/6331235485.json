@@ -2,7 +2,8 @@
   "place": "warning-school-without-place",
   "geo": {
     "lat": "51.89615129912688",
-    "lon": "26.8676619"
+    "lon": "26.8676619",
+    "bbox": ""
   },
   "group": [
     {
@@ -12,10 +13,7 @@
       "place_osm_id": "-8028515",
       "place_admin_level": "8",
       "place_place": "",
-      "place_name": "Маньковичский сельский Совет",
-      "lon": "26.8676619",
-      "lat": "51.89615129912688",
-      "bbox": ""
+      "place_name": "Маньковичский сельский Совет"
     },
     {
       "school_osm_id": "6331235485",
@@ -24,10 +22,7 @@
       "place_osm_id": "-71125",
       "place_admin_level": "6",
       "place_place": "",
-      "place_name": "Столинский район",
-      "lon": "26.8676619",
-      "lat": "51.89615129912688",
-      "bbox": ""
+      "place_name": "Столинский район"
     },
     {
       "school_osm_id": "6331235485",
@@ -36,10 +31,7 @@
       "place_osm_id": "-59189",
       "place_admin_level": "4",
       "place_place": "",
-      "place_name": "Брестская область",
-      "lon": "26.8676619",
-      "lat": "51.89615129912688",
-      "bbox": ""
+      "place_name": "Брестская область"
     },
     {
       "school_osm_id": "6331235485",
@@ -48,10 +40,7 @@
       "place_osm_id": "-59065",
       "place_admin_level": "2",
       "place_place": "",
-      "place_name": "Беларусь",
-      "lon": "26.8676619",
-      "lat": "51.89615129912688",
-      "bbox": ""
+      "place_name": "Беларусь"
     }
   ]
 }

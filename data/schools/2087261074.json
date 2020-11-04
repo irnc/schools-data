@@ -10,7 +10,8 @@
   },
   "geo": {
     "lat": "53.70330109914195",
-    "lon": "28.7455621"
+    "lon": "28.7455621",
+    "bbox": ""
   },
   "group": [
     {
@@ -20,10 +21,7 @@
       "place_osm_id": "-8144276",
       "place_admin_level": "8",
       "place_place": "",
-      "place_name": "Ляденский сельский Совет",
-      "lon": "28.7455621",
-      "lat": "53.70330109914195",
-      "bbox": ""
+      "place_name": "Ляденский сельский Совет"
     },
     {
       "school_osm_id": "2087261074",
@@ -32,10 +30,7 @@
       "place_osm_id": "-7570414",
       "place_admin_level": "10",
       "place_place": "hamlet",
-      "place_name": "Большая Ганута",
-      "lon": "28.7455621",
-      "lat": "53.70330109914195",
-      "bbox": ""
+      "place_name": "Большая Ганута"
     },
     {
       "school_osm_id": "2087261074",
@@ -44,10 +39,7 @@
       "place_osm_id": "-59752",
       "place_admin_level": "4",
       "place_place": "",
-      "place_name": "Минская область",
-      "lon": "28.7455621",
-      "lat": "53.70330109914195",
-      "bbox": ""
+      "place_name": "Минская область"
     },
     {
       "school_osm_id": "2087261074",
@@ -56,10 +48,7 @@
       "place_osm_id": "-59751",
       "place_admin_level": "6",
       "place_place": "",
-      "place_name": "Червенский район",
-      "lon": "28.7455621",
-      "lat": "53.70330109914195",
-      "bbox": ""
+      "place_name": "Червенский район"
     },
     {
       "school_osm_id": "2087261074",
@@ -68,10 +57,7 @@
       "place_osm_id": "-59065",
       "place_admin_level": "2",
       "place_place": "",
-      "place_name": "Беларусь",
-      "lon": "28.7455621",
-      "lat": "53.70330109914195",
-      "bbox": ""
+      "place_name": "Беларусь"
     }
   ]
 }

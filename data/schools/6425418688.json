@@ -10,7 +10,8 @@
   },
   "geo": {
     "lat": "52.83154299908453",
-    "lon": "31.489712"
+    "lon": "31.489712",
+    "bbox": ""
   },
   "group": [
     {
@@ -20,10 +21,7 @@
       "place_osm_id": "-8087909",
       "place_admin_level": "8",
       "place_place": "",
-      "place_name": "Яновский сельский Совет",
-      "lon": "31.489712",
-      "lat": "52.83154299908453",
-      "bbox": ""
+      "place_name": "Яновский сельский Совет"
     },
     {
       "school_osm_id": "6425418688",
@@ -32,10 +30,7 @@
       "place_osm_id": "-7441282",
       "place_admin_level": "10",
       "place_place": "village",
-      "place_name": "Яново",
-      "lon": "31.489712",
-      "lat": "52.83154299908453",
-      "bbox": ""
+      "place_name": "Яново"
     },
     {
       "school_osm_id": "6425418688",
@@ -44,10 +39,7 @@
       "place_osm_id": "-70795",
       "place_admin_level": "6",
       "place_place": "",
-      "place_name": "Ветковский район",
-      "lon": "31.489712",
-      "lat": "52.83154299908453",
-      "bbox": ""
+      "place_name": "Ветковский район"
     },
     {
       "school_osm_id": "6425418688",
@@ -56,10 +48,7 @@
       "place_osm_id": "-59161",
       "place_admin_level": "4",
       "place_place": "",
-      "place_name": "Гомельская область",
-      "lon": "31.489712",
-      "lat": "52.83154299908453",
-      "bbox": ""
+      "place_name": "Гомельская область"
     },
     {
       "school_osm_id": "6425418688",
@@ -68,10 +57,7 @@
       "place_osm_id": "-59065",
       "place_admin_level": "2",
       "place_place": "",
-      "place_name": "Беларусь",
-      "lon": "31.489712",
-      "lat": "52.83154299908453",
-      "bbox": ""
+      "place_name": "Беларусь"
     }
   ]
 }

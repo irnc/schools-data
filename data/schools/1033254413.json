@@ -9,7 +9,8 @@
   },
   "geo": {
     "lat": "53.82378809915799",
-    "lon": "28.9896324"
+    "lon": "28.9896324",
+    "bbox": ""
   },
   "group": [
     {
@@ -19,10 +20,7 @@
       "place_osm_id": "-6722487",
       "place_admin_level": "8",
       "place_place": "town",
-      "place_name": "Березино",
-      "lon": "28.9896324",
-      "lat": "53.82378809915799",
-      "bbox": ""
+      "place_name": "Березино"
     },
     {
       "school_osm_id": "1033254413",
@@ -31,10 +29,7 @@
       "place_osm_id": "-70575",
       "place_admin_level": "6",
       "place_place": "",
-      "place_name": "Березинский район",
-      "lon": "28.9896324",
-      "lat": "53.82378809915799",
-      "bbox": ""
+      "place_name": "Березинский район"
     },
     {
       "school_osm_id": "1033254413",
@@ -43,10 +38,7 @@
       "place_osm_id": "-59752",
       "place_admin_level": "4",
       "place_place": "",
-      "place_name": "Минская область",
-      "lon": "28.9896324",
-      "lat": "53.82378809915799",
-      "bbox": ""
+      "place_name": "Минская область"
     },
     {
       "school_osm_id": "1033254413",
@@ -55,10 +47,7 @@
       "place_osm_id": "-59065",
       "place_admin_level": "2",
       "place_place": "",
-      "place_name": "Беларусь",
-      "lon": "28.9896324",
-      "lat": "53.82378809915799",
-      "bbox": ""
+      "place_name": "Беларусь"
     }
   ]
 }

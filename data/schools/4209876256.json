@@ -2,7 +2,8 @@
   "place": "warning-school-without-place",
   "geo": {
     "lat": "53.807339499155646",
-    "lon": "27.736592699999996"
+    "lon": "27.736592699999996",
+    "bbox": ""
   },
   "group": [
     {
@@ -12,10 +13,7 @@
       "place_osm_id": "-8144273",
       "place_admin_level": "8",
       "place_place": "",
-      "place_name": "Новодворский сельский Совет",
-      "lon": "27.736592699999996",
-      "lat": "53.807339499155646",
-      "bbox": ""
+      "place_name": "Новодворский сельский Совет"
     },
     {
       "school_osm_id": "4209876256",
@@ -24,10 +22,7 @@
       "place_osm_id": "-59752",
       "place_admin_level": "4",
       "place_place": "",
-      "place_name": "Минская область",
-      "lon": "27.736592699999996",
-      "lat": "53.807339499155646",
-      "bbox": ""
+      "place_name": "Минская область"
     },
     {
       "school_osm_id": "4209876256",
@@ -36,10 +31,7 @@
       "place_osm_id": "-59190",
       "place_admin_level": "6",
       "place_place": "",
-      "place_name": "Минский район",
-      "lon": "27.736592699999996",
-      "lat": "53.807339499155646",
-      "bbox": ""
+      "place_name": "Минский район"
     },
     {
       "school_osm_id": "4209876256",
@@ -48,10 +40,7 @@
       "place_osm_id": "-59065",
       "place_admin_level": "2",
       "place_place": "",
-      "place_name": "Беларусь",
-      "lon": "27.736592699999996",
-      "lat": "53.807339499155646",
-      "bbox": ""
+      "place_name": "Беларусь"
     }
   ]
 }

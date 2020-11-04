@@ -10,7 +10,8 @@
   },
   "geo": {
     "lat": "52.17740549910391",
-    "lon": "25.0285263"
+    "lon": "25.0285263",
+    "bbox": ""
   },
   "group": [
     {
@@ -20,10 +21,7 @@
       "place_osm_id": "-7927918",
       "place_admin_level": "8",
       "place_place": "",
-      "place_name": "Дрогичинский сельский Совет",
-      "lon": "25.0285263",
-      "lat": "52.17740549910391",
-      "bbox": ""
+      "place_name": "Дрогичинский сельский Совет"
     },
     {
       "school_osm_id": "833772643",
@@ -32,10 +30,7 @@
       "place_osm_id": "-7464032",
       "place_admin_level": "10",
       "place_place": "village",
-      "place_name": "Перковичи",
-      "lon": "25.0285263",
-      "lat": "52.17740549910391",
-      "bbox": ""
+      "place_name": "Перковичи"
     },
     {
       "school_osm_id": "833772643",
@@ -44,10 +39,7 @@
       "place_osm_id": "-71105",
       "place_admin_level": "6",
       "place_place": "",
-      "place_name": "Дрогичинский район",
-      "lon": "25.0285263",
-      "lat": "52.17740549910391",
-      "bbox": ""
+      "place_name": "Дрогичинский район"
     },
     {
       "school_osm_id": "833772643",
@@ -56,10 +48,7 @@
       "place_osm_id": "-59189",
       "place_admin_level": "4",
       "place_place": "",
-      "place_name": "Брестская область",
-      "lon": "25.0285263",
-      "lat": "52.17740549910391",
-      "bbox": ""
+      "place_name": "Брестская область"
     },
     {
       "school_osm_id": "833772643",
@@ -68,10 +57,7 @@
       "place_osm_id": "-59065",
       "place_admin_level": "2",
       "place_place": "",
-      "place_name": "Беларусь",
-      "lon": "25.0285263",
-      "lat": "52.17740549910391",
-      "bbox": ""
+      "place_name": "Беларусь"
     }
   ]
 }

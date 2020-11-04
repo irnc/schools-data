@@ -8,7 +8,8 @@
   },
   "geo": {
     "lat": "54.09011949920049",
-    "lon": "28.302907699999995"
+    "lon": "28.302907699999995",
+    "bbox": ""
   },
   "group": [
     {
@@ -18,10 +19,7 @@
       "place_osm_id": "-79911",
       "place_admin_level": "6",
       "place_place": "town",
-      "place_name": "Жодино",
-      "lon": "28.302907699999995",
-      "lat": "54.09011949920049",
-      "bbox": ""
+      "place_name": "Жодино"
     },
     {
       "school_osm_id": "5731652922",
@@ -30,10 +28,7 @@
       "place_osm_id": "-59752",
       "place_admin_level": "4",
       "place_place": "",
-      "place_name": "Минская область",
-      "lon": "28.302907699999995",
-      "lat": "54.09011949920049",
-      "bbox": ""
+      "place_name": "Минская область"
     },
     {
       "school_osm_id": "5731652922",
@@ -42,10 +37,7 @@
       "place_osm_id": "-59065",
       "place_admin_level": "2",
       "place_place": "",
-      "place_name": "Беларусь",
-      "lon": "28.302907699999995",
-      "lat": "54.09011949920049",
-      "bbox": ""
+      "place_name": "Беларусь"
     }
   ]
 }

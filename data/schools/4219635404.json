@@ -10,7 +10,8 @@
   },
   "geo": {
     "lat": "54.39838689926217",
-    "lon": "29.0481131"
+    "lon": "29.0481131",
+    "bbox": ""
   },
   "group": [
     {
@@ -20,10 +21,7 @@
       "place_osm_id": "-8016696",
       "place_admin_level": "8",
       "place_place": "",
-      "place_name": "Игрушковский сельский Совет",
-      "lon": "29.0481131",
-      "lat": "54.39838689926217",
-      "bbox": ""
+      "place_name": "Игрушковский сельский Совет"
     },
     {
       "school_osm_id": "4219635404",
@@ -32,10 +30,7 @@
       "place_osm_id": "-7543128",
       "place_admin_level": "10",
       "place_place": "village",
-      "place_name": "Игрушка",
-      "lon": "29.0481131",
-      "lat": "54.39838689926217",
-      "bbox": ""
+      "place_name": "Игрушка"
     },
     {
       "school_osm_id": "4219635404",
@@ -44,10 +39,7 @@
       "place_osm_id": "-70639",
       "place_admin_level": "6",
       "place_place": "",
-      "place_name": "Крупский район",
-      "lon": "29.0481131",
-      "lat": "54.39838689926217",
-      "bbox": ""
+      "place_name": "Крупский район"
     },
     {
       "school_osm_id": "4219635404",
@@ -56,10 +48,7 @@
       "place_osm_id": "-59752",
       "place_admin_level": "4",
       "place_place": "",
-      "place_name": "Минская область",
-      "lon": "29.0481131",
-      "lat": "54.39838689926217",
-      "bbox": ""
+      "place_name": "Минская область"
     },
     {
       "school_osm_id": "4219635404",
@@ -68,10 +57,7 @@
       "place_osm_id": "-59065",
       "place_admin_level": "2",
       "place_place": "",
-      "place_name": "Беларусь",
-      "lon": "29.0481131",
-      "lat": "54.39838689926217",
-      "bbox": ""
+      "place_name": "Беларусь"
     }
   ]
 }

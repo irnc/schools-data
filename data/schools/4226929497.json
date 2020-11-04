@@ -8,7 +8,8 @@
   },
   "geo": {
     "lat": "53.128704599092856",
-    "lon": "26.0532611"
+    "lon": "26.0532611",
+    "bbox": ""
   },
   "group": [
     {
@@ -18,10 +19,7 @@
       "place_osm_id": "-3629362",
       "place_admin_level": "6",
       "place_place": "city",
-      "place_name": "Барановичи",
-      "lon": "26.0532611",
-      "lat": "53.128704599092856",
-      "bbox": ""
+      "place_name": "Барановичи"
     },
     {
       "school_osm_id": "4226929497",
@@ -30,10 +28,7 @@
       "place_osm_id": "-59189",
       "place_admin_level": "4",
       "place_place": "",
-      "place_name": "Брестская область",
-      "lon": "26.0532611",
-      "lat": "53.128704599092856",
-      "bbox": ""
+      "place_name": "Брестская область"
     },
     {
       "school_osm_id": "4226929497",
@@ -42,10 +37,7 @@
       "place_osm_id": "-59065",
       "place_admin_level": "2",
       "place_place": "",
-      "place_name": "Беларусь",
-      "lon": "26.0532611",
-      "lat": "53.128704599092856",
-      "bbox": ""
+      "place_name": "Беларусь"
     }
   ]
 }

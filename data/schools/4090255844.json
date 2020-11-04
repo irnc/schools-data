@@ -10,7 +10,8 @@
   },
   "geo": {
     "lat": "54.68115849933041",
-    "lon": "26.4010326"
+    "lon": "26.4010326",
+    "bbox": ""
   },
   "group": [
     {
@@ -20,10 +21,7 @@
       "place_osm_id": "-8015370",
       "place_admin_level": "8",
       "place_place": "",
-      "place_name": "Жодишковский сельский Совет",
-      "lon": "26.4010326",
-      "lat": "54.68115849933041",
-      "bbox": ""
+      "place_name": "Жодишковский сельский Совет"
     },
     {
       "school_osm_id": "4090255844",
@@ -32,10 +30,7 @@
       "place_osm_id": "-7526699",
       "place_admin_level": "10",
       "place_place": "village",
-      "place_name": "Сыроватки",
-      "lon": "26.4010326",
-      "lat": "54.68115849933041",
-      "bbox": ""
+      "place_name": "Сыроватки"
     },
     {
       "school_osm_id": "4090255844",
@@ -44,10 +39,7 @@
       "place_osm_id": "-70725",
       "place_admin_level": "6",
       "place_place": "",
-      "place_name": "Сморгонский район",
-      "lon": "26.4010326",
-      "lat": "54.68115849933041",
-      "bbox": ""
+      "place_name": "Сморгонский район"
     },
     {
       "school_osm_id": "4090255844",
@@ -56,10 +48,7 @@
       "place_osm_id": "-59275",
       "place_admin_level": "4",
       "place_place": "",
-      "place_name": "Гродненская область",
-      "lon": "26.4010326",
-      "lat": "54.68115849933041",
-      "bbox": ""
+      "place_name": "Гродненская область"
     },
     {
       "school_osm_id": "4090255844",
@@ -68,10 +57,7 @@
       "place_osm_id": "-59065",
       "place_admin_level": "2",
       "place_place": "",
-      "place_name": "Беларусь",
-      "lon": "26.4010326",
-      "lat": "54.68115849933041",
-      "bbox": ""
+      "place_name": "Беларусь"
     }
   ]
 }

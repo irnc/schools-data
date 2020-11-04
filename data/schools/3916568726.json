@@ -9,7 +9,8 @@
   },
   "geo": {
     "lat": "53.486305699118184",
-    "lon": "29.3482667"
+    "lon": "29.3482667",
+    "bbox": ""
   },
   "group": [
     {
@@ -19,10 +20,7 @@
       "place_osm_id": "-6722664",
       "place_admin_level": "8",
       "place_place": "town",
-      "place_name": "Кличев",
-      "lon": "29.3482667",
-      "lat": "53.486305699118184",
-      "bbox": ""
+      "place_name": "Кличев"
     },
     {
       "school_osm_id": "3916568726",
@@ -31,10 +29,7 @@
       "place_osm_id": "-70577",
       "place_admin_level": "6",
       "place_place": "",
-      "place_name": "Кличевский район",
-      "lon": "29.3482667",
-      "lat": "53.486305699118184",
-      "bbox": ""
+      "place_name": "Кличевский район"
     },
     {
       "school_osm_id": "3916568726",
@@ -43,10 +38,7 @@
       "place_osm_id": "-59162",
       "place_admin_level": "4",
       "place_place": "",
-      "place_name": "Могилёвская область",
-      "lon": "29.3482667",
-      "lat": "53.486305699118184",
-      "bbox": ""
+      "place_name": "Могилёвская область"
     },
     {
       "school_osm_id": "3916568726",
@@ -55,10 +47,7 @@
       "place_osm_id": "-59065",
       "place_admin_level": "2",
       "place_place": "",
-      "place_name": "Беларусь",
-      "lon": "29.3482667",
-      "lat": "53.486305699118184",
-      "bbox": ""
+      "place_name": "Беларусь"
     }
   ]
 }

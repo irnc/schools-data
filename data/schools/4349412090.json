@@ -9,7 +9,8 @@
   },
   "geo": {
     "lat": "53.591157899128866",
-    "lon": "27.865746999999995"
+    "lon": "27.865746999999995",
+    "bbox": ""
   },
   "group": [
     {
@@ -19,10 +20,7 @@
       "place_osm_id": "-7555706",
       "place_admin_level": "8",
       "place_place": "village",
-      "place_name": "Руденск",
-      "lon": "27.865746999999995",
-      "lat": "53.591157899128866",
-      "bbox": ""
+      "place_name": "Руденск"
     },
     {
       "school_osm_id": "4349412090",
@@ -31,10 +29,7 @@
       "place_osm_id": "-70549",
       "place_admin_level": "6",
       "place_place": "",
-      "place_name": "Пуховичский район",
-      "lon": "27.865746999999995",
-      "lat": "53.591157899128866",
-      "bbox": ""
+      "place_name": "Пуховичский район"
     },
     {
       "school_osm_id": "4349412090",
@@ -43,10 +38,7 @@
       "place_osm_id": "-59752",
       "place_admin_level": "4",
       "place_place": "",
-      "place_name": "Минская область",
-      "lon": "27.865746999999995",
-      "lat": "53.591157899128866",
-      "bbox": ""
+      "place_name": "Минская область"
     },
     {
       "school_osm_id": "4349412090",
@@ -55,10 +47,7 @@
       "place_osm_id": "-59065",
       "place_admin_level": "2",
       "place_place": "",
-      "place_name": "Беларусь",
-      "lon": "27.865746999999995",
-      "lat": "53.591157899128866",
-      "bbox": ""
+      "place_name": "Беларусь"
     }
   ]
 }

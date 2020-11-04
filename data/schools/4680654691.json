@@ -10,7 +10,8 @@
   },
   "geo": {
     "lat": "54.382325599258614",
-    "lon": "29.29132539999999"
+    "lon": "29.29132539999999",
+    "bbox": ""
   },
   "group": [
     {
@@ -20,10 +21,7 @@
       "place_osm_id": "-8016698",
       "place_admin_level": "8",
       "place_place": "",
-      "place_name": "Бобрский сельский Совет",
-      "lon": "29.29132539999999",
-      "lat": "54.382325599258614",
-      "bbox": ""
+      "place_name": "Бобрский сельский Совет"
     },
     {
       "school_osm_id": "4680654691",
@@ -32,10 +30,7 @@
       "place_osm_id": "-7542929",
       "place_admin_level": "10",
       "place_place": "village",
-      "place_name": "Замки",
-      "lon": "29.29132539999999",
-      "lat": "54.382325599258614",
-      "bbox": ""
+      "place_name": "Замки"
     },
     {
       "school_osm_id": "4680654691",
@@ -44,10 +39,7 @@
       "place_osm_id": "-70639",
       "place_admin_level": "6",
       "place_place": "",
-      "place_name": "Крупский район",
-      "lon": "29.29132539999999",
-      "lat": "54.382325599258614",
-      "bbox": ""
+      "place_name": "Крупский район"
     },
     {
       "school_osm_id": "4680654691",
@@ -56,10 +48,7 @@
       "place_osm_id": "-59752",
       "place_admin_level": "4",
       "place_place": "",
-      "place_name": "Минская область",
-      "lon": "29.29132539999999",
-      "lat": "54.382325599258614",
-      "bbox": ""
+      "place_name": "Минская область"
     },
     {
       "school_osm_id": "4680654691",
@@ -68,10 +57,7 @@
       "place_osm_id": "-59065",
       "place_admin_level": "2",
       "place_place": "",
-      "place_name": "Беларусь",
-      "lon": "29.29132539999999",
-      "lat": "54.382325599258614",
-      "bbox": ""
+      "place_name": "Беларусь"
     }
   ]
 }

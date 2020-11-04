@@ -10,7 +10,8 @@
   },
   "geo": {
     "lat": "52.46781109908917",
-    "lon": "30.8060537"
+    "lon": "30.8060537",
+    "bbox": ""
   },
   "group": [
     {
@@ -20,10 +21,7 @@
       "place_osm_id": "-8031158",
       "place_admin_level": "8",
       "place_place": "",
-      "place_name": "Урицкий сельский Совет",
-      "lon": "30.8060537",
-      "lat": "52.46781109908917",
-      "bbox": ""
+      "place_name": "Урицкий сельский Совет"
     },
     {
       "school_osm_id": "919499702",
@@ -32,10 +30,7 @@
       "place_osm_id": "-7442837",
       "place_admin_level": "10",
       "place_place": "village",
-      "place_name": "Урицкое",
-      "lon": "30.8060537",
-      "lat": "52.46781109908917",
-      "bbox": ""
+      "place_name": "Урицкое"
     },
     {
       "school_osm_id": "919499702",
@@ -44,10 +39,7 @@
       "place_osm_id": "-1469691",
       "place_admin_level": "6",
       "place_place": "",
-      "place_name": "Гомельский район",
-      "lon": "30.8060537",
-      "lat": "52.46781109908917",
-      "bbox": ""
+      "place_name": "Гомельский район"
     },
     {
       "school_osm_id": "919499702",
@@ -56,10 +48,7 @@
       "place_osm_id": "-59161",
       "place_admin_level": "4",
       "place_place": "",
-      "place_name": "Гомельская область",
-      "lon": "30.8060537",
-      "lat": "52.46781109908917",
-      "bbox": ""
+      "place_name": "Гомельская область"
     },
     {
       "school_osm_id": "919499702",
@@ -68,10 +57,7 @@
       "place_osm_id": "-59065",
       "place_admin_level": "2",
       "place_place": "",
-      "place_name": "Беларусь",
-      "lon": "30.8060537",
-      "lat": "52.46781109908917",
-      "bbox": ""
+      "place_name": "Беларусь"
     }
   ]
 }

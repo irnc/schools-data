@@ -10,7 +10,8 @@
   },
   "geo": {
     "lat": "55.06280109943993",
-    "lon": "28.4339289"
+    "lon": "28.4339289",
+    "bbox": ""
   },
   "group": [
     {
@@ -20,10 +21,7 @@
       "place_osm_id": "-7976438",
       "place_admin_level": "8",
       "place_place": "",
-      "place_name": "Великодолецкий сельский Совет",
-      "lon": "28.4339289",
-      "lat": "55.06280109943993",
-      "bbox": ""
+      "place_name": "Великодолецкий сельский Совет"
     },
     {
       "school_osm_id": "7801081880",
@@ -32,10 +30,7 @@
       "place_osm_id": "-7503645",
       "place_admin_level": "10",
       "place_place": "village",
-      "place_name": "Великие Дольцы",
-      "lon": "28.4339289",
-      "lat": "55.06280109943993",
-      "bbox": ""
+      "place_name": "Великие Дольцы"
     },
     {
       "school_osm_id": "7801081880",
@@ -44,10 +39,7 @@
       "place_osm_id": "-70669",
       "place_admin_level": "6",
       "place_place": "",
-      "place_name": "Ушачский район",
-      "lon": "28.4339289",
-      "lat": "55.06280109943993",
-      "bbox": ""
+      "place_name": "Ушачский район"
     },
     {
       "school_osm_id": "7801081880",
@@ -56,10 +48,7 @@
       "place_osm_id": "-59506",
       "place_admin_level": "4",
       "place_place": "",
-      "place_name": "Витебская область",
-      "lon": "28.4339289",
-      "lat": "55.06280109943993",
-      "bbox": ""
+      "place_name": "Витебская область"
     },
     {
       "school_osm_id": "7801081880",
@@ -68,10 +57,7 @@
       "place_osm_id": "-59065",
       "place_admin_level": "2",
       "place_place": "",
-      "place_name": "Беларусь",
-      "lon": "28.4339289",
-      "lat": "55.06280109943993",
-      "bbox": ""
+      "place_name": "Беларусь"
     }
   ]
 }

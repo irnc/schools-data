@@ -9,7 +9,8 @@
   },
   "geo": {
     "lat": "51.938790999122894",
-    "lon": "30.803740400000002"
+    "lon": "30.803740400000002",
+    "bbox": ""
   },
   "group": [
     {
@@ -19,10 +20,7 @@
       "place_osm_id": "-5598630",
       "place_admin_level": "8",
       "place_place": "town",
-      "place_name": "Лоев",
-      "lon": "30.803740400000002",
-      "lat": "51.938790999122894",
-      "bbox": ""
+      "place_name": "Лоев"
     },
     {
       "school_osm_id": "7704938620",
@@ -31,10 +29,7 @@
       "place_osm_id": "-70799",
       "place_admin_level": "6",
       "place_place": "",
-      "place_name": "Лоевский район",
-      "lon": "30.803740400000002",
-      "lat": "51.938790999122894",
-      "bbox": ""
+      "place_name": "Лоевский район"
     },
     {
       "school_osm_id": "7704938620",
@@ -43,10 +38,7 @@
       "place_osm_id": "-59161",
       "place_admin_level": "4",
       "place_place": "",
-      "place_name": "Гомельская область",
-      "lon": "30.803740400000002",
-      "lat": "51.938790999122894",
-      "bbox": ""
+      "place_name": "Гомельская область"
     },
     {
       "school_osm_id": "7704938620",
@@ -55,10 +47,7 @@
       "place_osm_id": "-59065",
       "place_admin_level": "2",
       "place_place": "",
-      "place_name": "Беларусь",
-      "lon": "30.803740400000002",
-      "lat": "51.938790999122894",
-      "bbox": ""
+      "place_name": "Беларусь"
     }
   ]
 }

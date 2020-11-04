@@ -9,7 +9,8 @@
   },
   "geo": {
     "lat": "55.0216722994272",
-    "lon": "30.7957296"
+    "lon": "30.7957296",
+    "bbox": ""
   },
   "group": [
     {
@@ -19,10 +20,7 @@
       "place_osm_id": "-1173547",
       "place_admin_level": "8",
       "place_place": "town",
-      "place_name": "Лиозно",
-      "lon": "30.7957296",
-      "lat": "55.0216722994272",
-      "bbox": ""
+      "place_name": "Лиозно"
     },
     {
       "school_osm_id": "4326087091",
@@ -31,10 +29,7 @@
       "place_osm_id": "-70665",
       "place_admin_level": "6",
       "place_place": "",
-      "place_name": "Лиозненский район",
-      "lon": "30.7957296",
-      "lat": "55.0216722994272",
-      "bbox": ""
+      "place_name": "Лиозненский район"
     },
     {
       "school_osm_id": "4326087091",
@@ -43,10 +38,7 @@
       "place_osm_id": "-59506",
       "place_admin_level": "4",
       "place_place": "",
-      "place_name": "Витебская область",
-      "lon": "30.7957296",
-      "lat": "55.0216722994272",
-      "bbox": ""
+      "place_name": "Витебская область"
     },
     {
       "school_osm_id": "4326087091",
@@ -55,10 +47,7 @@
       "place_osm_id": "-59065",
       "place_admin_level": "2",
       "place_place": "",
-      "place_name": "Беларусь",
-      "lon": "30.7957296",
-      "lat": "55.0216722994272",
-      "bbox": ""
+      "place_name": "Беларусь"
     }
   ]
 }
